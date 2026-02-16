@@ -280,7 +280,6 @@ export default function App() {
             )}
           </div>
         </div>
-        
         <div className={`${cardBgClass} rounded-lg shadow-lg p-4 mb-6 border ${borderClass}`}>
           <div className="flex flex-wrap gap-4 items-center justify-between">
             <div className="space-y-2">
@@ -291,33 +290,37 @@ export default function App() {
                     type="checkbox"
                     checked={showFrench}
                     onChange={(e) => setShowFrench(e.target.checked)}
-                    className="w-4 h-4 rounded"
+                    className="w-4 h-4 rounded accent-indigo-600"
                   />
-                  <span className={`text-sm ${textClass}`}>原文</span>
+                  <span className={`text-sm font-medium ${textClass}`}>原文</span>
                 </label>
                 <label className="flex items-center gap-2 cursor-pointer">
                   <input
                     type="checkbox"
                     checked={showOfficial}
                     onChange={(e) => setShowOfficial(e.target.checked)}
-                    className="w-4 h-4 rounded"
+                    className="w-4 h-4 rounded accent-green-600"
                   />
-                  <span className={`text-sm ${textClass}`}>公式訳</span>
+                  <span className={`text-sm font-medium ${textClass}`}>公式訳</span>
                 </label>
                 <label className="flex items-center gap-2 cursor-pointer">
                   <input
                     type="checkbox"
                     checked={showUser}
                     onChange={(e) => setShowUser(e.target.checked)}
-                    className="w-4 h-4 rounded"
+                    className="w-4 h-4 rounded accent-purple-600"
                   />
-                  <span className={`text-sm ${textClass}`}>自分の訳</span>
+                  <span className={`text-sm font-medium ${textClass}`}>自分の訳</span>
                 </label>
               </div>
             </div>
             <button
               onClick={clearAllTranslations}
-              className="px-3 py-1 rounded text-sm bg-red-100 dark:bg-red-900 dark:bg-opacity-50 text-red-700 dark:text-red-300 hover:opacity-80"
+              className={`px-4 py-2 rounded text-sm font-medium transition-colors ${
+                darkMode 
+                  ? 'bg-red-900 bg-opacity-50 text-red-300 hover:bg-opacity-70 border border-red-700' 
+                  : 'bg-red-600 text-white hover:bg-red-700 shadow-sm'
+              }`}
             >
               訳文削除
             </button>

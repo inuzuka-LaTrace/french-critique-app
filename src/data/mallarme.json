@@ -145,7 +145,7 @@
     "modernRelevance": "★★★★★",
     "context": "書物の物質性と精神性。余白の理論。",
     "keywords": ["livre", "blanc", "pliage", "rythme"],
-    "relatedTexts": ["mallarme_mimique"],
+    "relatedTexts": ["mallarme_quant", "mallarme_mimique"],
     "paragraphs": [
       {
         "id": 1,
@@ -179,6 +179,51 @@
       }
     ]
   },
+  "mallarme_quant": {
+    "id": "mallarme_quant",
+    "title": "Quant au livre",
+    "author": "Stéphane Mallarmé",
+    "source": "Divagations",
+    "year": "1897",
+    "difficulty": "上級",
+    "category": "mallarme_book",
+    "modernRelevance": "★★★★★",
+    "context": "書物の存在論。詩人の消失。言葉へのイニシアチブの譲渡。",
+    "keywords": ["livre", "disparition", "initiative", "mots"],
+    "relatedTexts": ["mallarme_livre"],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "L'œuvre implique la disparition élocutoire du poëte.",
+        "officialTranslation": "作品は、詩人の発話的な消失を含意する。"
+      },
+      {
+        "id": 2,
+        "french": "qui cède l'initiative aux mots.",
+        "officialTranslation": "詩人は言葉にイニシアチブを譲る。"
+      },
+      {
+        "id": 3,
+        "french": "par le heurt de leur inégalité mobilisés.",
+        "officialTranslation": "それらの不均等な衝突によって動員される。"
+      },
+      {
+        "id": 4,
+        "french": "ils s'allument de reflets réciproques.",
+        "officialTranslation": "言葉は相互の反映で照らされる。"
+      },
+      {
+        "id": 5,
+        "french": "comme une virtuelle traînée de feux sur des pierreries.",
+        "officialTranslation": "宝石の上の仮想的な火の尾のように。"
+      },
+      {
+        "id": 6,
+        "french": "remplaçant la respiration perceptible en l'ancien souffle lyrique.",
+        "officialTranslation": "古い叙情的な息吹における知覚可能な呼吸に取って代わって。"
+      }
+    ]
+  },
   "mallarme_mimique": {
     "id": "mallarme_mimique",
     "title": "Mimique",
@@ -190,7 +235,7 @@
     "modernRelevance": "★★★★★",
     "context": "デリダ分析の核心。参照項なき表象。",
     "keywords": ["mime", "fiction", "hymen", "allusion"],
-    "relatedTexts": ["mallarme_livre"],
+    "relatedTexts": ["mallarme_livre", "mallarme_ballets"],
     "paragraphs": [
       {
         "id": 1,
@@ -224,6 +269,321 @@
       }
     ]
   },
+  "mallarme_ballets": {
+    "id": "mallarme_ballets",
+    "title": "Ballets",
+    "author": "Stéphane Mallarmé",
+    "source": "Divagations",
+    "year": "1897",
+    "difficulty": "中級〜上級",
+    "category": "mallarme_representation",
+    "modernRelevance": "★★★★☆",
+    "context": "身体による書記。ダンサーは隠喩。",
+    "keywords": ["danse", "métaphore", "écriture", "corporelle"],
+    "relatedTexts": ["mallarme_mimique", "mallarme_hamlet"],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "La danseuse n'est pas une femme qui danse.",
+        "officialTranslation": "踊り子は踊る女性ではない。"
+      },
+      {
+        "id": 2,
+        "french": "pour ces motifs juxtaposés qu'elle n'est pas une femme, mais une métaphore.",
+        "officialTranslation": "並置されたこれらの理由のために、彼女は女性ではなく、隠喩なのだ。"
+      },
+      {
+        "id": 3,
+        "french": "résumant un des aspects élémentaires de notre forme, glaive, coupe, fleur.",
+        "officialTranslation": "我々の形の基本的な側面の一つ、剣、杯、花を要約しながら。"
+      },
+      {
+        "id": 4,
+        "french": "et qu'elle ne danse pas, suggérant, par le prodige de raccourcis ou d'élans.",
+        "officialTranslation": "そして彼女は踊らない、短縮や飛躍の驚異によって、暗示しながら。"
+      },
+      {
+        "id": 5,
+        "french": "avec une écriture corporelle.",
+        "officialTranslation": "身体的な書記をもって。"
+      },
+      {
+        "id": 6,
+        "french": "Le ballet est une représentation de poésie par excellence et seulement.",
+        "officialTranslation": "バレエは、卓越してかつ唯一の、詩の表象である。"
+      }
+    ]
+  },
+  "mallarme_hamlet": {
+    "id": "mallarme_hamlet",
+    "title": "Hamlet",
+    "author": "Stéphane Mallarmé",
+    "source": "Divagations",
+    "year": "1897",
+    "difficulty": "中級〜上級",
+    "category": "mallarme_representation",
+    "modernRelevance": "★★★☆☆",
+    "context": "読書としての演劇。自己という書物。",
+    "keywords": ["Hamlet", "lecture", "livre", "solitaire"],
+    "relatedTexts": ["mallarme_ballets", "mallarme_crayonne"],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "Hamlet tue, non Polonius, mais l'évidence.",
+        "officialTranslation": "ハムレットが殺すのは、ポローニアスではなく、証拠である。"
+      },
+      {
+        "id": 2,
+        "french": "Le héros marche, lisant au livre de lui-même.",
+        "officialTranslation": "英雄は歩く、自分自身という書物を読みながら。"
+      },
+      {
+        "id": 3,
+        "french": "Haute préoccupation, qui plonge en de telles rêveries.",
+        "officialTranslation": "高度な思索、それはこのような夢想に突入する。"
+      },
+      {
+        "id": 4,
+        "french": "qu'elle ne daigne toujours les exprimer.",
+        "officialTranslation": "それは常にそれらを表現しようともしない。"
+      },
+      {
+        "id": 5,
+        "french": "Hamlet : c'est de la lecture.",
+        "officialTranslation": "ハムレット、それは読書である。"
+      },
+      {
+        "id": 6,
+        "french": "Qui la représente ? cet insensé, qui arpente au long des nuits, dans le château, un livre.",
+        "officialTranslation": "それを表象するのは誰か？この狂人、夜通し城の中を、一冊の書物を手に歩き回る者。"
+      }
+    ]
+  },
+  "mallarme_wagner": {
+    "id": "mallarme_wagner",
+    "title": "Richard Wagner, rêverie d'un poëte français",
+    "author": "Stéphane Mallarmé",
+    "source": "Revue wagnérienne",
+    "year": "1885",
+    "difficulty": "中級〜上級",
+    "category": "mallarme_music",
+    "modernRelevance": "★★★★☆",
+    "context": "総合芸術。劇場の役割。観念の概念。",
+    "keywords": ["Wagner", "théâtre", "Idée", "synthèse"],
+    "relatedTexts": ["baudelaire_wagner", "mallarme_musique"],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "Je vénère comment, par une supercherie, on projette, à quelque élévation défendue et de foudre !",
+        "officialTranslation": "私は崇める、ある欺瞞によって、禁じられた高みへ、雷鳴の！"
+      },
+      {
+        "id": 2,
+        "french": "le conscient manque chez nous de ce qui là-haut éclate.",
+        "officialTranslation": "我々のうちにある意識的な欠如を、そこで爆発するものへと投影することを。"
+      },
+      {
+        "id": 3,
+        "french": "Le Théâtre appelle non tel, qui s'y pavanât hier, pour être vu.",
+        "officialTranslation": "劇場が呼ぶのは、昨日そこで見られるために得意げにしていた誰かではない。"
+      },
+      {
+        "id": 4,
+        "french": "mais tout, doué d'une vue.",
+        "officialTranslation": "見ることのできるすべてのものである。"
+      },
+      {
+        "id": 5,
+        "french": "Ce héros : son geste aux péripéties de la race.",
+        "officialTranslation": "この英雄、その身振りは種族の波乱万丈である。"
+      },
+      {
+        "id": 6,
+        "french": "selon la Fable le motif conduit vers l'Idée.",
+        "officialTranslation": "寓話に従って、動機は観念へと導く。"
+      }
+    ]
+  },
+  "mallarme_plaisir": {
+    "id": "mallarme_plaisir",
+    "title": "Plaisir sacré",
+    "author": "Stéphane Mallarmé",
+    "source": "Divagations",
+    "year": "1897",
+    "difficulty": "中級",
+    "category": "mallarme_music",
+    "modernRelevance": "★★★☆☆",
+    "context": "コンサート体験。音楽と群衆。神聖な快楽。",
+    "keywords": ["concert", "foule", "musique", "mystère"],
+    "relatedTexts": ["mallarme_wagner"],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "La note maintenant d'une rentrée de capitale est donnée par l'ouverture des concerts.",
+        "officialTranslation": "首都への帰還の合図は今や、コンサートの開幕によって与えられる。"
+      },
+      {
+        "id": 2,
+        "french": "Même spectacle chaque saison : une assistance.",
+        "officialTranslation": "毎シーズン同じ光景。聴衆。"
+      },
+      {
+        "id": 3,
+        "french": "La foule remplit envers les sons, sa fonction par excellence de gardienne du mystère !",
+        "officialTranslation": "群衆は、音に対して、神秘の守護者という卓越した機能を果たす！"
+      },
+      {
+        "id": 4,
+        "french": "Personne ne conteste à l'effet public de l'ensemble symphonique, une plénitude.",
+        "officialTranslation": "交響楽全体の公的効果に、充溢があることを誰も否定しない。"
+      },
+      {
+        "id": 5,
+        "french": "Privilège du concert : y déposer comme à la Banque, de soi, des titres de richesse imaginaire.",
+        "officialTranslation": "コンサートの特権、それは銀行のように、想像上の富の証券を預けることである。"
+      },
+      {
+        "id": 6,
+        "french": "Un plaisir rare, et digne, y est, de laisser, à la fois, tout le public, une heure, rêveur.",
+        "officialTranslation": "稀で尊い快楽がそこにある、一時間、すべての公衆を同時に夢想者にすることの。"
+      }
+    ]
+  },
+  "mallarme_crayonne": {
+    "id": "mallarme_crayonne",
+    "title": "Crayonné au théâtre",
+    "author": "Stéphane Mallarmé",
+    "source": "Divagations",
+    "year": "1897",
+    "difficulty": "中級",
+    "category": "mallarme_representation",
+    "modernRelevance": "★★★☆☆",
+    "context": "劇場でのクロッキー。演劇の本質。",
+    "keywords": ["théâtre", "spectacle", "acteur", "scène"],
+    "relatedTexts": ["mallarme_hamlet", "mallarme_wagner"],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "Le théâtre est d'essence supérieure.",
+        "officialTranslation": "劇場は本質的に優れたものである。"
+      },
+      {
+        "id": 2,
+        "french": "Rien ne se passera que l'idée même du spectacle.",
+        "officialTranslation": "見世物という観念そのもの以外、何も起こらない。"
+      },
+      {
+        "id": 3,
+        "french": "L'acteur n'est pas là pour représenter un personnage.",
+        "officialTranslation": "俳優は登場人物を表現するためにそこにいるのではない。"
+      },
+      {
+        "id": 4,
+        "french": "mais pour suggérer l'absolu.",
+        "officialTranslation": "絶対的なものを示唆するためにいる。"
+      },
+      {
+        "id": 5,
+        "french": "La scène illustre que l'idée d'un personnage.",
+        "officialTranslation": "舞台が例証するのは、ある登場人物の観念である。"
+      },
+      {
+        "id": 6,
+        "french": "non cet individu qui foule les planches.",
+        "officialTranslation": "板を踏むこの個人ではない。"
+      }
+    ]
+  },
+  "mallarme_cazalis": {
+    "id": "mallarme_cazalis",
+    "title": "Lettre à Henri Cazalis",
+    "author": "Stéphane Mallarmé",
+    "source": "Correspondance",
+    "year": "1866",
+    "difficulty": "中級〜上級",
+    "category": "mallarme_poetics",
+    "modernRelevance": "★★★★★",
+    "context": "1866年5月の重要書簡。無の発見。詩人の使命。",
+    "keywords": ["Néant", "Idéal", "poésie", "mission"],
+    "relatedTexts": ["mallarme_crise", "mallarme_musique"],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "Malheureusement, en creusant le vers à ce point, j'ai rencontré deux abîmes.",
+        "officialTranslation": "不幸にも、詩句をこれほどまでに掘り下げることで、私は二つの深淵に出会った。"
+      },
+      {
+        "id": 2,
+        "french": "qui me désespèrent. L'un est le Néant.",
+        "officialTranslation": "それは私を絶望させる。一つは無である。"
+      },
+      {
+        "id": 3,
+        "french": "Je suis parfaitement mort.",
+        "officialTranslation": "私は完全に死んだ。"
+      },
+      {
+        "id": 4,
+        "french": "et la région la plus impure où mon Esprit puisse s'aventurer est l'Éternité.",
+        "officialTranslation": "そして私の精神が冒険できる最も不純な領域は永遠である。"
+      },
+      {
+        "id": 5,
+        "french": "Mon Esprit, ce solitaire habituel de sa propre Pureté.",
+        "officialTranslation": "私の精神、それ自身の純粋さの習慣的な孤独者。"
+      },
+      {
+        "id": 6,
+        "french": "n'est plus obscurci même par le reflet du Temps.",
+        "officialTranslation": "もはや時間の反映によってさえ曇らされることはない。"
+      }
+    ]
+  },
+  "mallarme_plainte": {
+    "id": "mallarme_plainte",
+    "title": "Plainte d'automne",
+    "author": "Stéphane Mallarmé",
+    "source": "Divagations",
+    "year": "1897",
+    "difficulty": "中級",
+    "category": "mallarme_culture",
+    "modernRelevance": "★★★★☆",
+    "context": "秋の嘆き。散文詩。古い書物と憂愁。",
+    "keywords": ["automne", "mélancolie", "livres", "enfance"],
+    "relatedTexts": ["mallarme_expositions"],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "Depuis que Maria m'a quitté pour aller dans une autre étoile.",
+        "officialTranslation": "マリアが別の星に行くために私のもとを去ってから。"
+      },
+      {
+        "id": 2,
+        "french": "j'ai toujours chéri la solitude.",
+        "officialTranslation": "私は常に孤独を愛してきた。"
+      },
+      {
+        "id": 3,
+        "french": "Je me plais dans les vieux livres.",
+        "officialTranslation": "私は古い書物の中に喜びを見出す。"
+      },
+      {
+        "id": 4,
+        "french": "L'été, je hais le soleil : il me fait songer à des choses puériles.",
+        "officialTranslation": "夏、私は太陽を憎む。それは私に子供じみたことを考えさせる。"
+      },
+      {
+        "id": 5,
+        "french": "Et je relis un de ces chers poèmes.",
+        "officialTranslation": "そして私はこれらの愛しい詩の一つを読み返す。"
+      },
+      {
+        "id": 6,
+        "french": "dont les lignes énigmatiques ont un sens si doux dans mon souvenir.",
+        "officialTranslation": "その謎めいた行は、私の記憶の中でこれほど甘い意味を持つ。"
+      }
+    ]
+  },
   "mallarme_expositions": {
     "id": "mallarme_expositions",
     "title": "Expositions",
@@ -235,7 +595,7 @@
     "modernRelevance": "★★★☆☆",
     "context": "万国博覧会論。群衆と近代性。",
     "keywords": ["exposition", "foule", "spectacle", "luxe"],
-    "relatedTexts": [],
+    "relatedTexts": ["mallarme_plainte"],
     "paragraphs": [
       {
         "id": 1,

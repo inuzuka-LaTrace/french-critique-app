@@ -1,0 +1,272 @@
+{
+  "mallarme_crise": {
+    "id": "mallarme_crise",
+    "title": "Crise de vers",
+    "author": "Stéphane Mallarmé",
+    "source": "Divagations",
+    "year": "1897",
+    "difficulty": "上級",
+    "category": "mallarme_poetics",
+    "modernRelevance": "★★★★★",
+    "context": "ユゴー後の詩の危機。自由詩の出現。",
+    "keywords": ["crise", "vers", "Hugo", "poésie"],
+    "relatedTexts": ["mallarme_musique", "mallarme_mystere"],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "La littérature ici subit une exquise crise, fondamentale.",
+        "officialTranslation": "ここで文学は、ある精妙な、根源的な危機を経験している。"
+      },
+      {
+        "id": 2,
+        "french": "Un lecteur français ne peut que se déconcerter.",
+        "officialTranslation": "フランスの読者は、困惑せざるを得ない。"
+      },
+      {
+        "id": 3,
+        "french": "Hugo rabattit toute la prose au vers.",
+        "officialTranslation": "ユゴーは、すべての散文を詩句へと還元した。"
+      },
+      {
+        "id": 4,
+        "french": "Le vers attendit que le géant vînt à manquer.",
+        "officialTranslation": "詩句は、巨人が消え去るのを待っていた。"
+      },
+      {
+        "id": 5,
+        "french": "Toute la langue s'évade selon une libre disjonction.",
+        "officialTranslation": "すべての言語は、自由な分離に従って、逃避する。"
+      },
+      {
+        "id": 6,
+        "french": "La Musique rejoint le Vers pour former la Poésie.",
+        "officialTranslation": "音楽が詩句と合流して、詩を形成する。"
+      }
+    ]
+  },
+  "mallarme_mystere": {
+    "id": "mallarme_mystere",
+    "title": "Le Mystère dans les Lettres",
+    "author": "Stéphane Mallarmé",
+    "source": "Divagations",
+    "year": "1897",
+    "difficulty": "上級",
+    "category": "mallarme_poetics",
+    "modernRelevance": "★★★★★",
+    "context": "意味の多義性。表面と深層の二重構造。",
+    "keywords": ["mystère", "sens", "miroitement", "lecture"],
+    "relatedTexts": ["mallarme_crise", "mallarme_musique"],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "Tout écrit doit présenter un sens même indifférent.",
+        "officialTranslation": "すべての書かれたものは、無関心な意味さえも提示しなければならない。"
+      },
+      {
+        "id": 2,
+        "french": "on détourne l'oisif, charmé que rien ne l'y concerne.",
+        "officialTranslation": "何も自分に関係ないと喜ぶ怠け者を逸らす。"
+      },
+      {
+        "id": 3,
+        "french": "Si n'inquiétait je ne sais quel miroitement, en dessous.",
+        "officialTranslation": "それでもなお、下にある、何らかの煌めきが不安にさせる。"
+      },
+      {
+        "id": 4,
+        "french": "Je sais, on veut limiter le Mystère.",
+        "officialTranslation": "私は知っている、神秘を限定したいのだと。"
+      },
+      {
+        "id": 5,
+        "french": "L'air sous le texte applique son motif invisible.",
+        "officialTranslation": "テキストの下の空気は、見えない動機を適用する。"
+      },
+      {
+        "id": 6,
+        "french": "Le tour propre désigne la grimace mystérieuse.",
+        "officialTranslation": "固有の回転は、神秘的な顔つきを指し示す。"
+      }
+    ]
+  },
+  "mallarme_musique": {
+    "id": "mallarme_musique",
+    "title": "La Musique et les Lettres",
+    "author": "Stéphane Mallarmé",
+    "source": "Conférence",
+    "year": "1894",
+    "difficulty": "最上級",
+    "category": "mallarme_poetics",
+    "modernRelevance": "★★★★★",
+    "context": "詩と音楽の関係。観念の概念。",
+    "keywords": ["musique", "lettres", "Idée", "rapports"],
+    "relatedTexts": ["mallarme_crise", "baudelaire_wagner"],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "Quelque chose comme les Lettres existe-t-il ?",
+        "officialTranslation": "文学のようなものは存在するのか？"
+      },
+      {
+        "id": 2,
+        "french": "La Nature a lieu, on n'y ajoutera pas.",
+        "officialTranslation": "自然は存在する、それに何も付け加えることはできない。"
+      },
+      {
+        "id": 3,
+        "french": "Tout l'acte reste de saisir les rapports.",
+        "officialTranslation": "唯一利用可能な行為は、関係を捉えることである。"
+      },
+      {
+        "id": 4,
+        "french": "La Musique et les Lettres sont la face alternative d'un phénomène, l'Idée.",
+        "officialTranslation": "音楽と文学は、ある現象の、観念の、交互の顔である。"
+      },
+      {
+        "id": 5,
+        "french": "Ouïr l'indiscutable rayon comme traits dorent un méandre de mélodies.",
+        "officialTranslation": "議論の余地のない光線を聞くこと、それは旋律の曲がりくねりを金色に染める線のように。"
+      },
+      {
+        "id": 6,
+        "french": "Poème garde ce secret par l'emploi ordinaire du parler.",
+        "officialTranslation": "詩のみが、日常の話し言葉の使用によって、この秘密を守る。"
+      }
+    ]
+  },
+  "mallarme_livre": {
+    "id": "mallarme_livre",
+    "title": "Le Livre, instrument spirituel",
+    "author": "Stéphane Mallarmé",
+    "source": "Divagations",
+    "year": "1897",
+    "difficulty": "上級",
+    "category": "mallarme_book",
+    "modernRelevance": "★★★★★",
+    "context": "書物の物質性と精神性。余白の理論。",
+    "keywords": ["livre", "blanc", "pliage", "rythme"],
+    "relatedTexts": ["mallarme_mimique"],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "Le livre doit tirer une mobilité par correspondances.",
+        "officialTranslation": "書物は、対応関係によって、ある運動性を引き出さなければならない。"
+      },
+      {
+        "id": 2,
+        "french": "Tout devient suspens, disposition fragmentaire.",
+        "officialTranslation": "すべては宙吊りとなる。断片的な配置。"
+      },
+      {
+        "id": 3,
+        "french": "le poème tu, aux blancs.",
+        "officialTranslation": "余白において沈黙した詩。"
+      },
+      {
+        "id": 4,
+        "french": "Un livre ne commence ni ne finit.",
+        "officialTranslation": "書物は始まりも終わりもしない。"
+      },
+      {
+        "id": 5,
+        "french": "Le pliage est un indice, quasi religieux.",
+        "officialTranslation": "折り畳みは、ほとんど宗教的な指標である。"
+      },
+      {
+        "id": 6,
+        "french": "le tout requiert un volume.",
+        "officialTranslation": "全体が一巻を要求する。"
+      }
+    ]
+  },
+  "mallarme_mimique": {
+    "id": "mallarme_mimique",
+    "title": "Mimique",
+    "author": "Stéphane Mallarmé",
+    "source": "Divagations",
+    "year": "1897",
+    "difficulty": "最上級",
+    "category": "mallarme_representation",
+    "modernRelevance": "★★★★★",
+    "context": "デリダ分析の核心。参照項なき表象。",
+    "keywords": ["mime", "fiction", "hymen", "allusion"],
+    "relatedTexts": ["mallarme_livre"],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "Le silence, seul luxe après les rimes.",
+        "officialTranslation": "沈黙、韻の後の唯一の贅沢。"
+      },
+      {
+        "id": 2,
+        "french": "Tel opère le Mime, dont le jeu se borne à une allusion perpétuelle sans briser la glace.",
+        "officialTranslation": "身振り役者はこのように働く。彼の戯れは、氷を破ることなく永続する暗示に限定される。"
+      },
+      {
+        "id": 3,
+        "french": "Il installe un milieu, pur, de fiction.",
+        "officialTranslation": "こうして彼は、純粋な、虚構の、中間を設置するのだ。"
+      },
+      {
+        "id": 4,
+        "french": "La scène n'illustre que l'idée, dans un hymen.",
+        "officialTranslation": "舞台が例証するのは観念だけ、結婚において。"
+      },
+      {
+        "id": 5,
+        "french": "entre le désir et l'accomplissement.",
+        "officialTranslation": "欲望と成就の間の。"
+      },
+      {
+        "id": 6,
+        "french": "Tel est ce Poème, dégagé de tout appareil du scribe.",
+        "officialTranslation": "これがこの詩である、書記の装置から解放された。"
+      }
+    ]
+  },
+  "mallarme_expositions": {
+    "id": "mallarme_expositions",
+    "title": "Expositions",
+    "author": "Stéphane Mallarmé",
+    "source": "Divagations",
+    "year": "1897",
+    "difficulty": "中級",
+    "category": "mallarme_culture",
+    "modernRelevance": "★★★☆☆",
+    "context": "万国博覧会論。群衆と近代性。",
+    "keywords": ["exposition", "foule", "spectacle", "luxe"],
+    "relatedTexts": [],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "Tout le monde y a passé, au cours d'une vie.",
+        "officialTranslation": "誰もがそこを通った、一生に一度は。"
+      },
+      {
+        "id": 2,
+        "french": "Les foules se rendent à l'Exposition.",
+        "officialTranslation": "群衆は博覧会に向かう。"
+      },
+      {
+        "id": 3,
+        "french": "spectacle populaire par excellence.",
+        "officialTranslation": "卓越した民衆的な見世物。"
+      },
+      {
+        "id": 4,
+        "french": "Le luxe industriel déployé réclame la foule.",
+        "officialTranslation": "展開された産業の贅沢は群衆を要求する。"
+      },
+      {
+        "id": 5,
+        "french": "Cet attrait appartient au siècle.",
+        "officialTranslation": "この魅力は、この世紀に属している。"
+      },
+      {
+        "id": 6,
+        "french": "Le génie contemporain se jauge.",
+        "officialTranslation": "現代の天才は、測られる。"
+      }
+    ]
+  }
+}

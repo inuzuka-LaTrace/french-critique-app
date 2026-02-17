@@ -1,0 +1,57 @@
+{
+  "mallarme_wagner_full": {
+    "id": "mallarme_wagner_full",
+    "title": "Richard Wagner, rêverie d'un poëte français",
+    "author": "Stéphane Mallarmé",
+    "source": "Revue wagnérienne",
+    "year": "1885",
+    "difficulty": "上級",
+    "category": "mallarme_music",
+    "modernRelevance": "★★★★★",
+    "context": "ワーグナー論の核心。総合芸術。劇場の役割。観念の概念。詩人によるワーグナー擁護。",
+    "keywords": ["Wagner", "théâtre", "Idée", "Fable", "synthèse"],
+    "relatedTexts": ["baudelaire_wagner", "mallarme_musique"],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "Je vénère comment, par une supercherie, on projette, à quelque élévation défendue et de foudre ! le conscient manque chez nous de ce qui là-haut éclate.",
+        "officialTranslation": "私は崇める、ある欺瞞によって、禁じられた高みへ、雷鳴の高みへと投影することを！我々のうちにある意識的な欠如を、そこで爆発するものへと。"
+      },
+      {
+        "id": 2,
+        "french": "À quoi sert cela — À un jeu. En vue qu'une élévation supérieure, comme en éclat, se détache, nous jetant la gloire du Nombre et de la Lumière sans que notre personnalité s'en mêle — enfin intelligible : ce que nous fûmes, confusément, ici-bas.",
+        "officialTranslation": "何のためか——ある遊びのため。より高い高みが、輝きのように、分離し、数と光の栄光を我々に投げかけるために——我々の人格がそれに混じることなく——ついに理解可能なものとして——我々がこの世で混乱のうちにあったものを。"
+      },
+      {
+        "id": 3,
+        "french": "Le Théâtre appelle non tel, qui s'y pavanât hier, pour être vu.",
+        "officialTranslation": "劇場が呼ぶのは、昨日そこで見られるために得意げにしていた誰かではない。"
+      },
+      {
+        "id": 4,
+        "french": "mais tout, doué d'une vue.",
+        "officialTranslation": "見ることのできるすべてのものである。"
+      },
+      {
+        "id": 5,
+        "french": "Ce héros : son geste aux péripéties de la race.",
+        "officialTranslation": "この英雄——その身振りは種族の波乱万丈である。"
+      },
+      {
+        "id": 6,
+        "french": "selon la Fable le motif conduit vers l'Idée.",
+        "officialTranslation": "寓話に従って、動機は観念へと導く。"
+      },
+      {
+        "id": 7,
+        "french": "Ainsi le type que nous présentait l'imagination classique, est-il désormais complet : Wagner, par le ministère de son art, rattachant à l'essence du Drame ce qu'ont de plus diffus et de secret nos actes, restitue le Théâtre à sa fonction initiale et souveraine.",
+        "officialTranslation": "このように、古典的想像力が我々に提示した型は、今や完成した。ワーグナーは、その芸術の媒介によって、我々の行為の最も拡散し秘密なものをドラマの本質に結びつけ、劇場をその最初の主権的機能へと回復させる。"
+      },
+      {
+        "id": 8,
+        "french": "Un culte, oui, s'institue, qu'accueille la cité, avec des périodes, des rites, détaillant le sens mystique de l'existence : car il n'est un autre moyen d'honorer en son intégrité la face auguste et sacrée de l'humanité que par ce système de fictions, qui, seul, proclame la gloire idéale.",
+        "officialTranslation": "一つの崇拝、そう、それが制定される——都市がそれを迎え入れ、周期をもって、儀式をもって、存在の神秘的な意味を詳述しながら。なぜなら、人間性の威厳ある神聖な顔をその完全性において称える他の手段はなく、この虚構の体系のみが、理想的な栄光を宣言するからだ。"
+      }
+    ]
+  }
+}

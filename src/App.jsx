@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import baudelaireData from './data/baudelaire.json';
 import mallarmeData from './data/mallarme.json';
 import valeryData from './data/valery.json';
+import mallarmeTheatreData from './data/mallarme-theatre.json';
 
 export default function App() {
   const [texts, setTexts] = useState({});
@@ -22,6 +23,7 @@ export default function App() {
     const allTexts = {
       ...baudelaireData,
       ...mallarmeData,
+      ...mallarmeTheatreData,  
       ...valeryData
     };
     setTexts(allTexts);
@@ -39,8 +41,9 @@ export default function App() {
     mallarme_book: { name: 'マラルメ書物論' },
     mallarme_representation: { name: 'マラルメ表象論' },
     mallarme_culture: { name: 'マラルメ文化論' },
-    valery: { name: 'ヴァレリー' }
-  };
+    valery: { name: 'ヴァレリー' },
+    mallarme_theatre: { name: 'マラルメ演劇・表象論' }
+};
   
   const filteredTexts = selectedCategory === 'all'
     ? Object.values(texts)

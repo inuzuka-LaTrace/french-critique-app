@@ -186,8 +186,9 @@ export default function App() {
                 onChange={(e) => setFontFamily(e.target.value)}
                 className={`px-3 py-2 rounded text-sm ${darkMode ? 'bg-gray-800 text-white' : 'bg-indigo-500'}`}
               >
+                <option value="garamond">Garamond</option>
+                <option value="serif">Noto Serif</option>
                 <option value="sans">Sans</option>
-                <option value="serif">Serif</option>
               </select>
             </div>
           </div>

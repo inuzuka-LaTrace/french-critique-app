@@ -150,8 +150,10 @@ export default function App() {
   
   const fontSizeClasses = {
     small: 'text-sm',
-    medium: 'text-base'
-  };
+    medium: 'text-base',
+    large: 'text-lg',
+    xlarge: 'text-xl'
+  }
   
   return (
     <div className={`min-h-screen ${bgClass}`} style={{fontFamily: fontFamilyClass}}>
@@ -173,13 +175,15 @@ export default function App() {
               >
                 {darkMode ? '☀️' : '🌙'}
               </button>
-              <select
+            <select
                 value={fontSize}
                 onChange={(e) => setFontSize(e.target.value)}
                 className={`px-3 py-2 rounded text-sm ${darkMode ? 'bg-gray-800 text-white' : 'bg-indigo-500'}`}
               >
                 <option value="small">小</option>
                 <option value="medium">中</option>
+                <option value="large">大</option>
+                <option value="xlarge">特大</option>
               </select>
               <select
                 value={fontFamily}
@@ -346,7 +350,11 @@ export default function App() {
                   }`}>
                     原文 {para.id}
                   </span>
-                  <p className={`${fontSize === 'medium' ? 'text-lg' : 'text-base'} leading-relaxed ${textClass} ${fontFamily === 'serif' ? 'italic' : ''} mt-3`}>
+                  <p className={`${
+                    fontSize === 'xlarge' ? 'text-2xl' :
+                    fontSize === 'large'  ? 'text-xl' :
+                    fontSize === 'medium' ? 'text-lg' : 'text-base'
+                  } leading-relaxed ${textClass} ${fontFamily === 'garamond' || fontFamily === 'serif' ? 'italic' : ''} mt-3`}>
                     {para.french}
                   </p>
                 </div>
@@ -362,7 +370,11 @@ export default function App() {
                   }`}>
                     公式訳
                   </span>
-                  <p className={`${fontSize === 'medium' ? 'text-base' : 'text-sm'} leading-relaxed ${textClass} mt-3`}>
+                  <p className={`${
+                    fontSize === 'xlarge' ? 'text-xl' :
+                    fontSize === 'large'  ? 'text-lg' :
+                    fontSize === 'medium' ? 'text-base' : 'text-sm'
+                  } leading-relaxed ${textClass} mt-3`}>
                     {para.officialTranslation}
                   </p>
                 </div>

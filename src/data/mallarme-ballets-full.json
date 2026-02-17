@@ -1,0 +1,77 @@
+{
+  "mallarme_ballets_full": {
+    "id": "mallarme_ballets_full",
+    "title": "Ballets",
+    "author": "Stéphane Mallarmé",
+    "source": "Divagations",
+    "year": "1897",
+    "difficulty": "上級",
+    "category": "mallarme_theatre",
+    "modernRelevance": "★★★★★",
+    "context": "舞踊論の核心。踊り子は隠喩であり詩である。身体的書記の理論。",
+    "keywords": ["danse", "métaphore", "écriture corporelle", "Ballet", "danseuse"],
+    "relatedTexts": ["mallarme_mimique", "mallarme_hamlet"],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "La Cornalba me ravit, qui danse comme dévêtue ; c'est-à-dire que sans le semblant d'aide offert à un enlèvement ou à la chute par une présence volante et assoupie de gazes, elle paraît, appelée dans l'air, s'y soutenir, du fait italien d'une moelleuse tension de sa personne.",
+        "officialTranslation": "コルナルバは私を魅了する、彼女は裸で踊るかのように踊る。すなわち、軽く眠ったようなガーゼの漂う存在が跳躍や落下を助けるふりをすることなく、彼女はイタリア流の柔らかな身体の張力によって、空へと呼ばれ、そこに浮かんでいるように見える。"
+      },
+      {
+        "id": 2,
+        "french": "Tout le souvenir, non ! du spectacle à l'Éden, faute de Poésie : ce qu'on nomme ainsi, au contraire, y foisonne, débauche aimable pour l'esprit libéré de la fréquentation des personnages à robes, habit et mots célèbres. Seulement le charme aux pages du livret ne passe pas dans la représentation.",
+        "officialTranslation": "エデン座での公演の思い出——いや、詩の欠如ゆえの思い出ではない。むしろ詩と呼ばれるものがそこには溢れており、衣装をまとった人物たちや著名な言葉との交わりから解放された精神への快い放縦なのだ。ただ、台本のページに宿る魅力は舞台上の表現へとは移らない。"
+      },
+      {
+        "id": 3,
+        "french": "Les astres, eux-mêmes, lesquels j'ai pour croyance que, rarement, il faut déranger pas sans raisons considérables de méditative gravité (ici, selon l'explication, l'Amour les meut et les assemble) je feuillette et j'apprends qu'ils sont de la partie ; et l'incohérent manque hautain de signification qui scintille en l'alphabet de la Nuit va consentir à tracer le mot VIVIANE, enjôleurs nom de la fée et titre du poème, selon quelques coups d'épingle stellaires en une toile de fond bleue.",
+        "officialTranslation": "星々も——それらをみだりに動かすべきではない、熟考の重みある相当な理由なしには、と私は信じている（ここでは、説明によれば、愛がそれらを動かし集める）——私がページをめくると、それらも加わっていることを知る。夜のアルファベットに輝く不整合な高慢な無意味が、青い背景幕の上でいくつかの星のピン刺しによって、妖精の名でありこの詩の題名でもある VIVIANE という言葉を描くことに同意する。"
+      },
+      {
+        "id": 4,
+        "french": "car le corps de ballet, total ne figurera autour de l'étoile (la peut-on mieux nommer !) la danse idéale des constellations. Point ! de là on partait, vous voyez dans quels mondes, droit à l'abîme d'art. La neige aussi dont chaque flocon ne revit pas au va-et-vient d'un blanc ballabile ou selon une valse, ni le jet vernal des floraisons : tout ce qui est, en effet, la Poésie, ou nature animée, sort du texte pour se figer en des manœuvres de carton et l'éblouissante stagnation des mousselines lie et feu.",
+        "officialTranslation": "なぜなら、全バレエ団は星（これより適切な名があろうか！）の周りに、星座の理想の踊りを描き出すことになるからだ。そこからが出発点だ、どのような世界へ向かうか、芸術の深淵へまっすぐに、あなたにもわかるだろう。また雪も、各々の雪片が白いバッラービレの往復やワルツの中に蘇ることなく、花咲く春の噴出もなく——詩であるもの、すなわち活きた自然はすべて、テキストから飛び出して、段ボール細工の演し物と、結びと火の眩しい硬直したモスリンの中に凍りつく。"
+      },
+      {
+        "id": 5,
+        "french": "Après une légende, la Fable point comme l'entendit le goût classique ou machinerie d'empyrée, mais selon le sens restreint d'une transposition de notre caractère, ainsi que de nos façons, au type simple de l'animal. Un jeu aisé consistait à re-traduire à l'aide de personnages, il est vrai, plus instinctifs comme bondissants et muets que ceux à qui un conscient langage permet de s'énoncer dans la comédie, les sentiments humains donnés par le fabuliste à d'énamourés volatiles.",
+        "officialTranslation": "伝説に続いて、寓話——古典趣味が理解したような天上の機械仕掛けとしてではなく——、我々の性格と習慣を単純な動物の型へと移し替えるという限定的な意味において登場する。容易な遊びは、喜劇で意識ある言語によって自己を表現できる人物よりも、確かに本能的で跳躍し無言の人物たちを使って、寓話作家が恋する鳥たちに与えた人間の感情を再翻訳することにあった。"
+      },
+      {
+        "id": 6,
+        "french": "La danse est ailes, il s'agit d'oiseaux et des départs en l'à-jamais, des retours vibrants comme flèche : à qui scrute la représentation des Deux Pigeons apparaît par la vertu du sujet, cela, une obligatoire suite des motifs fondamentaux du Ballet. L'effort d'imagination pour trouver ces similitudes ne s'annonce pas ardu, mais c'est quelque chose que d'apercevoir une parité médiocre même, et le résultat intéresse, en art.",
+        "officialTranslation": "踊りは翼である、それは鳥のことであり、永遠の彼方への出発と、矢のように振動する帰還のことである。「二羽の鳩」の上演を精察する者には、主題の力によって、バレエの根本的な動機の必然的な連続が現れる。これらの類似を見出す想像力の努力はさほど困難ではないように見えるが、たとえ凡庸な等価性を見出すことでも、それは何かであり、芸術においてその結果は興味深い。"
+      },
+      {
+        "id": 7,
+        "french": "À savoir que la danseuse n'est pas une femme qui danse, pour ces motifs juxtaposés qu'elle n'est pas une femme, mais une métaphore résumant un des aspects élémentaires de notre forme, glaive, coupe, fleur, etc., et qu'elle ne danse pas, suggérant, par le prodige de raccourcis ou d'élans, avec une écriture corporelle ce qu'il faudrait des paragraphes en prose dialoguée autant que descriptive, pour exprimer, dans la rédaction : poème dégagé de tout appareil du scribe.",
+        "officialTranslation": "すなわち、踊り子は踊る女性ではない。並置されたこれらの理由ゆえに——彼女は女性ではなく、我々の形の基本的な側面の一つを要約する隠喩であり、剣、杯、花、等々であって——また彼女は踊らない。短縮や飛躍の驚異によって、身体的な書記をもって、散文で表現するとすれば対話的であると同時に描写的な複数の段落を要するものを暗示する——書記のあらゆる装置から解放された詩として。"
+      },
+      {
+        "id": 8,
+        "french": "Vois-tu, me dit ma compagne, que cette personne, qui n'aime pas danser, et se repose en attendant son tour à paraître, reste cependant là et déjà dans la danse. — Comment, lui demandai-je, et où. — Par ce fait, répondit-elle, que ses bras, comme si occupés à une attitude qui les place en rapport avec les hanches et les jambes, cherchent, pour s'aider dans un équilibre secret, à conduire quelque chose d'invisible et d'incessant.",
+        "officialTranslation": "「ごらんなさい」と私の連れは言った。「踊ることが好きではなく、登場の順番を待ちながら休んでいるこの人が、それでもそこにいて、すでに踊りの中にいるわ。」「どういうことで、どこで？」と私は尋ねた。「こういうことよ」と彼女は答えた。「彼女の腕が、腰と脚との関係の中に腕を置く姿勢に従事しているかのように、秘密の均衡の中で自分を助けようとして、何か見えないもの、絶えることのないものを導こうとしているの。」"
+      },
+      {
+        "id": 9,
+        "french": "Oui, c'est cela, fit un jeune homme présent, quelque chose d'in-individuel : ce qui arrive d'une manière ou d'autre, dès qu'on abdique sa personne et son individualité, soit en dansant, écrivant ou peignant, bref en tout art, car ces gestes intentionnels participent à un mouvement qui dépasse celui qui le fait, à cause du désir de le faire.",
+        "officialTranslation": "「そう、そういうことだ」と傍らにいた青年は言った。「何か在-個人的なもの——踊ることにせよ、書くことにせよ、描くことにせよ、要するに全ての芸術において、自分の人格と個性を放棄した途端に、何らかの形でやってくるもの。それらの意図的な身振りは、それを行う者を超えた運動に参加しているのだから、そうしたいという欲望ゆえに。」"
+      },
+      {
+        "id": 10,
+        "french": "Le Ballet ne recèle pas d'autre artifice que de nous enseigner à voir avec les yeux du corps en mouvement ; à voir non pas, selon l'usage ordinaire, les objets représentés, mais, au contraire, à voir dans l'objet le mouvement, et surtout à saisir l'objet en tant que mouvement, comme une des multiples formes de l'universel mouvement.",
+        "officialTranslation": "バレエは、動く身体の目で見ることを我々に教える以外の仕掛けを持たない。通常の習慣に従って表象された対象を見るのではなく、逆に対象の中に運動を見ること、そして何よりも対象を運動として、普遍的な運動の多様な形の一つとして把握することを。"
+      },
+      {
+        "id": 11,
+        "french": "Aussi dans l'ordre de l'action, j'ai vu un cercle magique par autre chose dessiné que le tour continu ou les lacs de la fée même : un de ces emblèmes élémentaires qui dérivent de la gesticulation humaine et que vous retrouverez dans les alphabets des hiéroglyphes.",
+        "officialTranslation": "行為の秩序においても、私は一つの魔法の円が描かれるのを見た——妖精自身の連続する回転や曲線とは別のものによって——。人間の身振りから派生し、ヒエログリフのアルファベットの中にも見出されるこれらの基本的な紋章の一つ。"
+      },
+      {
+        "id": 12,
+        "french": "Le Ballet est une représentation de la Poésie par excellence et seulement ; car il s'y dépense, en une forme impersonnelle ou affranchie de tout artifice d'écriture, cette chose abstraite et supérieure, le type ou l'idée de chaque objet enveloppé dans des apparences sensibles. Le spectateur qui s'y transporte en imagination retrouve dans son âme le pur mouvement que le danseur et la danseuse ont exprimé.",
+        "officialTranslation": "バレエは卓越してかつ唯一の詩の表象である。なぜなら、書記のあらゆる仕掛けから解放された非個人的な形において、抽象的で崇高なもの——感覚的な外観に包まれた各対象の類型あるいは観念——が費やされるからだ。想像力においてそこへ移動する観客は、踊り手と踊り子が表現した純粋な運動を自らの魂の中に再発見する。"
+      }
+    ]
+  }
+}

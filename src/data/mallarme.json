@@ -628,5 +628,35 @@
         "officialTranslation": "現代の天才は、測られる。"
       }
     ]
+  },
+  "mallarme_mimique": {
+    "id": "mallarme_mimique",
+    "title": "Mimique",
+    "author": "Stéphane Mallarmé",
+    "source": "Divagations, Eugène Fasquelle, éditeur, 1897 (p. 186-187)",
+    "year": "1897",
+    "difficulty": "最上級",
+    "category": "mallarme_theatre",
+    "modernRelevance": "★★★★★",
+    "context": "ポール・マルグリットの無言劇への序文。模倣なき模倣。沈黙と虚構の純粋な空間。",
+    "keywords": ["silence", "mime", "Pierrot", "hymen", "fiction", "idée", "allusion"],
+    "relatedTexts": ["mallarme_ballets", "mallarme_fonds", "mallarme_hamlet", "mallarme_crayonne"],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "Le silence, seul luxe après les rimes, un orchestre ne faisant avec son or, ses frôlements de pensée et de soir, qu'en détailler la signification à l'égal d'une ode tue et que c'est au poëte, suscité par un défi, de traduire ! le silence aux après-midi de musique ; je le trouve, avec contentement, aussi, devant la réapparition toujours inédite de Pierrot ou du poignant et élégant mime Paul Margueritte.",
+        "officialTranslation": "沈黙、韻文のあとの唯一の贅沢、一つの管弦楽団がその黄金、その思惟と夕べの掠りとともになすことといえば、消えたオードに等しいその意味を詳述するのみで、それを翻訳するのは、挑戦によって呼び起こされた詩人の役割であることよ！音楽の午後たちの沈黙を。私はその沈黙を、満足とともに、また、ピエロの、あるいは痛切にして優雅な模倣者ポール・マルグリットの、つねに未知のままの再出現の前にも見出す。"
+      },
+      {
+        "id": 2,
+        "french": "Ainsi ce Pierrot Assassin de sa Femme composé et rédigé par lui-même, soliloque muet que, tout du long à son âme tient et du visage et des gestes le fantôme blanc comme une page pas encore écrite. Un tourbillon de raisons naïves ou neuves émane, qu'il plairait de saisir avec sûreté : l'esthétique du genre situé plus près de principes qu'aucun ! rien en cette région du caprice ne contrariant l'instinct simplificateur direct.",
+        "officialTranslation": "かくして、この、彼自身によって構成され書き記されたる『妻殺しのピエロ』、無言の独白、終始その魂が顔と身振りとによって保つところの、いまだ書かれざる頁のごとく白き幻影。素朴あるいは新鮮な諸理由の渦巻きが溢れ出て、それを確実に捉えられたらと思わずにいられない。いかなるジャンルよりも原理に近く位置するこのジャンルの美学よ！この気まぐれの領域において、直接的な単純化の本能に反するものは何もない。"
+      },
+      {
+        "id": 3,
+        "french": "Voici — « La scène n'illustre que l'idée, pas une action effective, dans un hymen (d'où procède le Rêve), vicieux mais sacré, entre le désir et l'accomplissement, la perpétration et son souvenir : ici devançant, là remémorant, au futur, au passé, sous une apparence fausse de présent. Tel opère le Mime, dont le jeu se borne à une allusion perpétuelle sans briser la glace : il installe, ainsi, un milieu, pur, de fiction. » Moins qu'un millier de lignes, le rôle, qui le lit, tout de suite comprend les règles comme placé devant un tréteau, leur dépositaire humble. Surprise, accompagnant l'artifice d'une notation de sentiments par phrases point proférées — que, dans le seul cas, peut-être, avec authenticité, entre les feuillets et le regard règne un silence encore, condition et délice de la lecture.",
+        "officialTranslation": "すなわち——「場面が示すのは理念だけであり、現実の行為ではない。夢が発するところの、欲望と成就との、犯行とその記憶との間の、背徳的ではあるが神聖な婚礼において——ここでは先取りし、かしこでは回想しながら、未来に向けて、過去に向けて、現在の偽りの外見のもとに。かく働くのがマイムであり、その演技は鏡を割ることなく永続的な示唆に留まる。彼はかくして、純粋な、虚構の環境を据え置く。」千行に満たないその役を、読む者はたちまち規則を理解する、その謙虚な守護者として舞台の板の前に立つかのように。驚き——一度も発せられることのない句によって感情を記譜するという技巧に伴う驚き——、おそらく唯一の場合として、まことに、ページと視線との間になお支配する沈黙、読書の条件にして悦楽。"
+      }
+    ]
   }
 }

@@ -89,51 +89,6 @@
       }
     ]
   },
-  "mallarme_musique": {
-    "id": "mallarme_musique",
-    "title": "La Musique et les Lettres",
-    "author": "Stéphane Mallarmé",
-    "source": "Conférence",
-    "year": "1894",
-    "difficulty": "最上級",
-    "category": "mallarme_poetics",
-    "modernRelevance": "★★★★★",
-    "context": "詩と音楽の関係。観念の概念。",
-    "keywords": ["musique", "lettres", "Idée", "rapports"],
-    "relatedTexts": ["mallarme_crise", "baudelaire_wagner"],
-    "paragraphs": [
-      {
-        "id": 1,
-        "french": "Quelque chose comme les Lettres existe-t-il ?",
-        "officialTranslation": "文学のようなものは存在するのか？"
-      },
-      {
-        "id": 2,
-        "french": "La Nature a lieu, on n'y ajoutera pas.",
-        "officialTranslation": "自然は存在する、それに何も付け加えることはできない。"
-      },
-      {
-        "id": 3,
-        "french": "Tout l'acte reste de saisir les rapports.",
-        "officialTranslation": "唯一利用可能な行為は、関係を捉えることである。"
-      },
-      {
-        "id": 4,
-        "french": "La Musique et les Lettres sont la face alternative d'un phénomène, l'Idée.",
-        "officialTranslation": "音楽と文学は、ある現象の、観念の、交互の顔である。"
-      },
-      {
-        "id": 5,
-        "french": "Ouïr l'indiscutable rayon comme traits dorent un méandre de mélodies.",
-        "officialTranslation": "議論の余地のない光線を聞くこと、それは旋律の曲がりくねりを金色に染める線のように。"
-      },
-      {
-        "id": 6,
-        "french": "Poème garde ce secret par l'emploi ordinaire du parler.",
-        "officialTranslation": "詩のみが、日常の話し言葉の使用によって、この秘密を守る。"
-      }
-    ]
-  },
   "mallarme_livre": {
     "id": "mallarme_livre",
     "title": "Le Livre, instrument spirituel",

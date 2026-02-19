@@ -1,0 +1,51 @@
+{
+  "id": "verlaine_poetes_maudits_villiers",
+  "title": "Les Poètes maudits (V) — Villiers de l'Isle-Adam",
+  "author": "Paul Verlaine",
+  "source": "Les Poètes maudits",
+  "year": "1888",
+  "firstPublication": "Les Poètes maudits, édition augmentée, Léon Vanier, 1888",
+  "difficulty": "上級",
+  "category": "verlaine_critique",
+  "modernRelevance": "★★★★☆",
+  "context": "『呪われた詩人たち』増補版（1888）第5章。先に検討したリラダン収録の文脈とも接続する。ヴェルレーヌはリラダンを「精神の貴族」として論じ、物質文明への根本的な拒絶をその詩学の核心と見なす。",
+  "keywords": ["idéalisme", "aristocratie", "mépris", "rêve", "spirituel"],
+  "relatedTexts": ["verlaine_poetes_maudits_mallarme", "verlaine_poetes_maudits_valmore"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Villiers de l'Isle-Adam est peut-être le plus maudit de tous les poètes maudits. Non pas parce qu'il fut méconnu seulement, mais parce qu'il fut méprisé, raillé, traité de fou par ceux qui n'avaient pas la capacité de le comprendre. Et pourtant, quel génie !",
+      "provisionalTranslation": "ヴィリエ・ド・リラダンはおそらく呪われた詩人たちの中で最も呪われた者だ。単に認められなかったからだけでなく、理解する能力を持たない者たちに軽んじられ、嘲られ、狂人扱いされたからだ。それでも、何という天才か！"
+    },
+    {
+      "id": 2,
+      "french": "Villiers est un idéaliste absolu, dans le sens le plus élevé du mot. Il croit à l'idée, à l'esprit, à l'âme immortelle, à tout ce que le matérialisme moderne nie avec une arrogance qui n'a d'égale que son ignorance. Et contre ce matérialisme, il dresse son œuvre comme un défi, comme un monument à la gloire de l'esprit humain.",
+      "provisionalTranslation": "ヴィリエは絶対的な観念論者だ、その言葉の最も高い意味で。観念を、精神を、不滅の魂を、近代的唯物論がその無知に勝るとも劣らない傲慢さをもって否定するすべてのものを信じる。そしてこの唯物論に対して、挑戦として、人間精神の栄光への記念碑として、その作品を打ち立てる。"
+    },
+    {
+      "id": 3,
+      "french": "Son mépris du monde réel est total. Il vit dans un monde à lui, peuplé de rêves, d'idéaux, de fantômes magnifiques. Ce monde est plus réel pour lui que le monde des bourgeois et des marchands. Et c'est là sa malédiction : il ne peut pas vivre dans un monde qui n'est pas fait pour lui.",
+      "provisionalTranslation": "現実世界への軽蔑は全面的だ。彼は自分だけの世界に生きている——夢、理想、壮麗な幻影に満ちた世界に。この世界はブルジョワや商人の世界よりも彼にとって現実だ。そしてそれが彼の呪いだ——彼のために作られていない世界では生きられない。"
+    },
+    {
+      "id": 4,
+      "french": "Ce qui caractérise le génie de Villiers, c'est la hauteur. Tout chez lui est haut : la pensée, le style, les aspirations. Il ne consent jamais à descendre au niveau du vulgaire. Et cette hauteur lui a coûté cher : la pauvreté, l'isolement, l'incompréhension.",
+      "provisionalTranslation": "ヴィリエの天才を特徴づけるのは高さだ。彼においてすべては高い——思考、文体、志望。俗なるものの水準に降りることを決して承諾しない。そしてこの高さは高くついた——貧困、孤立、몰이해。"
+    },
+    {
+      "id": 5,
+      "french": "Ses Contes cruels sont des chefs-d'œuvre du genre fantastique et philosophique. Axël est un drame métaphysique sans équivalent dans la littérature française. La Future Ève est une méditation sur la nature de l'amour et de l'idéal qui n'a pas vieilli d'un jour. Telle est l'œuvre de Villiers : énorme, diverse, inclassable.",
+      "provisionalTranslation": "『残酷物語』はファンタスティックかつ哲学的なジャンルの傑作だ。『アクセル』はフランス文学に類のない形而上学的な戯曲だ。『未来のイヴ』は愛と理想の本性についての一日も古びていない省察だ。これがヴィリエの作品だ——巨大で、多様で、分類不能だ。"
+    },
+    {
+      "id": 6,
+      "french": "Villiers est maudit parce qu'il est aristocrate dans un siècle démocratique, idéaliste dans un siècle matérialiste, poète dans un siècle de prosateurs. Toutes ses malédictions lui viennent de là : de ce décalage absolu entre lui et son époque.",
+      "provisionalTranslation": "ヴィリエは呪われている、なぜなら民主的な世紀に貴族であり、唯物論的な世紀に観念論者であり、散文家の世紀に詩人だからだ。すべての呪いはそこから来る——彼と彼の時代のあいだの絶対的なずれから。"
+    },
+    {
+      "id": 7,
+      "french": "Mais la postérité sera juste. Elle reconnaîtra dans Villiers de l'Isle-Adam un des esprits les plus originaux et les plus puissants de ce siècle. Elle lui rendra la gloire que ses contemporains lui ont refusée. Et alors, la malédiction se changera en bénédiction.",
+      "provisionalTranslation": "しかし後世は公正だろう。後世はヴィリエ・ド・リラダンの中にこの世紀の最も独創的で最も強力な精神のひとりを認めるだろう。同時代人が拒んだ栄光を彼に返すだろう。そして呪いは祝福に変わるだろう。"
+    }
+  ]
+}

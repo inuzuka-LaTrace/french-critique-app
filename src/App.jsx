@@ -43,7 +43,7 @@ export default function App() {
     mallarme_culture: { name: 'マラルメ文化論' },
     valery: { name: 'ヴァレリー' },
     mallarme_music: { name: 'マラルメ音楽論' }, 
-    mallarme_theatre: { name: 'マラルメ演劇・表象論' }
+    mallarme_theatre: { name: 'マラルメ演劇・表象論' },
     valmore: { name: 'ヴァルモール' }
   };
   

@@ -1,0 +1,96 @@
+{
+  "id": "valmore_tristesse",
+  "title": "Tristesse",
+  "author": "Marceline Desbordes-Valmore",
+  "source": "Poésies inédites",
+  "year": "1860",
+  "firstPublication": "Le Mousquetaire, 1854-03-15",
+  "difficulty": "初級",
+  "category": "valmore",
+  "modernRelevance": "★★★★☆",
+  "context": "ヴェーヌ博士に捧げられた詩。『Poésies inédites』（1860）所収。微笑みで苦しみを隠したいという願いから始まり、記憶から癒えることのできない魂の問いで締めくくられる。「記憶から癒えてはならないなら、死ぬことに何の意味があるのか」という末尾の問いをボードレールがヴァルモール夫人論に引用した。",
+  "keywords": ["tristesse", "mémoire", "sourire", "souffrance", "mourir"],
+  "relatedTexts": ["valmore_avis", "baudelaire_valmore_critique"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Si je pouvais trouver un éternel sourire,",
+      "provisionalTranslation": "もし永遠の微笑みを見つけることができたなら、"
+    },
+    {
+      "id": 2,
+      "french": "Voile innocent d'un cœur qui s'ouvre et se déchire,",
+      "provisionalTranslation": "開いては引き裂かれる心の無垢なヴェール、"
+    },
+    {
+      "id": 3,
+      "french": "Je l'étendrais toujours sur mes pleurs mal cachés",
+      "provisionalTranslation": "それをいつも、うまく隠せない私の涙の上に広げるだろう、"
+    },
+    {
+      "id": 4,
+      "french": "Et qui tombent souvent par leur poids épanchés.",
+      "provisionalTranslation": "その重さに溢れてしばしば落ちてくる涙の上に。"
+    },
+    {
+      "id": 5,
+      "french": "Renfermée à jamais dans mon âme abattue,",
+      "provisionalTranslation": "打ちひしがれた魂の中に永遠に閉じ込められて、"
+    },
+    {
+      "id": 6,
+      "french": "Je dirais : « Ce n'est rien » à tout ce qui me tue ;",
+      "provisionalTranslation": "私を殺すすべてのものに「何でもない」と言うだろう。"
+    },
+    {
+      "id": 7,
+      "french": "Et mon front orageux, sans nuage et sans pli,",
+      "provisionalTranslation": "嵐のような私の額も、雲もしわも消えて、"
+    },
+    {
+      "id": 8,
+      "french": "Du calme enfant qui dort peindrait l'heureux oubli.",
+      "provisionalTranslation": "眠る穏やかな子供の幸せな忘却を描き出すだろう。"
+    },
+    {
+      "id": 9,
+      "french": "Dieu n'a pas fait pour nous ce mensonge adorable,",
+      "provisionalTranslation": "神はわれわれのためにこの愛すべき偽りを作らなかった、"
+    },
+    {
+      "id": 10,
+      "french": "Le sourire défaille à la plaie incurable :",
+      "provisionalTranslation": "癒えない傷の前で微笑みは力を失う。"
+    },
+    {
+      "id": 11,
+      "french": "Cette grâce mêlée à la coupe de fiel,",
+      "provisionalTranslation": "苦汁の杯に混ぜ合わされたこの恩寵を、"
+    },
+    {
+      "id": 12,
+      "french": "Dieu mourant l'épuisa pour l'emporter au ciel.",
+      "provisionalTranslation": "死にゆく神が使い果たして天国へ持ち去った。"
+    },
+    {
+      "id": 13,
+      "french": "Adieu, sourire ! Adieu jusque dans l'autre vie,",
+      "provisionalTranslation": "さようなら、微笑みよ！ 来世においてもさようなら、"
+    },
+    {
+      "id": 14,
+      "french": "Si l'âme, du passé n'y peut être suivie !",
+      "provisionalTranslation": "もし魂がそこで過去に追われることがないなら！"
+    },
+    {
+      "id": 15,
+      "french": "Mais si de la mémoire on ne doit pas guérir,",
+      "provisionalTranslation": "しかし記憶から癒えてはならないなら、"
+    },
+    {
+      "id": 16,
+      "french": "À quoi sert, ô mon âme, à quoi sert de mourir ?",
+      "provisionalTranslation": "おお我が魂よ、死ぬことに何の意味があるのか？"
+    }
+  ]
+}

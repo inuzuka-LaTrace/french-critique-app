@@ -4,50 +4,68 @@
   "author": "Charles Baudelaire",
   "source": "Salon de 1846",
   "year": "1846",
-  "difficulty": "中級",
+  "firstPublication": "Salon de 1846",
+  "difficulty": "上級",
   "category": "baudelaire_modernity",
-  "modernRelevance": "★★★★☆",
-  "context": "近代生活の英雄主義。黒服の美。日常の叙事詩。",
-  "keywords": [
-    "héroïsme",
-    "vie moderne",
-    "habit noir",
-    "beauté"
-  ],
-  "relatedTexts": [
-    "baudelaire_peintre",
-    "baudelaire_romantisme"
-  ],
+  "modernRelevance": "★★★★★",
+  "context": "『1846年のサロン』の最終章。ボードレールは古代や中世の題材に頼る同時代の画家たちを批判し、黒いフロックコートに象徴される現代的生の英雄性と美を宣言する。「近代性」概念の最初期の定式化として美術批評史上きわめて重要なテキスト。",
+  "keywords": ["héroïsme", "modernité", "beauté", "vie moderne", "habit noir"],
+  "relatedTexts": ["baudelaire_peintre", "baudelaire_romantisme"],
   "paragraphs": [
     {
       "id": 1,
-      "french": "Cependant, la vie parisienne est féconde en sujets poétiques et merveilleux.",
-      "officialTranslation": "しかしながら、パリの生活は詩的で驚異に満ちた主題に富んでいる。"
+      "french": "Beaucoup de gens attribueront la décadence de la peinture à la décadence des mœurs. Ce préjugé d'atelier, qui a circulé parmi le public, est une mauvaise excuse des artistes. Car ils avaient à faire, ils avaient les sujets, les sujets héroïques et les sujets gracieux, et les sujets suffisamment nombreux et suffisamment beaux pour occuper la faculté la plus laborieuse.",
+      "provisionalTranslation": "絵画の衰退を風俗の衰退に帰する人は多い。画家たちのあいだで流布したこのアトリエの偏見は、芸術家たちの苦しい言い訳にすぎない。なぜなら彼らには仕事があり、主題があり、英雄的な主題も優雅な主題もあり、最も勤勉な才能をも満たすに足るほど豊富で美しい主題があったのだから。"
     },
     {
       "id": 2,
-      "french": "Le merveilleux nous enveloppe et nous abreuve comme l'atmosphère.",
-      "officialTranslation": "驚異は大気のように我々を包み、潤す。"
+      "french": "Cependant, sans vouloir nier l'utilité de tout ce qui est enseigné, je me demande si la peinture abstraite et la peinture d'histoire ne sont pas une forme de paresse et de découragement chez les artistes : car si l'on exige d'eux des sujets héroïques, ils répondent par des sujets grecs ou romains ou du moyen âge. Ce sont des sujets faciles, parce qu'ils dispensent de l'étude de la vie moderne.",
+      "provisionalTranslation": "しかし、教えられるすべてのことの有用性を否定するつもりはないが、抽象絵画と歴史画は芸術家における一種の怠惰と失意の表れではないかと私は自問する。なぜなら英雄的な主題を求められると、彼らはギリシャ・ローマや中世の主題で応えるからだ。それらは現代生活の研究を免除してくれるがゆえに、安易な主題なのである。"
     },
     {
       "id": 3,
-      "french": "mais nous ne le voyons pas.",
-      "officialTranslation": "しかし我々はそれを見ない。"
+      "french": "Pourtant il y a des sujets modernes. Nos mœurs sont assez fécondes en sujets héroïques. Nous sommes enveloppés et abreuvés, comme si nous vivions dans un ciel fait de cette atmosphère étrange que sécrète la ville, par des êtres dont le regard est chargé de vouloir, dont l'œil distille la persuasion ou l'autorité.",
+      "provisionalTranslation": "それでも現代的な主題はある。われわれの風俗は英雄的な主題をかなり豊かに産み出す。われわれは、都市が分泌するあの不思議な大気でできた空の中に生きているかのように、意志を帯びたまなざしを持ち、説得あるいは権威を目から滴らせる存在たちに包まれ、その中に浸されている。"
     },
     {
       "id": 4,
-      "french": "L'habit noir et la redingote ont non seulement leur beauté politique.",
-      "officialTranslation": "黒服とフロックコートは、政治的美だけでなく。"
+      "french": "Des scènes de la vie de cabinet et de la vie de salon, tous les jours, fournissent des preuves de la capacité créatrice de la ville. Voilà qui est bien. Mais toujours l'héroïsme de la vie moderne nous entoure et nous presse. Nos sentiments vrais nous étouffent assez pour que nous les connaissions.",
+      "provisionalTranslation": "書斎の生活と客間の生活の場面が毎日、都市の創造的能力の証拠を提供している。それはよいことだ。しかし現代生活の英雄性は常にわれわれを取り囲み、押し迫っている。真の感情はわれわれを十分に窒息させるほど強く、それゆえにわれわれはそれを知っているのだ。"
     },
     {
       "id": 5,
-      "french": "qui est l'expression de l'égalité universelle, mais encore leur beauté poétique.",
-      "officialTranslation": "それは普遍的平等の表現である、しかしさらに詩的な美も持っている。"
+      "french": "Il n'est pas un des sujets fétiches et conventionnels, — batailles, animaux, portraits d'apparat, — qui n'ait ses analogues irréprochables dans la vie de tous les jours. Que des mains habiles et sincères confient à la toile les scènes de la vie de boudoir, les femmes aux toilettes légères, la beauté maquillée des bals et des concerts, le soir dans les restaurants, les personnages du boulevard, — je jure que voilà de la poésie véritable.",
+      "provisionalTranslation": "戦闘、動物、儀礼的な肖像といった慣例的な題材のどれ一つとして、日常生活の中に非の打ち所のない類似物を持たないものはない。熟達した誠実な手が、閨房の生活の場面、薄い化粧着の女たち、舞踏会やコンサートの化粧した美、夜のレストランの情景、大通りの人物たちをカンバスに委ねるなら——それこそ真の詩であると私は断言する。"
     },
     {
       "id": 6,
-      "french": "qui est l'expression de l'âme publique.",
-      "officialTranslation": "それは公衆の魂の表現である。"
+      "french": "Mais la vie parisienne est féconde en sujets poétiques et merveilleux. Le merveilleux nous enveloppe et nous abreuve comme l'atmosphère ; mais nous ne le voyons pas. Le nu, cet élément si cher aux artistes, élément si nécessaire, est aussi fréquent et aussi nécessaire que par le passé : au lit, au bain, à l'amphithéâtre.",
+      "provisionalTranslation": "パリの生活は詩的で驚嘆すべき主題に満ち溢れている。驚異はまるで大気のようにわれわれを包み、われわれを浸している。しかしわれわれはそれを見ない。芸術家たちにとってかくも大切で、かくも必要な要素である裸体も、かつてと同様に頻繁かつ必要なものとして存在している。寝室で、浴室で、劇場で。"
+    },
+    {
+      "id": 7,
+      "french": "Voici maintenant une autre chose. Qu'on observe bien que les peintures des grandes tragédies morales du moyen âge ont eu toujours des costumes de leur époque. Voilà pourquoi il est absurde de vouloir toujours faire de l'habit moderne le symbole de notre deuil universel, la pelisse noire du romantisme.",
+      "provisionalTranslation": "ここで別のことに目を向けよう。中世の偉大な道徳的悲劇の絵画が常に当時の衣装をまとっていたことに十分注意されたい。だからこそ現代の上着を、ロマン主義の黒い毛皮外套のごとき、われわれの普遍的な悲嘆の象徴として常に描こうとすることは不合理なのである。"
+    },
+    {
+      "id": 8,
+      "french": "Cependant n'est-il pas l'habit nécessaire de notre époque, souffrant, et portant sur ses épaules noires et maigres le symbole d'un deuil perpétuel ? Remarquez bien que l'habit noir et la redingote ont non seulement leur beauté poétique, qui est l'expression de l'égalité universelle, mais encore leur beauté poétique, qui est l'expression de l'âme publique.",
+      "provisionalTranslation": "しかし黒い上着こそ、苦しみを担い、痩せた黒い肩に永続する喪の象徴を背負ったわれわれの時代に必要な衣装ではないか。黒い上着と長上着が、普遍的平等の表現という詩的美を持つのみならず、公的な魂の表現という詩的美をも持つことに十分注意されたい。"
+    },
+    {
+      "id": 9,
+      "french": "Une immense défilée de croque-morts, — croque-morts politiques, croque-morts amoureux, croque-morts bourgeois. Nous célébrons tous quelque enterrement. Une livrée uniforme du désespoir démontre l'égalité. Et puis, n'avons-nous pas des cravates et des habits de diverses couleurs, des souffrances de toutes les nuances ?",
+      "provisionalTranslation": "葬儀屋の果てしない行列——政治の葬儀屋、恋の葬儀屋、ブルジョワの葬儀屋。われわれは皆、何らかの葬儀を営んでいる。絶望の制服が平等を示している。そのうえ、われわれにはさまざまな色のネクタイや上着、あらゆる色合いの苦しみがあるではないか。"
+    },
+    {
+      "id": 10,
+      "french": "Je veux dire, pour en finir avec cette série de lieux communs, que pour l'artiste vraiment moderne, qui a l'œil européen, il y a dans la vie moderne et dans le spectacle de la mode une harmonie rapide, dont il s'agit de dégager la partie éternelle.",
+      "provisionalTranslation": "この一連の常套的考察を締めくくるにあたって言いたいのは、ヨーロッパ的な目を持つ真に現代的な芸術家にとって、現代生活とモードの光景の中には急速な調和があり、そこから永遠の部分を抽出することが問題なのだということだ。"
+    },
+    {
+      "id": 11,
+      "french": "Le peintre, le vrai peintre, sera celui qui saura arracher à la vie actuelle son côté épique, et qui nous fera voir et comprendre, avec de la couleur ou du dessin, combien nous sommes grands et poétiques dans nos cravates et nos bottes vernies.",
+      "provisionalTranslation": "画家、真の画家とは、現代の生活からその叙事詩的側面を引き剥がすことを知る者、そして色彩と素描をもって、われわれがネクタイとエナメルの靴においていかに偉大で詩的であるかを見せ、理解させてくれる者であろう。"
     }
   ]
 }

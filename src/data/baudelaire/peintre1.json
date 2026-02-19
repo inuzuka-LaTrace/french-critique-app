@@ -1,0 +1,46 @@
+{
+  "id": "baudelaire_peintre_1",
+  "title": "Le Peintre de la vie moderne (I) — La Beauté, la Mode et le Bonheur",
+  "author": "Charles Baudelaire",
+  "source": "Le Figaro, 1863",
+  "year": "1863",
+  "firstPublication": "Le Figaro, 26 et 29 novembre, 3 décembre 1863",
+  "difficulty": "上級",
+  "category": "baudelaire_modernity",
+  "modernRelevance": "★★★★★",
+  "context": "『近代生活の画家』第1章。ボードレールは美を永遠の要素と可変の要素の合成として定義し、モードと幸福を近代的美学の核心に据える。「近代性」概念の本格的展開の出発点。",
+  "keywords": ["beauté", "mode", "bonheur", "éternel", "transitoire"],
+  "relatedTexts": ["baudelaire_peintre_2", "baudelaire_heroisme", "baudelaire_romantisme_complet"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Il y a dans le monde, et même dans le monde des artistes, des gens qui vont au musée du Louvre, passent rapidement, et sans leur accorder plus qu'un coup d'œil amusé, devant une foule de tableaux très intéressants, quoique de second ordre, et se plantent rêveurs devant un Titien ou un Raphaël, un de ceux que la gravure a le plus popularisés ; puis ils sortent satisfaits, plus d'un se disant : « Je connais mon musée. »",
+      "provisionalTranslation": "世の中には、芸術家の世界にさえ、ルーヴル美術館に行き、非常に興味深いが二流の絵画の群れの前を面白がった一瞥以上を与えることもなく素早く通り過ぎ、版画が最も広く普及させたティツィアーノやラファエロの前に夢想しながら立ち止まり、そして満足して出てきて「私は自分の美術館を知っている」と自らに言い聞かせる者たちがいる。"
+    },
+    {
+      "id": 2,
+      "french": "Il en est de même de ceux qui, ayant lu leur Bossuet et leur Racine, s'imaginent posséder l'histoire de la littérature. Heureusement se présentent de temps en temps des redresseurs de torts, des critiques, des amateurs, des curieux qui affirment que tout n'est pas dans Raphaël, que tout n'est pas dans Racine.",
+      "provisionalTranslation": "ボシュエとラシーヌを読んで文学史を知っていると思い込む者たちも同様だ。幸いなことに、時折、すべてはラファエロにあるのではなく、すべてはラシーヌにあるのではないと主張する、不正の矯正者たち、批評家たち、愛好家たち、好奇心旺盛な者たちが現れる。"
+    },
+    {
+      "id": 3,
+      "french": "En vérité, je crains bien que les esprits du dix-neuvième siècle n'aient pas tout à fait raison de dédaigner le transitoire et l'éphémère. Toute beauté contient, comme tous les phénomènes possibles, quelque chose d'éternel et quelque chose de transitoire, — d'absolu et de particulier. La beauté absolue et éternelle n'existe pas, ou plutôt elle n'est qu'une abstraction écrémée à la surface de la beauté générale.",
+      "provisionalTranslation": "実のところ、19世紀の精神が一時的なものと儚いものを軽んじることにまったく正当性があるとは思えない。すべての可能な現象と同様に、あらゆる美は永遠のものと一時的なもの——絶対的なものと個別のものを内包している。絶対的かつ永遠の美は存在しない。むしろそれは一般的な美の表面から掬い取られた抽象にすぎない。"
+    },
+    {
+      "id": 4,
+      "french": "L'élément particulier de chaque beauté vient des passions, et comme nous avons nos passions particulières, nous avons notre beauté. Ainsi la mode doit être considérée comme un symptôme du goût de l'idéal surnageant dans le cerveau humain au-dessus de tout ce que la vie naturelle y accumule de grossier, de terrestre et d'immonde.",
+      "provisionalTranslation": "各々の美の個別的要素は情念から来る。われわれには固有の情念があるがゆえに、固有の美がある。かくしてモードは、自然な生がそこに積み重ねる粗野で地上的で不潔なすべてのものの上に浮かぶ、人間の頭脳における理想への趣味の症候として考察されなければならない。"
+    },
+    {
+      "id": 5,
+      "french": "La mode est donc une déformation sublime de la nature, ou plutôt un essai permanent et successif de réformation de la nature. On a dit avec raison que la beauté est difficile. La mode est une approximation continue de l'idéal duquel le désir humain ne cesse jamais de se rapprocher.",
+      "provisionalTranslation": "かくしてモードは自然の崇高な変形であり、むしろ自然の改造に向けた永続的かつ連続的な試みだ。美は難しいとはよく言われる。モードとは人間の欲望が決して近づくことをやめない理想への継続的な近似である。"
+    },
+    {
+      "id": 6,
+      "french": "En un mot, pour que toute modernité soit digne de devenir antiquité, il faut que la beauté mystérieuse que la vie humaine y met involontairement en soit extraite. C'est à cette tâche que s'applique particulièrement M. G.",
+      "provisionalTranslation": "一言で言えば、あらゆる近代性が古典たる価値を持つためには、人間の生がそこに不随意に込める神秘的な美が抽出されなければならない。この仕事にこそG氏は特に専念している。"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "valmore_adieu",
+  "title": "L'Adieu",
+  "author": "Marceline Desbordes-Valmore",
+  "source": "Élégies, Marie et Romances",
+  "year": "1819",
+  "difficulty": "初級〜中級",
+  "category": "valmore",
+  "modernRelevance": "★★★☆☆",
+  "context": "別れと喪失を主題とする初期の傑作。反復とリフレインを使った音楽的構造が特徴。ヴァルモール夫人の詩法の核心である「感情の直接性」が際立つ。",
+  "keywords": ["adieu", "séparation", "amour", "douleur", "souvenir"],
+  "relatedTexts": ["valmore_roses", "valmore_chambre"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Non, l'amour qui s'en va n'est pas celui qu'on quitte,",
+      "officialTranslation": "いや、去っていく愛とは、捨てられた愛のことではない、"
+    },
+    {
+      "id": 2,
+      "french": "C'est l'amour qu'on retient, dont l'âme nous évite.",
+      "officialTranslation": "それは引き留める愛、その魂が私たちを避けていく愛だ。"
+    },
+    {
+      "id": 3,
+      "french": "Ce n'est pas de partir que de mourir d'amour,",
+      "officialTranslation": "愛に死ぬことは、立ち去ることではない、"
+    },
+    {
+      "id": 4,
+      "french": "C'est de voir que les yeux qu'on aime auront un jour",
+      "officialTranslation": "いつか愛する瞳が"
+    },
+    {
+      "id": 5,
+      "french": "Perdu le souvenir de notre ressemblance.",
+      "officialTranslation": "私たちの面影の記憶を失うと知ることだ。"
+    },
+    {
+      "id": 6,
+      "french": "Adieu ! Que ce mot-là, plein d'une longue absence,",
+      "officialTranslation": "さようなら！ この言葉は、長い不在に満ちて、"
+    },
+    {
+      "id": 7,
+      "french": "Retombe sur le cœur comme un glas étouffé !",
+      "officialTranslation": "くぐもった弔鐘のように、心の上に落ちてくる！"
+    },
+    {
+      "id": 8,
+      "french": "Adieu ! Sombre douleur qui n'a jamais fini,",
+      "officialTranslation": "さようなら！ 決して終わることのない暗い苦しみよ、"
+    },
+    {
+      "id": 9,
+      "french": "Quand les bras ont lâché, les âmes ont tenu.",
+      "officialTranslation": "腕が離れても、魂はつながっていた。"
+    }
+  ]
+}

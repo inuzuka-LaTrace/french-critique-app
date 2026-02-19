@@ -1,47 +1,62 @@
 {
-  "baudelaire_lettre_wagner": {
-    "id": "baudelaire_lettre_wagner",
-    "title": "Lettre à Richard Wagner",
-    "author": "Charles Baudelaire",
-    "source": "Correspondance (17 février 1860)",
-    "year": "1860",
-    "difficulty": "中級",
-    "category": "baudelaire_music",
-    "modernRelevance": "★★★★★",
-    "context": "1860年1月25日コンサートの直後に書かれた私信。「私はあなたに征服された」——ワーグナー論5篇の起点となった体験の直接の記録。",
-    "keywords": ["Wagner", "musique", "jouissance", "grandeur", "passion", "volupté", "couleur", "extase", "Lohengrin", "Tannhäuser"],
-    "relatedTexts": ["baudelaire_wagner_1", "baudelaire_wagner_2", "baudelaire_wagner_3", "baudelaire_wagner_4", "baudelaire_wagner_encore"],
-    "paragraphs": [
-      {
-        "id": 1,
-        "french": "Monsieur,\n\nJe me suis toujours figuré que si accoutumé à la gloire que fut un grand artiste, il n'était pas insensible à un compliment sincère, quand ce compliment était comme un cri de reconnaissance, et enfin que ce cri pouvait avoir une valeur d'un genre singulier, quand il venait d'un Français, c'est-à-dire d'un homme peu fait pour l'enthousiasme et né dans un pays où l'on ne s'entend guères plus à la poésie et à la peinture qu'à la musique. Avant tout, je veux vous dire que je vous dois la plus grande jouissance musicale que j'aie jamais éprouvée. Je suis d'un âge où on ne s'amuse plus guères à écrire aux hommes célèbres, et j'aurais hésité longtemps encore à vous témoigner par lettre mon admiration, si tous les jours mes yeux ne tombaient sur des articles indignes, ridicules, où on fait tous les efforts possibles pour diffamer votre génie.",
-        "officialTranslation": "拝啓、\n\n偉大な芸術家は名声に慣れていても、誠実な称賛には無感動ではあり得ない——その称賛が感謝の叫びに等しい時に——と私はいつも考えてきました。そして最終的に、その叫びがフランス人、すなわち熱狂にはあまり向かず、詩や絵画にも音楽にも精通していない国に生まれた人間から来る時には、独特の価値を持ちうると。まず何より、私があなたにこれまで経験した中で最大の音楽的喜悦を負っているということをお伝えしたい。私は有名人への手紙などもはや面白がれない年齢にありますが、もし毎日あなたの天才を中傷しようとするあらゆる努力がなされた下劣で滑稽な記事に目が止まらなければ、さらに長く躊躇い続けたことでしょう。"
-      },
-      {
-        "id": 2,
-        "french": "Vous n'êtes pas le premier homme, Monsieur, à l'occasion duquel j'ai eu à souffrir et à rougir de mon pays. Enfin l'indignation m'a poussé à vous témoigner ma reconnaissance ; je me suis dit : Je veux être distingué de tous ces imbéciles.\n\nLa première fois que je suis allé aux Italiens, pour entendre vos ouvrages, j'étais assez mal disposé, et même, je l'avouerai, plein de mauvais préjugés ; mais je suis excusable ; j'ai été si souvent dupe ; j'ai entendu tant de musique de charlatans à grandes prétentions. Par vous j'ai été vaincu tout de suite. Ce que j'ai éprouvé est indescriptible, et si vous daignez ne pas rire, j'essaierai de vous le traduire. D'abord il m'a semblé que je connaissais cette musique, et plus tard en y réfléchissant, j'ai compris d'où venait ce mirage ; il me semblait que cette musique était la mienne, et je la reconnaissais comme tout homme reconnaît les choses qu'il est destiné à aimer. Pour tout autre que pour un homme d'esprit, cette phrase serait immensément ridicule, surtout écrite par quelqu'un qui, comme moi, ne sait pas la musique, et dont toute l'éducation se borne à avoir entendu (avec grand plaisir, il est vrai) quelques beaux morceaux de Weber et de Beethoven.",
-        "officialTranslation": "あなたは、私が我が国のために苦しみ恥じなければならなかった最初の人間ではありません。ついに憤慨が私をあなたへの感謝表明へと駆り立てました。私は言いました——すべてのこれらの愚か者たちとは一線を画したいと。\n\nあなたの作品を聴くためにイタリア座に初めて行った時、私はかなり敵意を持っていて、告白しますが、悪い先入観に満ちていました。しかし弁解の余地はあります——何度も騙されてきた、大きな野心を持つ山師の音楽をどれほど聴いてきたことか。あなたによって私はただちに征服されました。私が感じたものは言葉にならず、あなたが笑わないでいただけるなら、訳そうと試みます。まず初めに、この音楽を知っているように思われ、後で振り返るとその蜃気楼の原因が分かりました——この音楽は私のものであるように思われ、人が愛するよう運命づけられた物を認識するように認識していたのです。精神の人以外には、私のように音楽を知らず、教育のすべてがウェーバーとベートーヴェンの美しい曲をいくつか（大いなる喜びをもって、とはいえ）聴いたことに留まる者が書いたこの文は、途方もなく滑稽に聞こえるでしょう。"
-      },
-      {
-        "id": 3,
-        "french": "Ensuite le caractère qui m'a principalement frappé, ç'a été la grandeur. Cela représente le grand, et cela pousse au grand. J'ai retrouvé partout dans vos ouvrages la solennité des grands bruits, des grands aspects de la Nature, et la solennité des grandes passions de l'homme. On se sent tout de suite enlevé et subjugué. L'un des morceaux les plus étranges et qui m'ont apporté une sensation musicale nouvelle est celui qui est destiné à peindre une extase religieuse. L'effet produit par l'Introduction des invités et par la Fête nuptiale est immense. J'ai senti toute la majesté d'une vie plus large que la nôtre.",
-        "officialTranslation": "次に、私を主に打ちのめした特質は、壮大さでした。それは偉大なものを表し、偉大なものへと駆り立てる。あなたの作品のいたるところに、大きな音の荘厳さ、自然の大きな様相の荘厳さ、人間の大きな情念の荘厳さを見出しました。人は直ちに持ち上げられ征服された感を覚える。最も奇妙な曲の一つで、新しい音楽的感覚をもたらしてくれたのは、宗教的恍惚を描くべく定められた曲でした。客人たちの入場と婚礼の饗宴が生み出す効果は甚大です。私はわれわれのものより広大な生命のすべての壮麗さを感じました。"
-      },
-      {
-        "id": 4,
-        "french": "Autre chose encore : j'ai éprouvé souvent un sentiment d'une nature assez bizarre, c'est l'orgueil et la jouissance de comprendre, de me laisser pénétrer, envahir, volupté vraiment sensuelle, et qui ressemble à celle de monter dans l'air ou de rouler sur la mer. Et la musique en même temps respirait quelquefois l'orgueil de la vie. Généralement ces profondes harmonies me paraissaient ressembler à ces excitants qui accélèrent le pouls de l'imagination.",
-        "officialTranslation": "さらに別のことも——私はしばしば、かなり奇妙な性質の感覚を経験しました。それは理解する誇りと喜び、浸透させ、侵入させてもらうこと——真に官能的な悦楽で、空中に昇ることや海を漂うことの悦楽に似たもの。そして音楽は同時に時に生の誇りを呼吸していました。一般に、これらの深い和声は想像力の脈拍を速める興奮剤に似ているように思われました。"
-      },
-      {
-        "id": 5,
-        "french": "Enfin, j'ai éprouvé aussi, et je vous supplie de ne pas rire, des sensations qui dérivent probablement de la tournure de mon esprit et de mes préoccupations fréquentes. Il y a partout quelque chose d'enlevé et d'enlevant, quelque chose aspirant à monter plus haut, quelque chose d'excessif et de superlatif. Par exemple, pour me servir de comparaisons empruntées à la peinture, je suppose devant mes yeux une vaste étendue d'un rouge sombre. Si ce rouge représente la passion, je le vois arriver graduellement, par toutes les transitions de rouge et de rose, à l'incandescence de la fournaise. Il semblerait difficile, impossible même d'arriver à quelque chose de plus ardent ; et cependant une dernière fusée vient tracer un sillon plus blanc sur le blanc qui lui sert de fond. Ce sera, si vous voulez, le cri suprême de l'âme montée à son paroxysme.",
-        "officialTranslation": "最後に——笑わないでいただくよう伏してお願いします——おそらく私の精神の傾向と頻繁な関心から派生する感覚も経験しました。いたるところに、持ち上げるものと持ち上げられるもの、より高く昇ろうとするもの、過剰で最上級のものがある。例えば、絵画から借りた比喩を使えば——目の前に暗い赤の広大な広がりを想像します。この赤が情念を表すとすれば、それが赤とバラ色のあらゆる移行を経て徐々に炉の白熱へと至るのを見る。これ以上熱烈なものに達することは難しく、不可能にさえ思われるでしょう。しかし最後の一筋の閃光が、背景として機能する白の上にさらに白い轍を描く。それは、よろしければ、頂点に達した魂の至高の叫びとでも言いましょう。"
-      },
-      {
-        "id": 6,
-        "french": "J'avais commencé à écrire quelques méditations sur les morceaux de Tannhäuser et de Lohengrin que nous avons entendus ; mais j'ai reconnu l'impossibilité de tout dire.\n\nAinsi je pourrais continuer cette lettre interminablement. Si vous avez pu me lire, je vous en remercie. Il ne me reste plus qu'à ajouter quelques mots. Depuis le jour où j'ai entendu votre musique, je me dis sans cesse, surtout dans les mauvaises heures : Si, au moins, je pouvais entendre ce soir un peu de Wagner ! Il y a sans doute d'autres hommes faits comme moi. En somme vous avez dû être satisfait du public dont l'instinct a été bien supérieur à la mauvaise science des journalistes. Pourquoi ne donneriez-vous pas quelques concerts encore en y ajoutant des morceaux nouveaux ? Vous nous avez fait connaître un avant-goût de jouissances nouvelles ; avez-vous le droit de nous priver du reste ? Une fois encore, Monsieur, je vous remercie ; vous m'avez rappelé à moi-même et au grand, dans de mauvaises heures.\n\nCH. BAUDELAIRE.\n\nJe n'ajoute pas mon adresse, parce que vous croiriez peut-être que j'ai quelque chose à vous demander.",
-        "officialTranslation": "タンホイザーとローエングリンの曲について瞑想を書き始めていましたが、すべてを語ることの不可能さを認めました。\n\nこのようにしてこの手紙を際限なく続けることができます。もし読み終えていただけたなら、感謝します。あとはいくつかの言葉を付け加えるのみです。あなたの音楽を聴いた日から、私は絶えず——とりわけ辛い時に——こう自分に言います。せめて今夜ワーグナーを少し聴けたなら！きっと私のような人間が他にもいることでしょう。結局、ジャーナリストたちの劣った知識よりずっと優れた本能を示した聴衆には満足されたはずです。新しい曲を加えてさらにいくつかコンサートを開かれませんか。新しい喜悦の予感を知らしめた以上、残りを奪う権利があるでしょうか。もう一度、先生、ありがとうございます。あなたは辛い時に私を私自身へ、そして偉大なものへと呼び戻してくださいました。\n\nシャルル・ボードレール\n\n住所を添えないのは、何かお願いがあるとお思いになるかもしれないからです。"
-      }
-    ]
-  }
+  "id": "baudelaire_lettre_wagner",
+  "title": "Lettre à Richard Wagner",
+  "author": "Charles Baudelaire",
+  "source": "Correspondance (17 février 1860)",
+  "year": "1860",
+  "difficulty": "中級",
+  "category": "baudelaire_music",
+  "modernRelevance": "★★★★★",
+  "context": "1860年1月25日コンサートの直後に書かれた私信。「私はあなたに征服された」——ワーグナー論5篇の起点となった体験の直接の記録。",
+  "keywords": [
+    "Wagner",
+    "musique",
+    "jouissance",
+    "grandeur",
+    "passion",
+    "volupté",
+    "couleur",
+    "extase",
+    "Lohengrin",
+    "Tannhäuser"
+  ],
+  "relatedTexts": [
+    "baudelaire_wagner_1",
+    "baudelaire_wagner_2",
+    "baudelaire_wagner_3",
+    "baudelaire_wagner_4",
+    "baudelaire_wagner_encore"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Monsieur,\n\nJe me suis toujours figuré que si accoutumé à la gloire que fut un grand artiste, il n'était pas insensible à un compliment sincère, quand ce compliment était comme un cri de reconnaissance, et enfin que ce cri pouvait avoir une valeur d'un genre singulier, quand il venait d'un Français, c'est-à-dire d'un homme peu fait pour l'enthousiasme et né dans un pays où l'on ne s'entend guères plus à la poésie et à la peinture qu'à la musique. Avant tout, je veux vous dire que je vous dois la plus grande jouissance musicale que j'aie jamais éprouvée. Je suis d'un âge où on ne s'amuse plus guères à écrire aux hommes célèbres, et j'aurais hésité longtemps encore à vous témoigner par lettre mon admiration, si tous les jours mes yeux ne tombaient sur des articles indignes, ridicules, où on fait tous les efforts possibles pour diffamer votre génie.",
+      "officialTranslation": "拝啓、\n\n偉大な芸術家は名声に慣れていても、誠実な称賛には無感動ではあり得ない——その称賛が感謝の叫びに等しい時に——と私はいつも考えてきました。そして最終的に、その叫びがフランス人、すなわち熱狂にはあまり向かず、詩や絵画にも音楽にも精通していない国に生まれた人間から来る時には、独特の価値を持ちうると。まず何より、私があなたにこれまで経験した中で最大の音楽的喜悦を負っているということをお伝えしたい。私は有名人への手紙などもはや面白がれない年齢にありますが、もし毎日あなたの天才を中傷しようとするあらゆる努力がなされた下劣で滑稽な記事に目が止まらなければ、さらに長く躊躇い続けたことでしょう。"
+    },
+    {
+      "id": 2,
+      "french": "Vous n'êtes pas le premier homme, Monsieur, à l'occasion duquel j'ai eu à souffrir et à rougir de mon pays. Enfin l'indignation m'a poussé à vous témoigner ma reconnaissance ; je me suis dit : Je veux être distingué de tous ces imbéciles.\n\nLa première fois que je suis allé aux Italiens, pour entendre vos ouvrages, j'étais assez mal disposé, et même, je l'avouerai, plein de mauvais préjugés ; mais je suis excusable ; j'ai été si souvent dupe ; j'ai entendu tant de musique de charlatans à grandes prétentions. Par vous j'ai été vaincu tout de suite. Ce que j'ai éprouvé est indescriptible, et si vous daignez ne pas rire, j'essaierai de vous le traduire. D'abord il m'a semblé que je connaissais cette musique, et plus tard en y réfléchissant, j'ai compris d'où venait ce mirage ; il me semblait que cette musique était la mienne, et je la reconnaissais comme tout homme reconnaît les choses qu'il est destiné à aimer. Pour tout autre que pour un homme d'esprit, cette phrase serait immensément ridicule, surtout écrite par quelqu'un qui, comme moi, ne sait pas la musique, et dont toute l'éducation se borne à avoir entendu (avec grand plaisir, il est vrai) quelques beaux morceaux de Weber et de Beethoven.",
+      "officialTranslation": "あなたは、私が我が国のために苦しみ恥じなければならなかった最初の人間ではありません。ついに憤慨が私をあなたへの感謝表明へと駆り立てました。私は言いました——すべてのこれらの愚か者たちとは一線を画したいと。\n\nあなたの作品を聴くためにイタリア座に初めて行った時、私はかなり敵意を持っていて、告白しますが、悪い先入観に満ちていました。しかし弁解の余地はあります——何度も騙されてきた、大きな野心を持つ山師の音楽をどれほど聴いてきたことか。あなたによって私はただちに征服されました。私が感じたものは言葉にならず、あなたが笑わないでいただけるなら、訳そうと試みます。まず初めに、この音楽を知っているように思われ、後で振り返るとその蜃気楼の原因が分かりました——この音楽は私のものであるように思われ、人が愛するよう運命づけられた物を認識するように認識していたのです。精神の人以外には、私のように音楽を知らず、教育のすべてがウェーバーとベートーヴェンの美しい曲をいくつか（大いなる喜びをもって、とはいえ）聴いたことに留まる者が書いたこの文は、途方もなく滑稽に聞こえるでしょう。"
+    },
+    {
+      "id": 3,
+      "french": "Ensuite le caractère qui m'a principalement frappé, ç'a été la grandeur. Cela représente le grand, et cela pousse au grand. J'ai retrouvé partout dans vos ouvrages la solennité des grands bruits, des grands aspects de la Nature, et la solennité des grandes passions de l'homme. On se sent tout de suite enlevé et subjugué. L'un des morceaux les plus étranges et qui m'ont apporté une sensation musicale nouvelle est celui qui est destiné à peindre une extase religieuse. L'effet produit par l'Introduction des invités et par la Fête nuptiale est immense. J'ai senti toute la majesté d'une vie plus large que la nôtre.",
+      "officialTranslation": "次に、私を主に打ちのめした特質は、壮大さでした。それは偉大なものを表し、偉大なものへと駆り立てる。あなたの作品のいたるところに、大きな音の荘厳さ、自然の大きな様相の荘厳さ、人間の大きな情念の荘厳さを見出しました。人は直ちに持ち上げられ征服された感を覚える。最も奇妙な曲の一つで、新しい音楽的感覚をもたらしてくれたのは、宗教的恍惚を描くべく定められた曲でした。客人たちの入場と婚礼の饗宴が生み出す効果は甚大です。私はわれわれのものより広大な生命のすべての壮麗さを感じました。"
+    },
+    {
+      "id": 4,
+      "french": "Autre chose encore : j'ai éprouvé souvent un sentiment d'une nature assez bizarre, c'est l'orgueil et la jouissance de comprendre, de me laisser pénétrer, envahir, volupté vraiment sensuelle, et qui ressemble à celle de monter dans l'air ou de rouler sur la mer. Et la musique en même temps respirait quelquefois l'orgueil de la vie. Généralement ces profondes harmonies me paraissaient ressembler à ces excitants qui accélèrent le pouls de l'imagination.",
+      "officialTranslation": "さらに別のことも——私はしばしば、かなり奇妙な性質の感覚を経験しました。それは理解する誇りと喜び、浸透させ、侵入させてもらうこと——真に官能的な悦楽で、空中に昇ることや海を漂うことの悦楽に似たもの。そして音楽は同時に時に生の誇りを呼吸していました。一般に、これらの深い和声は想像力の脈拍を速める興奮剤に似ているように思われました。"
+    },
+    {
+      "id": 5,
+      "french": "Enfin, j'ai éprouvé aussi, et je vous supplie de ne pas rire, des sensations qui dérivent probablement de la tournure de mon esprit et de mes préoccupations fréquentes. Il y a partout quelque chose d'enlevé et d'enlevant, quelque chose aspirant à monter plus haut, quelque chose d'excessif et de superlatif. Par exemple, pour me servir de comparaisons empruntées à la peinture, je suppose devant mes yeux une vaste étendue d'un rouge sombre. Si ce rouge représente la passion, je le vois arriver graduellement, par toutes les transitions de rouge et de rose, à l'incandescence de la fournaise. Il semblerait difficile, impossible même d'arriver à quelque chose de plus ardent ; et cependant une dernière fusée vient tracer un sillon plus blanc sur le blanc qui lui sert de fond. Ce sera, si vous voulez, le cri suprême de l'âme montée à son paroxysme.",
+      "officialTranslation": "最後に——笑わないでいただくよう伏してお願いします——おそらく私の精神の傾向と頻繁な関心から派生する感覚も経験しました。いたるところに、持ち上げるものと持ち上げられるもの、より高く昇ろうとするもの、過剰で最上級のものがある。例えば、絵画から借りた比喩を使えば——目の前に暗い赤の広大な広がりを想像します。この赤が情念を表すとすれば、それが赤とバラ色のあらゆる移行を経て徐々に炉の白熱へと至るのを見る。これ以上熱烈なものに達することは難しく、不可能にさえ思われるでしょう。しかし最後の一筋の閃光が、背景として機能する白の上にさらに白い轍を描く。それは、よろしければ、頂点に達した魂の至高の叫びとでも言いましょう。"
+    },
+    {
+      "id": 6,
+      "french": "J'avais commencé à écrire quelques méditations sur les morceaux de Tannhäuser et de Lohengrin que nous avons entendus ; mais j'ai reconnu l'impossibilité de tout dire.\n\nAinsi je pourrais continuer cette lettre interminablement. Si vous avez pu me lire, je vous en remercie. Il ne me reste plus qu'à ajouter quelques mots. Depuis le jour où j'ai entendu votre musique, je me dis sans cesse, surtout dans les mauvaises heures : Si, au moins, je pouvais entendre ce soir un peu de Wagner ! Il y a sans doute d'autres hommes faits comme moi. En somme vous avez dû être satisfait du public dont l'instinct a été bien supérieur à la mauvaise science des journalistes. Pourquoi ne donneriez-vous pas quelques concerts encore en y ajoutant des morceaux nouveaux ? Vous nous avez fait connaître un avant-goût de jouissances nouvelles ; avez-vous le droit de nous priver du reste ? Une fois encore, Monsieur, je vous remercie ; vous m'avez rappelé à moi-même et au grand, dans de mauvaises heures.\n\nCH. BAUDELAIRE.\n\nJe n'ajoute pas mon adresse, parce que vous croiriez peut-être que j'ai quelque chose à vous demander.",
+      "officialTranslation": "タンホイザーとローエングリンの曲について瞑想を書き始めていましたが、すべてを語ることの不可能さを認めました。\n\nこのようにしてこの手紙を際限なく続けることができます。もし読み終えていただけたなら、感謝します。あとはいくつかの言葉を付け加えるのみです。あなたの音楽を聴いた日から、私は絶えず——とりわけ辛い時に——こう自分に言います。せめて今夜ワーグナーを少し聴けたなら！きっと私のような人間が他にもいることでしょう。結局、ジャーナリストたちの劣った知識よりずっと優れた本能を示した聴衆には満足されたはずです。新しい曲を加えてさらにいくつかコンサートを開かれませんか。新しい喜悦の予感を知らしめた以上、残りを奪う権利があるでしょうか。もう一度、先生、ありがとうございます。あなたは辛い時に私を私自身へ、そして偉大なものへと呼び戻してくださいました。\n\nシャルル・ボードレール\n\n住所を添えないのは、何かお願いがあるとお思いになるかもしれないからです。"
+    }
+  ]
 }

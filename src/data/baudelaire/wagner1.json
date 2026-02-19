@@ -1,62 +1,76 @@
 {
-  "baudelaire_wagner_1": {
-    "id": "baudelaire_wagner_1",
-    "title": "Richard Wagner et Tannhäuser à Paris — I",
-    "author": "Charles Baudelaire",
-    "source": "L'Art romantique (初出：Revue Européenne, 1er avril 1861)",
-    "year": "1861",
-    "difficulty": "中級〜上級",
-    "category": "baudelaire_music",
-    "modernRelevance": "★★★★★",
-    "context": "パリ初演（1860年1月）の衝撃。音楽の共感覚的体験。ローエングリン序曲の三つの解釈（ワーグナー・リスト・ボードレール）。",
-    "keywords": ["Wagner", "Lohengrin", "musique", "suggestion", "synesthésie", "analogie", "infini", "mysticité"],
-    "relatedTexts": ["baudelaire_wagner_2", "baudelaire_wagner_3", "baudelaire_wagner_4", "baudelaire_wagner_encore", "baudelaire_romantisme", "mallarme_wagner"],
-    "paragraphs": [
-      {
-        "id": 1,
-        "french": "Remontons, s'il vous plaît, à treize mois en arrière, au commencement de la question, et qu'il me soit permis, dans cette appréciation, de parler souvent en mon nom personnel. Ce Je, accusé justement d'impertinence dans beaucoup de cas, implique cependant une grande modestie ; il enferme l'écrivain dans les limites les plus strictes de la sincérité. En réduisant sa tâche, il la rend plus facile. Enfin, il n'est pas nécessaire d'être un probabiliste bien consommé pour acquérir la certitude que cette sincérité trouvera des amis parmi les lecteurs impartiaux ; il y a évidemment quelques chances pour que le critique ingénu, en ne racontant que ses propres impressions, raconte aussi celles de quelques partisans inconnus.",
-        "officialTranslation": "13ヶ月前に、この問題の始まりへと立ち返らせていただきたい。この評論において、しばしば私自身の名において語ることを許してほしい。多くの場合で不遜と非難されるこの「私」は、しかし大きな謙遜を含意している。それは作家を誠実さの最も厳しい限界の中に封じ込める。課題を縮小することで、それをより容易にする。最後に、この誠実さが公平な読者の間に友人を見出すという確信を得るために、根っからの確率論者である必要はない。率直な批評家が自らの印象だけを語ることで、幾人かの見知らぬ同志の印象をも語ることになるという、いくつかの可能性が明らかにある。"
-      },
-      {
-        "id": 2,
-        "french": "Donc, il y a treize mois, ce fut une grande rumeur dans Paris. Un compositeur allemand, qui avait vécu longtemps chez nous, à notre insu, pauvre, inconnu, par de misérables besognes, mais que, depuis quinze ans déjà, le public allemand célébrait comme un homme de génie, revenait dans la ville, jadis témoin de ses jeunes misères, soumettre ses œuvres à notre jugement. Paris avait jusque-là peu entendu parler de Wagner ; on savait vaguement qu'au-delà du Rhin s'agitait la question d'une réforme dans le drame lyrique, et que Liszt avait adopté avec ardeur les opinions du réformateur.",
-        "officialTranslation": "さて、13ヶ月前、パリで大きな噂が巻き起こった。一人のドイツ人作曲家が、貧しく、無名のまま、惨めな仕事でわれわれの知らぬうちに長く住んでいたのだが、すでに15年前からドイツの聴衆が天才と称えていたこの人物が、かつて若い苦労の証人であったこの街に戻り、自らの作品をわれわれの審判に委ねた。パリはそれまでワーグナーについてほとんど聞いていなかった。ライン川の向こうで歌劇の改革を巡る問題が騒がれており、リストが熱心にこの改革者の意見を採用したことは漠然と知られていた。"
-      },
-      {
-        "id": 3,
-        "french": "Aussitôt que les affiches annoncèrent que Richard Wagner ferait entendre dans la salle des Italiens des fragments de ses compositions, un fait amusant se produisit, que nous avons déjà vu, et qui prouve le besoin instinctif, précipité, des Français, de prendre sur toute chose leur parti avant d'avoir délibéré ou examiné. Les uns annoncèrent des merveilles, et les autres se mirent à dénigrer à outrance des œuvres qu'ils n'avaient pas encore entendues. Encore aujourd'hui dure cette situation bouffonne, et l'on peut dire que jamais sujet inconnu ne fut tant discuté. Bref, les concerts de Wagner s'annonçaient comme une véritable bataille de doctrines, comme une de ces solennelles crises de l'art, une de ces mêlées où critiques, artistes et public ont coutume de jeter confusément toutes leurs passions ; crises heureuses qui dénotent la santé et la richesse dans la vie intellectuelle d'une nation, et que nous avions, pour ainsi dire, désapprises depuis les grands jours de Victor Hugo.",
-        "officialTranslation": "リヒャルト・ワーグナーがイタリア座で自らの作品の断片を聴かせるという張り紙が出るやいなや、われわれがすでに目撃したことのある、審議も検討もしないうちに万事について立場を取るフランス人の本能的で性急な必要性を証明する、面白い事態が生じた。ある者は驚異を予言し、ある者はまだ聴いてもいない作品を徹底的に貶し始めた。この滑稽な状況は今もなお続いており、未知の主題がこれほど多く議論されたことはなかったと言えるだろう。要するに、ワーグナーのコンサートは一種の教義の戦争、批評家・芸術家・聴衆が混乱してすべての情熱を投じる荘厳な芸術の危機として予告されていた。ヴィクトル・ユゴーの偉大な日々以来、われわれはこのような危機を、言わば忘れかけていたのだ。"
-      },
-      {
-        "id": 4,
-        "french": "Wagner avait été audacieux : le programme de son concert ne comprenait ni solos d'instruments, ni chansons, ni aucune des exhibitions si chères à un public amoureux des virtuoses et de leurs tours de force. Rien que des morceaux d'ensemble, chœurs ou symphonies. La lutte fut violente, il est vrai ; mais le public, étant abandonné à lui-même, prit feu à quelques-uns de ces irrésistibles morceaux dont la pensée était pour lui plus nettement exprimée, et la musique de Wagner triompha par sa propre force. L'ouverture de Tannhäuser, la marche pompeuse du deuxième acte, l'ouverture de Lohengrin particulièrement, la musique de noces et l'épithalame furent magnifiquement acclamés. Beaucoup de choses restaient obscures sans doute, mais les esprits impartiaux se disaient : « Puisque ces compositions sont faites pour la scène, il faut attendre ; les choses non suffisamment définies seront expliquées par la plastique. »",
-        "officialTranslation": "ワーグナーは大胆だった。コンサートのプログラムには、独奏も歌も、演奏家とその曲芸を愛する聴衆が好むいかなる出し物も含まれていなかった。合唱や交響曲のみの合奏曲だけだった。戦いは激しかった。しかし聴衆は、自分たちに委ねられ、思想がより明確に表現されたいくつかの抗しがたい曲に感化された。ワーグナーの音楽は自らの力で勝利した。タンホイザー序曲、第二幕の豪壮な行進曲、とりわけローエングリン序曲、婚礼の音楽と祝婚歌が盛大に喝采された。多くのことが不明瞭なままだったが、公平な精神の持ち主たちは言った——「これらの作品は舞台のために作られているのだから、待つべきだ。十分に定義されていないことは舞台演出が説明してくれるだろう」と。"
-      },
-      {
-        "id": 5,
-        "french": "J'ai souvent entendu dire que la musique ne pouvait pas se vanter de traduire quoi que ce soit avec certitude, comme fait la parole ou la peinture. Cela est vrai dans une certaine proportion, mais n'est pas tout à fait vrai. Elle traduit à sa manière, et par les moyens qui lui sont propres. Dans la musique, comme dans la peinture et même dans la parole écrite, qui est cependant le plus positif des arts, il y a toujours une lacune complétée par l'imagination de l'auditeur. Ce sont sans doute ces considérations qui ont poussé Wagner à considérer l'art dramatique, c'est-à-dire la réunion, la coïncidence de plusieurs arts, comme l'art par excellence, le plus synthétique et le plus parfait.",
-        "officialTranslation": "音楽は言葉や絵画がするように、何かを確実に訳すことはできないとよく言われるのを聞いてきた。ある程度はそうだが、完全にそうではない。音楽は独自の方法で、固有の手段によって訳す。音楽においても、絵画においても、最も実証的な芸術である書かれた言葉においても、常に聴者の想像力によって補われる空白がある。おそらくこれらの考察がワーグナーを、演劇芸術——すなわち複数の芸術の結合・一致——を卓越した芸術、最も総合的で最も完全な芸術と見なすよう促したのであろう。"
-      },
-      {
-        "id": 6,
-        "french": "Je prends tout de suite un exemple, la fameuse ouverture de Lohengrin. Je lis dans le programme distribué à cette époque au Théâtre-Italien : « Dès les premières mesures, l'âme du pieux solitaire qui attend le vase sacré plonge dans les espaces infinis. Il voit se former peu à peu une apparition étrange qui prend un corps, une figure. Cette apparition se précise davantage et la troupe miraculeuse des anges, portant au milieu d'eux la coupe sacrée, passe devant lui. Le saint cortège approche ; le cœur de l'élu de Dieu s'exalte peu à peu ; il s'élargit, il se dilate ; d'ineffables aspirations s'éveillent en lui ; il cède à une béatitude croissante, en se trouvant toujours rapproché de la lumineuse apparition, et quand enfin le Saint-Graal lui-même apparaît au milieu du cortège sacré, il s'abîme dans une adoration extatique, comme si le monde entier eût soudainement disparu. »",
-        "officialTranslation": "すぐに例を取ろう——ローエングリンの有名な序曲である。当時イタリア座で配布されたプログラムにはこうある——「最初の小節から、聖杯を待つ敬虔な孤独者の魂は無限の空間へと沈む。彼は奇妙な幻が形を取り、姿を現すのを徐々に見る。この幻はより明確になり、聖杯を中央に抱えた奇跡的な天使の群れが彼の前を過ぎる。聖なる行列が近づく。神の選ばれし者の心は徐々に高まり、広がり、膨らむ。言いようのない憧れが彼の中に目覚め、輝く幻に近づくにつれて増す至福に身を任せる。そしてついに聖杯自体が聖なる行列の中に現れると、まるで全世界が突然消えたかのように、彼は恍惚とした崇拝の中に没入する。」"
-      },
-      {
-        "id": 7,
-        "french": "Je prends maintenant le livre de Liszt, et je l'ouvre à la page où l'imagination de l'illustre pianiste traduit à sa manière le même morceau : « Cette introduction renferme et révèle l'élément mystique, toujours présent et toujours caché dans la pièce… C'est au commencement une large nappe dormante de mélodie, un éther vaporeux qui s'étend, pour que le tableau sacré s'y dessine à nos yeux profanes ; effet exclusivement confié aux violons, divisés en huit pupitres différents, qui, après plusieurs mesures de sons harmoniques, continuent dans les plus hautes notes de leurs registres. Le motif est ensuite repris par les instruments à vent les plus doux ; les cors et les bassons, en s'y joignant, préparent l'entrée des trompettes et des trombones, qui répètent la mélodie pour la quatrième fois, avec un éclat éblouissant de coloris, comme si dans cet instant unique l'édifice saint avait brillé devant nos regards aveuglés, dans toute sa magnificence lumineuse et radiante. »",
-        "officialTranslation": "今度はリストの本を取り、この著名なピアニストの想像力が同じ曲を独自に訳したページを開く——「この序曲は作品に常に存在し常に隠れた神秘的な要素を包含し、また啓示する……最初は一面の静かな旋律の広がり、蒸気状のエーテルが伸び広がり、俗なる我らの眼に聖なる絵が描かれる。この効果は八つの異なる譜面台に分かれたヴァイオリンのみに委ねられ、数小節の和声音の後、楽器の最高音域で続く。動機はその後最も柔らかな管楽器に引き継がれ、ホルンとファゴットが加わって、トランペットとトロンボーンの入場を準備する。これらは四度目に旋律を繰り返し、眩いばかりの色彩の輝きをもって、まるでその唯一の瞬間に聖なる建物がその輝かしく放射的な壮麗さで眩まされた我らの眼前に光り輝いたかのようだ。」"
-      },
-      {
-        "id": 8,
-        "french": "M'est-il permis à moi-même de raconter, de rendre avec des paroles la traduction inévitable que mon imagination fit du même morceau, lorsque je l'entendis pour la première fois, les yeux fermés ? Je me souviens que, dès les premières mesures, je subis une de ces impressions heureuses que presque tous les hommes imaginatifs ont connues, par le rêve, dans le sommeil. Je me sentis délivré des liens de la pesanteur, et je retrouvai par le souvenir l'extraordinaire volupté qui circule dans les lieux hauts. Ensuite je me peignis involontairement l'état délicieux d'un homme en proie à une grande rêverie dans une solitude absolue, mais une solitude avec un immense horizon et une large lumière diffuse ; l'immensité sans autre décor qu'elle-même. Bientôt j'éprouvai la sensation d'une clarté plus vive, d'une intensité de lumière croissant avec une telle rapidité, que les nuances fournies par le dictionnaire ne suffiraient pas à exprimer ce surcroît toujours renaissant d'ardeur et de blancheur. Alors je conçus pleinement l'idée d'une âme se mouvant dans un milieu lumineux, d'une extase faite de volupté et de connaissance, et planant au-dessus et bien loin du monde naturel.",
-        "officialTranslation": "目を閉じて初めてこの曲を聴いたとき、私の想像力が行った不可避の翻訳を言葉で語り、伝えることが許されるだろうか。最初の数小節から、想像力ある人間のほぼすべてが夢の中で眠りの中で知っているような幸福な印象の一つを受けたことを覚えている。重力の束縛から解き放たれた感じがし、高い場所に漂う異常な官能を記憶の中に取り戻した。そして、絶対的な孤独の中で——しかし広大な地平線と広く拡散した光を持つ孤独の中で——大きな夢想に憑かれた人間の至福の状態を不随意に思い描いた。空漠さそれ自体以外の飾りのない空漠さ。やがて、辞書が提供する陰影では、絶えず蘇るこの熱気と白さの増大を表現するのに不十分なほどの速さで増す光の強度の感覚を覚えた。そして、光に満ちた環境の中を動く魂という観念を、官能と知識から成る恍惚という観念を、自然の世界の上方遠くに漂うという観念を完全に把握した。"
-      },
-      {
-        "id": 9,
-        "french": "De ces trois traductions, vous pourriez noter facilement les différences. Wagner indique une troupe d'anges qui apportent un vase sacré ; Liszt voit un monument miraculeusement beau, qui se reflète dans un mirage vaporeux. Ma rêverie est beaucoup moins illustrée d'objets matériels : elle est plus vague et plus abstraite. Mais l'important est ici de s'attacher aux ressemblances. Dans les trois traductions nous trouvons la sensation de la béatitude spirituelle et physique ; de l'isolement ; de la contemplation de quelque chose infiniment grand et infiniment beau ; d'une lumière intense qui réjouit les yeux et l'âme jusqu'à la pâmoison ; et enfin la sensation de l'espace étendu jusqu'aux dernières limites concevables. Aucun musicien n'excelle, comme Wagner, à peindre l'espace et la profondeur, matériels et spirituels. Il possède l'art de traduire, par des gradations subtiles, tout ce qu'il y a d'excessif, d'immense, d'ambitieux, dans l'homme spirituel et naturel. Il semble parfois, en écoutant cette musique ardente et despotique, qu'on retrouve peintes sur le fond des ténèbres, déchiré par la rêverie, les vertigineuses conceptions de l'opium.",
-        "officialTranslation": "この三つの翻訳の違いは容易に指摘できるだろう。ワーグナーは聖なる器を運ぶ天使の群れを示し、リストは霧状の蜃気楼に映る奇跡的に美しい記念物を見る。私の夢想は物質的な対象の描写がはるかに少なく、より曖昧でより抽象的だ。しかしここで重要なのは類似性に注目することである。三つの翻訳すべてに、精神的・肉体的な至福の感覚、孤立の感覚、無限に大きく無限に美しい何かの観照の感覚、失神するほどに目と魂を喜ばせる強烈な光の感覚、そして想像可能な最後の限界まで広がる空間の感覚が見出される。空間と深みを——物質的にも精神的にも——描くことにおいて、ワーグナーに勝る音楽家はいない。彼は微妙な漸次によって、精神的・自然的人間の中にある過剰なもの・広大なもの・野心的なものすべてを訳す技を持っている。この熱烈で専制的な音楽を聴きながら、夢想によって引き裂かれた暗闇の底に、阿片の眩暈するような幻想が描かれているかのように思えることがある。"
-      }
-    ]
-  }
+  "id": "baudelaire_wagner_1",
+  "title": "Richard Wagner et Tannhäuser à Paris — I",
+  "author": "Charles Baudelaire",
+  "source": "L'Art romantique (初出：Revue Européenne, 1er avril 1861)",
+  "year": "1861",
+  "difficulty": "中級〜上級",
+  "category": "baudelaire_music",
+  "modernRelevance": "★★★★★",
+  "context": "パリ初演（1860年1月）の衝撃。音楽の共感覚的体験。ローエングリン序曲の三つの解釈（ワーグナー・リスト・ボードレール）。",
+  "keywords": [
+    "Wagner",
+    "Lohengrin",
+    "musique",
+    "suggestion",
+    "synesthésie",
+    "analogie",
+    "infini",
+    "mysticité"
+  ],
+  "relatedTexts": [
+    "baudelaire_wagner_2",
+    "baudelaire_wagner_3",
+    "baudelaire_wagner_4",
+    "baudelaire_wagner_encore",
+    "baudelaire_romantisme",
+    "mallarme_wagner"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Remontons, s'il vous plaît, à treize mois en arrière, au commencement de la question, et qu'il me soit permis, dans cette appréciation, de parler souvent en mon nom personnel. Ce Je, accusé justement d'impertinence dans beaucoup de cas, implique cependant une grande modestie ; il enferme l'écrivain dans les limites les plus strictes de la sincérité. En réduisant sa tâche, il la rend plus facile. Enfin, il n'est pas nécessaire d'être un probabiliste bien consommé pour acquérir la certitude que cette sincérité trouvera des amis parmi les lecteurs impartiaux ; il y a évidemment quelques chances pour que le critique ingénu, en ne racontant que ses propres impressions, raconte aussi celles de quelques partisans inconnus.",
+      "officialTranslation": "13ヶ月前に、この問題の始まりへと立ち返らせていただきたい。この評論において、しばしば私自身の名において語ることを許してほしい。多くの場合で不遜と非難されるこの「私」は、しかし大きな謙遜を含意している。それは作家を誠実さの最も厳しい限界の中に封じ込める。課題を縮小することで、それをより容易にする。最後に、この誠実さが公平な読者の間に友人を見出すという確信を得るために、根っからの確率論者である必要はない。率直な批評家が自らの印象だけを語ることで、幾人かの見知らぬ同志の印象をも語ることになるという、いくつかの可能性が明らかにある。"
+    },
+    {
+      "id": 2,
+      "french": "Donc, il y a treize mois, ce fut une grande rumeur dans Paris. Un compositeur allemand, qui avait vécu longtemps chez nous, à notre insu, pauvre, inconnu, par de misérables besognes, mais que, depuis quinze ans déjà, le public allemand célébrait comme un homme de génie, revenait dans la ville, jadis témoin de ses jeunes misères, soumettre ses œuvres à notre jugement. Paris avait jusque-là peu entendu parler de Wagner ; on savait vaguement qu'au-delà du Rhin s'agitait la question d'une réforme dans le drame lyrique, et que Liszt avait adopté avec ardeur les opinions du réformateur.",
+      "officialTranslation": "さて、13ヶ月前、パリで大きな噂が巻き起こった。一人のドイツ人作曲家が、貧しく、無名のまま、惨めな仕事でわれわれの知らぬうちに長く住んでいたのだが、すでに15年前からドイツの聴衆が天才と称えていたこの人物が、かつて若い苦労の証人であったこの街に戻り、自らの作品をわれわれの審判に委ねた。パリはそれまでワーグナーについてほとんど聞いていなかった。ライン川の向こうで歌劇の改革を巡る問題が騒がれており、リストが熱心にこの改革者の意見を採用したことは漠然と知られていた。"
+    },
+    {
+      "id": 3,
+      "french": "Aussitôt que les affiches annoncèrent que Richard Wagner ferait entendre dans la salle des Italiens des fragments de ses compositions, un fait amusant se produisit, que nous avons déjà vu, et qui prouve le besoin instinctif, précipité, des Français, de prendre sur toute chose leur parti avant d'avoir délibéré ou examiné. Les uns annoncèrent des merveilles, et les autres se mirent à dénigrer à outrance des œuvres qu'ils n'avaient pas encore entendues. Encore aujourd'hui dure cette situation bouffonne, et l'on peut dire que jamais sujet inconnu ne fut tant discuté. Bref, les concerts de Wagner s'annonçaient comme une véritable bataille de doctrines, comme une de ces solennelles crises de l'art, une de ces mêlées où critiques, artistes et public ont coutume de jeter confusément toutes leurs passions ; crises heureuses qui dénotent la santé et la richesse dans la vie intellectuelle d'une nation, et que nous avions, pour ainsi dire, désapprises depuis les grands jours de Victor Hugo.",
+      "officialTranslation": "リヒャルト・ワーグナーがイタリア座で自らの作品の断片を聴かせるという張り紙が出るやいなや、われわれがすでに目撃したことのある、審議も検討もしないうちに万事について立場を取るフランス人の本能的で性急な必要性を証明する、面白い事態が生じた。ある者は驚異を予言し、ある者はまだ聴いてもいない作品を徹底的に貶し始めた。この滑稽な状況は今もなお続いており、未知の主題がこれほど多く議論されたことはなかったと言えるだろう。要するに、ワーグナーのコンサートは一種の教義の戦争、批評家・芸術家・聴衆が混乱してすべての情熱を投じる荘厳な芸術の危機として予告されていた。ヴィクトル・ユゴーの偉大な日々以来、われわれはこのような危機を、言わば忘れかけていたのだ。"
+    },
+    {
+      "id": 4,
+      "french": "Wagner avait été audacieux : le programme de son concert ne comprenait ni solos d'instruments, ni chansons, ni aucune des exhibitions si chères à un public amoureux des virtuoses et de leurs tours de force. Rien que des morceaux d'ensemble, chœurs ou symphonies. La lutte fut violente, il est vrai ; mais le public, étant abandonné à lui-même, prit feu à quelques-uns de ces irrésistibles morceaux dont la pensée était pour lui plus nettement exprimée, et la musique de Wagner triompha par sa propre force. L'ouverture de Tannhäuser, la marche pompeuse du deuxième acte, l'ouverture de Lohengrin particulièrement, la musique de noces et l'épithalame furent magnifiquement acclamés. Beaucoup de choses restaient obscures sans doute, mais les esprits impartiaux se disaient : « Puisque ces compositions sont faites pour la scène, il faut attendre ; les choses non suffisamment définies seront expliquées par la plastique. »",
+      "officialTranslation": "ワーグナーは大胆だった。コンサートのプログラムには、独奏も歌も、演奏家とその曲芸を愛する聴衆が好むいかなる出し物も含まれていなかった。合唱や交響曲のみの合奏曲だけだった。戦いは激しかった。しかし聴衆は、自分たちに委ねられ、思想がより明確に表現されたいくつかの抗しがたい曲に感化された。ワーグナーの音楽は自らの力で勝利した。タンホイザー序曲、第二幕の豪壮な行進曲、とりわけローエングリン序曲、婚礼の音楽と祝婚歌が盛大に喝采された。多くのことが不明瞭なままだったが、公平な精神の持ち主たちは言った——「これらの作品は舞台のために作られているのだから、待つべきだ。十分に定義されていないことは舞台演出が説明してくれるだろう」と。"
+    },
+    {
+      "id": 5,
+      "french": "J'ai souvent entendu dire que la musique ne pouvait pas se vanter de traduire quoi que ce soit avec certitude, comme fait la parole ou la peinture. Cela est vrai dans une certaine proportion, mais n'est pas tout à fait vrai. Elle traduit à sa manière, et par les moyens qui lui sont propres. Dans la musique, comme dans la peinture et même dans la parole écrite, qui est cependant le plus positif des arts, il y a toujours une lacune complétée par l'imagination de l'auditeur. Ce sont sans doute ces considérations qui ont poussé Wagner à considérer l'art dramatique, c'est-à-dire la réunion, la coïncidence de plusieurs arts, comme l'art par excellence, le plus synthétique et le plus parfait.",
+      "officialTranslation": "音楽は言葉や絵画がするように、何かを確実に訳すことはできないとよく言われるのを聞いてきた。ある程度はそうだが、完全にそうではない。音楽は独自の方法で、固有の手段によって訳す。音楽においても、絵画においても、最も実証的な芸術である書かれた言葉においても、常に聴者の想像力によって補われる空白がある。おそらくこれらの考察がワーグナーを、演劇芸術——すなわち複数の芸術の結合・一致——を卓越した芸術、最も総合的で最も完全な芸術と見なすよう促したのであろう。"
+    },
+    {
+      "id": 6,
+      "french": "Je prends tout de suite un exemple, la fameuse ouverture de Lohengrin. Je lis dans le programme distribué à cette époque au Théâtre-Italien : « Dès les premières mesures, l'âme du pieux solitaire qui attend le vase sacré plonge dans les espaces infinis. Il voit se former peu à peu une apparition étrange qui prend un corps, une figure. Cette apparition se précise davantage et la troupe miraculeuse des anges, portant au milieu d'eux la coupe sacrée, passe devant lui. Le saint cortège approche ; le cœur de l'élu de Dieu s'exalte peu à peu ; il s'élargit, il se dilate ; d'ineffables aspirations s'éveillent en lui ; il cède à une béatitude croissante, en se trouvant toujours rapproché de la lumineuse apparition, et quand enfin le Saint-Graal lui-même apparaît au milieu du cortège sacré, il s'abîme dans une adoration extatique, comme si le monde entier eût soudainement disparu. »",
+      "officialTranslation": "すぐに例を取ろう——ローエングリンの有名な序曲である。当時イタリア座で配布されたプログラムにはこうある——「最初の小節から、聖杯を待つ敬虔な孤独者の魂は無限の空間へと沈む。彼は奇妙な幻が形を取り、姿を現すのを徐々に見る。この幻はより明確になり、聖杯を中央に抱えた奇跡的な天使の群れが彼の前を過ぎる。聖なる行列が近づく。神の選ばれし者の心は徐々に高まり、広がり、膨らむ。言いようのない憧れが彼の中に目覚め、輝く幻に近づくにつれて増す至福に身を任せる。そしてついに聖杯自体が聖なる行列の中に現れると、まるで全世界が突然消えたかのように、彼は恍惚とした崇拝の中に没入する。」"
+    },
+    {
+      "id": 7,
+      "french": "Je prends maintenant le livre de Liszt, et je l'ouvre à la page où l'imagination de l'illustre pianiste traduit à sa manière le même morceau : « Cette introduction renferme et révèle l'élément mystique, toujours présent et toujours caché dans la pièce… C'est au commencement une large nappe dormante de mélodie, un éther vaporeux qui s'étend, pour que le tableau sacré s'y dessine à nos yeux profanes ; effet exclusivement confié aux violons, divisés en huit pupitres différents, qui, après plusieurs mesures de sons harmoniques, continuent dans les plus hautes notes de leurs registres. Le motif est ensuite repris par les instruments à vent les plus doux ; les cors et les bassons, en s'y joignant, préparent l'entrée des trompettes et des trombones, qui répètent la mélodie pour la quatrième fois, avec un éclat éblouissant de coloris, comme si dans cet instant unique l'édifice saint avait brillé devant nos regards aveuglés, dans toute sa magnificence lumineuse et radiante. »",
+      "officialTranslation": "今度はリストの本を取り、この著名なピアニストの想像力が同じ曲を独自に訳したページを開く——「この序曲は作品に常に存在し常に隠れた神秘的な要素を包含し、また啓示する……最初は一面の静かな旋律の広がり、蒸気状のエーテルが伸び広がり、俗なる我らの眼に聖なる絵が描かれる。この効果は八つの異なる譜面台に分かれたヴァイオリンのみに委ねられ、数小節の和声音の後、楽器の最高音域で続く。動機はその後最も柔らかな管楽器に引き継がれ、ホルンとファゴットが加わって、トランペットとトロンボーンの入場を準備する。これらは四度目に旋律を繰り返し、眩いばかりの色彩の輝きをもって、まるでその唯一の瞬間に聖なる建物がその輝かしく放射的な壮麗さで眩まされた我らの眼前に光り輝いたかのようだ。」"
+    },
+    {
+      "id": 8,
+      "french": "M'est-il permis à moi-même de raconter, de rendre avec des paroles la traduction inévitable que mon imagination fit du même morceau, lorsque je l'entendis pour la première fois, les yeux fermés ? Je me souviens que, dès les premières mesures, je subis une de ces impressions heureuses que presque tous les hommes imaginatifs ont connues, par le rêve, dans le sommeil. Je me sentis délivré des liens de la pesanteur, et je retrouvai par le souvenir l'extraordinaire volupté qui circule dans les lieux hauts. Ensuite je me peignis involontairement l'état délicieux d'un homme en proie à une grande rêverie dans une solitude absolue, mais une solitude avec un immense horizon et une large lumière diffuse ; l'immensité sans autre décor qu'elle-même. Bientôt j'éprouvai la sensation d'une clarté plus vive, d'une intensité de lumière croissant avec une telle rapidité, que les nuances fournies par le dictionnaire ne suffiraient pas à exprimer ce surcroît toujours renaissant d'ardeur et de blancheur. Alors je conçus pleinement l'idée d'une âme se mouvant dans un milieu lumineux, d'une extase faite de volupté et de connaissance, et planant au-dessus et bien loin du monde naturel.",
+      "officialTranslation": "目を閉じて初めてこの曲を聴いたとき、私の想像力が行った不可避の翻訳を言葉で語り、伝えることが許されるだろうか。最初の数小節から、想像力ある人間のほぼすべてが夢の中で眠りの中で知っているような幸福な印象の一つを受けたことを覚えている。重力の束縛から解き放たれた感じがし、高い場所に漂う異常な官能を記憶の中に取り戻した。そして、絶対的な孤独の中で——しかし広大な地平線と広く拡散した光を持つ孤独の中で——大きな夢想に憑かれた人間の至福の状態を不随意に思い描いた。空漠さそれ自体以外の飾りのない空漠さ。やがて、辞書が提供する陰影では、絶えず蘇るこの熱気と白さの増大を表現するのに不十分なほどの速さで増す光の強度の感覚を覚えた。そして、光に満ちた環境の中を動く魂という観念を、官能と知識から成る恍惚という観念を、自然の世界の上方遠くに漂うという観念を完全に把握した。"
+    },
+    {
+      "id": 9,
+      "french": "De ces trois traductions, vous pourriez noter facilement les différences. Wagner indique une troupe d'anges qui apportent un vase sacré ; Liszt voit un monument miraculeusement beau, qui se reflète dans un mirage vaporeux. Ma rêverie est beaucoup moins illustrée d'objets matériels : elle est plus vague et plus abstraite. Mais l'important est ici de s'attacher aux ressemblances. Dans les trois traductions nous trouvons la sensation de la béatitude spirituelle et physique ; de l'isolement ; de la contemplation de quelque chose infiniment grand et infiniment beau ; d'une lumière intense qui réjouit les yeux et l'âme jusqu'à la pâmoison ; et enfin la sensation de l'espace étendu jusqu'aux dernières limites concevables. Aucun musicien n'excelle, comme Wagner, à peindre l'espace et la profondeur, matériels et spirituels. Il possède l'art de traduire, par des gradations subtiles, tout ce qu'il y a d'excessif, d'immense, d'ambitieux, dans l'homme spirituel et naturel. Il semble parfois, en écoutant cette musique ardente et despotique, qu'on retrouve peintes sur le fond des ténèbres, déchiré par la rêverie, les vertigineuses conceptions de l'opium.",
+      "officialTranslation": "この三つの翻訳の違いは容易に指摘できるだろう。ワーグナーは聖なる器を運ぶ天使の群れを示し、リストは霧状の蜃気楼に映る奇跡的に美しい記念物を見る。私の夢想は物質的な対象の描写がはるかに少なく、より曖昧でより抽象的だ。しかしここで重要なのは類似性に注目することである。三つの翻訳すべてに、精神的・肉体的な至福の感覚、孤立の感覚、無限に大きく無限に美しい何かの観照の感覚、失神するほどに目と魂を喜ばせる強烈な光の感覚、そして想像可能な最後の限界まで広がる空間の感覚が見出される。空間と深みを——物質的にも精神的にも——描くことにおいて、ワーグナーに勝る音楽家はいない。彼は微妙な漸次によって、精神的・自然的人間の中にある過剰なもの・広大なもの・野心的なものすべてを訳す技を持っている。この熱烈で専制的な音楽を聴きながら、夢想によって引き裂かれた暗闇の底に、阿片の眩暈するような幻想が描かれているかのように思えることがある。"
+    }
+  ]
 }

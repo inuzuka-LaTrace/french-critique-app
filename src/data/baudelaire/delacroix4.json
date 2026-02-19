@@ -1,0 +1,46 @@
+{
+  "id": "baudelaire_delacroix_4",
+  "title": "De M. Eugène Delacroix (IV) — La grandeur et la conclusion",
+  "author": "Charles Baudelaire",
+  "source": "Salon de 1846",
+  "year": "1846",
+  "firstPublication": "Salon de 1846",
+  "difficulty": "上級",
+  "category": "baudelaire_aesthetics",
+  "modernRelevance": "★★★★★",
+  "context": "ドラクロワ論の総括。ボードレールはドラクロワを「最後の偉大な芸術家」として位置づけ、偉大さの条件を「強度・凝縮・暗示」に求める。「De l'héroïsme de la vie moderne」の英雄性論とも呼応する結論部。",
+  "keywords": ["grandeur", "intensité", "suggestion", "synthèse", "génie"],
+  "relatedTexts": ["baudelaire_delacroix_3", "baudelaire_heroisme", "baudelaire_romantisme"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Ce qui constitue la grandeur en peinture ? Ce n'est ni la vérité ni la vraisemblance. Ce n'est pas non plus le genre, ni l'imitation. Ce n'est pas la perfection du dessin. C'est l'intensité du sentiment personnel traduit par des moyens appropriés.",
+      "provisionalTranslation": "絵画における偉大さを構成するものは何か。真実でも蓋然性でもない。ジャンルでも模倣でもない。素描の完璧さでもない。それは、適切な手段によって翻訳された個人的感情の強度である。"
+    },
+    {
+      "id": 2,
+      "french": "Dans l'œuvre de Delacroix, tout est désolation, massacres, incendies ; tout témoigne contre l'immortalité de l'âme, et les êtres sensibles qui regardent ses tableaux sont visités par la terrible angoisse. Cependant son œuvre est un hymne à la beauté du monde.",
+      "provisionalTranslation": "ドラクロワの作品においては、すべてが荒廃、虐殺、炎上であり、すべてが魂の不死に反証し、その絵画を見る感受性豊かな者たちは恐ろしい苦悩に見舞われる。しかしその作品は世界の美への讃歌である。"
+    },
+    {
+      "id": 3,
+      "french": "Delacroix est le peintre qui a le mieux résumé le côté douloureux du siècle. Il exprime tantôt la fougue de la jeunesse, tantôt la mélancolie douce-amère des âges mûrs. Mais toujours il exprime l'immodération du désir, la grâce dans la souffrance, la splendeur sombre et mystérieuse de la douleur.",
+      "provisionalTranslation": "ドラクロワは世紀の苦痛の側面を最もよく総括した画家だ。時に青春の激情を、時に円熟した時代の甘苦いメランコリーを表現する。しかし常に彼は、欲望の無際限さ、苦悩の中の優雅、痛みの暗く神秘的な輝きを表現する。"
+    },
+    {
+      "id": 4,
+      "french": "L'art de Delacroix semble être une espèce de mnémotechnie de la grandeur et de la douleur native de l'homme. En ce sens, il est bien le peintre de notre temps. Nul, mieux que lui, n'a exprimé l'inquiétude du désir, la lassitude du sentiment, la mélancolie inévitable du triomphe.",
+      "provisionalTranslation": "ドラクロワの芸術は、人間の偉大さと生来の苦痛の一種の記憶術のように思われる。この意味において彼はまさに私たちの時代の画家だ。欲望の不安、感情の疲弊、勝利の避け難いメランコリーを、彼よりも上手く表現した者はいない。"
+    },
+    {
+      "id": 5,
+      "french": "M. Delacroix est quelquefois inégal, parfois incomplet. Mais il a dans les veines du sang de Shakespeare, de Dante, du Byron. Il est le premier des grands maîtres du siècle, et le dernier peut-être. Son œuvre est une espèce de crépuscule splendide qui marque la fin d'une ère.",
+      "provisionalTranslation": "ドラクロワ氏は時に不均一であり、時に不完全だ。しかし彼の血脈にはシェイクスピア、ダンテ、バイロンの血が流れている。彼は世紀の偉大な巨匠の筆頭であり、おそらく最後の者でもある。その作品は一時代の終わりを告げる壮麗な黄昏の一種だ。"
+    },
+    {
+      "id": 6,
+      "french": "Ainsi, un artiste comme Delacroix nous enseigne que la beauté n'est jamais la même, qu'elle varie selon les climats, les mœurs, les passions, les âges. La beauté est toujours bizarre. Elle contient toujours un peu d'étrangeté, d'étrangeté naïve, non voulue, inconsciente, et c'est cette étrangeté qui la fait être particulièrement la Beauté.",
+      "provisionalTranslation": "かくしてドラクロワのような芸術家は、美とは決して同一ではなく、気候、風俗、情念、時代によって変化するものであることを教えてくれる。美は常に奇異である。常に少しの奇異さ——素朴な、意図されない、無意識の奇異さを含んでおり、その奇異さこそが美を特別に美たらしめるのだ。"
+    }
+  ]
+}

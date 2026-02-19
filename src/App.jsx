@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import baudelaireData from './data/baudelaire';
 import mallarmeData from './data/mallarme';
 import valeryData from './data/valery';
+import valmoreData from './data/valmore';
 
 export default function App() {
   const [texts, setTexts] = useState({});
@@ -22,7 +23,8 @@ export default function App() {
     const allTexts = {
       ...baudelaireData,
       ...mallarmeData,
-      ...valeryData
+      ...valeryData,
+      ...valmoreData
     };
     setTexts(allTexts);
     setLoading(false);
@@ -42,6 +44,7 @@ export default function App() {
     valery: { name: 'ヴァレリー' },
     mallarme_music: { name: 'マラルメ音楽論' }, 
     mallarme_theatre: { name: 'マラルメ演劇・表象論' }
+    valmore: { name: 'ヴァルモール' }
   };
   
   const filteredTexts = selectedCategory === 'all'

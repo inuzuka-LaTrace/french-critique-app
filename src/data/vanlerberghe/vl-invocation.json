@@ -1,0 +1,86 @@
+{
+  "id": "vanlerberghe_invocation",
+  "title": "Invocation",
+  "author": "Charles Van Lerberghe",
+  "source": "Entrevisions",
+  "year": "1898",
+  "firstPublication": "La Pléiade, 1886",
+  "difficulty": "中級〜上級",
+  "category": "vanlerberghe",
+  "modernRelevance": "★★★★☆",
+  "context": "詩集『Entrevisions』所収。初出は象徴主義の重要な拠点となった雑誌『ラ・プレイヤード』1886年。「tu（あなた）」への呼びかけという形式をとりつつ、その対象は愛する人であると同時に詩人の魂そのものとも読める。グレイハウンドのしなやかさ、ポプラの影、薔薇の帽子という具体的イメージが象徴的な奥行きをもつ。14行詩だが古典的ソネットの形式を逸脱した自由な構成。",
+  "keywords": ["invocation", "âme", "lévriers", "ombre", "rêve"],
+  "relatedTexts": ["vanlerberghe_entrevision", "vanlerberghe_solitude"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Tu réponds à mes vœux les plus chers. O chagrine",
+      "officialTranslation": "あなたは私の最も大切な願いに応える。おお、悲しみに沈み"
+    },
+    {
+      "id": 2,
+      "french": "Et délicate enfant d'une race si fine,",
+      "officialTranslation": "これほど繊細な血筋の、か弱い子よ、"
+    },
+    {
+      "id": 3,
+      "french": "Si pure, qui survit dans le soir de tes yeux ;",
+      "officialTranslation": "これほど清らかで、あなたの目の夕暮れの中に生き続ける子よ；"
+    },
+    {
+      "id": 4,
+      "french": "Les sveltes lévriers lèchent tes pieds soyeux,",
+      "officialTranslation": "しなやかなグレイハウンドたちがあなたの絹のような足を舐め、"
+    },
+    {
+      "id": 5,
+      "french": "Caressants et dormants parmi les feuilles sombres,",
+      "officialTranslation": "暗い葉の中で愛撫しながら眠っている；"
+    },
+    {
+      "id": 6,
+      "french": "Et les verts peupliers te vêtent de leurs ombres.",
+      "officialTranslation": "そして緑のポプラたちがその影をあなたに纏わせる。"
+    },
+    {
+      "id": 7,
+      "french": "Lumineuse, parmi ces sourdes profondeurs,",
+      "officialTranslation": "輝きながら、この鈍い深みの中で、"
+    },
+    {
+      "id": 8,
+      "french": "Par les légers chemins pleins de tièdes odeurs,",
+      "officialTranslation": "温かな香りに満ちた軽やかな道を通って、"
+    },
+    {
+      "id": 9,
+      "french": "Qu'ondule de soleils ta robe chatoyante,",
+      "officialTranslation": "陽光に揺れる玉虫色のあなたの衣をまとい、"
+    },
+    {
+      "id": 10,
+      "french": "Tu portes en tes mains mon âme souriante,",
+      "officialTranslation": "あなたは微笑む私の魂を両手に抱いて運ぶ、"
+    },
+    {
+      "id": 11,
+      "french": "Et perlés de matins, éblouis de frissons,",
+      "officialTranslation": "朝の露に濡れ、震えに目を眩まされながら、"
+    },
+    {
+      "id": 12,
+      "french": "Tu sais tresser encor de mes frêles chansons,",
+      "officialTranslation": "あなたはまだ私のか弱い歌から編むことができる、"
+    },
+    {
+      "id": 13,
+      "french": "Autour de ton front chaste et tes paupières closes,",
+      "officialTranslation": "あなたの清らかな額と閉じた瞼の周りに、"
+    },
+    {
+      "id": 14,
+      "french": "De légers rêves blancs, comme un chapeau de roses.",
+      "officialTranslation": "薔薇の帽子のような、軽やかな白い夢を。"
+    }
+  ]
+}

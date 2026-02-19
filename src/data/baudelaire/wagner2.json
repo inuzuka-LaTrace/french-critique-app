@@ -1,57 +1,69 @@
 {
-  "baudelaire_wagner_2": {
-    "id": "baudelaire_wagner_2",
-    "title": "Richard Wagner et Tannhäuser à Paris — II",
-    "author": "Charles Baudelaire",
-    "source": "L'Art romantique (初出：Revue Européenne, 1er avril 1861)",
-    "year": "1861",
-    "difficulty": "中級〜上級",
-    "category": "baudelaire_music",
-    "modernRelevance": "★★★★☆",
-    "context": "ワーグナーの思想的背景。ギリシャ悲劇・ドラマ改革論。詩人は必然的に批評家である——ワーグナーとドラクロワの並置。",
-    "keywords": ["Wagner", "drame", "Grèce antique", "poète", "critique", "Delacroix", "mythe", "réforme"],
-    "relatedTexts": ["baudelaire_wagner_1", "baudelaire_wagner_3", "baudelaire_wagner_4", "baudelaire_reine"],
-    "paragraphs": [
-      {
-        "id": 1,
-        "french": "Les plaisanteries françaises allaient toujours leur train, et le journalisme vulgaire opérait sans trêve ses gamineries professionnelles. Comme Wagner n'avait jamais cessé de répéter que la musique (dramatique) devait parler le sentiment, s'adapter au sentiment avec la même exactitude que la parole, mais évidemment d'une autre manière, c'est-à-dire exprimer la partie indéfinie du sentiment que la parole, trop positive, ne peut pas rendre, une foule de gens, persuadés par les plaisants du feuilleton, s'imaginèrent que le maître attribuait à la musique la puissance d'exprimer la forme positive des choses, c'est-à-dire qu'il intervertissait les rôles et les fonctions. C'est de cette facilité à souffrir, commune à tous les artistes et d'autant plus grande que leur instinct du juste et du beau est plus prononcé, que je tire l'explication des opinions révolutionnaires de Wagner.",
-        "officialTranslation": "フランス的な冗談は相変わらず続き、俗悪なジャーナリズムは間断なくその職業的な悪ふざけを繰り広げた。ワーグナーは、（劇的）音楽は感情を語らねばならず、言葉と同じ正確さで感情に適応しなければならないが、明らかに別の方法で、すなわち言葉では表現できない感情の不定形な部分を表現しなければならない、と繰り返し言い続けた。この苦しみやすさ——すべての芸術家に共通で、正しいものと美しいものへの本能が強ければ強いほど大きい——から、私はワーグナーの革命的意見の説明を引き出す。"
-      },
-      {
-        "id": 2,
-        "french": "Je vois, par les notes que lui-même il a fournies sur sa jeunesse, que, tout enfant, il vivait au sein du théâtre, fréquentait les coulisses et composait des comédies. La musique de Weber et, plus tard, celle de Beethoven, agirent sur son esprit avec une force irrésistible, et bientôt, les années et les études s'accumulant, il lui fut impossible de ne pas penser d'une manière double, poétiquement et musicalement, de ne pas entrevoir toute idée sous deux formes simultanées, l'un des deux arts commençant sa fonction là où s'arrêtent les limites de l'autre. L'instinct dramatique, qui occupait une si grande place dans ses facultés, devait le pousser à se révolter contre toutes les frivolités, les platitudes et les absurdités des pièces faites pour la musique.",
-        "officialTranslation": "彼自身が若い頃について書いた覚書から、幼い頃から劇場の中で生き、舞台裏に出入りし、喜劇を作っていたことが分かる。ウェーバーの音楽が、後にはベートーヴェンの音楽が、抗しがたい力で彼の精神に作用した。やがて年月と研究が積み重なるにつれ、詩的にも音楽的にも二重の形で思考すること、すべての観念を二つの同時的な形で——一方の芸術が他方の限界の終わるところで機能を開始しながら——見通すことなしにはいられなくなった。彼の能力の中で大きな位置を占める演劇本能は、音楽のために作られた作品のあらゆる軽薄さ・平板さ・不条理さに対して反乱を起こさせるべく彼を駆り立てた。"
-      },
-      {
-        "id": 3,
-        "french": "Quiconque a lu avec attention la Lettre sur la musique, qui sert de préface à Quatre poèmes d'opéras traduits en prose française, ne peut conserver à cet égard aucun doute. En feuilletant la Lettre sur la musique, je sentais revivre dans mon esprit, comme par un phénomène d'écho mnémonique, différents passages de Diderot qui affirment que la vraie musique dramatique ne peut pas être autre chose que le cri ou le soupir de la passion noté et rythmé. Les mêmes problèmes scientifiques, poétiques, artistiques, se reproduisent sans cesse à travers les âges, et Wagner ne se donne pas pour un inventeur mais simplement pour le confirmateur d'une ancienne idée qui sera sans doute plus d'une fois encore, alternativement vaincue et victorieuse.",
-        "officialTranslation": "フランス語散文に訳された四つのオペラ詩の序文として使われている『音楽への手紙』を注意深く読んだ者は、この点について何の疑いも保ち得ない。『音楽への手紙』を繰ると、記憶的反響の現象のように、真の劇音楽は情熱の記譜され韻律化された叫びや溜息以外のものであり得ないと断言するディドロのさまざまな一節が精神に蘇ってくるのを感じた。同じ科学的・詩的・芸術的問題が時代を超えて際限なく繰り返され、ワーグナーは発明者としてではなく、交互に敗北と勝利を繰り返す古い観念の確認者として自らを位置づけている。"
-      },
-      {
-        "id": 4,
-        "french": "Dans cette même Lettre sur la musique, où l'auteur donne une analyse très brève et très limpide de ses trois anciens ouvrages, nous trouvons une préoccupation très vive du théâtre grec. Dans sa lettre à Berlioz, il disait déjà : « Je me demandai quelles devaient être les conditions de l'art pour qu'il pût inspirer au public un inviolable respect, et, afin de ne point m'aventurer trop dans l'examen de cette question, je fus chercher mon point de départ dans la Grèce ancienne. J'y rencontrai tout d'abord l'œuvre artistique par excellence, le drame, dans lequel l'idée, quelque profonde qu'elle soit, peut se manifester avec le plus de clarté et de la manière la plus universellement intelligible. Nous nous étonnons à bon droit aujourd'hui que trente mille Grecs aient pu suivre avec un intérêt soutenu la représentation des tragédies d'Eschyle ; mais si nous recherchons le moyen par lequel on obtenait de pareils résultats, nous trouvons que c'est par l'alliance de tous les arts concourant ensemble au même but, c'est-à-dire à la production de l'œuvre artistique la plus parfaite et la seule vraie. »",
-        "officialTranslation": "この同じ『音楽への手紙』——著者が三つの旧著の極めて簡潔で明快な分析を与えている——において、ギリシャ劇への強い関心が見出される。ベルリオーズへの手紙で彼はすでにこう言っていた——「芸術が聴衆に侵すべからざる尊敬を吹き込めるような、芸術の条件を自問した。この問いの検討に踏み込みすぎないよう、古代ギリシャに出発点を求めた。そこでまず芸術作品の典型——ドラマ——に出会った。そこではどれほど深い観念も最大の明晰さをもって最も普遍的に了解可能な形で現れ得る。三万人のギリシャ人がアイスキュロスの悲劇の上演に持続した関心をもって従えたことに、われわれは今日正当に驚く。しかしそのような結果を得た手段を探せば、すべての芸術が同じ目的——最も完全で唯一真の芸術作品の産出——に向かって共同することの同盟であると分かる。」"
-      },
-      {
-        "id": 5,
-        "french": "Ce goût absolu, despotique, d'un idéal dramatique, où tous les détails doivent sans cesse concourir à une totalité d'effet, a fait la destinée de Wagner. Depuis le jour où il s'est dégagé des vieilles routines du livret et où il a courageusement renié son Rienzi, il a marché, sans dévier d'une ligne, vers cet impérieux idéal. C'est donc sans étonnement que j'ai trouvé dans ceux de ses ouvrages qui sont traduits, particulièrement dans Tannhäuser, Lohengrin et le Vaisseau fantôme, une méthode de construction excellente, un esprit d'ordre et de division qui rappelle l'architecture des tragédies antiques. La radieuse Vénus antique, l'Aphrodite née de la blanche écume, n'a pas impunément traversé les horrifiques ténèbres du moyen âge. Elle n'habite plus l'Olympe ni les rives d'un archipel parfumé. Elle est retirée au fond d'une caverne. En descendant sous terre, Vénus s'est rapprochée de l'enfer.",
-        "officialTranslation": "あらゆる細部が効果の全体性に絶えず貢献しなければならない劇的理想への絶対的で専制的な趣味が、ワーグナーの運命を作った。台本の古い慣習から脱し、勇敢に若い日の成功作『リエンツィ』を否定した日から、彼は一線も逸れることなくこの命令的な理想へ向かって歩んだ。翻訳されている彼の作品、とりわけ『タンホイザー』『ローエングリン』『さまよえるオランダ人』に、優れた構成の方法と古代悲劇の建築を思わせる秩序と区分の精神を見出したのも驚くにはあたらない。古代の輝ける愛の女神ウェヌス、白い泡から生まれたアフロディテは、中世の恐ろしい暗黒を無事には通り抜けていない。彼女はもはやオリンポスにも芳しい列島の岸辺にも住まわず、洞窟の奥底に退いている。地下に降ることで、ウェヌスは地獄に近づいた。"
-      },
-      {
-        "id": 6,
-        "french": "De même, les poèmes de Wagner, bien qu'ils révèlent un goût sincère et une parfaite intelligence de la beauté classique, participent aussi, dans une forte dose, de l'esprit romantique. S'ils font rêver à la majesté de Sophocle et d'Eschyle, ils contraignent en même temps l'esprit à se souvenir des Mystères de l'époque la plus plastiquement catholique. Ils ressemblent à ces grandes visions que le moyen âge étalait sur les murs de ses églises ou tissait dans ses magnifiques tapisseries. Ils ont un aspect général décidément légendaire : le Tannhäuser, légende ; le Lohengrin, légende ; légende, le Vaisseau fantôme. Et ce n'est pas seulement une propension naturelle à tout esprit poétique qui a conduit Wagner vers cette apparente spécialité ; c'est un parti pris formel puisé dans l'étude des conditions les plus favorables du drame lyrique.",
-        "officialTranslation": "同様に、ワーグナーの詩は古典的美への誠実な趣味と完全な理解を示しながらも、強い度合いでロマン主義的精神にも与している。ソポクレスとアイスキュロスの壮大さを夢見させながら、同時に最も造形的にカトリックな時代の神秘劇を精神に思い起こさせる。それらは中世が教会の壁に展開し、壮麗なタペストリーに織り込んだ大きな幻像に似ている。その全体的な様相は決定的に伝説的である——タンホイザーは伝説、ローエングリンは伝説、さまよえるオランダ人も伝説だ。ワーグナーをこの見かけの専門性へと導いたのは、詩的精神すべてに自然な傾向ばかりではない。それは歌劇の最も有利な条件の研究から汲まれた明確な立場決定なのだ。"
-      },
-      {
-        "id": 7,
-        "french": "J'ai entendu beaucoup de personnes tirer de l'étendue même de ses facultés et de sa haute intelligence critique une raison de défiance relativement à son génie musical. « Un homme qui raisonne tant de son art ne peut pas produire naturellement de belles œuvres », disent quelques-uns qui dépouillent ainsi le génie de sa rationalité, et lui assignent une fonction purement instinctive et pour ainsi dire végétale. Non seulement ceci est parfaitement faux, puisque le maître a commencé tout jeune par produire des essais poétiques et musicaux d'une nature variée, et qu'il n'est arrivé que progressivement à se faire un idéal de drame lyrique, mais c'est même une chose absolument impossible. Ce serait un événement tout nouveau dans l'histoire des arts qu'un critique se faisant poète, un renversement de toutes les lois psychiques, une monstruosité.",
-        "officialTranslation": "彼の能力の広さと高度な批評的知性から、音楽的天才への不信の根拠を引き出すという者を多く聞いてきた。「自分の芸術についてこれほど多く論ずる人間は、自然に美しい作品を生み出すことはできない」と言う者がいる。彼らは天才から合理性を剥ぎ取り、純粋に本能的で言わば植物的な機能を与える。これは全く誤っているだけでなく——なぜなら師は若い頃からさまざまな性質の詩的・音楽的試みを生み出し、徐々に歌劇の理想を形成するに至ったのだから——絶対に不可能なことでもある。批評家が詩人になるというのは芸術の歴史に全く新しい出来事であり、すべての心理的法則の転倒であり、異常事態であろう。"
-      },
-      {
-        "id": 8,
-        "french": "Au contraire, tous les grands poètes deviennent naturellement, fatalement, critiques. Je plains les poètes que guide le seul instinct ; je les crois incomplets. Dans la vie spirituelle des premiers, une crise se fait infailliblement, où ils veulent raisonner leur art, découvrir les lois obscures en vertu desquelles ils ont produit, et tirer de cette étude une série de préceptes dont le but divin est l'infaillibilité dans la production poétique. Il serait prodigieux qu'un critique devînt poète, et il est impossible qu'un poète ne contienne pas un critique. Les gens qui reprochent au musicien Wagner d'avoir écrit des livres sur la philosophie de son art devraient nier également que Vinci, Hogarth, Reynolds, aient pu faire de bonnes peintures, simplement parce qu'ils ont déduit et analysé les principes de leur art. Qui parle mieux de la peinture que notre grand Delacroix ? Diderot, Goethe, Shakespeare, autant de producteurs, autant d'admirables critiques. La poésie a existé, s'est affirmée la première, et elle a engendré l'étude des règles. Telle est l'histoire incontestée du travail humain.",
-        "officialTranslation": "反対に、すべての偉大な詩人は自然に、必然的に批評家になる。本能だけに導かれる詩人たちは哀れだと思う——不完全だと信じる。前者の精神的生活においては、自らの芸術を論じ、それによって創作してきた暗い法則を発見し、詩的創作における無謬性という神聖な目的を持つ一連の教訓をこの研究から引き出そうとする危機が必然的に訪れる。批評家が詩人になるのは驚異的であろうし、詩人が批評家を含まないということはあり得ない。音楽家ワーグナーが芸術の哲学に関する本を書いたことを非難する人々は、ヴィンチ、ホガース、レイノルズが自らの芸術の原則を演繹し分析したという理由だけで優れた絵画を描けなかったと否定すべきだろう。われわれの偉大なドラクロワほど絵画についてうまく語る者がいるか。ディドロ、ゲーテ、シェイクスピア——創造者の数だけ、優れた批評家がいる。詩は最初に存在し、最初に確立され、規則の研究を生み出した。これが人間の労働についての論争の余地のない歴史である。"
-      }
-    ]
-  }
-}  
+  "id": "baudelaire_wagner_2",
+  "title": "Richard Wagner et Tannhäuser à Paris — II",
+  "author": "Charles Baudelaire",
+  "source": "L'Art romantique (初出：Revue Européenne, 1er avril 1861)",
+  "year": "1861",
+  "difficulty": "中級〜上級",
+  "category": "baudelaire_music",
+  "modernRelevance": "★★★★☆",
+  "context": "ワーグナーの思想的背景。ギリシャ悲劇・ドラマ改革論。詩人は必然的に批評家である——ワーグナーとドラクロワの並置。",
+  "keywords": [
+    "Wagner",
+    "drame",
+    "Grèce antique",
+    "poète",
+    "critique",
+    "Delacroix",
+    "mythe",
+    "réforme"
+  ],
+  "relatedTexts": [
+    "baudelaire_wagner_1",
+    "baudelaire_wagner_3",
+    "baudelaire_wagner_4",
+    "baudelaire_reine"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Les plaisanteries françaises allaient toujours leur train, et le journalisme vulgaire opérait sans trêve ses gamineries professionnelles. Comme Wagner n'avait jamais cessé de répéter que la musique (dramatique) devait parler le sentiment, s'adapter au sentiment avec la même exactitude que la parole, mais évidemment d'une autre manière, c'est-à-dire exprimer la partie indéfinie du sentiment que la parole, trop positive, ne peut pas rendre, une foule de gens, persuadés par les plaisants du feuilleton, s'imaginèrent que le maître attribuait à la musique la puissance d'exprimer la forme positive des choses, c'est-à-dire qu'il intervertissait les rôles et les fonctions. C'est de cette facilité à souffrir, commune à tous les artistes et d'autant plus grande que leur instinct du juste et du beau est plus prononcé, que je tire l'explication des opinions révolutionnaires de Wagner.",
+      "officialTranslation": "フランス的な冗談は相変わらず続き、俗悪なジャーナリズムは間断なくその職業的な悪ふざけを繰り広げた。ワーグナーは、（劇的）音楽は感情を語らねばならず、言葉と同じ正確さで感情に適応しなければならないが、明らかに別の方法で、すなわち言葉では表現できない感情の不定形な部分を表現しなければならない、と繰り返し言い続けた。この苦しみやすさ——すべての芸術家に共通で、正しいものと美しいものへの本能が強ければ強いほど大きい——から、私はワーグナーの革命的意見の説明を引き出す。"
+    },
+    {
+      "id": 2,
+      "french": "Je vois, par les notes que lui-même il a fournies sur sa jeunesse, que, tout enfant, il vivait au sein du théâtre, fréquentait les coulisses et composait des comédies. La musique de Weber et, plus tard, celle de Beethoven, agirent sur son esprit avec une force irrésistible, et bientôt, les années et les études s'accumulant, il lui fut impossible de ne pas penser d'une manière double, poétiquement et musicalement, de ne pas entrevoir toute idée sous deux formes simultanées, l'un des deux arts commençant sa fonction là où s'arrêtent les limites de l'autre. L'instinct dramatique, qui occupait une si grande place dans ses facultés, devait le pousser à se révolter contre toutes les frivolités, les platitudes et les absurdités des pièces faites pour la musique.",
+      "officialTranslation": "彼自身が若い頃について書いた覚書から、幼い頃から劇場の中で生き、舞台裏に出入りし、喜劇を作っていたことが分かる。ウェーバーの音楽が、後にはベートーヴェンの音楽が、抗しがたい力で彼の精神に作用した。やがて年月と研究が積み重なるにつれ、詩的にも音楽的にも二重の形で思考すること、すべての観念を二つの同時的な形で——一方の芸術が他方の限界の終わるところで機能を開始しながら——見通すことなしにはいられなくなった。彼の能力の中で大きな位置を占める演劇本能は、音楽のために作られた作品のあらゆる軽薄さ・平板さ・不条理さに対して反乱を起こさせるべく彼を駆り立てた。"
+    },
+    {
+      "id": 3,
+      "french": "Quiconque a lu avec attention la Lettre sur la musique, qui sert de préface à Quatre poèmes d'opéras traduits en prose française, ne peut conserver à cet égard aucun doute. En feuilletant la Lettre sur la musique, je sentais revivre dans mon esprit, comme par un phénomène d'écho mnémonique, différents passages de Diderot qui affirment que la vraie musique dramatique ne peut pas être autre chose que le cri ou le soupir de la passion noté et rythmé. Les mêmes problèmes scientifiques, poétiques, artistiques, se reproduisent sans cesse à travers les âges, et Wagner ne se donne pas pour un inventeur mais simplement pour le confirmateur d'une ancienne idée qui sera sans doute plus d'une fois encore, alternativement vaincue et victorieuse.",
+      "officialTranslation": "フランス語散文に訳された四つのオペラ詩の序文として使われている『音楽への手紙』を注意深く読んだ者は、この点について何の疑いも保ち得ない。『音楽への手紙』を繰ると、記憶的反響の現象のように、真の劇音楽は情熱の記譜され韻律化された叫びや溜息以外のものであり得ないと断言するディドロのさまざまな一節が精神に蘇ってくるのを感じた。同じ科学的・詩的・芸術的問題が時代を超えて際限なく繰り返され、ワーグナーは発明者としてではなく、交互に敗北と勝利を繰り返す古い観念の確認者として自らを位置づけている。"
+    },
+    {
+      "id": 4,
+      "french": "Dans cette même Lettre sur la musique, où l'auteur donne une analyse très brève et très limpide de ses trois anciens ouvrages, nous trouvons une préoccupation très vive du théâtre grec. Dans sa lettre à Berlioz, il disait déjà : « Je me demandai quelles devaient être les conditions de l'art pour qu'il pût inspirer au public un inviolable respect, et, afin de ne point m'aventurer trop dans l'examen de cette question, je fus chercher mon point de départ dans la Grèce ancienne. J'y rencontrai tout d'abord l'œuvre artistique par excellence, le drame, dans lequel l'idée, quelque profonde qu'elle soit, peut se manifester avec le plus de clarté et de la manière la plus universellement intelligible. Nous nous étonnons à bon droit aujourd'hui que trente mille Grecs aient pu suivre avec un intérêt soutenu la représentation des tragédies d'Eschyle ; mais si nous recherchons le moyen par lequel on obtenait de pareils résultats, nous trouvons que c'est par l'alliance de tous les arts concourant ensemble au même but, c'est-à-dire à la production de l'œuvre artistique la plus parfaite et la seule vraie. »",
+      "officialTranslation": "この同じ『音楽への手紙』——著者が三つの旧著の極めて簡潔で明快な分析を与えている——において、ギリシャ劇への強い関心が見出される。ベルリオーズへの手紙で彼はすでにこう言っていた——「芸術が聴衆に侵すべからざる尊敬を吹き込めるような、芸術の条件を自問した。この問いの検討に踏み込みすぎないよう、古代ギリシャに出発点を求めた。そこでまず芸術作品の典型——ドラマ——に出会った。そこではどれほど深い観念も最大の明晰さをもって最も普遍的に了解可能な形で現れ得る。三万人のギリシャ人がアイスキュロスの悲劇の上演に持続した関心をもって従えたことに、われわれは今日正当に驚く。しかしそのような結果を得た手段を探せば、すべての芸術が同じ目的——最も完全で唯一真の芸術作品の産出——に向かって共同することの同盟であると分かる。」"
+    },
+    {
+      "id": 5,
+      "french": "Ce goût absolu, despotique, d'un idéal dramatique, où tous les détails doivent sans cesse concourir à une totalité d'effet, a fait la destinée de Wagner. Depuis le jour où il s'est dégagé des vieilles routines du livret et où il a courageusement renié son Rienzi, il a marché, sans dévier d'une ligne, vers cet impérieux idéal. C'est donc sans étonnement que j'ai trouvé dans ceux de ses ouvrages qui sont traduits, particulièrement dans Tannhäuser, Lohengrin et le Vaisseau fantôme, une méthode de construction excellente, un esprit d'ordre et de division qui rappelle l'architecture des tragédies antiques. La radieuse Vénus antique, l'Aphrodite née de la blanche écume, n'a pas impunément traversé les horrifiques ténèbres du moyen âge. Elle n'habite plus l'Olympe ni les rives d'un archipel parfumé. Elle est retirée au fond d'une caverne. En descendant sous terre, Vénus s'est rapprochée de l'enfer.",
+      "officialTranslation": "あらゆる細部が効果の全体性に絶えず貢献しなければならない劇的理想への絶対的で専制的な趣味が、ワーグナーの運命を作った。台本の古い慣習から脱し、勇敢に若い日の成功作『リエンツィ』を否定した日から、彼は一線も逸れることなくこの命令的な理想へ向かって歩んだ。翻訳されている彼の作品、とりわけ『タンホイザー』『ローエングリン』『さまよえるオランダ人』に、優れた構成の方法と古代悲劇の建築を思わせる秩序と区分の精神を見出したのも驚くにはあたらない。古代の輝ける愛の女神ウェヌス、白い泡から生まれたアフロディテは、中世の恐ろしい暗黒を無事には通り抜けていない。彼女はもはやオリンポスにも芳しい列島の岸辺にも住まわず、洞窟の奥底に退いている。地下に降ることで、ウェヌスは地獄に近づいた。"
+    },
+    {
+      "id": 6,
+      "french": "De même, les poèmes de Wagner, bien qu'ils révèlent un goût sincère et une parfaite intelligence de la beauté classique, participent aussi, dans une forte dose, de l'esprit romantique. S'ils font rêver à la majesté de Sophocle et d'Eschyle, ils contraignent en même temps l'esprit à se souvenir des Mystères de l'époque la plus plastiquement catholique. Ils ressemblent à ces grandes visions que le moyen âge étalait sur les murs de ses églises ou tissait dans ses magnifiques tapisseries. Ils ont un aspect général décidément légendaire : le Tannhäuser, légende ; le Lohengrin, légende ; légende, le Vaisseau fantôme. Et ce n'est pas seulement une propension naturelle à tout esprit poétique qui a conduit Wagner vers cette apparente spécialité ; c'est un parti pris formel puisé dans l'étude des conditions les plus favorables du drame lyrique.",
+      "officialTranslation": "同様に、ワーグナーの詩は古典的美への誠実な趣味と完全な理解を示しながらも、強い度合いでロマン主義的精神にも与している。ソポクレスとアイスキュロスの壮大さを夢見させながら、同時に最も造形的にカトリックな時代の神秘劇を精神に思い起こさせる。それらは中世が教会の壁に展開し、壮麗なタペストリーに織り込んだ大きな幻像に似ている。その全体的な様相は決定的に伝説的である——タンホイザーは伝説、ローエングリンは伝説、さまよえるオランダ人も伝説だ。ワーグナーをこの見かけの専門性へと導いたのは、詩的精神すべてに自然な傾向ばかりではない。それは歌劇の最も有利な条件の研究から汲まれた明確な立場決定なのだ。"
+    },
+    {
+      "id": 7,
+      "french": "J'ai entendu beaucoup de personnes tirer de l'étendue même de ses facultés et de sa haute intelligence critique une raison de défiance relativement à son génie musical. « Un homme qui raisonne tant de son art ne peut pas produire naturellement de belles œuvres », disent quelques-uns qui dépouillent ainsi le génie de sa rationalité, et lui assignent une fonction purement instinctive et pour ainsi dire végétale. Non seulement ceci est parfaitement faux, puisque le maître a commencé tout jeune par produire des essais poétiques et musicaux d'une nature variée, et qu'il n'est arrivé que progressivement à se faire un idéal de drame lyrique, mais c'est même une chose absolument impossible. Ce serait un événement tout nouveau dans l'histoire des arts qu'un critique se faisant poète, un renversement de toutes les lois psychiques, une monstruosité.",
+      "officialTranslation": "彼の能力の広さと高度な批評的知性から、音楽的天才への不信の根拠を引き出すという者を多く聞いてきた。「自分の芸術についてこれほど多く論ずる人間は、自然に美しい作品を生み出すことはできない」と言う者がいる。彼らは天才から合理性を剥ぎ取り、純粋に本能的で言わば植物的な機能を与える。これは全く誤っているだけでなく——なぜなら師は若い頃からさまざまな性質の詩的・音楽的試みを生み出し、徐々に歌劇の理想を形成するに至ったのだから——絶対に不可能なことでもある。批評家が詩人になるというのは芸術の歴史に全く新しい出来事であり、すべての心理的法則の転倒であり、異常事態であろう。"
+    },
+    {
+      "id": 8,
+      "french": "Au contraire, tous les grands poètes deviennent naturellement, fatalement, critiques. Je plains les poètes que guide le seul instinct ; je les crois incomplets. Dans la vie spirituelle des premiers, une crise se fait infailliblement, où ils veulent raisonner leur art, découvrir les lois obscures en vertu desquelles ils ont produit, et tirer de cette étude une série de préceptes dont le but divin est l'infaillibilité dans la production poétique. Il serait prodigieux qu'un critique devînt poète, et il est impossible qu'un poète ne contienne pas un critique. Les gens qui reprochent au musicien Wagner d'avoir écrit des livres sur la philosophie de son art devraient nier également que Vinci, Hogarth, Reynolds, aient pu faire de bonnes peintures, simplement parce qu'ils ont déduit et analysé les principes de leur art. Qui parle mieux de la peinture que notre grand Delacroix ? Diderot, Goethe, Shakespeare, autant de producteurs, autant d'admirables critiques. La poésie a existé, s'est affirmée la première, et elle a engendré l'étude des règles. Telle est l'histoire incontestée du travail humain.",
+      "officialTranslation": "反対に、すべての偉大な詩人は自然に、必然的に批評家になる。本能だけに導かれる詩人たちは哀れだと思う——不完全だと信じる。前者の精神的生活においては、自らの芸術を論じ、それによって創作してきた暗い法則を発見し、詩的創作における無謬性という神聖な目的を持つ一連の教訓をこの研究から引き出そうとする危機が必然的に訪れる。批評家が詩人になるのは驚異的であろうし、詩人が批評家を含まないということはあり得ない。音楽家ワーグナーが芸術の哲学に関する本を書いたことを非難する人々は、ヴィンチ、ホガース、レイノルズが自らの芸術の原則を演繹し分析したという理由だけで優れた絵画を描けなかったと否定すべきだろう。われわれの偉大なドラクロワほど絵画についてうまく語る者がいるか。ディドロ、ゲーテ、シェイクスピア——創造者の数だけ、優れた批評家がいる。詩は最初に存在し、最初に確立され、規則の研究を生み出した。これが人間の労働についての論争の余地のない歴史である。"
+    }
+  ]
+}

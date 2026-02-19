@@ -35,4 +35,12 @@
     {
       "id": 5,
       "french": "La femme est bien dans son droit, et même elle accomplit une espèce de devoir en s'appliquant à paraître magique et surnaturelle ; il faut qu'elle étonne, qu'elle charme ; idole, elle doit se dorer pour être adorée. Elle doit donc emprunter à tous les arts les moyens de s'élever au-dessus de la nature pour mieux subjuguer les cœurs et frapper les esprits.",
-      "provisionalTranslation
+      "provisionalTranslation": "女性は魔法的で超自然的に見えるよう努めることにおいて正当であり、さらには一種の義務を果たしてさえいる。驚かせ、魅了しなければならない。偶像として、崇拝されるために金箔を纏わなければならない。したがって自然の上に立ち、より良く心を制し精神を打つために、すべての芸術から手段を借りなければならない。"
+    },
+    {
+      "id": 6,
+      "french": "Il importe fort peu que la ruse et l'artifice soient connus de tous, si le succès en est certain et l'effet toujours irrésistible. C'est là la philosophie du maquillage et de la parure. La femme est dans son droit, et accomplit même une sorte de devoir en s'efforçant d'être divine et surnaturelle.",
+      "provisionalTranslation": "成功が確実で効果が常に抗いがたいものであれば、策略と人工が万人に知られていようとも大した問題ではない。これが化粧と装飾の哲学だ。女性は神的で超自然的であろうと努めることにおいて正当であり、一種の義務さえ果たしているのだ。"
+    }
+  ]
+}

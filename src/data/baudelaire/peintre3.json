@@ -1,0 +1,46 @@
+{
+  "id": "baudelaire_peintre_3",
+  "title": "Le Peintre de la vie moderne (III) — L'Artiste, homme du monde, homme des foules et enfant",
+  "author": "Charles Baudelaire",
+  "source": "Le Figaro, 1863",
+  "year": "1863",
+  "firstPublication": "Le Figaro, 26 et 29 novembre, 3 décembre 1863",
+  "difficulty": "上級",
+  "category": "baudelaire_modernity",
+  "modernRelevance": "★★★★★",
+  "context": "第3章。近代の芸術家を「群衆の中の人」「世界人」「意志を持つ子供」として定義する。「天才とは意のままに取り戻された幼年期だ」という定式はボードレール美学の核心命題のひとつ。",
+  "keywords": ["foule", "enfance", "génie", "flâneur", "monde"],
+  "relatedTexts": ["baudelaire_peintre_2", "baudelaire_peintre_4", "baudelaire_delacroix_3"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Aujourd'hui je veux entretenir le public d'un homme singulier, dont l'originalité est si puissante et si décidée, qu'elle se suffit à elle-même et ne recherche pas les approbations. Aucun de ses dessins n'est signé, si l'on appelle signature ce petit signe que les artistes attachent à leur nom.",
+      "provisionalTranslation": "今日私は、その独創性があまりに強烈かつ確固としていて自足しており他者の承認を求めない、ある特異な人物について公衆に語りたい。彼のデッサンのどれも署名されていない。芸術家が自らの名に付けるあの小さな印を署名と呼ぶならば。"
+    },
+    {
+      "id": 2,
+      "french": "M. G. n'aime pas être appelé artiste. Ne lui dit-on pas, avec un légère teinte de mépris : « C'est un homme du monde » ? Et cependant dans ce terme, homme du monde, il y a tout un programme de conduite et d'esthétique. Être homme du monde, c'est posséder, sans les avoir appris, le génie du tact et du goût.",
+      "provisionalTranslation": "G氏は芸術家と呼ばれることを好まない。「彼は世界人だ」とわずかな軽蔑の色を込めて言われることはないか。しかしこの「世界人」という言葉の中には、行動と美学の一つの全体的プログラムがある。世界人であるとは、学ぶことなく機転と趣味の天才を持つことだ。"
+    },
+    {
+      "id": 3,
+      "french": "L'homme du monde est un homme total qui comprend le monde et les raisons mystérieuses de tous ses usages. Le poète jouit de l'incomparable privilège de pouvoir être à sa guise lui-même et autrui. Comme ces âmes errantes qui cherchent un corps, il entre, quand il le veut, dans le personnage de chacun.",
+      "provisionalTranslation": "世界人とは、世界とそのすべての習慣の神秘的な理由を理解する全体的な人間だ。詩人は気の向くままに自己であり他者でもあることができるという比類ない特権を享受する。身体を求めてさまよう魂のように、望む時に各人の人格の中に入り込む。"
+    },
+    {
+      "id": 4,
+      "french": "Pour lui seul, tout est vacant ; et si de certaines places lui semblent fermées, c'est qu'à ses yeux elles ne valent pas la peine d'être visitées. Le promeneur solitaire et pensif tire une singulière ivresse de cette universelle communion. Celui qui épouse facilement la foule connaît des jouissances fiévreuses, dont seront éternellement privés l'égoïste, fermé comme un coffre, et le paresseux, interné comme un mollusque.",
+      "provisionalTranslation": "彼だけにとって、すべては空席だ。ある場所が閉ざされているように見えるとすれば、それは彼の目にはその場所が訪れるに値しないからだ。孤独で物思いにふける散策者はこの普遍的な交感から特異な陶酔を引き出す。群衆に容易に溶け込む者は、金庫のように閉じた利己主義者と軟体動物のように閉じこもった怠惰な者が永遠に奪われる熱狂的な喜びを知っている。"
+    },
+    {
+      "id": 5,
+      "french": "L'enfant voit tout en nouveauté ; il est toujours ivre. Rien ne ressemble plus à ce qu'on appelle l'inspiration, que la joie avec laquelle l'enfant absorbe la forme et la couleur. Je hasarderai plus loin que le génie n'est que l'enfance retrouvée à volonté, l'enfance douée maintenant, pour s'exprimer, d'organes virils et de l'esprit analytique qui lui permet d'ordonner la somme de matériaux involontairement amassée.",
+      "provisionalTranslation": "子供はすべてを新鮮に見る。常に酔っている。子供が形と色彩を吸収する喜びほど、インスピレーションと呼ばれるものに似たものはない。天才とは意のままに取り戻された幼年期に他ならない——今や自己を表現するために、男性的な器官と、不随意に積み重ねられた素材の総体を秩序づけることを可能にする分析的精神を備えた幼年期だと、私はあえて言い切ろう。"
+    },
+    {
+      "id": 6,
+      "french": "C'est à cette curiosité profonde et joyeuse qu'il faut attribuer l'œil fixe et animalement extatique des enfants devant le nouveau, quel qu'il soit, visage ou paysage, lumière, dorure, couleurs, étoffes chatoyantes, enchantement de la beauté embellie par la toilette. M. G. garde ces facultés qui caractérisent l'enfant jusque dans son âge le plus avancé.",
+      "provisionalTranslation": "何であれ新しいもの——顔でも風景でも、光でも金箔でも、色彩でも、きらめく生地でも、装いによって美しく飾られた美の魔法でも——の前での子供たちの固定した動物的に法悦した目は、この深く喜びに満ちた好奇心に帰されなければならない。G氏は最も老いた年齢においてもこの子供を特徴づける能力を保持している。"
+    }
+  ]
+}

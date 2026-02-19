@@ -1,0 +1,46 @@
+{
+  "id": "baudelaire_peintre_5",
+  "title": "Le Peintre de la vie moderne (V) — La Méthode de la composition",
+  "author": "Charles Baudelaire",
+  "source": "Le Figaro, 1863",
+  "year": "1863",
+  "firstPublication": "Le Figaro, 26 et 29 novembre, 3 décembre 1863",
+  "difficulty": "上級",
+  "category": "baudelaire_modernity",
+  "modernRelevance": "★★★★☆",
+  "context": "第5章。ギースの制作方法——夜間の記憶作業、白紙への素早い書き付け——を論じながら、記憶と想像力を創造の中心に据える。印象派以前の「速度の美学」の理論化として重要。",
+  "keywords": ["mémoire", "imagination", "composition", "rapidité", "nuit"],
+  "relatedTexts": ["baudelaire_peintre_4", "baudelaire_peintre_6"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Comment M. G. procède-t-il ? Pourquoi ses croquis ont-ils cette vie, cette fraîcheur et cette spontanéité d'impression que les travaux très finis perdent si souvent ? La réponse est simple : parce qu'ils sont faits de mémoire, et non d'après nature.",
+      "provisionalTranslation": "G氏はどのように仕事を進めるのか。なぜ彼のスケッチはこの生命力、この新鮮さ、この印象の自発性を持つのか——非常に仕上げられた作品がしばしば失うものを。答えは単純だ。なぜならそれらは記憶から作られ、自然を写したものではないからだ。"
+    },
+    {
+      "id": 2,
+      "french": "Toute la journée, à travers la foule et la circonstance, M. G. fait ses courses, voit les choses. Le soir, rentré chez lui, non pas à la chandelle, mais à la lumière aveuglante du gaz, il commence à travailler. Et c'est alors que la mémoire se met à parler.",
+      "provisionalTranslation": "一日中、群衆と状況を通り抜けながら、G氏は出かけ、物事を見る。夜、帰宅して、蝋燭の明かりではなくガスの眩しい光の下で、仕事を始める。そしてその時、記憶が語り始める。"
+    },
+    {
+      "id": 3,
+      "french": "Il promène sur le papier blanc son regard fiévreux et sa plume, son crayon ou son pinceau, jaillissant de la même impulsion que le regard, traçant dans l'air les gestes de la scène revécue. La représentation commence à exister et à vivre. Et cela va, cela se précipite, jusqu'à ce que la page soit couverte.",
+      "provisionalTranslation": "彼は白紙の上に熱狂した眼差しを走らせ、眼差しと同じ衝動から湧き出るペン、鉛筆あるいは筆が、再体験される場面の身振りを空中に描く。表象が存在し生き始める。そしてそれは進み、急ぎ、ページが埋まるまで続く。"
+    },
+    {
+      "id": 4,
+      "french": "L'artiste, le vrai artiste, le vrai poète, ne doit peindre que selon ce qu'il voit et ce qu'il sent. Il doit être réellement fidèle à sa propre nature. Il doit éviter comme la mort d'emprunter les yeux et les sentiments d'un autre homme, si grand qu'il soit.",
+      "provisionalTranslation": "芸術家、真の芸術家、真の詩人は、見るものと感じるものだけに従って描かなければならない。真に自己の本性に忠実でなければならない。どれほど偉大な人物であろうとも、他の人間の目と感情を借りることを死のように避けなければならない。"
+    },
+    {
+      "id": 5,
+      "french": "Si un peintre habile et délicat, mais d'une personalité moindre que la sienne, cherche dans ses œuvres à s'approprier ses procédés, il peut acquérir une certaine dextérité, mais il n'aura rien pris de l'essentiel, c'est-à-dire l'étrange et le mystérieux charme qui résulte de la conformité de l'artiste avec lui-même.",
+      "provisionalTranslation": "熟練した繊細な画家でも、彼より個性の乏しい者が、その作品の中で彼の手法を我がものにしようとすれば、ある種の器用さを身につけることはできるかもしれないが、本質的なもの——すなわち芸術家が自己自身と一致することから生じる奇妙で神秘的な魅力——を何も手に入れられないだろう。"
+    },
+    {
+      "id": 6,
+      "french": "La mémoire est le grand critérium de l'art. L'art est une mnémotechnie du beau. Ce que l'artiste voit aujourd'hui, ce qu'il contemple avec sa sensibilité aiguë, deviendra peut-être demain la matière de son travail. L'imagination est reine des facultés, et c'est la mémoire qui la nourrit.",
+      "provisionalTranslation": "記憶は芸術の偉大な基準だ。芸術は美の記憶術だ。芸術家が今日見るもの、鋭敏な感受性で凝視するものが、明日の仕事の素材になるかもしれない。想像力は能力の女王であり、記憶がそれを養う。"
+    }
+  ]
+}

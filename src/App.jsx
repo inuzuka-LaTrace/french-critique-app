@@ -3,6 +3,7 @@ import baudelaireData from './data/baudelaire';
 import mallarmeData from './data/mallarme';
 import valeryData from './data/valery';
 import valmoreData from './data/valmore';
+import vanlerberghe from './data/vanlerberghe';
 
 export default function App() {
   const [texts, setTexts] = useState({});
@@ -24,7 +25,8 @@ export default function App() {
       ...baudelaireData,
       ...mallarmeData,
       ...valeryData,
-      ...valmoreData
+      ...valmoreData,
+      ...vanlerbergheData
     };
     setTexts(allTexts);
     setLoading(false);
@@ -44,7 +46,8 @@ export default function App() {
     valery: { name: 'ヴァレリー' },
     mallarme_music: { name: 'マラルメ音楽論' }, 
     mallarme_theatre: { name: 'マラルメ演劇・表象論' },
-    valmore: { name: 'ヴァルモール' }
+    valmore: { name: 'ヴァルモール' },
+    vanlerberghe: { name: 'ヴァン・レルベルグ' }
   };
   
   const filteredTexts = selectedCategory === 'all'

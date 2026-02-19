@@ -1,0 +1,51 @@
+{
+  "id": "baudelaire_peintre_11",
+  "title": "Le Peintre de la vie moderne (XI) — L'Éloge du maquillage",
+  "author": "Charles Baudelaire",
+  "source": "Le Figaro, 1863",
+  "year": "1863",
+  "firstPublication": "Le Figaro, 26 et 29 novembre, 3 décembre 1863",
+  "difficulty": "上級",
+  "category": "baudelaire_modernity",
+  "modernRelevance": "★★★★★",
+  "context": "第11章。「自然は悪の教師だ」という逆説的テーゼから出発し、化粧を自然を超越しようとする人間の意志の表れとして礼讃する。ルソー的自然主義への根本的異議申し立てであり、ボードレールの人工性の美学の最も過激な表現。",
+  "keywords": ["maquillage", "nature", "artifice", "beauté", "vertu"],
+  "relatedTexts": ["baudelaire_peintre_10", "baudelaire_peintre_12"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "La vertu est artificielle, surnaturelle, puisqu'il a fallu, dans tous les temps et chez toutes les nations, des dieux et des prophètes pour l'enseigner à l'humanité animalisée, et que l'homme seul est impuissant à la découvrir. Le mal se fait sans effort, naturellement, par fatalité ; le bien est toujours le produit d'un art.",
+      "provisionalTranslation": "徳は人工的であり超自然的だ。なぜならあらゆる時代あらゆる国において、動物化した人類に徳を教えるために神々と預言者が必要とされてきたからだ。人間だけではそれを発見する力がない。悪は努力なしに、自然に、宿命によってなされる。善は常に一つの技芸の産物だ。"
+    },
+    {
+      "id": 2,
+      "french": "J'ai entendu une femme qui se fardait, et qui cherchait dans le miroir l'approbation de sa conscience, en murmurant d'un air satisfait : « Je dois me faire belle pour mon mari. » Comme si la beauté était une dette, comme si elle était une obligation morale envers l'être aimé.",
+      "provisionalTranslation": "化粧をしながら鏡の中に良心の承認を求め、満足げな様子で「夫のために美しくならなければ」と呟く女性を見たことがある。まるで美が義務であるかのように、愛する存在への道徳的義務であるかのように。"
+    },
+    {
+      "id": 3,
+      "french": "Je peux me tromper, mais je suis sûr qu'une telle réflexion, sincèrement exprimée, est la preuve d'une grande élévation d'âme. Cette femme comprenait que la beauté n'est pas un don gratuit de la nature, mais le résultat d'une volonté tendue vers l'idéal.",
+      "provisionalTranslation": "私は間違っているかもしれないが、誠実に表現されたそのような省察は魂の偉大な高さの証拠だと確信する。この女性は、美が自然の無償の贈り物ではなく、理想に向けて張り詰めた意志の結果であることを理解していた。"
+    },
+    {
+      "id": 4,
+      "french": "La mode doit donc être considérée comme un symptôme du goût de l'idéal surnageant dans le cerveau humain au-dessus de tout ce que la vie naturelle y accumule de grossier, de terrestre et d'immonde, comme une déformation sublime de la nature, ou plutôt comme un essai permanent et successif de réformation de la nature.",
+      "provisionalTranslation": "かくしてモードは、自然な生がそこに積み重ねる粗野で地上的で不潔なすべてのものの上に浮かぶ人間の頭脳における理想への趣味の症候として、自然の崇高な変形として、むしろ自然の改造に向けた永続的かつ連続的な試みとして考察されなければならない。"
+    },
+    {
+      "id": 5,
+      "french": "Ainsi, si je leur accorde l'art d'être belle, aux dépens de la santé peut-être, je ne leur refuserai pas le droit de raccourcir leur vie par l'art d'être belle. Le maquillage n'a pas besoin de se cacher, de s'éviter la découverte ; il peut s'étaler avec une sorte de candeur, ou, si l'on veut, avec une impudeur involontaire.",
+      "provisionalTranslation": "かくして、おそらく健康を犠牲にして美しくある技芸を彼女たちに認めるならば、美しくある技芸によって命を縮める権利を否定することもできない。化粧は隠れる必要も、発覚を避ける必要もない。一種の率直さで、あるいは望むなら意図せぬ図太さで、大っぴらにすることができる。"
+    },
+    {
+      "id": 6,
+      "french": "Le noir et le rouge représentent la vie, une vie surnaturelle et excessive ; ce cadre noir rend le regard plus profond et plus singulier, donne à l'œil une apparence plus décidée de fenêtre ouverte sur l'infini ; le rouge, qui enflamme la pommette, augmente encore la clarté de la prunelle et ajoute à un beau visage féminin la passion mystérieuse de la prêtresse.",
+      "provisionalTranslation": "黒と赤は生を、超自然的で過剰な生を表す。この黒い縁取りは眼差しをより深く特異にし、目に無限に向けて開かれた窓という、より決然とした外観を与える。頬骨を燃え立たせる赤は瞳の輝きをさらに増し、美しい女性の顔に女祭司の神秘的な情念を加える。"
+    },
+    {
+      "id": 7,
+      "french": "Ces réflexions ne proviennent pas d'un principe puéril d'admiration du mouvement et de l'imprévu, d'une sorte de dilettantisme. Elles sont le résultat d'une méditation sur l'art, le beau et la nature. La nature ne peut conseiller que le crime. C'est à la philosophie de conseiller le beau artificiel qui dépasse et transfigure la nature.",
+      "provisionalTranslation": "これらの省察は運動と予期せぬものへの子供じみた賛美から、一種のディレッタンティズムから来るのではない。芸術、美、自然についての省察の結果だ。自然は犯罪しか教えられない。自然を超え変容させる人工の美を教えるのは哲学の役割だ。"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "valmore_priere_fils",
+  "title": "Prière pour mon fils",
+  "author": "Marceline Desbordes-Valmore",
+  "source": "Bouquets et Prières",
+  "year": "1843",
+  "difficulty": "初級〜中級",
+  "category": "valmore",
+  "modernRelevance": "★★★☆☆",
+  "context": "母から息子への祈りの詩。ヴァルモール夫人は幼い子を複数亡くしており、子への愛は生涯の詩的主題だった。祈りの形式そのものが詩のリズムを作り出す。宗教的語彙と母性的感情が融合した作品。",
+  "keywords": ["mère", "fils", "prière", "protection", "dieu"],
+  "relatedTexts": ["valmore_reve_intermittent", "valmore_fleurs"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Seigneur, conservez-moi mon fils !",
+      "officialTranslation": "主よ、私の息子を守ってください！"
+    },
+    {
+      "id": 2,
+      "french": "Je n'ai que lui sur cette terre.",
+      "officialTranslation": "この地上には彼だけしかいない。"
+    },
+    {
+      "id": 3,
+      "french": "Sans lui mes yeux seraient interdits",
+      "officialTranslation": "彼がいなければ私の目は閉じられ"
+    },
+    {
+      "id": 4,
+      "french": "De s'ouvrir sur la lumière.",
+      "officialTranslation": "光に向かって開かれることもないでしょう。"
+    },
+    {
+      "id": 5,
+      "french": "C'est lui qui me tient dans la vie,",
+      "officialTranslation": "彼こそが私を生につなぎとめている、"
+    },
+    {
+      "id": 6,
+      "french": "Lui qui me fait bénir le jour ;",
+      "officialTranslation": "彼こそが私に一日を祝福させる；"
+    },
+    {
+      "id": 7,
+      "french": "Son âme est à mon âme unie,",
+      "officialTranslation": "彼の魂は私の魂と結ばれている、"
+    },
+    {
+      "id": 8,
+      "french": "Comme l'espoir est dans l'amour.",
+      "officialTranslation": "ちょうど愛の中に希望があるように。"
+    },
+    {
+      "id": 9,
+      "french": "Seigneur, conservez-moi mon fils !",
+      "officialTranslation": "主よ、私の息子を守ってください！"
+    },
+    {
+      "id": 10,
+      "french": "Que vos anges soient ses asiles !",
+      "officialTranslation": "あなたの御使いたちが彼の避難所となりますように！"
+    }
+  ]
+}

@@ -1,52 +1,327 @@
 {
-  "id": "baudelaire_wagner",
-  "title": "Richard Wagner et Tannhäuser à Paris",
-  "author": "Charles Baudelaire",
-  "source": "L'Art romantique",
-  "year": "1861",
-  "difficulty": "中級〜上級",
-  "category": "baudelaire_music",
-  "modernRelevance": "★★★★☆",
-  "context": "ワーグナー擁護。総合芸術。音楽と詩の融合。",
-  "keywords": [
-    "Wagner",
-    "musique",
-    "drame",
-    "synthèse"
-  ],
-  "relatedTexts": [
-    "mallarme_musique"
-  ],
-  "paragraphs": [
-    {
-      "id": 1,
-      "french": "Ce qui frappe tout d'abord dans ce drame, c'est la parenté naturelle et voulue entre l'action et la musique.",
-      "officialTranslation": "このドラマにおいて何よりもまず印象的なのは、行為と音楽の間の自然で意図的な類縁性である。"
-    },
-    {
-      "id": 2,
-      "french": "L'ouverture, comme on sait, renferme l'idée mère, la synthèse du drame.",
-      "officialTranslation": "序曲は、周知のように、母なる観念、ドラマの総合を内包している。"
-    },
-    {
-      "id": 3,
-      "french": "Je sentais, en écoutant cette musique ardente et despotique, tantôt les vertiges du gouffre.",
-      "officialTranslation": "この熱烈で専制的な音楽を聴きながら、私は時に深淵の眩暈を感じた。"
-    },
-    {
-      "id": 4,
-      "french": "tantôt les félicités de l'extase.",
-      "officialTranslation": "時に恍惚の至福を。"
-    },
-    {
-      "id": 5,
-      "french": "Ce que Wagner avait ajouté au mythe allemand, c'était l'idée chrétienne de la rédemption par l'amour.",
-      "officialTranslation": "ワーグナーがドイツ神話に付け加えたもの、それは愛による救済というキリスト教的観念だった。"
-    },
-    {
-      "id": 6,
-      "french": "La musique de Wagner représente le grand dans le petit.",
-      "officialTranslation": "ワーグナーの音楽は、小の中の大を表現する。"
-    }
-  ]
+  "baudelaire_wagner_1": {
+    "id": "baudelaire_wagner_1",
+    "title": "Richard Wagner et Tannhäuser à Paris — I",
+    "author": "Charles Baudelaire",
+    "source": "L'Art romantique (初出：Revue Européenne, 1er avril 1861)",
+    "year": "1861",
+    "difficulty": "中級〜上級",
+    "category": "baudelaire_music",
+    "modernRelevance": "★★★★★",
+    "context": "パリ初演（1860年1月）の衝撃。音楽の共感覚的体験。ローエングリン序曲の三つの解釈（ワーグナー・リスト・ボードレール）。",
+    "keywords": ["Wagner", "Lohengrin", "musique", "suggestion", "synesthésie", "analogie", "infini", "mysticité"],
+    "relatedTexts": ["baudelaire_wagner_2", "baudelaire_wagner_3", "baudelaire_wagner_4", "baudelaire_wagner_encore", "baudelaire_romantisme", "mallarme_wagner"],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "Remontons, s'il vous plaît, à treize mois en arrière, au commencement de la question, et qu'il me soit permis, dans cette appréciation, de parler souvent en mon nom personnel. Ce Je, accusé justement d'impertinence dans beaucoup de cas, implique cependant une grande modestie ; il enferme l'écrivain dans les limites les plus strictes de la sincérité. En réduisant sa tâche, il la rend plus facile. Enfin, il n'est pas nécessaire d'être un probabiliste bien consommé pour acquérir la certitude que cette sincérité trouvera des amis parmi les lecteurs impartiaux ; il y a évidemment quelques chances pour que le critique ingénu, en ne racontant que ses propres impressions, raconte aussi celles de quelques partisans inconnus.",
+        "officialTranslation": "13ヶ月前に、この問題の始まりへと立ち返らせていただきたい。この評論において、しばしば私自身の名において語ることを許してほしい。多くの場合で不遜と非難されるこの「私」は、しかし大きな謙遜を含意している。それは作家を誠実さの最も厳しい限界の中に封じ込める。課題を縮小することで、それをより容易にする。最後に、この誠実さが公平な読者の間に友人を見出すという確信を得るために、根っからの確率論者である必要はない。率直な批評家が自らの印象だけを語ることで、幾人かの見知らぬ同志の印象をも語ることになるという、いくつかの可能性が明らかにある。"
+      },
+      {
+        "id": 2,
+        "french": "Donc, il y a treize mois, ce fut une grande rumeur dans Paris. Un compositeur allemand, qui avait vécu longtemps chez nous, à notre insu, pauvre, inconnu, par de misérables besognes, mais que, depuis quinze ans déjà, le public allemand célébrait comme un homme de génie, revenait dans la ville, jadis témoin de ses jeunes misères, soumettre ses œuvres à notre jugement. Paris avait jusque-là peu entendu parler de Wagner ; on savait vaguement qu'au-delà du Rhin s'agitait la question d'une réforme dans le drame lyrique, et que Liszt avait adopté avec ardeur les opinions du réformateur.",
+        "officialTranslation": "さて、13ヶ月前、パリで大きな噂が巻き起こった。一人のドイツ人作曲家が、貧しく、無名のまま、惨めな仕事でわれわれの知らぬうちに長く住んでいたのだが、すでに15年前からドイツの聴衆が天才と称えていたこの人物が、かつて若い苦労の証人であったこの街に戻り、自らの作品をわれわれの審判に委ねた。パリはそれまでワーグナーについてほとんど聞いていなかった。ライン川の向こうで歌劇の改革を巡る問題が騒がれており、リストが熱心にこの改革者の意見を採用したことは漠然と知られていた。"
+      },
+      {
+        "id": 3,
+        "french": "Aussitôt que les affiches annoncèrent que Richard Wagner ferait entendre dans la salle des Italiens des fragments de ses compositions, un fait amusant se produisit, que nous avons déjà vu, et qui prouve le besoin instinctif, précipité, des Français, de prendre sur toute chose leur parti avant d'avoir délibéré ou examiné. Les uns annoncèrent des merveilles, et les autres se mirent à dénigrer à outrance des œuvres qu'ils n'avaient pas encore entendues. Encore aujourd'hui dure cette situation bouffonne, et l'on peut dire que jamais sujet inconnu ne fut tant discuté. Bref, les concerts de Wagner s'annonçaient comme une véritable bataille de doctrines, comme une de ces solennelles crises de l'art, une de ces mêlées où critiques, artistes et public ont coutume de jeter confusément toutes leurs passions ; crises heureuses qui dénotent la santé et la richesse dans la vie intellectuelle d'une nation, et que nous avions, pour ainsi dire, désapprises depuis les grands jours de Victor Hugo.",
+        "officialTranslation": "リヒャルト・ワーグナーがイタリア座で自らの作品の断片を聴かせるという張り紙が出るやいなや、われわれがすでに目撃したことのある、審議も検討もしないうちに万事について立場を取るフランス人の本能的で性急な必要性を証明する、面白い事態が生じた。ある者は驚異を予言し、ある者はまだ聴いてもいない作品を徹底的に貶し始めた。この滑稽な状況は今もなお続いており、未知の主題がこれほど多く議論されたことはなかったと言えるだろう。要するに、ワーグナーのコンサートは一種の教義の戦争、批評家・芸術家・聴衆が混乱してすべての情熱を投じる荘厳な芸術の危機として予告されていた。ヴィクトル・ユゴーの偉大な日々以来、われわれはこのような危機を、言わば忘れかけていたのだ。"
+      },
+      {
+        "id": 4,
+        "french": "Wagner avait été audacieux : le programme de son concert ne comprenait ni solos d'instruments, ni chansons, ni aucune des exhibitions si chères à un public amoureux des virtuoses et de leurs tours de force. Rien que des morceaux d'ensemble, chœurs ou symphonies. La lutte fut violente, il est vrai ; mais le public, étant abandonné à lui-même, prit feu à quelques-uns de ces irrésistibles morceaux dont la pensée était pour lui plus nettement exprimée, et la musique de Wagner triompha par sa propre force. L'ouverture de Tannhäuser, la marche pompeuse du deuxième acte, l'ouverture de Lohengrin particulièrement, la musique de noces et l'épithalame furent magnifiquement acclamés. Beaucoup de choses restaient obscures sans doute, mais les esprits impartiaux se disaient : « Puisque ces compositions sont faites pour la scène, il faut attendre ; les choses non suffisamment définies seront expliquées par la plastique. »",
+        "officialTranslation": "ワーグナーは大胆だった。コンサートのプログラムには、独奏も歌も、演奏家とその曲芸を愛する聴衆が好むいかなる出し物も含まれていなかった。合唱や交響曲のみの合奏曲だけだった。戦いは激しかった。しかし聴衆は、自分たちに委ねられ、思想がより明確に表現されたいくつかの抗しがたい曲に感化された。ワーグナーの音楽は自らの力で勝利した。タンホイザー序曲、第二幕の豪壮な行進曲、とりわけローエングリン序曲、婚礼の音楽と祝婚歌が盛大に喝采された。多くのことが不明瞭なままだったが、公平な精神の持ち主たちは言った——「これらの作品は舞台のために作られているのだから、待つべきだ。十分に定義されていないことは舞台演出が説明してくれるだろう」と。"
+      },
+      {
+        "id": 5,
+        "french": "J'ai souvent entendu dire que la musique ne pouvait pas se vanter de traduire quoi que ce soit avec certitude, comme fait la parole ou la peinture. Cela est vrai dans une certaine proportion, mais n'est pas tout à fait vrai. Elle traduit à sa manière, et par les moyens qui lui sont propres. Dans la musique, comme dans la peinture et même dans la parole écrite, qui est cependant le plus positif des arts, il y a toujours une lacune complétée par l'imagination de l'auditeur. Ce sont sans doute ces considérations qui ont poussé Wagner à considérer l'art dramatique, c'est-à-dire la réunion, la coïncidence de plusieurs arts, comme l'art par excellence, le plus synthétique et le plus parfait.",
+        "officialTranslation": "音楽は言葉や絵画がするように、何かを確実に訳すことはできないとよく言われるのを聞いてきた。ある程度はそうだが、完全にそうではない。音楽は独自の方法で、固有の手段によって訳す。音楽においても、絵画においても、最も実証的な芸術である書かれた言葉においても、常に聴者の想像力によって補われる空白がある。おそらくこれらの考察がワーグナーを、演劇芸術——すなわち複数の芸術の結合・一致——を卓越した芸術、最も総合的で最も完全な芸術と見なすよう促したのであろう。"
+      },
+      {
+        "id": 6,
+        "french": "Je prends tout de suite un exemple, la fameuse ouverture de Lohengrin. Je lis dans le programme distribué à cette époque au Théâtre-Italien : « Dès les premières mesures, l'âme du pieux solitaire qui attend le vase sacré plonge dans les espaces infinis. Il voit se former peu à peu une apparition étrange qui prend un corps, une figure. Cette apparition se précise davantage et la troupe miraculeuse des anges, portant au milieu d'eux la coupe sacrée, passe devant lui. Le saint cortège approche ; le cœur de l'élu de Dieu s'exalte peu à peu ; il s'élargit, il se dilate ; d'ineffables aspirations s'éveillent en lui ; il cède à une béatitude croissante, en se trouvant toujours rapproché de la lumineuse apparition, et quand enfin le Saint-Graal lui-même apparaît au milieu du cortège sacré, il s'abîme dans une adoration extatique, comme si le monde entier eût soudainement disparu. »",
+        "officialTranslation": "すぐに例を取ろう——ローエングリンの有名な序曲である。当時イタリア座で配布されたプログラムにはこうある——「最初の小節から、聖杯を待つ敬虔な孤独者の魂は無限の空間へと沈む。彼は奇妙な幻が形を取り、姿を現すのを徐々に見る。この幻はより明確になり、聖杯を中央に抱えた奇跡的な天使の群れが彼の前を過ぎる。聖なる行列が近づく。神の選ばれし者の心は徐々に高まり、広がり、膨らむ。言いようのない憧れが彼の中に目覚め、輝く幻に近づくにつれて増す至福に身を任せる。そしてついに聖杯自体が聖なる行列の中に現れると、まるで全世界が突然消えたかのように、彼は恍惚とした崇拝の中に没入する。」"
+      },
+      {
+        "id": 7,
+        "french": "Je prends maintenant le livre de Liszt, et je l'ouvre à la page où l'imagination de l'illustre pianiste traduit à sa manière le même morceau : « Cette introduction renferme et révèle l'élément mystique, toujours présent et toujours caché dans la pièce… C'est au commencement une large nappe dormante de mélodie, un éther vaporeux qui s'étend, pour que le tableau sacré s'y dessine à nos yeux profanes ; effet exclusivement confié aux violons, divisés en huit pupitres différents, qui, après plusieurs mesures de sons harmoniques, continuent dans les plus hautes notes de leurs registres. Le motif est ensuite repris par les instruments à vent les plus doux ; les cors et les bassons, en s'y joignant, préparent l'entrée des trompettes et des trombones, qui répètent la mélodie pour la quatrième fois, avec un éclat éblouissant de coloris, comme si dans cet instant unique l'édifice saint avait brillé devant nos regards aveuglés, dans toute sa magnificence lumineuse et radiante. »",
+        "officialTranslation": "今度はリストの本を取り、この著名なピアニストの想像力が同じ曲を独自に訳したページを開く——「この序曲は作品に常に存在し常に隠れた神秘的な要素を包含し、また啓示する……最初は一面の静かな旋律の広がり、蒸気状のエーテルが伸び広がり、俗なる我らの眼に聖なる絵が描かれる。この効果は八つの異なる譜面台に分かれたヴァイオリンのみに委ねられ、数小節の和声音の後、楽器の最高音域で続く。動機はその後最も柔らかな管楽器に引き継がれ、ホルンとファゴットが加わって、トランペットとトロンボーンの入場を準備する。これらは四度目に旋律を繰り返し、眩いばかりの色彩の輝きをもって、まるでその唯一の瞬間に聖なる建物がその輝かしく放射的な壮麗さで眩まされた我らの眼前に光り輝いたかのようだ。」"
+      },
+      {
+        "id": 8,
+        "french": "M'est-il permis à moi-même de raconter, de rendre avec des paroles la traduction inévitable que mon imagination fit du même morceau, lorsque je l'entendis pour la première fois, les yeux fermés ? Je me souviens que, dès les premières mesures, je subis une de ces impressions heureuses que presque tous les hommes imaginatifs ont connues, par le rêve, dans le sommeil. Je me sentis délivré des liens de la pesanteur, et je retrouvai par le souvenir l'extraordinaire volupté qui circule dans les lieux hauts. Ensuite je me peignis involontairement l'état délicieux d'un homme en proie à une grande rêverie dans une solitude absolue, mais une solitude avec un immense horizon et une large lumière diffuse ; l'immensité sans autre décor qu'elle-même. Bientôt j'éprouvai la sensation d'une clarté plus vive, d'une intensité de lumière croissant avec une telle rapidité, que les nuances fournies par le dictionnaire ne suffiraient pas à exprimer ce surcroît toujours renaissant d'ardeur et de blancheur. Alors je conçus pleinement l'idée d'une âme se mouvant dans un milieu lumineux, d'une extase faite de volupté et de connaissance, et planant au-dessus et bien loin du monde naturel.",
+        "officialTranslation": "目を閉じて初めてこの曲を聴いたとき、私の想像力が行った不可避の翻訳を言葉で語り、伝えることが許されるだろうか。最初の数小節から、想像力ある人間のほぼすべてが夢の中で眠りの中で知っているような幸福な印象の一つを受けたことを覚えている。重力の束縛から解き放たれた感じがし、高い場所に漂う異常な官能を記憶の中に取り戻した。そして、絶対的な孤独の中で——しかし広大な地平線と広く拡散した光を持つ孤独の中で——大きな夢想に憑かれた人間の至福の状態を不随意に思い描いた。空漠さそれ自体以外の飾りのない空漠さ。やがて、辞書が提供する陰影では、絶えず蘇るこの熱気と白さの増大を表現するのに不十分なほどの速さで増す光の強度の感覚を覚えた。そして、光に満ちた環境の中を動く魂という観念を、官能と知識から成る恍惚という観念を、自然の世界の上方遠くに漂うという観念を完全に把握した。"
+      },
+      {
+        "id": 9,
+        "french": "De ces trois traductions, vous pourriez noter facilement les différences. Wagner indique une troupe d'anges qui apportent un vase sacré ; Liszt voit un monument miraculeusement beau, qui se reflète dans un mirage vaporeux. Ma rêverie est beaucoup moins illustrée d'objets matériels : elle est plus vague et plus abstraite. Mais l'important est ici de s'attacher aux ressemblances. Dans les trois traductions nous trouvons la sensation de la béatitude spirituelle et physique ; de l'isolement ; de la contemplation de quelque chose infiniment grand et infiniment beau ; d'une lumière intense qui réjouit les yeux et l'âme jusqu'à la pâmoison ; et enfin la sensation de l'espace étendu jusqu'aux dernières limites concevables. Aucun musicien n'excelle, comme Wagner, à peindre l'espace et la profondeur, matériels et spirituels. Il possède l'art de traduire, par des gradations subtiles, tout ce qu'il y a d'excessif, d'immense, d'ambitieux, dans l'homme spirituel et naturel. Il semble parfois, en écoutant cette musique ardente et despotique, qu'on retrouve peintes sur le fond des ténèbres, déchiré par la rêverie, les vertigineuses conceptions de l'opium.",
+        "officialTranslation": "この三つの翻訳の違いは容易に指摘できるだろう。ワーグナーは聖なる器を運ぶ天使の群れを示し、リストは霧状の蜃気楼に映る奇跡的に美しい記念物を見る。私の夢想は物質的な対象の描写がはるかに少なく、より曖昧でより抽象的だ。しかしここで重要なのは類似性に注目することである。三つの翻訳すべてに、精神的・肉体的な至福の感覚、孤立の感覚、無限に大きく無限に美しい何かの観照の感覚、失神するほどに目と魂を喜ばせる強烈な光の感覚、そして想像可能な最後の限界まで広がる空間の感覚が見出される。空間と深みを——物質的にも精神的にも——描くことにおいて、ワーグナーに勝る音楽家はいない。彼は微妙な漸次によって、精神的・自然的人間の中にある過剰なもの・広大なもの・野心的なものすべてを訳す技を持っている。この熱烈で専制的な音楽を聴きながら、夢想によって引き裂かれた暗闇の底に、阿片の眩暈するような幻想が描かれているかのように思えることがある。"
+      }
+    ]
+  },
+  "baudelaire_wagner_2": {
+    "id": "baudelaire_wagner_2",
+    "title": "Richard Wagner et Tannhäuser à Paris — II",
+    "author": "Charles Baudelaire",
+    "source": "L'Art romantique (初出：Revue Européenne, 1er avril 1861)",
+    "year": "1861",
+    "difficulty": "中級〜上級",
+    "category": "baudelaire_music",
+    "modernRelevance": "★★★★☆",
+    "context": "ワーグナーの思想的背景。ギリシャ悲劇・ドラマ改革論。詩人は必然的に批評家である——ワーグナーとドラクロワの並置。",
+    "keywords": ["Wagner", "drame", "Grèce antique", "poète", "critique", "Delacroix", "mythe", "réforme"],
+    "relatedTexts": ["baudelaire_wagner_1", "baudelaire_wagner_3", "baudelaire_wagner_4", "baudelaire_reine"],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "Les plaisanteries françaises allaient toujours leur train, et le journalisme vulgaire opérait sans trêve ses gamineries professionnelles. Comme Wagner n'avait jamais cessé de répéter que la musique (dramatique) devait parler le sentiment, s'adapter au sentiment avec la même exactitude que la parole, mais évidemment d'une autre manière, c'est-à-dire exprimer la partie indéfinie du sentiment que la parole, trop positive, ne peut pas rendre, une foule de gens, persuadés par les plaisants du feuilleton, s'imaginèrent que le maître attribuait à la musique la puissance d'exprimer la forme positive des choses, c'est-à-dire qu'il intervertissait les rôles et les fonctions. C'est de cette facilité à souffrir, commune à tous les artistes et d'autant plus grande que leur instinct du juste et du beau est plus prononcé, que je tire l'explication des opinions révolutionnaires de Wagner.",
+        "officialTranslation": "フランス的な冗談は相変わらず続き、俗悪なジャーナリズムは間断なくその職業的な悪ふざけを繰り広げた。ワーグナーは、（劇的）音楽は感情を語らねばならず、言葉と同じ正確さで感情に適応しなければならないが、明らかに別の方法で、すなわち言葉では表現できない感情の不定形な部分を表現しなければならない、と繰り返し言い続けた。この苦しみやすさ——すべての芸術家に共通で、正しいものと美しいものへの本能が強ければ強いほど大きい——から、私はワーグナーの革命的意見の説明を引き出す。"
+      },
+      {
+        "id": 2,
+        "french": "Je vois, par les notes que lui-même il a fournies sur sa jeunesse, que, tout enfant, il vivait au sein du théâtre, fréquentait les coulisses et composait des comédies. La musique de Weber et, plus tard, celle de Beethoven, agirent sur son esprit avec une force irrésistible, et bientôt, les années et les études s'accumulant, il lui fut impossible de ne pas penser d'une manière double, poétiquement et musicalement, de ne pas entrevoir toute idée sous deux formes simultanées, l'un des deux arts commençant sa fonction là où s'arrêtent les limites de l'autre. L'instinct dramatique, qui occupait une si grande place dans ses facultés, devait le pousser à se révolter contre toutes les frivolités, les platitudes et les absurdités des pièces faites pour la musique.",
+        "officialTranslation": "彼自身が若い頃について書いた覚書から、幼い頃から劇場の中で生き、舞台裏に出入りし、喜劇を作っていたことが分かる。ウェーバーの音楽が、後にはベートーヴェンの音楽が、抗しがたい力で彼の精神に作用した。やがて年月と研究が積み重なるにつれ、詩的にも音楽的にも二重の形で思考すること、すべての観念を二つの同時的な形で——一方の芸術が他方の限界の終わるところで機能を開始しながら——見通すことなしにはいられなくなった。彼の能力の中で大きな位置を占める演劇本能は、音楽のために作られた作品のあらゆる軽薄さ・平板さ・不条理さに対して反乱を起こさせるべく彼を駆り立てた。"
+      },
+      {
+        "id": 3,
+        "french": "Quiconque a lu avec attention la Lettre sur la musique, qui sert de préface à Quatre poèmes d'opéras traduits en prose française, ne peut conserver à cet égard aucun doute. En feuilletant la Lettre sur la musique, je sentais revivre dans mon esprit, comme par un phénomène d'écho mnémonique, différents passages de Diderot qui affirment que la vraie musique dramatique ne peut pas être autre chose que le cri ou le soupir de la passion noté et rythmé. Les mêmes problèmes scientifiques, poétiques, artistiques, se reproduisent sans cesse à travers les âges, et Wagner ne se donne pas pour un inventeur mais simplement pour le confirmateur d'une ancienne idée qui sera sans doute plus d'une fois encore, alternativement vaincue et victorieuse.",
+        "officialTranslation": "フランス語散文に訳された四つのオペラ詩の序文として使われている『音楽への手紙』を注意深く読んだ者は、この点について何の疑いも保ち得ない。『音楽への手紙』を繰ると、記憶的反響の現象のように、真の劇音楽は情熱の記譜され韻律化された叫びや溜息以外のものであり得ないと断言するディドロのさまざまな一節が精神に蘇ってくるのを感じた。同じ科学的・詩的・芸術的問題が時代を超えて際限なく繰り返され、ワーグナーは発明者としてではなく、交互に敗北と勝利を繰り返す古い観念の確認者として自らを位置づけている。"
+      },
+      {
+        "id": 4,
+        "french": "Dans cette même Lettre sur la musique, où l'auteur donne une analyse très brève et très limpide de ses trois anciens ouvrages, nous trouvons une préoccupation très vive du théâtre grec. Dans sa lettre à Berlioz, il disait déjà : « Je me demandai quelles devaient être les conditions de l'art pour qu'il pût inspirer au public un inviolable respect, et, afin de ne point m'aventurer trop dans l'examen de cette question, je fus chercher mon point de départ dans la Grèce ancienne. J'y rencontrai tout d'abord l'œuvre artistique par excellence, le drame, dans lequel l'idée, quelque profonde qu'elle soit, peut se manifester avec le plus de clarté et de la manière la plus universellement intelligible. Nous nous étonnons à bon droit aujourd'hui que trente mille Grecs aient pu suivre avec un intérêt soutenu la représentation des tragédies d'Eschyle ; mais si nous recherchons le moyen par lequel on obtenait de pareils résultats, nous trouvons que c'est par l'alliance de tous les arts concourant ensemble au même but, c'est-à-dire à la production de l'œuvre artistique la plus parfaite et la seule vraie. »",
+        "officialTranslation": "この同じ『音楽への手紙』——著者が三つの旧著の極めて簡潔で明快な分析を与えている——において、ギリシャ劇への強い関心が見出される。ベルリオーズへの手紙で彼はすでにこう言っていた——「芸術が聴衆に侵すべからざる尊敬を吹き込めるような、芸術の条件を自問した。この問いの検討に踏み込みすぎないよう、古代ギリシャに出発点を求めた。そこでまず芸術作品の典型——ドラマ——に出会った。そこではどれほど深い観念も最大の明晰さをもって最も普遍的に了解可能な形で現れ得る。三万人のギリシャ人がアイスキュロスの悲劇の上演に持続した関心をもって従えたことに、われわれは今日正当に驚く。しかしそのような結果を得た手段を探せば、すべての芸術が同じ目的——最も完全で唯一真の芸術作品の産出——に向かって共同することの同盟であると分かる。」"
+      },
+      {
+        "id": 5,
+        "french": "Ce goût absolu, despotique, d'un idéal dramatique, où tous les détails doivent sans cesse concourir à une totalité d'effet, a fait la destinée de Wagner. Depuis le jour où il s'est dégagé des vieilles routines du livret et où il a courageusement renié son Rienzi, il a marché, sans dévier d'une ligne, vers cet impérieux idéal. C'est donc sans étonnement que j'ai trouvé dans ceux de ses ouvrages qui sont traduits, particulièrement dans Tannhäuser, Lohengrin et le Vaisseau fantôme, une méthode de construction excellente, un esprit d'ordre et de division qui rappelle l'architecture des tragédies antiques. La radieuse Vénus antique, l'Aphrodite née de la blanche écume, n'a pas impunément traversé les horrifiques ténèbres du moyen âge. Elle n'habite plus l'Olympe ni les rives d'un archipel parfumé. Elle est retirée au fond d'une caverne. En descendant sous terre, Vénus s'est rapprochée de l'enfer.",
+        "officialTranslation": "あらゆる細部が効果の全体性に絶えず貢献しなければならない劇的理想への絶対的で専制的な趣味が、ワーグナーの運命を作った。台本の古い慣習から脱し、勇敢に若い日の成功作『リエンツィ』を否定した日から、彼は一線も逸れることなくこの命令的な理想へ向かって歩んだ。翻訳されている彼の作品、とりわけ『タンホイザー』『ローエングリン』『さまよえるオランダ人』に、優れた構成の方法と古代悲劇の建築を思わせる秩序と区分の精神を見出したのも驚くにはあたらない。古代の輝ける愛の女神ウェヌス、白い泡から生まれたアフロディテは、中世の恐ろしい暗黒を無事には通り抜けていない。彼女はもはやオリンポスにも芳しい列島の岸辺にも住まわず、洞窟の奥底に退いている。地下に降ることで、ウェヌスは地獄に近づいた。"
+      },
+      {
+        "id": 6,
+        "french": "De même, les poèmes de Wagner, bien qu'ils révèlent un goût sincère et une parfaite intelligence de la beauté classique, participent aussi, dans une forte dose, de l'esprit romantique. S'ils font rêver à la majesté de Sophocle et d'Eschyle, ils contraignent en même temps l'esprit à se souvenir des Mystères de l'époque la plus plastiquement catholique. Ils ressemblent à ces grandes visions que le moyen âge étalait sur les murs de ses églises ou tissait dans ses magnifiques tapisseries. Ils ont un aspect général décidément légendaire : le Tannhäuser, légende ; le Lohengrin, légende ; légende, le Vaisseau fantôme. Et ce n'est pas seulement une propension naturelle à tout esprit poétique qui a conduit Wagner vers cette apparente spécialité ; c'est un parti pris formel puisé dans l'étude des conditions les plus favorables du drame lyrique.",
+        "officialTranslation": "同様に、ワーグナーの詩は古典的美への誠実な趣味と完全な理解を示しながらも、強い度合いでロマン主義的精神にも与している。ソポクレスとアイスキュロスの壮大さを夢見させながら、同時に最も造形的にカトリックな時代の神秘劇を精神に思い起こさせる。それらは中世が教会の壁に展開し、壮麗なタペストリーに織り込んだ大きな幻像に似ている。その全体的な様相は決定的に伝説的である——タンホイザーは伝説、ローエングリンは伝説、さまよえるオランダ人も伝説だ。ワーグナーをこの見かけの専門性へと導いたのは、詩的精神すべてに自然な傾向ばかりではない。それは歌劇の最も有利な条件の研究から汲まれた明確な立場決定なのだ。"
+      },
+      {
+        "id": 7,
+        "french": "J'ai entendu beaucoup de personnes tirer de l'étendue même de ses facultés et de sa haute intelligence critique une raison de défiance relativement à son génie musical. « Un homme qui raisonne tant de son art ne peut pas produire naturellement de belles œuvres », disent quelques-uns qui dépouillent ainsi le génie de sa rationalité, et lui assignent une fonction purement instinctive et pour ainsi dire végétale. Non seulement ceci est parfaitement faux, puisque le maître a commencé tout jeune par produire des essais poétiques et musicaux d'une nature variée, et qu'il n'est arrivé que progressivement à se faire un idéal de drame lyrique, mais c'est même une chose absolument impossible. Ce serait un événement tout nouveau dans l'histoire des arts qu'un critique se faisant poète, un renversement de toutes les lois psychiques, une monstruosité.",
+        "officialTranslation": "彼の能力の広さと高度な批評的知性から、音楽的天才への不信の根拠を引き出すという者を多く聞いてきた。「自分の芸術についてこれほど多く論ずる人間は、自然に美しい作品を生み出すことはできない」と言う者がいる。彼らは天才から合理性を剥ぎ取り、純粋に本能的で言わば植物的な機能を与える。これは全く誤っているだけでなく——なぜなら師は若い頃からさまざまな性質の詩的・音楽的試みを生み出し、徐々に歌劇の理想を形成するに至ったのだから——絶対に不可能なことでもある。批評家が詩人になるというのは芸術の歴史に全く新しい出来事であり、すべての心理的法則の転倒であり、異常事態であろう。"
+      },
+      {
+        "id": 8,
+        "french": "Au contraire, tous les grands poètes deviennent naturellement, fatalement, critiques. Je plains les poètes que guide le seul instinct ; je les crois incomplets. Dans la vie spirituelle des premiers, une crise se fait infailliblement, où ils veulent raisonner leur art, découvrir les lois obscures en vertu desquelles ils ont produit, et tirer de cette étude une série de préceptes dont le but divin est l'infaillibilité dans la production poétique. Il serait prodigieux qu'un critique devînt poète, et il est impossible qu'un poète ne contienne pas un critique. Les gens qui reprochent au musicien Wagner d'avoir écrit des livres sur la philosophie de son art devraient nier également que Vinci, Hogarth, Reynolds, aient pu faire de bonnes peintures, simplement parce qu'ils ont déduit et analysé les principes de leur art. Qui parle mieux de la peinture que notre grand Delacroix ? Diderot, Goethe, Shakespeare, autant de producteurs, autant d'admirables critiques. La poésie a existé, s'est affirmée la première, et elle a engendré l'étude des règles. Telle est l'histoire incontestée du travail humain.",
+        "officialTranslation": "反対に、すべての偉大な詩人は自然に、必然的に批評家になる。本能だけに導かれる詩人たちは哀れだと思う——不完全だと信じる。前者の精神的生活においては、自らの芸術を論じ、それによって創作してきた暗い法則を発見し、詩的創作における無謬性という神聖な目的を持つ一連の教訓をこの研究から引き出そうとする危機が必然的に訪れる。批評家が詩人になるのは驚異的であろうし、詩人が批評家を含まないということはあり得ない。音楽家ワーグナーが芸術の哲学に関する本を書いたことを非難する人々は、ヴィンチ、ホガース、レイノルズが自らの芸術の原則を演繹し分析したという理由だけで優れた絵画を描けなかったと否定すべきだろう。われわれの偉大なドラクロワほど絵画についてうまく語る者がいるか。ディドロ、ゲーテ、シェイクスピア——創造者の数だけ、優れた批評家がいる。詩は最初に存在し、最初に確立され、規則の研究を生み出した。これが人間の労働についての論争の余地のない歴史である。"
+      }
+    ]
+  },
+  "baudelaire_wagner_3": {
+    "id": "baudelaire_wagner_3",
+    "title": "Richard Wagner et Tannhäuser à Paris — III",
+    "author": "Charles Baudelaire",
+    "source": "L'Art romantique (初出：Revue Européenne, 1er avril 1861)",
+    "year": "1861",
+    "difficulty": "中級〜上級",
+    "category": "baudelaire_music",
+    "modernRelevance": "★★★★★",
+    "context": "タンホイザー・ローエングリン・さまよえるオランダ人の分析。肉と精神の二元論。エルザとプシュケー——永遠の女性と好奇心の罪。",
+    "keywords": ["Tannhäuser", "Lohengrin", "Hollandais volant", "chair", "esprit", "Vénus", "légende", "mythe", "rédemption"],
+    "relatedTexts": ["baudelaire_wagner_1", "baudelaire_wagner_2", "baudelaire_wagner_4", "mallarme_wagner"],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "Tannhäuser représente la lutte des deux principes qui ont choisi le cœur humain pour principal champ de bataille, c'est-à-dire de la chair avec l'esprit, de l'enfer avec le ciel, de Satan avec Dieu. Et cette dualité est représentée tout de suite, par l'ouverture, avec une incomparable habileté. L'ouverture résume donc la pensée du drame par deux chants, le chant religieux et le chant voluptueux, qui sont ici posés comme deux termes, et qui, dans le finale, trouvent leur équation. Le Chant des pèlerins apparaît le premier, avec l'autorité de la loi suprême, comme marquant tout de suite le véritable sens de la vie, le but de l'universel pèlerinage, c'est-à-dire Dieu. Mais comme le sens intime de Dieu est bientôt noyé dans toute conscience par les concupiscences de la chair, le chant représentatif de la sainteté est peu à peu submergé par les soupirs de la volupté.",
+        "officialTranslation": "タンホイザーは、人間の心を主戦場として選んだ二つの原理——肉と精神、地獄と天、サタンと神——の闘争を表している。そしてこの二元性は序曲によって直ちに比類なき巧みさで表現される。序曲はドラマの思想を二つの歌——宗教的な歌と官能的な歌——によって要約する。これらは二つの項として置かれ、フィナーレでその方程式が解かれる。巡礼たちの歌が最高の法の権威をもって最初に現れ、人生の真の意味、普遍的巡礼の目的、すなわち神を直ちに示す。しかし神への内的感覚が肉の欲求によってあらゆる意識に溺れさせられるにつれ、聖性を代表する歌は徐々に官能の溜息に沈められていく。"
+      },
+      {
+        "id": 2,
+        "french": "Langueurs, délices mêlées de fièvre et coupées d'angoisses, retours incessants vers une volupté qui promet d'éteindre, mais n'éteint jamais la soif ; palpitations furieuses du cœur et des sens, ordres impérieux de la chair, tout le dictionnaire des onomatopées de l'amour se fait entendre ici. Enfin le thème religieux reprend peu à peu son empire, lentement, par gradations, et absorbe l'autre dans une victoire paisible, glorieuse comme celle de l'être irrésistible sur l'être maladif et désordonné, de saint Michel sur Lucifer. Dans l'ouverture de Tannhäuser, dans la lutte des deux principes contraires, Wagner ne s'est pas montré moins subtil ni moins puissant. Dès les premières mesures, les nerfs vibrent à l'unisson de la mélodie ; toute chair qui se souvient se met à trembler. Tout cerveau bien conformé porte en lui deux infinis, le ciel et l'enfer, et dans toute image de l'un de ces infinis il reconnaît subitement la moitié de lui-même.",
+        "officialTranslation": "倦怠、熱と苦悩に混じる喜悦、渇きを癒すと約束しながら決して癒さない官能への絶え間ない回帰、心と感覚の猛烈な鼓動、肉の命令的な要求、愛のオノマトペの辞書のすべてがここで聞こえる。そしてついに宗教的主題がゆっくりと段階的に徐々に支配を取り戻し、もう一方を静かな勝利の中に吸収する——病める無秩序な存在に対する抗しがたい存在の、ルシファーに対する大天使ミカエルの勝利のような。タンホイザー序曲において、相反する二つの原理の闘争において、ワーグナーは劣らぬ繊細さと劣らぬ力を示した。最初の数小節から、神経は旋律と共鳴して震える。記憶する肉すべてが震え始める。正常に形成されたあらゆる頭脳は天国と地獄という二つの無限を内に宿し、これら無限の一方のいかなるイメージにも直ちに自分自身の半分を認識する。"
+      },
+      {
+        "id": 3,
+        "french": "Tout à l'heure, en essayant de décrire la partie voluptueuse de l'ouverture, je priais le lecteur de détourner sa pensée des hymnes vulgaires de l'amour ; en effet, il n'y a ici rien de trivial ; c'est plutôt le débordement d'une nature énergique, qui verse dans le mal toutes les forces dues à la culture du bien ; c'est l'amour effréné, immense, chaotique, élevé jusqu'à la hauteur d'une contre-religion, d'une religion satanique. Ainsi, le compositeur, dans la traduction musicale, a échappé à cette vulgarité qui accompagne trop souvent la peinture du sentiment le plus populaire. De même, dans la représentation plastique de l'idée, il s'est dégagé heureusement de la fastidieuse foule des victimes, des Elvires innombrables. Nous ne voyons pas ici un libertin ordinaire, voltigeant de belle en belle, mais l'homme général, universel, vivant morganatiquement avec l'Idéal absolu de la volupté, avec la Reine de toutes les diablesses, de toutes les faunesses et de toutes les satyresses, reléguées sous terre depuis la mort du grand Pan, c'est-à-dire avec l'indestructible et irrésistible Vénus.",
+        "officialTranslation": "序曲の官能的な部分を描写しようとする際、読者に平凡な愛の賛歌から思考を逸らすよう求めた。実際ここには凡庸なものは何もない。善の文化によって生まれた力をすべて悪に注ぐ、エネルギッシュな本性の溢れ出しがある。それは逸脱した、広大な、混沌とした愛であり、対宗教の高さにまで、悪魔的宗教の高さにまで高められた愛だ。かくして作曲家は、音楽的訳においても、最も一般的な感情の描写にあまりに頻繁に伴う凡庸さを免れた。同様に、観念の造形的表現においても、無数のエルヴィラのような犠牲者の退屈な群れから幸いにして離れた。ここに見るのは美女から美女へと飛び回る普通の放蕩者ではなく、偉大なパンの死以来地下に追いやられたすべての女悪魔・牝の半獣神・女サテュロスの女王と——つまり不滅で抗しがたいウェヌスと——貴賤婚で生きる普遍的・一般的人間である。"
+      },
+      {
+        "id": 4,
+        "french": "Je tiens seulement à faire observer, à la grande louange de Wagner que, malgré l'importance très juste qu'il donne au poème dramatique, l'ouverture de Tannhäuser, comme celle de Lohengrin, est parfaitement intelligible, même à celui qui ne connaîtrait pas le livret ; et ensuite, que cette ouverture contient non seulement l'idée mère, la dualité psychique constituant le drame, mais encore les formules principales, nettement accentuées, destinées à peindre les sentiments généraux exprimés dans la suite de l'œuvre. Quant à la grande marche du second acte, elle a conquis depuis longtemps le suffrage des esprits les plus rebelles, et l'on peut lui appliquer le même éloge d'exprimer de la manière la plus visible, la plus colorée, la plus représentative, ce qu'elle veut exprimer. Qui donc, en entendant ces accents si riches et si fiers, ce rhythme pompeux élégamment cadencé, ces fanfares royales, pourrait se figurer autre chose qu'une pompe féodale, une défilade d'hommes héroïques, dans des vêtements éclatants, tous de haute stature, tous de grande volonté et de foi naïve ?",
+        "officialTranslation": "ワーグナーへの大いなる賞賛として指摘しておきたいのは、彼が劇詩に与える完全に正当な重要性にもかかわらず、タンホイザー序曲はローエングリン序曲と同様、台本を知らない者にも完全に理解できるという点である。さらにこの序曲は、ドラマを構成する心理的二元性という母なる観念だけでなく、作品の続きで表現される一般的な感情を描くための明確に強調された主要な定式をも含んでいる。第二幕の大行進曲については、最も頑固な精神の支持をとっくに勝ち取っており、表現しようとするものを最も可視的で最も色彩豊かで最も代表的な方法で表現するという同じ賞賛を与え得る。これほど豊かで誇り高いアクセント、優雅に拍子を刻む豪壮なリズム、王侯の喇叭の音を聞いて、封建的な荘厳さ、眩い衣装をまとった英雄的な男たちの行列以外の何を思い描けようか。"
+      },
+      {
+        "id": 5,
+        "french": "Que dirons-nous du récit de Tannhäuser, de son voyage à Rome, où la beauté littéraire est si admirablement complétée et soutenue par la mélopée, que les deux éléments ne font plus qu'un inséparable tout ? La tristesse, l'accablement du pécheur pendant son rude voyage, son allégresse en voyant le suprême pontife qui délie les péchés, son désespoir quand celui-ci lui montre le caractère irréparable de son crime, et enfin le sentiment presque ineffable, tant il est terrible, de la joie dans la damnation ; tout est dit, exprimé, traduit, par la parole et la musique, d'une manière si positive, qu'il est presque impossible de concevoir une autre manière de le dire. On comprend bien alors qu'un pareil malheur ne puisse être réparé que par un miracle.",
+        "officialTranslation": "文学的美が旋律によって見事に補完・支持され、二つの要素が分かちがたい一つの全体をなすほどの、タンホイザーのローマ紀行の物語についてどう語ればよいか。過酷な旅での罪人の悲しみと憔悴、罪を赦す最高司祭を目にしての喜び、司祭が彼の罪の修復不能な性格を示した時の絶望、そして最後に、あまりに恐ろしいために言葉にならぬほどの、地獄での喜びという感情——すべてが言葉と音楽によって、他の言い方をほぼ思い描けないほど確実な方法で言われ、表現され、訳されている。こうした不幸は奇跡によってしか修復できないと十分に理解される。"
+      },
+      {
+        "id": 6,
+        "french": "Le drame de Lohengrin porte, comme celui de Tannhäuser, le caractère sacré, mystérieux, et pourtant universellement intelligible de la légende. Une jeune princesse, accusée d'un crime abominable, ne possède aucun moyen de prouver son innocence. Sa cause sera jugée par le jugement de Dieu. En effet, au moment suprême et comme chacun la juge coupable, une nacelle approche du rivage, tirée par un cygne attelé d'une chaîne d'or. Lohengrin, chevalier du Saint-Graal, protecteur des innocents, défenseur des faibles, a entendu l'invocation. Lohengrin dit à Elsa : « Si je remporte pour toi la victoire, veux-tu que je sois ton époux ? … jamais tu ne m'interrogeras, jamais tu ne chercheras à savoir ni de quelles contrées j'arrive, ni quel est mon nom et ma nature. » Et Elsa : « Jamais, seigneur, tu n'entendras de moi cette question. » Il y a là une beauté de dialogue comme il s'en trouve fréquemment dans les drames de Wagner, toute trempée de magie primitive, toute grandie par le sentiment idéal.",
+        "officialTranslation": "ローエングリンのドラマは、タンホイザーのそれと同様、神聖で神秘的だが普遍的に理解可能な伝説の性格を持つ。恐ろしい罪で告発された若い王女は無実を証明する手段を持たない。彼女の訴えは神明裁判によって審判される。実際、最高の瞬間に、皆が彼女を有罪と見なすとき、金の鎖につながれた白鳥に引かれた小舟が岸に近づく。聖杯の騎士、無実者の守護者、弱者の擁護者ローエングリンが祈りを聞いていた。ローエングリンはエルザに言う——「汝のために勝利を収めたなら、汝の夫にならんことを望むか……汝は決して私に問いを発してはならない、私がいかなる国から来るのか、いかなる名と本性の者かを知ろうとしてはならない」。エルザは答える——「けっして、我が主よ、あなたはわたしからその問いを聞くことはないでしょう」。これはワーグナーのドラマに頻繁に見られる、原始的な魔力に浸され、理想的な感情によって高められた対話の美しさだ。"
+      },
+      {
+        "id": 7,
+        "french": "L'innocence d'Elsa est proclamée par la victoire de Lohengrin ; mais la magicienne Ortrude et Frédéric parviennent à exciter en elle la curiosité féminine, et l'obsèdent maintenant jusqu'à ce qu'elle viole son serment et exige de son époux l'aveu de son origine. Le doute a tué la foi, et la foi disparue emporte avec elle le bonheur. Lohengrin déclare enfin sa véritable origine : « Je vous ai été envoyé par le Graal ; mon père, Parcival, porte sa couronne ; moi, son chevalier, j'ai nom Lohengrin. » Le cygne reparaît sur la rive pour remmener le chevalier vers sa miraculeuse patrie. Elsa qui a douté, Elsa qui a voulu savoir, examiner, contrôler, Elsa a perdu son bonheur. L'idéal est envolé.",
+        "officialTranslation": "エルザの無実はローエングリンの勝利によって宣言される。しかし魔女オルトルートとフリードリヒは彼女の中に女性的好奇心を搔き立てることに成功し、彼女が誓いを破って夫に出自の告白を求めるまで彼女に取り憑く。疑いが信仰を殺し、消えた信仰は幸福を共に連れ去る。ローエングリンはついに真の出自を明かす——「私は聖杯によって遣わされた者。我が父パルジファルはその王冠を戴く。私、その騎士の名はローエングリン」。白鳥が騎士を奇跡の故郷へ連れ戻すため岸辺に再び現れる。疑ったエルザ、知ろうとし、調べ、確かめようとしたエルザは幸福を失った。理想は飛び去った。"
+      },
+      {
+        "id": 8,
+        "french": "Le lecteur a sans doute remarqué dans cette légende une frappante analogie avec le mythe de la Psyché antique, qui, elle aussi, fut victime de la démoniaque curiosité, et, ne voulant pas respecter l'incognito de son divin époux, perdit, en pénétrant le mystère, toute sa félicité. Elsa prête l'oreille à Ortrude, comme Ève au serpent. L'Ève éternelle tombe dans l'éternel piège. Ce sera bien, si l'on veut, le signe d'une origine unique, la preuve d'une parenté irréfragable, mais à la condition que l'on ne cherche cette origine que dans le principe absolu et l'origine commune de tous les êtres. Tel mythe peut être considéré comme frère d'un autre, de la même façon que le nègre est dit le frère du blanc. Le mythe est un arbre qui croît partout en tout climat, sous tout soleil, spontanément et sans boutures. Les religions et les poésies des quatre parties du monde nous fournissent sur ce sujet des preuves surabondantes. Comme le péché est partout, la rédemption est partout ; le mythe partout. Rien de plus cosmopolite que l'Éternel.",
+        "officialTranslation": "読者はこの伝説に、古代のプシュケー神話との顕著な類似性を気づいたことだろう。彼女もまた悪魔的好奇心の犠牲者となり、神聖な夫の匿名を尊重することを拒み、神秘を解き明かすことで幸福のすべてを失った。エルザはヘビに耳を傾けるイヴのように、オルトルートに耳を傾ける。永遠のイヴは永遠の罠に落ちる。一つの起源の証拠、反駁できない親縁性の証明と見なしてよいが、その起源をすべての存在の絶対的原理と共通の起源の中にのみ求めるという条件付きで。あるミュトスは別のミュトスの兄弟と見なし得る——黒人が白人の兄弟と言われるように。ミュトスはあらゆる気候のあらゆる場所で、あらゆる太陽の下に、自然に、挿し木なしに育つ木だ。世界四大陸の宗教と詩がこの点について余りある証拠を与えてくれる。罪があるところに救済があり、ミュトスがある。永遠なるものほど世界普遍的なものはない。"
+      },
+      {
+        "id": 9,
+        "french": "Le Vaisseau fantôme, ou Le Hollandais volant, est l'histoire si populaire de ce Juif errant de l'Océan, pour qui cependant une condition de rédemption a été obtenue par un ange secourable : Si le capitaine, qui mettra pied à terre tous les sept ans, y rencontre une femme fidèle, il sera sauvé. L'infortuné, repoussé par la tempête à chaque fois qu'il voulait doubler un cap dangereux, s'était écrié une fois : « Je passerai cette infranchissable barrière, dussé-je lutter toute l'éternité ! » Et l'éternité avait accepté le défi de l'audacieux navigateur. Depuis lors, le fatal navire s'était montré çà et là, dans différentes plages, courant sus à la tempête avec le désespoir d'un guerrier qui cherche la mort ; mais toujours la tempête l'épargnait.",
+        "officialTranslation": "幽霊船——さまよえるオランダ人——は、海の彷徨えるユダヤ人とも言うべき、しかし親切な天使によって救済の条件が得られたこのあまりにも有名な物語だ。7年ごとに上陸するこの船長が、そこで忠実な女性に出会えば、彼は救われる。不運な男は、危険な岬を回ろうとするたびに嵐に追い返され、かつてこう叫んだ——「たとえ永遠に闘い続けなければならないとしても、この越えられない障壁を超えてやる！」そして永遠は大胆な航海者の挑戦を受け入れた。それ以来、この呪われた船はここかしこの岸辺に現れ、死を求める戦士の絶望をもって嵐に向かって突進した。しかし嵐はいつも彼を容赦した。"
+      },
+      {
+        "id": 10,
+        "french": "Dans la chambre du Norvégien, plusieurs jeunes filles s'entretiennent du Hollandais volant, et Senta, possédée d'une idée fixe, les yeux toujours tendus vers un portrait mystérieux, chante la ballade qui retrace la damnation du navigateur. Et tout d'un coup, sortant d'un abîme de rêverie, Senta inspirée s'écrie : « Que je sois celle qui te délivrera par sa fidélité ! Puisse l'ange de Dieu me montrer à toi ! C'est par moi que tu obtiendras ton salut ! » L'esprit de la jeune fille est attiré magnétiquement par le malheur ; son vrai fiancé, c'est le capitaine damné que l'amour seul peut racheter.",
+        "officialTranslation": "ノルウェー人の部屋で、数人の若い娘たちがさまよえるオランダ人について語り合い、固定観念に憑かれたゼンタは神秘的な肖像画へと常に向けた眼で、航海者の断罪を辿るバラードを歌う。そして突然、夢想の深淵から抜け出したゼンタは、感激に満ちて叫ぶ——「私こそが忠実さによってあなたを救う者とならん！神の天使が私をあなたに示さんことを！私によってあなたは救いを得るであろう！」少女の心は磁力のように不幸に惹きつけられる。彼女の真の婚約者は、愛のみが贖い得る呪われた船長だ。"
+      },
+      {
+        "id": 11,
+        "french": "Enfin, le Hollandais paraît, présenté par le père de Senta ; il est bien l'homme du portrait. Quand le Hollandais, semblable au terrible Melmoth qu'attendrit la destinée d'Immalée, sa victime, veut la détourner d'un dévouement trop périlleux, celle-ci résiste et s'obstine à le suivre : « Je te connais bien ! je connais ta destinée ! Je te connaissais lorsque je t'ai vu pour la première fois ! » Et lui, espérant l'épouvanter : « Interroge les mers de toutes les zones, interroge le navigateur qui a sillonné l'Océan dans tous les sens ; il connaît ce vaisseau, l'effroi des hommes pieux : on me nomme le Hollandais volant ! » Elle répond, poursuivant de son dévouement et de ses cris le navire qui s'éloigne : « Gloire à ton ange libérateur ! gloire à sa loi ! Regarde et vois si je te suis fidèle jusqu'à la mort ! » Et elle se précipite à la mer. Le navire s'engloutit. Deux formes aériennes s'élèvent au-dessus des flots : c'est le Hollandais et Senta transfigurés.",
+        "officialTranslation": "ついにオランダ人がゼンタの父によって紹介されて現れる。彼は確かに肖像画の男だ。恐ろしいメルモスが犠牲者イモリーの運命に心を動かされるように、オランダ人は余りにも危険な献身から彼女を遠ざけようとするが、彼女は抵抗し、彼を追うことに執着する——「あなたをよく知っている！あなたの運命を知っている！初めてあなたを見た時からあなたを知っていた！」彼は彼女を怖がらせようとして言う——「あらゆる海域の海を問え、あらゆる方向に大洋を航海した航海者を問え。この船を知っている、敬虔な者たちの恐怖を。私はさまよえるオランダ人と呼ばれる！」彼女は遠ざかる船を献身と叫び声で追いながら答える——「あなたの解放の天使に栄光あれ！その法に栄光あれ！見てください、私が死に至るまであなたに忠実であることを！」そして彼女は海へと身を投じる。船が沈む。二つの空中の姿が波の上に昇る——変容したオランダ人とゼンタだ。"
+      },
+      {
+        "id": 12,
+        "french": "Aimer le malheureux pour son malheur est une idée trop grande pour tomber ailleurs que dans un cœur ingénu, et c'est certainement une très belle pensée que d'avoir suspendu le rachat d'un maudit à l'imagination passionnée d'une jeune fille. Tout le drame est traité d'une main sûre, avec une manière directe ; chaque situation, abordée franchement ; et le type de Senta porte en lui une grandeur surnaturelle et romanesque qui enchante et fait peur. La simplicité extrême du poème augmente l'intensité de l'effet. L'ouverture, que nous avons entendue au concert du Théâtre-Italien, est lugubre et profonde comme l'Océan, le vent et les ténèbres. Je suis contraint de resserrer les bornes de cette étude. Outre Rienzi, Le Hollandais volant, Tannhäuser et Lohengrin, il a composé Tristan et Isolde, et quatre autres opéras formant une tétralogie, dont le sujet est tiré des Nibelungen. Tels sont les travaux de cet homme dont la personne et les ambitions idéales ont défrayé si longtemps la badauderie parisienne.",
+        "officialTranslation": "不幸な者をその不幸ゆえに愛するとは、無邪気な心以外の場所には落ちないほど偉大な観念であり、呪われた者の贖いを若い娘の情熱的な想像力に懸けるという考えは確かに非常に美しい。ドラマ全体が確かな手で、直接的な方法で扱われている。各場面が正直に取り上げられ、ゼンタの人物像は超自然的でロマン的な壮大さを持ち、人を魅了し恐れさせる。詩の極端な単純さが効果の強度を高める。イタリア座のコンサートで聞いた序曲は大洋・風・暗闇のように陰鬱で深い。この研究の範囲を縮めなければならない。リエンツィ・さまよえるオランダ人・タンホイザー・ローエングリンのほかに、彼はトリスタンとイゾルデと、ニーベルンゲンに題材を取った四部作を構成する四つの他のオペラを作曲した。これらが、その人物と理想的な野心がかくも長くパリの野次馬の話題を独占したこの男の仕事である。"
+      }
+    ]
+  },
+  "baudelaire_wagner_4": {
+    "id": "baudelaire_wagner_4",
+    "title": "Richard Wagner et Tannhäuser à Paris — IV",
+    "author": "Charles Baudelaire",
+    "source": "L'Art romantique (初出：Revue Européenne, 1er avril 1861)",
+    "year": "1861",
+    "difficulty": "中級〜上級",
+    "category": "baudelaire_music",
+    "modernRelevance": "★★★★★",
+    "context": "ワーグナー固有の天才の核心——強度・情念・意志・エネルギー。近代的本性の最も真の代表者。「偉大な芸術において節度を愛さない」。",
+    "keywords": ["génie", "passion", "intensité", "volonté", "modernité", "Wagner", "Delacroix", "Victor Hugo", "réforme"],
+    "relatedTexts": ["baudelaire_wagner_1", "baudelaire_wagner_2", "baudelaire_wagner_3", "baudelaire_wagner_encore", "baudelaire_peintre"],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "On peut toujours faire momentanément abstraction de la partie systématique que tout grand artiste volontaire introduit fatalement dans toutes ses œuvres ; il reste, dans ce cas, à chercher et à vérifier par quelle qualité propre, personnelle, il se distingue des autres. Un artiste, un homme vraiment digne de ce grand nom, doit posséder quelque chose d'essentiellement sui generis, par la grâce de quoi il est lui et non un autre. A ce point de vue, les artistes peuvent être comparés à des saveurs variées, et le répertoire des métaphores humaines n'est peut-être pas assez vaste pour fournir la définition approximative de tous les artistes connus et de tous les artistes possibles. Nous avons déjà noté deux hommes dans Richard Wagner, l'homme d'ordre et l'homme passionné. C'est de l'homme passionné, de l'homme de sentiment qu'il est ici question.",
+        "officialTranslation": "意志的な偉大な芸術家が必然的にすべての作品に導入する体系的な部分を、一時的に度外視することはいつでもできる。そうした場合に残るのは、彼が他者と区別されるのはいかなる固有の・個人的な質によるかを探し確かめることだ。芸術家——この偉大な名に真に値する人間——は、本質的にsui generis（独自）な何かを持ち、その恩寵によって他の者でなく彼自身であるべきだ。この観点から芸術家たちはさまざまな味に例えることができ、人間の隠喩の目録はおそらくすべての既知の芸術家とすべての可能な芸術家の近似的な定義を提供するほど広くはない。われわれはすでにリヒャルト・ワーグナーの中に二人の人間——秩序の人と情念の人——を指摘した。ここで問題にするのは情念の人、感情の人だ。"
+      },
+      {
+        "id": 2,
+        "french": "Dans le moindre de ses morceaux il inscrit si ardemment sa personnalité, que cette recherche de sa qualité principale ne sera pas très difficile à faire. Dès le principe, une considération m'avait vivement frappé : c'est que dans la partie voluptueuse et orgiaque de l'ouverture de Tannhäuser, l'artiste avait mis autant de force, développé autant d'énergie que dans la peinture de la mysticité qui caractérise l'ouverture de Lohengrin. Même ambition dans l'une que dans l'autre, même escalade titanique et aussi mêmes raffinements et même subtilité. Ce qui me paraît donc avant tout marquer d'une manière inoubliable la musique de ce maître, c'est l'intensité nerveuse, la violence dans la passion et dans la volonté. Cette musique-là exprime avec la voix la plus suave ou la plus stridente tout ce qu'il y a de plus caché dans le cœur de l'homme.",
+        "officialTranslation": "彼の最も小さな曲にも、彼は熱烈に自らの個性を刻み込んでいる。そのため主要な質を探すのはさほど困難ではない。最初から、一つの考察が私に強く印象を与えた——タンホイザー序曲の官能的で乱痴気騒ぎの部分において、芸術家はローエングリン序曲を特徴づける神秘性の描写において発揮したのと同等の力を込め、同等のエネルギーを発揮したということだ。一方と他方に同じ野心、同じタイタン的な攀登、そして同じ洗練と同じ繊細さがある。したがって何よりもまず忘れがたい形でこの師の音楽を特徴づけると私に思われるのは、神経的な強度、情念と意志における暴力だ。この音楽は最も柔らかい声または最も甲高い声で、人間の心の最も隠れたものすべてを表現する。"
+      },
+      {
+        "id": 3,
+        "french": "Une ambition idéale préside, il est vrai, à toutes ses compositions ; mais si, par le choix de ses sujets et sa méthode dramatique, Wagner se rapproche de l'antiquité, par l'énergie passionnée de son expression il est actuellement le représentant le plus vrai de la nature moderne. Et toute la science, tous les efforts, toutes les combinaisons de ce riche esprit ne sont, à vrai dire, que les serviteurs très humbles et très zélés de cette irrésistible passion. Il en résulte, dans quelque sujet qu'il traite, une solennité d'accent superlative. Par cette passion il ajoute à chaque chose je ne sais quoi de surhumain ; par cette passion il comprend tout et fait tout comprendre. Tout ce qu'impliquent les mots : volonté, désir, concentration, intensité nerveuse, explosion, se sent et se fait deviner dans ses œuvres. Je ne crois pas me faire illusion ni tromper personne en affirmant que je vois là les principales caractéristiques du phénomène que nous appelons génie. En matière d'art, j'avoue que je ne hais pas l'outrance ; la modération ne m'a jamais semblé le signe d'une nature artistique vigoureuse.",
+        "officialTranslation": "理想的な野心が確かにすべての作品を統括しているが、主題の選択と劇的方法においてワーグナーが古代に近づくとすれば、表現の情熱的なエネルギーにおいて彼は現在、近代的本性の最も真の代表者だ。この豊かな精神のすべての知識・努力・組み合わせは、まことのところ、この抗しがたい情念の極めて謙虚で熱心な僕に過ぎない。その結果、彼がいかなる主題を扱うにも、最上級のアクセントの荘厳さが生まれる。この情念によって彼はすべてのものに言いようのない超人的な何かを加え、この情念によってすべてを理解し、すべてを理解させる。意志・欲求・集中・神経的強度・爆発という言葉が意味するものすべてが彼の作品に感じられ、推測される。われわれが天才と呼ぶ現象の主要な特徴をそこに見ると断言しても自己欺瞞にも他者への欺きにもならないと思う。芸術において、私は過剰を嫌わないことを認める。節度は活気ある芸術的本性のしるしと私には決して思われなかった。"
+      },
+      {
+        "id": 4,
+        "french": "Quant à la réforme que le maître veut introduire dans l'application de la musique au drame, qu'en arrivera-t-il ? D'une manière vague et générale, on peut dire, avec le Psalmiste, que, tôt ou tard, ceux qui ont été abaissés seront élevés, que ceux qui ont été élevés seront humiliés. Nous avons vu bien des choses déclarées jadis absurdes, qui sont devenues plus tard des modèles adoptés par la foule. Tout le public actuel se souvient de l'énergique résistance où se heurtèrent, dans le commencement, les drames de Victor Hugo et les peintres d'Eugène Delacroix. Ce qui est bien certain, c'est que sa doctrine est faite pour rallier tous les gens d'esprit fatigués depuis longtemps des erreurs de l'Opéra. Enfin le succès ou l'insuccès de Tannhäuser ne peut absolument rien prouver. Dans quelle histoire a-t-on jamais lu que les grandes causes se perdaient en une seule partie ?\n\n18 mars 1861.",
+        "officialTranslation": "師が音楽のドラマへの応用に導入しようとする改革はどうなるか。詩篇作者とともに漠然と一般的に言えば、早かれ遅かれ、低められた者は高められ、高められた者は辱められるだろう。かつて不条理と宣言された多くのものが後に群衆に採用された模範になるのをわれわれは見てきた。ヴィクトル・ユゴーのドラマとウジェーヌ・ドラクロワの絵画が最初に受けた激しい抵抗を現在の聴衆はすべて覚えている。確かなのは、彼の教義はオペラの誤りにかねてから倦んでいたすべての明敏な人々を糾合するように作られているということだ。タンホイザーの成功あるいは失敗は絶対に何も証明しない。偉大な大義が一度の一戦で失われるという歴史をどこで読んだことがあるか。\n\n1861年3月18日"
+      }
+    ]
+  },
+  "baudelaire_wagner_encore": {
+    "id": "baudelaire_wagner_encore",
+    "title": "Richard Wagner et Tannhäuser à Paris — Encore quelques mots",
+    "author": "Charles Baudelaire",
+    "source": "L'Art romantique (初出：Revue Européenne, 1er avril 1861 / 追記：8 avril 1861)",
+    "year": "1861",
+    "difficulty": "中級",
+    "category": "baudelaire_music",
+    "modernRelevance": "★★★☆☆",
+    "context": "1861年3月タンホイザー初演スキャンダルへの反論。定期会員制度による少数派の専制。フランスの体裁と名誉をめぐる憤激。",
+    "keywords": ["Tannhäuser", "scandale", "abonnés", "Jockey-Club", "ballet", "presse", "Paris", "réaction", "injustice"],
+    "relatedTexts": ["baudelaire_wagner_1", "baudelaire_wagner_2", "baudelaire_wagner_3", "baudelaire_wagner_4"],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "« L'épreuve est faite ! La musique de l'avenir est enterrée ! » s'écrient avec joie tous les siffleurs et cabaleurs. « L'épreuve est faite ! » répètent tous les niais du feuilleton. Et tous les badauds leur répondent en chœur, et très innocemment : « L'épreuve est faite ! »\n\nEn effet, une épreuve a été faite, qui se renouvellera encore bien des milliers de fois avant la fin du monde ; c'est que, d'abord, toute œuvre grande et sérieuse ne peut pas se loger dans la mémoire humaine ni prendre sa place dans l'histoire sans de vives contestations ; ensuite, que dix personnes opiniâtres peuvent, à l'aide de sifflets aigus, dérouter des comédiens, vaincre la bienveillance du public, et pénétrer même de leurs protestations discordantes la voix immense d'un orchestre. Enfin, un inconvénient des plus intéressants a été vérifié, c'est qu'un système de location qui permet de s'abonner à l'année crée une sorte d'aristocratie, laquelle peut, à un moment donné, exclure le vaste public de toute participation au jugement d'une œuvre.",
+        "officialTranslation": "「試みは終わった！未来の音楽は埋葬された！」すべての罵倒者と謀略者が喜んで叫ぶ。「試みは終わった！」と連載記事のすべての阿呆が繰り返す。そしてすべての野次馬が合唱して、ごく無邪気に「試みは終わった！」と答える。\n\n実際、ある試みがなされたが、それは世の終わりまでに何千回も繰り返されるだろう。まず、偉大で真剣な作品はすべて、激しい異議なしに人間の記憶に収まることも歴史に自らの場所を取ることもできないということ。次いで、10人の頑固な者が甲高い口笛で俳優を当惑させ、聴衆の好意を打ち負かし、不協和な抗議で巨大なオーケストラの声さえ貫くことができるということ。最後に、最も興味深い不都合が確かめられた——年間予約制を可能にする貸席制度は一種の貴族制を作り出し、その貴族制はある時点で広大な一般公衆を作品の審判への一切の参加から排除しうるということだ。"
+      },
+      {
+        "id": 2,
+        "french": "Les gens qui se croient débarrassés de Wagner se sont réjouis beaucoup trop vite ; nous pouvons le leur affirmer. Je les engage vivement à célébrer moins haut un triomphe qui n'est pas des plus honorables d'ailleurs, et même à se munir de résignation pour l'avenir. En vérité, ils ne comprennent guère le jeu de bascule des affaires humaines, le flux et le reflux des passions. Ils ignorent aussi de quelle patience et de quelle opiniâtreté la Providence a toujours doué ceux qu'elle investit d'une fonction. Aujourd'hui la réaction est commencée ; elle a pris naissance le jour même où la malveillance, la sottise, la routine et l'envie coalisées ont essayé d'enterrer l'ouvrage. L'immensité de l'injustice a engendré mille sympathies, qui maintenant se montrent de tous côtés.",
+        "officialTranslation": "ワーグナーから解放されたと思っている人々は余りにも早く喜んでいる。そう断言できる。彼らにそれほど大声で、しかもそれほど名誉あるものでもない勝利を祝うことをやめ、将来に備えて諦念を武装するよう強く勧める。まことに彼らは人間の事柄のシーソーゲーム、情熱の満ち引きをほとんど理解していない。また摂理が機能を委ねる者たちに常に与えてきた忍耐と不屈さについても知らない。今日、反動が始まった。反動は悪意・愚かさ・因習・嫉妬が結束して作品を埋葬しようとしたまさにその日に生まれた。不正義の広大さが千の共感を生み、それが今やあらゆる方向から現れてきている。"
+      },
+      {
+        "id": 3,
+        "french": "Aux personnes éloignées de Paris, l'aventure inattendue du drame de Tannhäuser doit apparaître comme une énigme. Il serait facile de l'expliquer par la coïncidence malheureuse de plusieurs causes, dont quelques-unes sont étrangères à l'art. Avouons tout de suite la raison principale, dominante : l'opéra de Wagner est un ouvrage sérieux, demandant une attention soutenue ; on conçoit tout ce que cette condition implique de chances défavorables dans un pays où l'ancienne tragédie réussissait surtout par les facilités qu'elle offrait à la distraction. En Italie, on prend des sorbets et l'on fait des cancans dans les intervalles du drame ; en France, on joue aux cartes. « Vous êtes un impertinent, vous qui voulez me contraindre à prêter à votre œuvre une attention continue », s'écrie l'abonné récalcitrant, « je veux que vous me fournissiez un plaisir digestif plutôt qu'une occasion d'exercer mon intelligence. »",
+        "officialTranslation": "パリから遠い人々には、タンホイザーのドラマが思わぬ事態は謎として現れるに違いない。いくつかの不幸な原因の一致によって、そのうちいくつかは芸術と無縁のもの、説明するのは容易だろう。主要で支配的な理由をただちに認めよう——ワーグナーのオペラは持続した注意を要求する真剣な作品だ。古典的悲劇が何より散漫さの容易さによって成功していた国で、この条件がいかに多くの不利な要素を含意するかは想像できる。イタリアではドラマの幕間にシャーベットを食べ世間話をし、フランスでは牌を打つ。「あなたは失礼千万だ、自分の作品に絶え間ない注意を払わせようとするとは」と反抗的な定期会員は叫ぶ——「知性を働かせる機会ではなく消化的な快楽を提供してほしい」と。"
+      },
+      {
+        "id": 4,
+        "french": "A cette cause principale, il faut en ajouter d'autres qui sont aujourd'hui connues de tout le monde. L'ordre impérial, qui fait tant d'honneur au prince, a ameuté contre l'artiste beaucoup d'envieux et beaucoup de ces badauds qui croient toujours faire acte d'indépendance en aboyant à l'unisson. Le décret qui venait de rendre quelques libertés au journal et à la parole ouvrait carrière à une turbulence naturelle, longtemps comprimée, qui s'est jetée, comme un animal fou, sur le premier passant venu. Ce passant, c'était le Tannhäuser, autorisé par le chef de l'État et protégé ouvertement par la femme d'un ambassadeur étranger. Quelle admirable occasion ! Toute une salle française s'est amusée pendant plusieurs heures de la douleur de cette femme, et, chose moins connue, Mme Wagner elle-même a été insultée pendant une des représentations. Prodigieux triomphe !",
+        "officialTranslation": "この主要な原因に、今日誰もが知っている他の原因を加えなければならない。皇帝の命令——君主の名誉を大いに高める——が芸術家に対して多くの嫉妬者と、一斉に吠えることで常に独立心を示していると信じる野次馬たちを煽り立てた。新聞と言論にいくらかの自由を返したばかりの勅令が、長く抑圧されてきた自然な騒動に活動の場を開き、それは狂った動物のように最初の通行人に飛びかかった。その通行人こそタンホイザー——国家元首によって認可され、外国大使の妻によって公然と保護されていた。何という絶好の機会！フランス中の聴衆がこの女性の苦しみを数時間楽しみ、あまり知られていないが、ワーグナー夫人自身がある上演中に侮辱された。実に驚くべき勝利よ！"
+      },
+      {
+        "id": 5,
+        "french": "Une mise en scène plus qu'insuffisante, faite par un ancien vaudevilliste ; une exécution molle et incorrecte de la part de l'orchestre ; un ténor allemand sur qui on fondait les principales espérances, et qui se met à chanter faux avec une assiduité déplorable ; une Vénus endormie, habillée d'un paquet de chiffons blancs ; toutes les places livrées, pour deux représentations, à une foule hostile ou indifférente à toute aspiration idéale : toutes ces choses doivent être également prises en considération. Seuls, mademoiselle Sax et Morelli ont fait tête à l'orage. Morelli, avec l'admirable souplesse italienne, s'est conformé humblement au style et au goût de l'auteur, et les personnes qui ont eu souvent le loisir de l'étudier disent que cette docilité lui a profité, et qu'il n'a jamais paru dans un aussi beau jour que sous le personnage de Wolfram.",
+        "officialTranslation": "元ヴォードヴィル作家による余りにも不十分な演出、オーケストラによる緩慢で不正確な演奏、主要な期待が寄せられていたのに嘆かわしいほど頻繁に音を外すドイツ人テノール、白いぼろ布の束に包まれて古典的に見えない眠れるウェヌス、二公演にわたってすべての理想的な熱情に敵対的または無関心な群衆に渡されたすべての席——これらすべても等しく考慮に入れるべきだ。サックス嬢とモレッリだけが嵐に立ち向かった。モレッリはイタリア人の驚嘆すべき柔軟性で、作者のスタイルと趣味に謙虚に従い、彼をしばしば研究する機会を持った人々は、この従順さが彼に有益だったと、ウォルフラムの役ほど輝いたことはなかったと言う。"
+      },
+      {
+        "id": 6,
+        "french": "La question du ballet, élevée à la hauteur d'une question vitale et agitée pendant plusieurs mois, n'a pas peu contribué à l'émeute. « Un opéra sans ballet ! qu'est-ce que cela ? » disait la routine. On a fait manœuvrer sur la scène, en manière de consolation, des régiments prussiens en jupes courtes, avec les gestes mécaniques d'une école militaire ; et une partie du public disait : « Voilà un mauvais ballet et une musique qui n'est pas faite pour la danse. » Le bon sens répondait : « Ce n'est pas un ballet ; mais ce devrait être une bacchanale, une orgie, comme l'indique la musique. » Que les hommes qui peuvent se donner le luxe d'une maîtresse parmi les danseuses de l'Opéra, désirent qu'on mette le plus souvent possible en lumière les talents et les beautés de leur emplette, c'est là certes un sentiment presque paternel que tout le monde comprend et excuse facilement ; mais que ces mêmes hommes rendent impossible l'exécution d'un ouvrage qui leur déplaît, voilà ce qui est intolérable.",
+        "officialTranslation": "バレエの問題——重大問題の高さにまで引き上げられ数ヶ月にわたって騒がれた——も暴動に少なからず貢献した。「バレエなしのオペラ！それが何だ？」と因習が言った。慰めとして、短いスカートのプロイセン連隊が軍事学校の機械的な身振りで舞台を歩き回らされた。「あれは出来の悪いバレエで、ダンス向けでない音楽だ」と聴衆の一部は言った。良識は答えた——「バレエではない。だが音楽が示すように酒宴、乱痴気騒ぎであるべきだ」と。オペラの踊り子の中に情婦を持つ贅沢を許せる男たちが、その商品の才能と美しさをできる限り光の当たる場所に置きたいと望むのは、誰もが容易に理解し許す父性的な感情と言えるだろう。しかし同じ男たちが気に入らない作品の上演を不可能にするのは耐えがたいことだ。"
+      },
+      {
+        "id": 7,
+        "french": "On espérait arracher à ces enragés leur victime en la présentant au public un dimanche, c'est-à-dire un jour où les abonnés et le Jockey-Club abandonnent volontiers la salle à une foule qui profite de la place libre et du loisir. Mais ils avaient fait ce raisonnement assez juste : « Si nous permettons que le succès ait lieu aujourd'hui, l'administration en tirera un prétexte suffisant pour nous imposer l'ouvrage pendant trente jours. » Et ils sont revenus à la charge, armés de tous les instruments homicides confectionnés à l'avance. Le public, le public entier, a lutté pendant deux actes, et dans sa bienveillance, doublée par l'indignation, il applaudissait non seulement les beautés irrésistibles, mais même les passages qui l'étonnaient et le déroutaient. Mais les quelques sifflets ont courageusement persisté, sans motif et sans interruption ; et tout le troisième acte a été submergé dans le tumulte. Dans la presse, aucune résistance, aucune protestation. M. Berlioz a évité de dire son avis ; courage négatif. Remercions-le de n'avoir pas ajouté à l'injure universelle.",
+        "officialTranslation": "日曜日——定期会員とジョッキー・クラブが自由席と余暇を楽しむ群衆に喜んで席を譲る日——に公衆に提示することで、狂信者たちから犠牲者を奪い取ることが期待された。しかし彼らはかなり正確な推論をした——「今日の成功を許せば、当局はそれを30日間作品を押し付けるための十分な口実に使うだろう」。そして事前に製造された凶器を完全武装して舞い戻った。聴衆全体が二幕間戦い、憤慨で倍加した好意において、抗しがたい美しさだけでなく驚かせ困惑させる箇所さえも拍手した。しかし数本の口笛は理由もなく中断もなく勇ましく続き、第三幕全体が騒動の中に沈んだ。報道陣には抵抗も抗議も皆無。ベルリオーズは自らの意見を言うのを避けた——消極的な勇気だ。普遍的な侮辱に加わらなかったことを感謝しよう。"
+      },
+      {
+        "id": 8,
+        "french": "Or, pendant les scandales soulevés par l'ouvrage de Wagner, je me disais : « Qu'est-ce que l'Europe va penser de nous, et en Allemagne que dira-t-on de Paris ? Voilà une poignée de tapageurs qui nous déshonorent collectivement ! » Mais non, cela ne sera pas. Je crois, je sais, je jure que parmi les littérateurs, les artistes et même parmi les gens du monde, il y a encore bon nombre de personnes bien élevées, douées de justice, et dont l'esprit est toujours libéralement ouvert aux nouveautés qui leur sont offertes. L'Allemagne aurait tort de croire que Paris n'est peuplé que de polissons. Enfin l'idée est lancée, la trouée est faite, c'est l'important. Si peu de temps que l'ouvrage ait paru devant le public, l'ordre de l'Empereur, auquel nous devons de l'avoir entendu, a apporté un grand secours à l'esprit français, esprit logique, amoureux d'ordre, qui reprendra facilement la suite de ses évolutions.\n\n8 avril 1861.",
+        "officialTranslation": "ワーグナーの作品が引き起こしたスキャンダルの最中、私は思っていた——「ヨーロッパはわれわれをどう思うだろう、ドイツではパリについて何が言われるだろう。これは一握りの騒動師たちが集合的にわれわれの名誉を損ねているのだ！」しかし、そうはならない。文学者・芸術家・世間の人々の中に、教養があり、公正さを持ち、提供される新しさにいつも自由に開かれた精神を持つ人間がまだ多くいると信じ、知り、誓う。ドイツはパリが無礼者だけで住まわれていると思うべきでない。ともかく観念は投じられ、突破口は開かれた——それが重要なことだ。作品が聴衆の前にほんの短い時間現れたとはいえ、われわれがそれを聴くことができた皇帝の命令は、論理的で秩序を愛し、進化の続きを容易に取り戻すフランスの精神に大きな助けをもたらした。\n\n1861年4月8日"
+      }
+    ]
+  },{
+  "baudelaire_lettre_wagner": {
+    "id": "baudelaire_lettre_wagner",
+    "title": "Lettre à Richard Wagner",
+    "author": "Charles Baudelaire",
+    "source": "Correspondance (17 février 1860)",
+    "year": "1860",
+    "difficulty": "中級",
+    "category": "baudelaire_music",
+    "modernRelevance": "★★★★★",
+    "context": "1860年1月25日コンサートの直後に書かれた私信。「私はあなたに征服された」——ワーグナー論5篇の起点となった体験の直接の記録。",
+    "keywords": ["Wagner", "musique", "jouissance", "grandeur", "passion", "volupté", "couleur", "extase", "Lohengrin", "Tannhäuser"],
+    "relatedTexts": ["baudelaire_wagner_1", "baudelaire_wagner_2", "baudelaire_wagner_3", "baudelaire_wagner_4", "baudelaire_wagner_encore"],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "Monsieur,\n\nJe me suis toujours figuré que si accoutumé à la gloire que fut un grand artiste, il n'était pas insensible à un compliment sincère, quand ce compliment était comme un cri de reconnaissance, et enfin que ce cri pouvait avoir une valeur d'un genre singulier, quand il venait d'un Français, c'est-à-dire d'un homme peu fait pour l'enthousiasme et né dans un pays où l'on ne s'entend guères plus à la poésie et à la peinture qu'à la musique. Avant tout, je veux vous dire que je vous dois la plus grande jouissance musicale que j'aie jamais éprouvée. Je suis d'un âge où on ne s'amuse plus guères à écrire aux hommes célèbres, et j'aurais hésité longtemps encore à vous témoigner par lettre mon admiration, si tous les jours mes yeux ne tombaient sur des articles indignes, ridicules, où on fait tous les efforts possibles pour diffamer votre génie.",
+        "officialTranslation": "拝啓、\n\n偉大な芸術家は名声に慣れていても、誠実な称賛には無感動ではあり得ない——その称賛が感謝の叫びに等しい時に——と私はいつも考えてきました。そして最終的に、その叫びがフランス人、すなわち熱狂にはあまり向かず、詩や絵画にも音楽にも精通していない国に生まれた人間から来る時には、独特の価値を持ちうると。まず何より、私があなたにこれまで経験した中で最大の音楽的喜悦を負っているということをお伝えしたい。私は有名人への手紙などもはや面白がれない年齢にありますが、もし毎日あなたの天才を中傷しようとするあらゆる努力がなされた下劣で滑稽な記事に目が止まらなければ、さらに長く躊躇い続けたことでしょう。"
+      },
+      {
+        "id": 2,
+        "french": "Vous n'êtes pas le premier homme, Monsieur, à l'occasion duquel j'ai eu à souffrir et à rougir de mon pays. Enfin l'indignation m'a poussé à vous témoigner ma reconnaissance ; je me suis dit : Je veux être distingué de tous ces imbéciles.\n\nLa première fois que je suis allé aux Italiens, pour entendre vos ouvrages, j'étais assez mal disposé, et même, je l'avouerai, plein de mauvais préjugés ; mais je suis excusable ; j'ai été si souvent dupe ; j'ai entendu tant de musique de charlatans à grandes prétentions. Par vous j'ai été vaincu tout de suite. Ce que j'ai éprouvé est indescriptible, et si vous daignez ne pas rire, j'essaierai de vous le traduire. D'abord il m'a semblé que je connaissais cette musique, et plus tard en y réfléchissant, j'ai compris d'où venait ce mirage ; il me semblait que cette musique était la mienne, et je la reconnaissais comme tout homme reconnaît les choses qu'il est destiné à aimer. Pour tout autre que pour un homme d'esprit, cette phrase serait immensément ridicule, surtout écrite par quelqu'un qui, comme moi, ne sait pas la musique, et dont toute l'éducation se borne à avoir entendu (avec grand plaisir, il est vrai) quelques beaux morceaux de Weber et de Beethoven.",
+        "officialTranslation": "あなたは、私が我が国のために苦しみ恥じなければならなかった最初の人間ではありません。ついに憤慨が私をあなたへの感謝表明へと駆り立てました。私は言いました——すべてのこれらの愚か者たちとは一線を画したいと。\n\nあなたの作品を聴くためにイタリア座に初めて行った時、私はかなり敵意を持っていて、告白しますが、悪い先入観に満ちていました。しかし弁解の余地はあります——何度も騙されてきた、大きな野心を持つ山師の音楽をどれほど聴いてきたことか。あなたによって私はただちに征服されました。私が感じたものは言葉にならず、あなたが笑わないでいただけるなら、訳そうと試みます。まず初めに、この音楽を知っているように思われ、後で振り返るとその蜃気楼の原因が分かりました——この音楽は私のものであるように思われ、人が愛するよう運命づけられた物を認識するように認識していたのです。精神の人以外には、私のように音楽を知らず、教育のすべてがウェーバーとベートーヴェンの美しい曲をいくつか（大いなる喜びをもって、とはいえ）聴いたことに留まる者が書いたこの文は、途方もなく滑稽に聞こえるでしょう。"
+      },
+      {
+        "id": 3,
+        "french": "Ensuite le caractère qui m'a principalement frappé, ç'a été la grandeur. Cela représente le grand, et cela pousse au grand. J'ai retrouvé partout dans vos ouvrages la solennité des grands bruits, des grands aspects de la Nature, et la solennité des grandes passions de l'homme. On se sent tout de suite enlevé et subjugué. L'un des morceaux les plus étranges et qui m'ont apporté une sensation musicale nouvelle est celui qui est destiné à peindre une extase religieuse. L'effet produit par l'Introduction des invités et par la Fête nuptiale est immense. J'ai senti toute la majesté d'une vie plus large que la nôtre.",
+        "officialTranslation": "次に、私を主に打ちのめした特質は、壮大さでした。それは偉大なものを表し、偉大なものへと駆り立てる。あなたの作品のいたるところに、大きな音の荘厳さ、自然の大きな様相の荘厳さ、人間の大きな情念の荘厳さを見出しました。人は直ちに持ち上げられ征服された感を覚える。最も奇妙な曲の一つで、新しい音楽的感覚をもたらしてくれたのは、宗教的恍惚を描くべく定められた曲でした。客人たちの入場と婚礼の饗宴が生み出す効果は甚大です。私はわれわれのものより広大な生命のすべての壮麗さを感じました。"
+      },
+      {
+        "id": 4,
+        "french": "Autre chose encore : j'ai éprouvé souvent un sentiment d'une nature assez bizarre, c'est l'orgueil et la jouissance de comprendre, de me laisser pénétrer, envahir, volupté vraiment sensuelle, et qui ressemble à celle de monter dans l'air ou de rouler sur la mer. Et la musique en même temps respirait quelquefois l'orgueil de la vie. Généralement ces profondes harmonies me paraissaient ressembler à ces excitants qui accélèrent le pouls de l'imagination.",
+        "officialTranslation": "さらに別のことも——私はしばしば、かなり奇妙な性質の感覚を経験しました。それは理解する誇りと喜び、浸透させ、侵入させてもらうこと——真に官能的な悦楽で、空中に昇ることや海を漂うことの悦楽に似たもの。そして音楽は同時に時に生の誇りを呼吸していました。一般に、これらの深い和声は想像力の脈拍を速める興奮剤に似ているように思われました。"
+      },
+      {
+        "id": 5,
+        "french": "Enfin, j'ai éprouvé aussi, et je vous supplie de ne pas rire, des sensations qui dérivent probablement de la tournure de mon esprit et de mes préoccupations fréquentes. Il y a partout quelque chose d'enlevé et d'enlevant, quelque chose aspirant à monter plus haut, quelque chose d'excessif et de superlatif. Par exemple, pour me servir de comparaisons empruntées à la peinture, je suppose devant mes yeux une vaste étendue d'un rouge sombre. Si ce rouge représente la passion, je le vois arriver graduellement, par toutes les transitions de rouge et de rose, à l'incandescence de la fournaise. Il semblerait difficile, impossible même d'arriver à quelque chose de plus ardent ; et cependant une dernière fusée vient tracer un sillon plus blanc sur le blanc qui lui sert de fond. Ce sera, si vous voulez, le cri suprême de l'âme montée à son paroxysme.",
+        "officialTranslation": "最後に——笑わないでいただくよう伏してお願いします——おそらく私の精神の傾向と頻繁な関心から派生する感覚も経験しました。いたるところに、持ち上げるものと持ち上げられるもの、より高く昇ろうとするもの、過剰で最上級のものがある。例えば、絵画から借りた比喩を使えば——目の前に暗い赤の広大な広がりを想像します。この赤が情念を表すとすれば、それが赤とバラ色のあらゆる移行を経て徐々に炉の白熱へと至るのを見る。これ以上熱烈なものに達することは難しく、不可能にさえ思われるでしょう。しかし最後の一筋の閃光が、背景として機能する白の上にさらに白い轍を描く。それは、よろしければ、頂点に達した魂の至高の叫びとでも言いましょう。"
+      },
+      {
+        "id": 6,
+        "french": "J'avais commencé à écrire quelques méditations sur les morceaux de Tannhäuser et de Lohengrin que nous avons entendus ; mais j'ai reconnu l'impossibilité de tout dire.\n\nAinsi je pourrais continuer cette lettre interminablement. Si vous avez pu me lire, je vous en remercie. Il ne me reste plus qu'à ajouter quelques mots. Depuis le jour où j'ai entendu votre musique, je me dis sans cesse, surtout dans les mauvaises heures : Si, au moins, je pouvais entendre ce soir un peu de Wagner ! Il y a sans doute d'autres hommes faits comme moi. En somme vous avez dû être satisfait du public dont l'instinct a été bien supérieur à la mauvaise science des journalistes. Pourquoi ne donneriez-vous pas quelques concerts encore en y ajoutant des morceaux nouveaux ? Vous nous avez fait connaître un avant-goût de jouissances nouvelles ; avez-vous le droit de nous priver du reste ? Une fois encore, Monsieur, je vous remercie ; vous m'avez rappelé à moi-même et au grand, dans de mauvaises heures.\n\nCH. BAUDELAIRE.\n\nJe n'ajoute pas mon adresse, parce que vous croiriez peut-être que j'ai quelque chose à vous demander.",
+        "officialTranslation": "タンホイザーとローエングリンの曲について瞑想を書き始めていましたが、すべてを語ることの不可能さを認めました。\n\nこのようにしてこの手紙を際限なく続けることができます。もし読み終えていただけたなら、感謝します。あとはいくつかの言葉を付け加えるのみです。あなたの音楽を聴いた日から、私は絶えず——とりわけ辛い時に——こう自分に言います。せめて今夜ワーグナーを少し聴けたなら！きっと私のような人間が他にもいることでしょう。結局、ジャーナリストたちの劣った知識よりずっと優れた本能を示した聴衆には満足されたはずです。新しい曲を加えてさらにいくつかコンサートを開かれませんか。新しい喜悦の予感を知らしめた以上、残りを奪う権利があるでしょうか。もう一度、先生、ありがとうございます。あなたは辛い時に私を私自身へ、そして偉大なものへと呼び戻してくださいました。\n\nシャルル・ボードレール\n\n住所を添えないのは、何かお願いがあるとお思いになるかもしれないからです。"
+      }
+    ]
+  }
 }

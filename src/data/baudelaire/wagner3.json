@@ -1,77 +1,90 @@
 {
-  "baudelaire_wagner_3": {
-    "id": "baudelaire_wagner_3",
-    "title": "Richard Wagner et Tannhäuser à Paris — III",
-    "author": "Charles Baudelaire",
-    "source": "L'Art romantique (初出：Revue Européenne, 1er avril 1861)",
-    "year": "1861",
-    "difficulty": "中級〜上級",
-    "category": "baudelaire_music",
-    "modernRelevance": "★★★★★",
-    "context": "タンホイザー・ローエングリン・さまよえるオランダ人の分析。肉と精神の二元論。エルザとプシュケー——永遠の女性と好奇心の罪。",
-    "keywords": ["Tannhäuser", "Lohengrin", "Hollandais volant", "chair", "esprit", "Vénus", "légende", "mythe", "rédemption"],
-    "relatedTexts": ["baudelaire_wagner_1", "baudelaire_wagner_2", "baudelaire_wagner_4", "mallarme_wagner"],
-    "paragraphs": [
-      {
-        "id": 1,
-        "french": "Tannhäuser représente la lutte des deux principes qui ont choisi le cœur humain pour principal champ de bataille, c'est-à-dire de la chair avec l'esprit, de l'enfer avec le ciel, de Satan avec Dieu. Et cette dualité est représentée tout de suite, par l'ouverture, avec une incomparable habileté. L'ouverture résume donc la pensée du drame par deux chants, le chant religieux et le chant voluptueux, qui sont ici posés comme deux termes, et qui, dans le finale, trouvent leur équation. Le Chant des pèlerins apparaît le premier, avec l'autorité de la loi suprême, comme marquant tout de suite le véritable sens de la vie, le but de l'universel pèlerinage, c'est-à-dire Dieu. Mais comme le sens intime de Dieu est bientôt noyé dans toute conscience par les concupiscences de la chair, le chant représentatif de la sainteté est peu à peu submergé par les soupirs de la volupté.",
-        "officialTranslation": "タンホイザーは、人間の心を主戦場として選んだ二つの原理——肉と精神、地獄と天、サタンと神——の闘争を表している。そしてこの二元性は序曲によって直ちに比類なき巧みさで表現される。序曲はドラマの思想を二つの歌——宗教的な歌と官能的な歌——によって要約する。これらは二つの項として置かれ、フィナーレでその方程式が解かれる。巡礼たちの歌が最高の法の権威をもって最初に現れ、人生の真の意味、普遍的巡礼の目的、すなわち神を直ちに示す。しかし神への内的感覚が肉の欲求によってあらゆる意識に溺れさせられるにつれ、聖性を代表する歌は徐々に官能の溜息に沈められていく。"
-      },
-      {
-        "id": 2,
-        "french": "Langueurs, délices mêlées de fièvre et coupées d'angoisses, retours incessants vers une volupté qui promet d'éteindre, mais n'éteint jamais la soif ; palpitations furieuses du cœur et des sens, ordres impérieux de la chair, tout le dictionnaire des onomatopées de l'amour se fait entendre ici. Enfin le thème religieux reprend peu à peu son empire, lentement, par gradations, et absorbe l'autre dans une victoire paisible, glorieuse comme celle de l'être irrésistible sur l'être maladif et désordonné, de saint Michel sur Lucifer. Dans l'ouverture de Tannhäuser, dans la lutte des deux principes contraires, Wagner ne s'est pas montré moins subtil ni moins puissant. Dès les premières mesures, les nerfs vibrent à l'unisson de la mélodie ; toute chair qui se souvient se met à trembler. Tout cerveau bien conformé porte en lui deux infinis, le ciel et l'enfer, et dans toute image de l'un de ces infinis il reconnaît subitement la moitié de lui-même.",
-        "officialTranslation": "倦怠、熱と苦悩に混じる喜悦、渇きを癒すと約束しながら決して癒さない官能への絶え間ない回帰、心と感覚の猛烈な鼓動、肉の命令的な要求、愛のオノマトペの辞書のすべてがここで聞こえる。そしてついに宗教的主題がゆっくりと段階的に徐々に支配を取り戻し、もう一方を静かな勝利の中に吸収する——病める無秩序な存在に対する抗しがたい存在の、ルシファーに対する大天使ミカエルの勝利のような。タンホイザー序曲において、相反する二つの原理の闘争において、ワーグナーは劣らぬ繊細さと劣らぬ力を示した。最初の数小節から、神経は旋律と共鳴して震える。記憶する肉すべてが震え始める。正常に形成されたあらゆる頭脳は天国と地獄という二つの無限を内に宿し、これら無限の一方のいかなるイメージにも直ちに自分自身の半分を認識する。"
-      },
-      {
-        "id": 3,
-        "french": "Tout à l'heure, en essayant de décrire la partie voluptueuse de l'ouverture, je priais le lecteur de détourner sa pensée des hymnes vulgaires de l'amour ; en effet, il n'y a ici rien de trivial ; c'est plutôt le débordement d'une nature énergique, qui verse dans le mal toutes les forces dues à la culture du bien ; c'est l'amour effréné, immense, chaotique, élevé jusqu'à la hauteur d'une contre-religion, d'une religion satanique. Ainsi, le compositeur, dans la traduction musicale, a échappé à cette vulgarité qui accompagne trop souvent la peinture du sentiment le plus populaire. De même, dans la représentation plastique de l'idée, il s'est dégagé heureusement de la fastidieuse foule des victimes, des Elvires innombrables. Nous ne voyons pas ici un libertin ordinaire, voltigeant de belle en belle, mais l'homme général, universel, vivant morganatiquement avec l'Idéal absolu de la volupté, avec la Reine de toutes les diablesses, de toutes les faunesses et de toutes les satyresses, reléguées sous terre depuis la mort du grand Pan, c'est-à-dire avec l'indestructible et irrésistible Vénus.",
-        "officialTranslation": "序曲の官能的な部分を描写しようとする際、読者に平凡な愛の賛歌から思考を逸らすよう求めた。実際ここには凡庸なものは何もない。善の文化によって生まれた力をすべて悪に注ぐ、エネルギッシュな本性の溢れ出しがある。それは逸脱した、広大な、混沌とした愛であり、対宗教の高さにまで、悪魔的宗教の高さにまで高められた愛だ。かくして作曲家は、音楽的訳においても、最も一般的な感情の描写にあまりに頻繁に伴う凡庸さを免れた。同様に、観念の造形的表現においても、無数のエルヴィラのような犠牲者の退屈な群れから幸いにして離れた。ここに見るのは美女から美女へと飛び回る普通の放蕩者ではなく、偉大なパンの死以来地下に追いやられたすべての女悪魔・牝の半獣神・女サテュロスの女王と——つまり不滅で抗しがたいウェヌスと——貴賤婚で生きる普遍的・一般的人間である。"
-      },
-      {
-        "id": 4,
-        "french": "Je tiens seulement à faire observer, à la grande louange de Wagner que, malgré l'importance très juste qu'il donne au poème dramatique, l'ouverture de Tannhäuser, comme celle de Lohengrin, est parfaitement intelligible, même à celui qui ne connaîtrait pas le livret ; et ensuite, que cette ouverture contient non seulement l'idée mère, la dualité psychique constituant le drame, mais encore les formules principales, nettement accentuées, destinées à peindre les sentiments généraux exprimés dans la suite de l'œuvre. Quant à la grande marche du second acte, elle a conquis depuis longtemps le suffrage des esprits les plus rebelles, et l'on peut lui appliquer le même éloge d'exprimer de la manière la plus visible, la plus colorée, la plus représentative, ce qu'elle veut exprimer. Qui donc, en entendant ces accents si riches et si fiers, ce rhythme pompeux élégamment cadencé, ces fanfares royales, pourrait se figurer autre chose qu'une pompe féodale, une défilade d'hommes héroïques, dans des vêtements éclatants, tous de haute stature, tous de grande volonté et de foi naïve ?",
-        "officialTranslation": "ワーグナーへの大いなる賞賛として指摘しておきたいのは、彼が劇詩に与える完全に正当な重要性にもかかわらず、タンホイザー序曲はローエングリン序曲と同様、台本を知らない者にも完全に理解できるという点である。さらにこの序曲は、ドラマを構成する心理的二元性という母なる観念だけでなく、作品の続きで表現される一般的な感情を描くための明確に強調された主要な定式をも含んでいる。第二幕の大行進曲については、最も頑固な精神の支持をとっくに勝ち取っており、表現しようとするものを最も可視的で最も色彩豊かで最も代表的な方法で表現するという同じ賞賛を与え得る。これほど豊かで誇り高いアクセント、優雅に拍子を刻む豪壮なリズム、王侯の喇叭の音を聞いて、封建的な荘厳さ、眩い衣装をまとった英雄的な男たちの行列以外の何を思い描けようか。"
-      },
-      {
-        "id": 5,
-        "french": "Que dirons-nous du récit de Tannhäuser, de son voyage à Rome, où la beauté littéraire est si admirablement complétée et soutenue par la mélopée, que les deux éléments ne font plus qu'un inséparable tout ? La tristesse, l'accablement du pécheur pendant son rude voyage, son allégresse en voyant le suprême pontife qui délie les péchés, son désespoir quand celui-ci lui montre le caractère irréparable de son crime, et enfin le sentiment presque ineffable, tant il est terrible, de la joie dans la damnation ; tout est dit, exprimé, traduit, par la parole et la musique, d'une manière si positive, qu'il est presque impossible de concevoir une autre manière de le dire. On comprend bien alors qu'un pareil malheur ne puisse être réparé que par un miracle.",
-        "officialTranslation": "文学的美が旋律によって見事に補完・支持され、二つの要素が分かちがたい一つの全体をなすほどの、タンホイザーのローマ紀行の物語についてどう語ればよいか。過酷な旅での罪人の悲しみと憔悴、罪を赦す最高司祭を目にしての喜び、司祭が彼の罪の修復不能な性格を示した時の絶望、そして最後に、あまりに恐ろしいために言葉にならぬほどの、地獄での喜びという感情——すべてが言葉と音楽によって、他の言い方をほぼ思い描けないほど確実な方法で言われ、表現され、訳されている。こうした不幸は奇跡によってしか修復できないと十分に理解される。"
-      },
-      {
-        "id": 6,
-        "french": "Le drame de Lohengrin porte, comme celui de Tannhäuser, le caractère sacré, mystérieux, et pourtant universellement intelligible de la légende. Une jeune princesse, accusée d'un crime abominable, ne possède aucun moyen de prouver son innocence. Sa cause sera jugée par le jugement de Dieu. En effet, au moment suprême et comme chacun la juge coupable, une nacelle approche du rivage, tirée par un cygne attelé d'une chaîne d'or. Lohengrin, chevalier du Saint-Graal, protecteur des innocents, défenseur des faibles, a entendu l'invocation. Lohengrin dit à Elsa : « Si je remporte pour toi la victoire, veux-tu que je sois ton époux ? … jamais tu ne m'interrogeras, jamais tu ne chercheras à savoir ni de quelles contrées j'arrive, ni quel est mon nom et ma nature. » Et Elsa : « Jamais, seigneur, tu n'entendras de moi cette question. » Il y a là une beauté de dialogue comme il s'en trouve fréquemment dans les drames de Wagner, toute trempée de magie primitive, toute grandie par le sentiment idéal.",
-        "officialTranslation": "ローエングリンのドラマは、タンホイザーのそれと同様、神聖で神秘的だが普遍的に理解可能な伝説の性格を持つ。恐ろしい罪で告発された若い王女は無実を証明する手段を持たない。彼女の訴えは神明裁判によって審判される。実際、最高の瞬間に、皆が彼女を有罪と見なすとき、金の鎖につながれた白鳥に引かれた小舟が岸に近づく。聖杯の騎士、無実者の守護者、弱者の擁護者ローエングリンが祈りを聞いていた。ローエングリンはエルザに言う——「汝のために勝利を収めたなら、汝の夫にならんことを望むか……汝は決して私に問いを発してはならない、私がいかなる国から来るのか、いかなる名と本性の者かを知ろうとしてはならない」。エルザは答える——「けっして、我が主よ、あなたはわたしからその問いを聞くことはないでしょう」。これはワーグナーのドラマに頻繁に見られる、原始的な魔力に浸され、理想的な感情によって高められた対話の美しさだ。"
-      },
-      {
-        "id": 7,
-        "french": "L'innocence d'Elsa est proclamée par la victoire de Lohengrin ; mais la magicienne Ortrude et Frédéric parviennent à exciter en elle la curiosité féminine, et l'obsèdent maintenant jusqu'à ce qu'elle viole son serment et exige de son époux l'aveu de son origine. Le doute a tué la foi, et la foi disparue emporte avec elle le bonheur. Lohengrin déclare enfin sa véritable origine : « Je vous ai été envoyé par le Graal ; mon père, Parcival, porte sa couronne ; moi, son chevalier, j'ai nom Lohengrin. » Le cygne reparaît sur la rive pour remmener le chevalier vers sa miraculeuse patrie. Elsa qui a douté, Elsa qui a voulu savoir, examiner, contrôler, Elsa a perdu son bonheur. L'idéal est envolé.",
-        "officialTranslation": "エルザの無実はローエングリンの勝利によって宣言される。しかし魔女オルトルートとフリードリヒは彼女の中に女性的好奇心を搔き立てることに成功し、彼女が誓いを破って夫に出自の告白を求めるまで彼女に取り憑く。疑いが信仰を殺し、消えた信仰は幸福を共に連れ去る。ローエングリンはついに真の出自を明かす——「私は聖杯によって遣わされた者。我が父パルジファルはその王冠を戴く。私、その騎士の名はローエングリン」。白鳥が騎士を奇跡の故郷へ連れ戻すため岸辺に再び現れる。疑ったエルザ、知ろうとし、調べ、確かめようとしたエルザは幸福を失った。理想は飛び去った。"
-      },
-      {
-        "id": 8,
-        "french": "Le lecteur a sans doute remarqué dans cette légende une frappante analogie avec le mythe de la Psyché antique, qui, elle aussi, fut victime de la démoniaque curiosité, et, ne voulant pas respecter l'incognito de son divin époux, perdit, en pénétrant le mystère, toute sa félicité. Elsa prête l'oreille à Ortrude, comme Ève au serpent. L'Ève éternelle tombe dans l'éternel piège. Ce sera bien, si l'on veut, le signe d'une origine unique, la preuve d'une parenté irréfragable, mais à la condition que l'on ne cherche cette origine que dans le principe absolu et l'origine commune de tous les êtres. Tel mythe peut être considéré comme frère d'un autre, de la même façon que le nègre est dit le frère du blanc. Le mythe est un arbre qui croît partout en tout climat, sous tout soleil, spontanément et sans boutures. Les religions et les poésies des quatre parties du monde nous fournissent sur ce sujet des preuves surabondantes. Comme le péché est partout, la rédemption est partout ; le mythe partout. Rien de plus cosmopolite que l'Éternel.",
-        "officialTranslation": "読者はこの伝説に、古代のプシュケー神話との顕著な類似性を気づいたことだろう。彼女もまた悪魔的好奇心の犠牲者となり、神聖な夫の匿名を尊重することを拒み、神秘を解き明かすことで幸福のすべてを失った。エルザはヘビに耳を傾けるイヴのように、オルトルートに耳を傾ける。永遠のイヴは永遠の罠に落ちる。一つの起源の証拠、反駁できない親縁性の証明と見なしてよいが、その起源をすべての存在の絶対的原理と共通の起源の中にのみ求めるという条件付きで。あるミュトスは別のミュトスの兄弟と見なし得る——黒人が白人の兄弟と言われるように。ミュトスはあらゆる気候のあらゆる場所で、あらゆる太陽の下に、自然に、挿し木なしに育つ木だ。世界四大陸の宗教と詩がこの点について余りある証拠を与えてくれる。罪があるところに救済があり、ミュトスがある。永遠なるものほど世界普遍的なものはない。"
-      },
-      {
-        "id": 9,
-        "french": "Le Vaisseau fantôme, ou Le Hollandais volant, est l'histoire si populaire de ce Juif errant de l'Océan, pour qui cependant une condition de rédemption a été obtenue par un ange secourable : Si le capitaine, qui mettra pied à terre tous les sept ans, y rencontre une femme fidèle, il sera sauvé. L'infortuné, repoussé par la tempête à chaque fois qu'il voulait doubler un cap dangereux, s'était écrié une fois : « Je passerai cette infranchissable barrière, dussé-je lutter toute l'éternité ! » Et l'éternité avait accepté le défi de l'audacieux navigateur. Depuis lors, le fatal navire s'était montré çà et là, dans différentes plages, courant sus à la tempête avec le désespoir d'un guerrier qui cherche la mort ; mais toujours la tempête l'épargnait.",
-        "officialTranslation": "幽霊船——さまよえるオランダ人——は、海の彷徨えるユダヤ人とも言うべき、しかし親切な天使によって救済の条件が得られたこのあまりにも有名な物語だ。7年ごとに上陸するこの船長が、そこで忠実な女性に出会えば、彼は救われる。不運な男は、危険な岬を回ろうとするたびに嵐に追い返され、かつてこう叫んだ——「たとえ永遠に闘い続けなければならないとしても、この越えられない障壁を超えてやる！」そして永遠は大胆な航海者の挑戦を受け入れた。それ以来、この呪われた船はここかしこの岸辺に現れ、死を求める戦士の絶望をもって嵐に向かって突進した。しかし嵐はいつも彼を容赦した。"
-      },
-      {
-        "id": 10,
-        "french": "Dans la chambre du Norvégien, plusieurs jeunes filles s'entretiennent du Hollandais volant, et Senta, possédée d'une idée fixe, les yeux toujours tendus vers un portrait mystérieux, chante la ballade qui retrace la damnation du navigateur. Et tout d'un coup, sortant d'un abîme de rêverie, Senta inspirée s'écrie : « Que je sois celle qui te délivrera par sa fidélité ! Puisse l'ange de Dieu me montrer à toi ! C'est par moi que tu obtiendras ton salut ! » L'esprit de la jeune fille est attiré magnétiquement par le malheur ; son vrai fiancé, c'est le capitaine damné que l'amour seul peut racheter.",
-        "officialTranslation": "ノルウェー人の部屋で、数人の若い娘たちがさまよえるオランダ人について語り合い、固定観念に憑かれたゼンタは神秘的な肖像画へと常に向けた眼で、航海者の断罪を辿るバラードを歌う。そして突然、夢想の深淵から抜け出したゼンタは、感激に満ちて叫ぶ——「私こそが忠実さによってあなたを救う者とならん！神の天使が私をあなたに示さんことを！私によってあなたは救いを得るであろう！」少女の心は磁力のように不幸に惹きつけられる。彼女の真の婚約者は、愛のみが贖い得る呪われた船長だ。"
-      },
-      {
-        "id": 11,
-        "french": "Enfin, le Hollandais paraît, présenté par le père de Senta ; il est bien l'homme du portrait. Quand le Hollandais, semblable au terrible Melmoth qu'attendrit la destinée d'Immalée, sa victime, veut la détourner d'un dévouement trop périlleux, celle-ci résiste et s'obstine à le suivre : « Je te connais bien ! je connais ta destinée ! Je te connaissais lorsque je t'ai vu pour la première fois ! » Et lui, espérant l'épouvanter : « Interroge les mers de toutes les zones, interroge le navigateur qui a sillonné l'Océan dans tous les sens ; il connaît ce vaisseau, l'effroi des hommes pieux : on me nomme le Hollandais volant ! » Elle répond, poursuivant de son dévouement et de ses cris le navire qui s'éloigne : « Gloire à ton ange libérateur ! gloire à sa loi ! Regarde et vois si je te suis fidèle jusqu'à la mort ! » Et elle se précipite à la mer. Le navire s'engloutit. Deux formes aériennes s'élèvent au-dessus des flots : c'est le Hollandais et Senta transfigurés.",
-        "officialTranslation": "ついにオランダ人がゼンタの父によって紹介されて現れる。彼は確かに肖像画の男だ。恐ろしいメルモスが犠牲者イモリーの運命に心を動かされるように、オランダ人は余りにも危険な献身から彼女を遠ざけようとするが、彼女は抵抗し、彼を追うことに執着する——「あなたをよく知っている！あなたの運命を知っている！初めてあなたを見た時からあなたを知っていた！」彼は彼女を怖がらせようとして言う——「あらゆる海域の海を問え、あらゆる方向に大洋を航海した航海者を問え。この船を知っている、敬虔な者たちの恐怖を。私はさまよえるオランダ人と呼ばれる！」彼女は遠ざかる船を献身と叫び声で追いながら答える——「あなたの解放の天使に栄光あれ！その法に栄光あれ！見てください、私が死に至るまであなたに忠実であることを！」そして彼女は海へと身を投じる。船が沈む。二つの空中の姿が波の上に昇る——変容したオランダ人とゼンタだ。"
-      },
-      {
-        "id": 12,
-        "french": "Aimer le malheureux pour son malheur est une idée trop grande pour tomber ailleurs que dans un cœur ingénu, et c'est certainement une très belle pensée que d'avoir suspendu le rachat d'un maudit à l'imagination passionnée d'une jeune fille. Tout le drame est traité d'une main sûre, avec une manière directe ; chaque situation, abordée franchement ; et le type de Senta porte en lui une grandeur surnaturelle et romanesque qui enchante et fait peur. La simplicité extrême du poème augmente l'intensité de l'effet. L'ouverture, que nous avons entendue au concert du Théâtre-Italien, est lugubre et profonde comme l'Océan, le vent et les ténèbres. Je suis contraint de resserrer les bornes de cette étude. Outre Rienzi, Le Hollandais volant, Tannhäuser et Lohengrin, il a composé Tristan et Isolde, et quatre autres opéras formant une tétralogie, dont le sujet est tiré des Nibelungen. Tels sont les travaux de cet homme dont la personne et les ambitions idéales ont défrayé si longtemps la badauderie parisienne.",
-        "officialTranslation": "不幸な者をその不幸ゆえに愛するとは、無邪気な心以外の場所には落ちないほど偉大な観念であり、呪われた者の贖いを若い娘の情熱的な想像力に懸けるという考えは確かに非常に美しい。ドラマ全体が確かな手で、直接的な方法で扱われている。各場面が正直に取り上げられ、ゼンタの人物像は超自然的でロマン的な壮大さを持ち、人を魅了し恐れさせる。詩の極端な単純さが効果の強度を高める。イタリア座のコンサートで聞いた序曲は大洋・風・暗闇のように陰鬱で深い。この研究の範囲を縮めなければならない。リエンツィ・さまよえるオランダ人・タンホイザー・ローエングリンのほかに、彼はトリスタンとイゾルデと、ニーベルンゲンに題材を取った四部作を構成する四つの他のオペラを作曲した。これらが、その人物と理想的な野心がかくも長くパリの野次馬の話題を独占したこの男の仕事である。"
-      }
-    ]
-  }
+  "id": "baudelaire_wagner_3",
+  "title": "Richard Wagner et Tannhäuser à Paris — III",
+  "author": "Charles Baudelaire",
+  "source": "L'Art romantique (初出：Revue Européenne, 1er avril 1861)",
+  "year": "1861",
+  "difficulty": "中級〜上級",
+  "category": "baudelaire_music",
+  "modernRelevance": "★★★★★",
+  "context": "タンホイザー・ローエングリン・さまよえるオランダ人の分析。肉と精神の二元論。エルザとプシュケー——永遠の女性と好奇心の罪。",
+  "keywords": [
+    "Tannhäuser",
+    "Lohengrin",
+    "Hollandais volant",
+    "chair",
+    "esprit",
+    "Vénus",
+    "légende",
+    "mythe",
+    "rédemption"
+  ],
+  "relatedTexts": [
+    "baudelaire_wagner_1",
+    "baudelaire_wagner_2",
+    "baudelaire_wagner_4",
+    "mallarme_wagner"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Tannhäuser représente la lutte des deux principes qui ont choisi le cœur humain pour principal champ de bataille, c'est-à-dire de la chair avec l'esprit, de l'enfer avec le ciel, de Satan avec Dieu. Et cette dualité est représentée tout de suite, par l'ouverture, avec une incomparable habileté. L'ouverture résume donc la pensée du drame par deux chants, le chant religieux et le chant voluptueux, qui sont ici posés comme deux termes, et qui, dans le finale, trouvent leur équation. Le Chant des pèlerins apparaît le premier, avec l'autorité de la loi suprême, comme marquant tout de suite le véritable sens de la vie, le but de l'universel pèlerinage, c'est-à-dire Dieu. Mais comme le sens intime de Dieu est bientôt noyé dans toute conscience par les concupiscences de la chair, le chant représentatif de la sainteté est peu à peu submergé par les soupirs de la volupté.",
+      "officialTranslation": "タンホイザーは、人間の心を主戦場として選んだ二つの原理——肉と精神、地獄と天、サタンと神——の闘争を表している。そしてこの二元性は序曲によって直ちに比類なき巧みさで表現される。序曲はドラマの思想を二つの歌——宗教的な歌と官能的な歌——によって要約する。これらは二つの項として置かれ、フィナーレでその方程式が解かれる。巡礼たちの歌が最高の法の権威をもって最初に現れ、人生の真の意味、普遍的巡礼の目的、すなわち神を直ちに示す。しかし神への内的感覚が肉の欲求によってあらゆる意識に溺れさせられるにつれ、聖性を代表する歌は徐々に官能の溜息に沈められていく。"
+    },
+    {
+      "id": 2,
+      "french": "Langueurs, délices mêlées de fièvre et coupées d'angoisses, retours incessants vers une volupté qui promet d'éteindre, mais n'éteint jamais la soif ; palpitations furieuses du cœur et des sens, ordres impérieux de la chair, tout le dictionnaire des onomatopées de l'amour se fait entendre ici. Enfin le thème religieux reprend peu à peu son empire, lentement, par gradations, et absorbe l'autre dans une victoire paisible, glorieuse comme celle de l'être irrésistible sur l'être maladif et désordonné, de saint Michel sur Lucifer. Dans l'ouverture de Tannhäuser, dans la lutte des deux principes contraires, Wagner ne s'est pas montré moins subtil ni moins puissant. Dès les premières mesures, les nerfs vibrent à l'unisson de la mélodie ; toute chair qui se souvient se met à trembler. Tout cerveau bien conformé porte en lui deux infinis, le ciel et l'enfer, et dans toute image de l'un de ces infinis il reconnaît subitement la moitié de lui-même.",
+      "officialTranslation": "倦怠、熱と苦悩に混じる喜悦、渇きを癒すと約束しながら決して癒さない官能への絶え間ない回帰、心と感覚の猛烈な鼓動、肉の命令的な要求、愛のオノマトペの辞書のすべてがここで聞こえる。そしてついに宗教的主題がゆっくりと段階的に徐々に支配を取り戻し、もう一方を静かな勝利の中に吸収する——病める無秩序な存在に対する抗しがたい存在の、ルシファーに対する大天使ミカエルの勝利のような。タンホイザー序曲において、相反する二つの原理の闘争において、ワーグナーは劣らぬ繊細さと劣らぬ力を示した。最初の数小節から、神経は旋律と共鳴して震える。記憶する肉すべてが震え始める。正常に形成されたあらゆる頭脳は天国と地獄という二つの無限を内に宿し、これら無限の一方のいかなるイメージにも直ちに自分自身の半分を認識する。"
+    },
+    {
+      "id": 3,
+      "french": "Tout à l'heure, en essayant de décrire la partie voluptueuse de l'ouverture, je priais le lecteur de détourner sa pensée des hymnes vulgaires de l'amour ; en effet, il n'y a ici rien de trivial ; c'est plutôt le débordement d'une nature énergique, qui verse dans le mal toutes les forces dues à la culture du bien ; c'est l'amour effréné, immense, chaotique, élevé jusqu'à la hauteur d'une contre-religion, d'une religion satanique. Ainsi, le compositeur, dans la traduction musicale, a échappé à cette vulgarité qui accompagne trop souvent la peinture du sentiment le plus populaire. De même, dans la représentation plastique de l'idée, il s'est dégagé heureusement de la fastidieuse foule des victimes, des Elvires innombrables. Nous ne voyons pas ici un libertin ordinaire, voltigeant de belle en belle, mais l'homme général, universel, vivant morganatiquement avec l'Idéal absolu de la volupté, avec la Reine de toutes les diablesses, de toutes les faunesses et de toutes les satyresses, reléguées sous terre depuis la mort du grand Pan, c'est-à-dire avec l'indestructible et irrésistible Vénus.",
+      "officialTranslation": "序曲の官能的な部分を描写しようとする際、読者に平凡な愛の賛歌から思考を逸らすよう求めた。実際ここには凡庸なものは何もない。善の文化によって生まれた力をすべて悪に注ぐ、エネルギッシュな本性の溢れ出しがある。それは逸脱した、広大な、混沌とした愛であり、対宗教の高さにまで、悪魔的宗教の高さにまで高められた愛だ。かくして作曲家は、音楽的訳においても、最も一般的な感情の描写にあまりに頻繁に伴う凡庸さを免れた。同様に、観念の造形的表現においても、無数のエルヴィラのような犠牲者の退屈な群れから幸いにして離れた。ここに見るのは美女から美女へと飛び回る普通の放蕩者ではなく、偉大なパンの死以来地下に追いやられたすべての女悪魔・牝の半獣神・女サテュロスの女王と——つまり不滅で抗しがたいウェヌスと——貴賤婚で生きる普遍的・一般的人間である。"
+    },
+    {
+      "id": 4,
+      "french": "Je tiens seulement à faire observer, à la grande louange de Wagner que, malgré l'importance très juste qu'il donne au poème dramatique, l'ouverture de Tannhäuser, comme celle de Lohengrin, est parfaitement intelligible, même à celui qui ne connaîtrait pas le livret ; et ensuite, que cette ouverture contient non seulement l'idée mère, la dualité psychique constituant le drame, mais encore les formules principales, nettement accentuées, destinées à peindre les sentiments généraux exprimés dans la suite de l'œuvre. Quant à la grande marche du second acte, elle a conquis depuis longtemps le suffrage des esprits les plus rebelles, et l'on peut lui appliquer le même éloge d'exprimer de la manière la plus visible, la plus colorée, la plus représentative, ce qu'elle veut exprimer. Qui donc, en entendant ces accents si riches et si fiers, ce rhythme pompeux élégamment cadencé, ces fanfares royales, pourrait se figurer autre chose qu'une pompe féodale, une défilade d'hommes héroïques, dans des vêtements éclatants, tous de haute stature, tous de grande volonté et de foi naïve ?",
+      "officialTranslation": "ワーグナーへの大いなる賞賛として指摘しておきたいのは、彼が劇詩に与える完全に正当な重要性にもかかわらず、タンホイザー序曲はローエングリン序曲と同様、台本を知らない者にも完全に理解できるという点である。さらにこの序曲は、ドラマを構成する心理的二元性という母なる観念だけでなく、作品の続きで表現される一般的な感情を描くための明確に強調された主要な定式をも含んでいる。第二幕の大行進曲については、最も頑固な精神の支持をとっくに勝ち取っており、表現しようとするものを最も可視的で最も色彩豊かで最も代表的な方法で表現するという同じ賞賛を与え得る。これほど豊かで誇り高いアクセント、優雅に拍子を刻む豪壮なリズム、王侯の喇叭の音を聞いて、封建的な荘厳さ、眩い衣装をまとった英雄的な男たちの行列以外の何を思い描けようか。"
+    },
+    {
+      "id": 5,
+      "french": "Que dirons-nous du récit de Tannhäuser, de son voyage à Rome, où la beauté littéraire est si admirablement complétée et soutenue par la mélopée, que les deux éléments ne font plus qu'un inséparable tout ? La tristesse, l'accablement du pécheur pendant son rude voyage, son allégresse en voyant le suprême pontife qui délie les péchés, son désespoir quand celui-ci lui montre le caractère irréparable de son crime, et enfin le sentiment presque ineffable, tant il est terrible, de la joie dans la damnation ; tout est dit, exprimé, traduit, par la parole et la musique, d'une manière si positive, qu'il est presque impossible de concevoir une autre manière de le dire. On comprend bien alors qu'un pareil malheur ne puisse être réparé que par un miracle.",
+      "officialTranslation": "文学的美が旋律によって見事に補完・支持され、二つの要素が分かちがたい一つの全体をなすほどの、タンホイザーのローマ紀行の物語についてどう語ればよいか。過酷な旅での罪人の悲しみと憔悴、罪を赦す最高司祭を目にしての喜び、司祭が彼の罪の修復不能な性格を示した時の絶望、そして最後に、あまりに恐ろしいために言葉にならぬほどの、地獄での喜びという感情——すべてが言葉と音楽によって、他の言い方をほぼ思い描けないほど確実な方法で言われ、表現され、訳されている。こうした不幸は奇跡によってしか修復できないと十分に理解される。"
+    },
+    {
+      "id": 6,
+      "french": "Le drame de Lohengrin porte, comme celui de Tannhäuser, le caractère sacré, mystérieux, et pourtant universellement intelligible de la légende. Une jeune princesse, accusée d'un crime abominable, ne possède aucun moyen de prouver son innocence. Sa cause sera jugée par le jugement de Dieu. En effet, au moment suprême et comme chacun la juge coupable, une nacelle approche du rivage, tirée par un cygne attelé d'une chaîne d'or. Lohengrin, chevalier du Saint-Graal, protecteur des innocents, défenseur des faibles, a entendu l'invocation. Lohengrin dit à Elsa : « Si je remporte pour toi la victoire, veux-tu que je sois ton époux ? … jamais tu ne m'interrogeras, jamais tu ne chercheras à savoir ni de quelles contrées j'arrive, ni quel est mon nom et ma nature. » Et Elsa : « Jamais, seigneur, tu n'entendras de moi cette question. » Il y a là une beauté de dialogue comme il s'en trouve fréquemment dans les drames de Wagner, toute trempée de magie primitive, toute grandie par le sentiment idéal.",
+      "officialTranslation": "ローエングリンのドラマは、タンホイザーのそれと同様、神聖で神秘的だが普遍的に理解可能な伝説の性格を持つ。恐ろしい罪で告発された若い王女は無実を証明する手段を持たない。彼女の訴えは神明裁判によって審判される。実際、最高の瞬間に、皆が彼女を有罪と見なすとき、金の鎖につながれた白鳥に引かれた小舟が岸に近づく。聖杯の騎士、無実者の守護者、弱者の擁護者ローエングリンが祈りを聞いていた。ローエングリンはエルザに言う——「汝のために勝利を収めたなら、汝の夫にならんことを望むか……汝は決して私に問いを発してはならない、私がいかなる国から来るのか、いかなる名と本性の者かを知ろうとしてはならない」。エルザは答える——「けっして、我が主よ、あなたはわたしからその問いを聞くことはないでしょう」。これはワーグナーのドラマに頻繁に見られる、原始的な魔力に浸され、理想的な感情によって高められた対話の美しさだ。"
+    },
+    {
+      "id": 7,
+      "french": "L'innocence d'Elsa est proclamée par la victoire de Lohengrin ; mais la magicienne Ortrude et Frédéric parviennent à exciter en elle la curiosité féminine, et l'obsèdent maintenant jusqu'à ce qu'elle viole son serment et exige de son époux l'aveu de son origine. Le doute a tué la foi, et la foi disparue emporte avec elle le bonheur. Lohengrin déclare enfin sa véritable origine : « Je vous ai été envoyé par le Graal ; mon père, Parcival, porte sa couronne ; moi, son chevalier, j'ai nom Lohengrin. » Le cygne reparaît sur la rive pour remmener le chevalier vers sa miraculeuse patrie. Elsa qui a douté, Elsa qui a voulu savoir, examiner, contrôler, Elsa a perdu son bonheur. L'idéal est envolé.",
+      "officialTranslation": "エルザの無実はローエングリンの勝利によって宣言される。しかし魔女オルトルートとフリードリヒは彼女の中に女性的好奇心を搔き立てることに成功し、彼女が誓いを破って夫に出自の告白を求めるまで彼女に取り憑く。疑いが信仰を殺し、消えた信仰は幸福を共に連れ去る。ローエングリンはついに真の出自を明かす——「私は聖杯によって遣わされた者。我が父パルジファルはその王冠を戴く。私、その騎士の名はローエングリン」。白鳥が騎士を奇跡の故郷へ連れ戻すため岸辺に再び現れる。疑ったエルザ、知ろうとし、調べ、確かめようとしたエルザは幸福を失った。理想は飛び去った。"
+    },
+    {
+      "id": 8,
+      "french": "Le lecteur a sans doute remarqué dans cette légende une frappante analogie avec le mythe de la Psyché antique, qui, elle aussi, fut victime de la démoniaque curiosité, et, ne voulant pas respecter l'incognito de son divin époux, perdit, en pénétrant le mystère, toute sa félicité. Elsa prête l'oreille à Ortrude, comme Ève au serpent. L'Ève éternelle tombe dans l'éternel piège. Ce sera bien, si l'on veut, le signe d'une origine unique, la preuve d'une parenté irréfragable, mais à la condition que l'on ne cherche cette origine que dans le principe absolu et l'origine commune de tous les êtres. Tel mythe peut être considéré comme frère d'un autre, de la même façon que le nègre est dit le frère du blanc. Le mythe est un arbre qui croît partout en tout climat, sous tout soleil, spontanément et sans boutures. Les religions et les poésies des quatre parties du monde nous fournissent sur ce sujet des preuves surabondantes. Comme le péché est partout, la rédemption est partout ; le mythe partout. Rien de plus cosmopolite que l'Éternel.",
+      "officialTranslation": "読者はこの伝説に、古代のプシュケー神話との顕著な類似性を気づいたことだろう。彼女もまた悪魔的好奇心の犠牲者となり、神聖な夫の匿名を尊重することを拒み、神秘を解き明かすことで幸福のすべてを失った。エルザはヘビに耳を傾けるイヴのように、オルトルートに耳を傾ける。永遠のイヴは永遠の罠に落ちる。一つの起源の証拠、反駁できない親縁性の証明と見なしてよいが、その起源をすべての存在の絶対的原理と共通の起源の中にのみ求めるという条件付きで。あるミュトスは別のミュトスの兄弟と見なし得る——黒人が白人の兄弟と言われるように。ミュトスはあらゆる気候のあらゆる場所で、あらゆる太陽の下に、自然に、挿し木なしに育つ木だ。世界四大陸の宗教と詩がこの点について余りある証拠を与えてくれる。罪があるところに救済があり、ミュトスがある。永遠なるものほど世界普遍的なものはない。"
+    },
+    {
+      "id": 9,
+      "french": "Le Vaisseau fantôme, ou Le Hollandais volant, est l'histoire si populaire de ce Juif errant de l'Océan, pour qui cependant une condition de rédemption a été obtenue par un ange secourable : Si le capitaine, qui mettra pied à terre tous les sept ans, y rencontre une femme fidèle, il sera sauvé. L'infortuné, repoussé par la tempête à chaque fois qu'il voulait doubler un cap dangereux, s'était écrié une fois : « Je passerai cette infranchissable barrière, dussé-je lutter toute l'éternité ! » Et l'éternité avait accepté le défi de l'audacieux navigateur. Depuis lors, le fatal navire s'était montré çà et là, dans différentes plages, courant sus à la tempête avec le désespoir d'un guerrier qui cherche la mort ; mais toujours la tempête l'épargnait.",
+      "officialTranslation": "幽霊船——さまよえるオランダ人——は、海の彷徨えるユダヤ人とも言うべき、しかし親切な天使によって救済の条件が得られたこのあまりにも有名な物語だ。7年ごとに上陸するこの船長が、そこで忠実な女性に出会えば、彼は救われる。不運な男は、危険な岬を回ろうとするたびに嵐に追い返され、かつてこう叫んだ——「たとえ永遠に闘い続けなければならないとしても、この越えられない障壁を超えてやる！」そして永遠は大胆な航海者の挑戦を受け入れた。それ以来、この呪われた船はここかしこの岸辺に現れ、死を求める戦士の絶望をもって嵐に向かって突進した。しかし嵐はいつも彼を容赦した。"
+    },
+    {
+      "id": 10,
+      "french": "Dans la chambre du Norvégien, plusieurs jeunes filles s'entretiennent du Hollandais volant, et Senta, possédée d'une idée fixe, les yeux toujours tendus vers un portrait mystérieux, chante la ballade qui retrace la damnation du navigateur. Et tout d'un coup, sortant d'un abîme de rêverie, Senta inspirée s'écrie : « Que je sois celle qui te délivrera par sa fidélité ! Puisse l'ange de Dieu me montrer à toi ! C'est par moi que tu obtiendras ton salut ! » L'esprit de la jeune fille est attiré magnétiquement par le malheur ; son vrai fiancé, c'est le capitaine damné que l'amour seul peut racheter.",
+      "officialTranslation": "ノルウェー人の部屋で、数人の若い娘たちがさまよえるオランダ人について語り合い、固定観念に憑かれたゼンタは神秘的な肖像画へと常に向けた眼で、航海者の断罪を辿るバラードを歌う。そして突然、夢想の深淵から抜け出したゼンタは、感激に満ちて叫ぶ——「私こそが忠実さによってあなたを救う者とならん！神の天使が私をあなたに示さんことを！私によってあなたは救いを得るであろう！」少女の心は磁力のように不幸に惹きつけられる。彼女の真の婚約者は、愛のみが贖い得る呪われた船長だ。"
+    },
+    {
+      "id": 11,
+      "french": "Enfin, le Hollandais paraît, présenté par le père de Senta ; il est bien l'homme du portrait. Quand le Hollandais, semblable au terrible Melmoth qu'attendrit la destinée d'Immalée, sa victime, veut la détourner d'un dévouement trop périlleux, celle-ci résiste et s'obstine à le suivre : « Je te connais bien ! je connais ta destinée ! Je te connaissais lorsque je t'ai vu pour la première fois ! » Et lui, espérant l'épouvanter : « Interroge les mers de toutes les zones, interroge le navigateur qui a sillonné l'Océan dans tous les sens ; il connaît ce vaisseau, l'effroi des hommes pieux : on me nomme le Hollandais volant ! » Elle répond, poursuivant de son dévouement et de ses cris le navire qui s'éloigne : « Gloire à ton ange libérateur ! gloire à sa loi ! Regarde et vois si je te suis fidèle jusqu'à la mort ! » Et elle se précipite à la mer. Le navire s'engloutit. Deux formes aériennes s'élèvent au-dessus des flots : c'est le Hollandais et Senta transfigurés.",
+      "officialTranslation": "ついにオランダ人がゼンタの父によって紹介されて現れる。彼は確かに肖像画の男だ。恐ろしいメルモスが犠牲者イモリーの運命に心を動かされるように、オランダ人は余りにも危険な献身から彼女を遠ざけようとするが、彼女は抵抗し、彼を追うことに執着する——「あなたをよく知っている！あなたの運命を知っている！初めてあなたを見た時からあなたを知っていた！」彼は彼女を怖がらせようとして言う——「あらゆる海域の海を問え、あらゆる方向に大洋を航海した航海者を問え。この船を知っている、敬虔な者たちの恐怖を。私はさまよえるオランダ人と呼ばれる！」彼女は遠ざかる船を献身と叫び声で追いながら答える——「あなたの解放の天使に栄光あれ！その法に栄光あれ！見てください、私が死に至るまであなたに忠実であることを！」そして彼女は海へと身を投じる。船が沈む。二つの空中の姿が波の上に昇る——変容したオランダ人とゼンタだ。"
+    },
+    {
+      "id": 12,
+      "french": "Aimer le malheureux pour son malheur est une idée trop grande pour tomber ailleurs que dans un cœur ingénu, et c'est certainement une très belle pensée que d'avoir suspendu le rachat d'un maudit à l'imagination passionnée d'une jeune fille. Tout le drame est traité d'une main sûre, avec une manière directe ; chaque situation, abordée franchement ; et le type de Senta porte en lui une grandeur surnaturelle et romanesque qui enchante et fait peur. La simplicité extrême du poème augmente l'intensité de l'effet. L'ouverture, que nous avons entendue au concert du Théâtre-Italien, est lugubre et profonde comme l'Océan, le vent et les ténèbres. Je suis contraint de resserrer les bornes de cette étude. Outre Rienzi, Le Hollandais volant, Tannhäuser et Lohengrin, il a composé Tristan et Isolde, et quatre autres opéras formant une tétralogie, dont le sujet est tiré des Nibelungen. Tels sont les travaux de cet homme dont la personne et les ambitions idéales ont défrayé si longtemps la badauderie parisienne.",
+      "officialTranslation": "不幸な者をその不幸ゆえに愛するとは、無邪気な心以外の場所には落ちないほど偉大な観念であり、呪われた者の贖いを若い娘の情熱的な想像力に懸けるという考えは確かに非常に美しい。ドラマ全体が確かな手で、直接的な方法で扱われている。各場面が正直に取り上げられ、ゼンタの人物像は超自然的でロマン的な壮大さを持ち、人を魅了し恐れさせる。詩の極端な単純さが効果の強度を高める。イタリア座のコンサートで聞いた序曲は大洋・風・暗闇のように陰鬱で深い。この研究の範囲を縮めなければならない。リエンツィ・さまよえるオランダ人・タンホイザー・ローエングリンのほかに、彼はトリスタンとイゾルデと、ニーベルンゲンに題材を取った四部作を構成する四つの他のオペラを作曲した。これらが、その人物と理想的な野心がかくも長くパリの野次馬の話題を独占したこの男の仕事である。"
+    }
+  ]
 }

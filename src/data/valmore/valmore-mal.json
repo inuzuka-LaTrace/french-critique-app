@@ -1,0 +1,65 @@
+{
+  "id": "valmore_mal_du_pays",
+  "title": "Le Mal du pays",
+  "author": "Marceline Desbordes-Valmore",
+  "source": "Bouquets et Prières",
+  "year": "1843",
+  "difficulty": "中級",
+  "category": "valmore",
+  "modernRelevance": "★★★☆☆",
+  "context": "故郷ドゥエへの望郷を歌う。ヴァルモール夫人は生涯を旅芸人・女優として各地を転々とした。「mal du pays」（望郷病）という語は、スイス傭兵が故郷を恋しがって死んだという逸話に由来する。地名・自然の具体的描写と感情が一体化した詩。",
+  "keywords": ["pays natal", "Douai", "nostalgie", "exil", "nature"],
+  "relatedTexts": ["valmore_chambre", "valmore_roses"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Douce France ! à ce nom mon âme se ranime,",
+      "officialTranslation": "優しきフランスよ！ この名に私の魂は蘇る、"
+    },
+    {
+      "id": 2,
+      "french": "Et je veux retourner vers ta verte limite !",
+      "officialTranslation": "そしてあなたの緑の境界へと戻りたい！"
+    },
+    {
+      "id": 3,
+      "french": "Non ! je suis loin de toi ; mon mal est accompli,",
+      "officialTranslation": "いや！ 私はあなたから遠い；私の病は完成している、"
+    },
+    {
+      "id": 4,
+      "french": "Et mon cœur, de tes champs, a gardé l'infini.",
+      "officialTranslation": "そして私の心は、あなたの野原の、無限を保ち続けている。"
+    },
+    {
+      "id": 5,
+      "french": "Je vois jusqu'à Douai ! j'en revois les campagnes,",
+      "officialTranslation": "ドゥエまで見える！ あの田園地帯を再び見る、"
+    },
+    {
+      "id": 6,
+      "french": "Les moulins, les beffrois, les rivières, les plaines,",
+      "officialTranslation": "風車、鐘楼、川、平原、"
+    },
+    {
+      "id": 7,
+      "french": "Les doux chemins couverts de lilas et de fleurs",
+      "officialTranslation": "ライラックと花に覆われた柔らかな道"
+    },
+    {
+      "id": 8,
+      "french": "Qui menaient à l'école en retenant mes pleurs.",
+      "officialTranslation": "涙をこらえながら学校へと続いていた道を。"
+    },
+    {
+      "id": 9,
+      "french": "Ô pays ! ô doux nom ! ô ma mère ! ô ma vie !",
+      "officialTranslation": "おお故郷よ！ おお優しい名よ！ おお母よ！ おお命よ！"
+    },
+    {
+      "id": 10,
+      "french": "Vous qui m'avez formée, est-ce que je vous oublie ?",
+      "officialTranslation": "私を形作ってくれたあなたたちを、私は忘れるのだろうか？"
+    }
+  ]
+}

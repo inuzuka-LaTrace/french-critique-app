@@ -1,0 +1,53 @@
+{
+  "id": "mallarme_ballets",
+  "title": "Ballets",
+  "author": "Stéphane Mallarmé",
+  "source": "Divagations",
+  "year": "1897",
+  "difficulty": "中級〜上級",
+  "category": "mallarme_representation",
+  "modernRelevance": "★★★★☆",
+  "context": "身体による書記。ダンサーは隠喩。",
+  "keywords": [
+    "danse",
+    "métaphore",
+    "écriture",
+    "corporelle"
+  ],
+  "relatedTexts": [
+    "mallarme_mimique",
+    "mallarme_hamlet"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "La danseuse n'est pas une femme qui danse.",
+      "officialTranslation": "踊り子は踊る女性ではない。"
+    },
+    {
+      "id": 2,
+      "french": "pour ces motifs juxtaposés qu'elle n'est pas une femme, mais une métaphore.",
+      "officialTranslation": "並置されたこれらの理由のために、彼女は女性ではなく、隠喩なのだ。"
+    },
+    {
+      "id": 3,
+      "french": "résumant un des aspects élémentaires de notre forme, glaive, coupe, fleur.",
+      "officialTranslation": "我々の形の基本的な側面の一つ、剣、杯、花を要約しながら。"
+    },
+    {
+      "id": 4,
+      "french": "et qu'elle ne danse pas, suggérant, par le prodige de raccourcis ou d'élans.",
+      "officialTranslation": "そして彼女は踊らない、短縮や飛躍の驚異によって、暗示しながら。"
+    },
+    {
+      "id": 5,
+      "french": "avec une écriture corporelle.",
+      "officialTranslation": "身体的な書記をもって。"
+    },
+    {
+      "id": 6,
+      "french": "Le ballet est une représentation de poésie par excellence et seulement.",
+      "officialTranslation": "バレエは、卓越してかつ唯一の、詩の表象である。"
+    }
+  ]
+}

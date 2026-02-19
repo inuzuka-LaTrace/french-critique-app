@@ -1,0 +1,56 @@
+{
+  "id": "mallarme_de_meme",
+  "title": "De même",
+  "author": "Stéphane Mallarmé",
+  "source": "Divagations, Eugène Fasquelle, éditeur, 1897, p. 308-312. Section « Offices ». (初出：「Solennités」The National Observer, mai 1892)",
+  "year": "1897",
+  "difficulty": "最上級",
+  "category": "mallarme_music",
+  "modernRelevance": "★★★★☆",
+  "context": "1892年聖週間サン＝ジェルヴェ教会の音楽体験から。国家的礼拝の構想と詩人の役割。ワーグナーに対するカトリックの代案。",
+  "keywords": [
+    "office",
+    "musique",
+    "Drame divin",
+    "communion",
+    "État",
+    "religion",
+    "chant",
+    "clergé",
+    "théâtre",
+    "Trocadéro"
+  ],
+  "relatedTexts": [
+    "mallarme_catholicisme",
+    "mallarme_plaisir_sacre",
+    "mallarme_wagner",
+    "mallarme_musique_lettres"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Une belle réjouissance d'à présent, due aux sortilèges divers de la Poésie, ne vaut que mêlée à un fonctionnement de capitale et en résulte comme apothéose. L'État, en raison de sacrifices inexpliqués et conséquemment relevant d'une foi, exigés de l'individu, ou notre insignifiance, doit un apparat : cela improbable, en effet, que nous soyons, vis-à-vis de l'absolu, les messieurs qu'ordinairement nous paraissons. Quelque royauté environnée de prestige militaire, suffisant naguère publiquement, a cessé : et l'orthodoxie de nos élans secrets, qui se perpétue, remise au clergé, souffre d'étiolement.",
+      "officialTranslation": "詩のさまざまな魔術に負う現在の美しい歓喜は、首都の機能と混じり合い、その頂華として結実するときにのみ価値を持つ。国家は、個人に要求される、信仰に由来する説明しがたい犠牲のゆえに、あるいはわれわれの取るに足らなさのゆえに、威儀を負っている——絶対者に対して、われわれが普通にそう見える紳士たちであるというのはあり得ないことであるから。かつて公的に十分であった軍事的威信に取り巻かれたある種の王権は、消え去った。そして聖職者に委ねられて継続する、われわれの秘めた昂揚の正統性は、衰弱に苦しんでいる。"
+    },
+    {
+      "id": 2,
+      "french": "Néanmoins pénétrons en l'église, avec l'art : et si, le sait-on ! l'amateur qu'on est de quelque extraordinaire en dehors des modes ordinaires d'émotion, trop vaguement l'y cherchait — à l'opposé d'usages d'opéra, dans le lieu se donne un mystère : à quel degré en reste-t-on spectateur, ou présume-t-on y avoir un rôle.\n\nSuivez, trois éléments, ils se commandent. La nef avec un peuple — je ne parle d'assistants, bien d'élus : quiconque y peut de la source la plus humble d'un gosier jeter aux voûtes le répons en latin incompris, mais exultant, participe entre tous et lui-même de la sublimité se reployant vers le chœur : car voici le miracle de chanter, on se projette, haut comme va le cri. Dites si artifice, préparé mieux et à beaucoup, égalitaire, que cette communion, d'abord esthétique, en le héros du Drame divin. Quoique le prêtre céans n'ait qualité d'acteur, mais officie — désigne et recule la présence mythique avec qui on vient se confondre ; loin de l'obstruer du même intermédiaire que le comédien, qui arrête la pensée à son encombrant personnage.",
+      "officialTranslation": "それでも、芸術とともに教会に入ろう。そして、もし知るならば！通常の感動の様式の外にある何か非凡なものを、愛好家がそこに漠然と求めるならば——オペラの慣習とは対照的に、この場において神秘が与えられる。どの程度まで人は傍観者にとどまり、あるいはそこで役割を持つと推測するのか。\n\n三つの要素を辿れ——互いに命令し合っている。身廊と民衆——聴衆とは言わない、選ばれた者たちこそを。誰であれ最も卑しい喉の源泉から理解されないラテン語の応唱を穹窿に向かって投じることができる者は、喜びに溢れながら、聖歌隊へと折り返す崇高さに、すべての人々とともに、かつ自らで、参与する。なぜなら歌うという奇跡がここにある——人は叫びが届く高みへと自己を投じる。神聖なドラマの英雄への、まず美的な、平等で、準備された、この交歓よりうまく用意された技巧があるかどうか言ってほしい。ここにいる司祭は俳優の資格を持たないが、司式する——人がそれと混じり合いに来る神話的な存在を指し示し、後退させる。思考をその重苦しい登場人物に引き止める喜劇役者と同じ仲介者によって邪魔することなく、遠くから。"
+    },
+    {
+      "id": 3,
+      "french": "Une assimilation m'obsède, parmi le plaisir, d'effets extraordinaires retrouvés ici et de certain sens, pour nos fastes futurs, attribuable peut-être au théâtre, comme fut, au sanctuaire un agencement dramatique rare : séance ne le montra autre part, constituée pour l'objet.",
+      "officialTranslation": "喜びのなかで、ここに見出された非凡な効果と、われわれの将来の威容のためのある意味との、おそらくは演劇に帰せられる——聖所においてそうであったような稀な劇的構成として——一つの同一視が私に取り憑く。それを目的として構成された催しは他所では示されなかった。"
+    },
+    {
+      "id": 4,
+      "french": "Je finirai par l'orgue, relégué aux portes, il exprime le dehors, un balbutiement de ténèbres énorme, ou leur exclusion du refuge, avant de s'y déverser extasiées et pacifiées, l'approfondissant ainsi de l'univers entier et causant aux hôtes une plénitude de fierté et de sécurité. Telle, en l'authenticité de fragments distincts, la mise en scène de la religion d'État, par nul cadre encore dépassée et qui, selon une œuvre triple, invitation directe à l'essence du type (ici le Christ), puis invisibilité de celui-là, enfin élargissement du lieu par vibrations jusqu'à l'infini, satisfait étrangement un souhait moderne philosophique et d'art. Et, j'oubliais la tout aimable gratuité de l'entrée. La première salle que possède la Foule, au Palais du Trocadéro, prématurée, mais intéressante avec sa scène réduite au plancher de l'estrade (tréteau et devant de chœur), son considérable buffet d'orgues et le public jubilant d'être là, indéniablement en un édifice voué aux fêtes, implique une vision.",
+      "officialTranslation": "私はオルガンで締め括ろう——扉口に追いやられて、それは外部を、巨大な暗闇のつぶやきを、あるいはそれらの避難所からの排除を表現する。恍惚として宥めされてそこに流れ込む前に、かくして全宇宙によってそれを深め、宿泊者たちに誇りと安らぎの充実をもたらしながら。かくして、截然とした断片の真正性において、国家の宗教の演出——いかなる枠組みによってもいまだ超えられず、三重の作品に従って、型の本質（ここではキリスト）への直接の招待、次いでその不可視性、ついには振動によって無限へと場所を拡張することによって、近代的な哲学的・芸術的な願いを不思議なほど満足させる。そして入場の全く好ましい無償を忘れていた。トロカデロ宮殿に群衆が持つ第一の大広間は、時機尚早ではあるが、演壇の床（台と聖歌隊正面）に縮小された舞台、相当なオルガンのケース、そして紛れもなく祝祭に捧げられた建物の中にいることに歓喜する聴衆をもって、一つの幻影を示唆する。"
+    },
+    {
+      "id": 5,
+      "french": "Solitaire autant que générale en surprises pour le Poëte même, cette songerie restreinte par hasard, à quelques piliers de paroisse perd de l'insolite, après un moment ; la conclusion prévaut : en effet, c'était impossible que dans une religion, encore qu'à l'abandon depuis, la race n'eût pas mis son secret intime ignoré. L'heure convient, avec le détachement nécessaire, d'y pratiquer les fouilles, pour exhumer d'anciennes et magnifiques intentions.",
+      "officialTranslation": "詩人自身にとっての驚きにおいて、孤独なると同時に普遍的な、偶然にも数本の教区の柱に限られたこの夢想は、しばらくすると異様さを失う。結論が勝る——実際、たとえ今はうち捨てられているとはいえ、ある宗教において、民族が自らの知られざる内密の秘密を込めていなかったということはあり得なかった。今こそ、必要な距離をもって、古くて壮大な意図を発掘するための発掘を行う時機である。"
+    }
+  ]
+}

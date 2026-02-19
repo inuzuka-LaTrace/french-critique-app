@@ -1,0 +1,54 @@
+{
+  "id": "mallarme_crayonne",
+  "title": "Crayonné au théâtre",
+  "author": "Stéphane Mallarmé",
+  "source": "Divagations",
+  "year": "1897",
+  "difficulty": "中級",
+  "category": "mallarme_theatre",
+  "modernRelevance": "★★★☆☆",
+  "context": "劇場でのクロッキー。演劇の本質。俳優の役割。舞台の観念性。",
+  "keywords": [
+    "théâtre",
+    "spectacle",
+    "acteur",
+    "scène",
+    "essence"
+  ],
+  "relatedTexts": [
+    "mallarme_hamlet",
+    "mallarme_ballets_full"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Le théâtre est d'essence supérieure.",
+      "officialTranslation": "劇場は本質的に優れたものである。"
+    },
+    {
+      "id": 2,
+      "french": "Rien ne se passera que l'idée même du spectacle.",
+      "officialTranslation": "見世物という観念そのもの以外、何も起こらない。"
+    },
+    {
+      "id": 3,
+      "french": "L'acteur n'est pas là pour représenter un personnage.",
+      "officialTranslation": "俳優は登場人物を表現するためにそこにいるのではない。"
+    },
+    {
+      "id": 4,
+      "french": "mais pour suggérer l'absolu.",
+      "officialTranslation": "絶対的なものを示唆するためにいる。"
+    },
+    {
+      "id": 5,
+      "french": "La scène illustre que l'idée d'un personnage.",
+      "officialTranslation": "舞台が例証するのは、ある登場人物の観念である。"
+    },
+    {
+      "id": 6,
+      "french": "non cet individu qui foule les planches.",
+      "officialTranslation": "板を踏むこの個人ではない。"
+    }
+  ]
+}

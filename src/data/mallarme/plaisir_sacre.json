@@ -1,0 +1,69 @@
+{
+  "id": "mallarme_plaisir_sacre",
+  "title": "Plaisir sacré",
+  "author": "Stéphane Mallarmé",
+  "source": "Divagations",
+  "year": "1897",
+  "difficulty": "中級〜上級",
+  "category": "mallarme_music",
+  "modernRelevance": "★★★★☆",
+  "context": "コンサート体験論。音楽と群衆。神秘の守護者としての聴衆。パリの音楽文化。",
+  "keywords": [
+    "concert",
+    "foule",
+    "mystère",
+    "orchestre",
+    "musique"
+  ],
+  "relatedTexts": [
+    "mallarme_wagner_full",
+    "mallarme_musique"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "La note maintenant d'une rentrée de capitale est donnée par l'ouverture des concerts.",
+      "officialTranslation": "首都への帰還の合図は今や、コンサートの開幕によって与えられる。"
+    },
+    {
+      "id": 2,
+      "french": "Même spectacle chaque saison : une assistance — et le dos d'un homme qui tire, je crois, il paraît le faire, les prestiges de leur invisibilité.",
+      "officialTranslation": "毎シーズン同じ光景。聴衆——そして、見えないものの威信を引き出しているように見える、と私が信じる、ある男の背中。"
+    },
+    {
+      "id": 3,
+      "french": "La foule remplit envers les sons, sa fonction par excellence de gardienne du mystère !",
+      "officialTranslation": "群衆は、音に対して、神秘の守護者という卓越した機能を果たす！"
+    },
+    {
+      "id": 4,
+      "french": "Personne ne conteste à l'effet public de l'ensemble symphonique, une plénitude.",
+      "officialTranslation": "交響楽全体の公的効果に、充溢があることを誰も否定しない。"
+    },
+    {
+      "id": 5,
+      "french": "Parure — si la foule est femme, tenez, les mille têtes. Une conscience partielle de l'éblouissement se propage, au hasard de la tenue de ville usitée dans les auditions d'après-midi.",
+      "officialTranslation": "装飾——もし群衆が女性なら、見よ、千の頭を。眩惑の部分的な意識が広がる、午後の演奏会で習慣となった街着のままに。"
+    },
+    {
+      "id": 6,
+      "french": "L'impérieux velours d'une attitude coupera l'ombre avec un pli s'attribuant la coloration fournie par tel instrument.",
+      "officialTranslation": "ある姿勢の威厳あるビロードが、ある楽器によって与えられた色彩を帯びる襞をもって、影を切り裂く。"
+    },
+    {
+      "id": 7,
+      "french": "Privilège du concert : y déposer comme à la Banque, de soi, des titres de richesse imaginaire.",
+      "officialTranslation": "コンサートの特権、それは銀行のように、自己から、想像上の富の証券を預けることである。"
+    },
+    {
+      "id": 8,
+      "french": "Un plaisir rare, et digne, y est, de laisser, à la fois, tout le public, une heure, rêveur.",
+      "officialTranslation": "稀で尊い快楽がそこにある、一時間、すべての公衆を同時に夢想者にすることの。"
+    },
+    {
+      "id": 9,
+      "french": "Ce qui manque ou l'absolu d'un art, soudain rayonne, inaccessible, à même d'employer la sonorité ainsi que moyen, qui, autrement et très certain, s'exalte : l'orchestre, avec un silence inexprimé de jouissance, étant la parure et le miroitement d'auditions intérieures suprêmes. C'est cela, la musique et rien d'autre.",
+      "officialTranslation": "芸術の欠如あるいは絶対が、突如として輝き、到達不可能となる——音響性を手段として用いることができるために、それは別の形で、極めて確実に、高揚する。オーケストラは、表現されない歓喜の沈黙をもって、至高の内的聴取の装飾であり輝きである。これこそが音楽であり、それ以外の何物でもない。"
+    }
+  ]
+}

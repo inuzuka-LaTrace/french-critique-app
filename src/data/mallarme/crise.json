@@ -1,0 +1,53 @@
+{
+  "id": "mallarme_crise",
+  "title": "Crise de vers",
+  "author": "Stéphane Mallarmé",
+  "source": "Divagations",
+  "year": "1897",
+  "difficulty": "上級",
+  "category": "mallarme_poetics",
+  "modernRelevance": "★★★★★",
+  "context": "ユゴー後の詩の危機。自由詩の出現。",
+  "keywords": [
+    "crise",
+    "vers",
+    "Hugo",
+    "poésie"
+  ],
+  "relatedTexts": [
+    "mallarme_musique",
+    "mallarme_mystere"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "La littérature ici subit une exquise crise, fondamentale.",
+      "officialTranslation": "ここで文学は、ある精妙な、根源的な危機を経験している。"
+    },
+    {
+      "id": 2,
+      "french": "Un lecteur français ne peut que se déconcerter.",
+      "officialTranslation": "フランスの読者は、困惑せざるを得ない。"
+    },
+    {
+      "id": 3,
+      "french": "Hugo rabattit toute la prose au vers.",
+      "officialTranslation": "ユゴーは、すべての散文を詩句へと還元した。"
+    },
+    {
+      "id": 4,
+      "french": "Le vers attendit que le géant vînt à manquer.",
+      "officialTranslation": "詩句は、巨人が消え去るのを待っていた。"
+    },
+    {
+      "id": 5,
+      "french": "Toute la langue s'évade selon une libre disjonction.",
+      "officialTranslation": "すべての言語は、自由な分離に従って、逃避する。"
+    },
+    {
+      "id": 6,
+      "french": "La Musique rejoint le Vers pour former la Poésie.",
+      "officialTranslation": "音楽が詩句と合流して、詩を形成する。"
+    }
+  ]
+}

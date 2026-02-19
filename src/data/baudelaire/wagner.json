@@ -1,0 +1,52 @@
+{
+  "id": "baudelaire_wagner",
+  "title": "Richard Wagner et Tannhäuser à Paris",
+  "author": "Charles Baudelaire",
+  "source": "L'Art romantique",
+  "year": "1861",
+  "difficulty": "中級〜上級",
+  "category": "baudelaire_music",
+  "modernRelevance": "★★★★☆",
+  "context": "ワーグナー擁護。総合芸術。音楽と詩の融合。",
+  "keywords": [
+    "Wagner",
+    "musique",
+    "drame",
+    "synthèse"
+  ],
+  "relatedTexts": [
+    "mallarme_musique"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Ce qui frappe tout d'abord dans ce drame, c'est la parenté naturelle et voulue entre l'action et la musique.",
+      "officialTranslation": "このドラマにおいて何よりもまず印象的なのは、行為と音楽の間の自然で意図的な類縁性である。"
+    },
+    {
+      "id": 2,
+      "french": "L'ouverture, comme on sait, renferme l'idée mère, la synthèse du drame.",
+      "officialTranslation": "序曲は、周知のように、母なる観念、ドラマの総合を内包している。"
+    },
+    {
+      "id": 3,
+      "french": "Je sentais, en écoutant cette musique ardente et despotique, tantôt les vertiges du gouffre.",
+      "officialTranslation": "この熱烈で専制的な音楽を聴きながら、私は時に深淵の眩暈を感じた。"
+    },
+    {
+      "id": 4,
+      "french": "tantôt les félicités de l'extase.",
+      "officialTranslation": "時に恍惚の至福を。"
+    },
+    {
+      "id": 5,
+      "french": "Ce que Wagner avait ajouté au mythe allemand, c'était l'idée chrétienne de la rédemption par l'amour.",
+      "officialTranslation": "ワーグナーがドイツ神話に付け加えたもの、それは愛による救済というキリスト教的観念だった。"
+    },
+    {
+      "id": 6,
+      "french": "La musique de Wagner représente le grand dans le petit.",
+      "officialTranslation": "ワーグナーの音楽は、小の中の大を表現する。"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "mallarme_livre",
+  "title": "Le Livre, instrument spirituel",
+  "author": "Stéphane Mallarmé",
+  "source": "Divagations",
+  "year": "1897",
+  "difficulty": "上級",
+  "category": "mallarme_book",
+  "modernRelevance": "★★★★★",
+  "context": "書物の物質性と精神性。余白の理論。",
+  "keywords": [
+    "livre",
+    "blanc",
+    "pliage",
+    "rythme"
+  ],
+  "relatedTexts": [
+    "mallarme_quant",
+    "mallarme_mimique"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Le livre doit tirer une mobilité par correspondances.",
+      "officialTranslation": "書物は、対応関係によって、ある運動性を引き出さなければならない。"
+    },
+    {
+      "id": 2,
+      "french": "Tout devient suspens, disposition fragmentaire.",
+      "officialTranslation": "すべては宙吊りとなる。断片的な配置。"
+    },
+    {
+      "id": 3,
+      "french": "le poème tu, aux blancs.",
+      "officialTranslation": "余白において沈黙した詩。"
+    },
+    {
+      "id": 4,
+      "french": "Un livre ne commence ni ne finit.",
+      "officialTranslation": "書物は始まりも終わりもしない。"
+    },
+    {
+      "id": 5,
+      "french": "Le pliage est un indice, quasi religieux.",
+      "officialTranslation": "折り畳みは、ほとんど宗教的な指標である。"
+    },
+    {
+      "id": 6,
+      "french": "le tout requiert un volume.",
+      "officialTranslation": "全体が一巻を要求する。"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "mallarme_quant",
+  "title": "Quant au livre",
+  "author": "Stéphane Mallarmé",
+  "source": "Divagations",
+  "year": "1897",
+  "difficulty": "上級",
+  "category": "mallarme_book",
+  "modernRelevance": "★★★★★",
+  "context": "書物の存在論。詩人の消失。言葉へのイニシアチブの譲渡。",
+  "keywords": [
+    "livre",
+    "disparition",
+    "initiative",
+    "mots"
+  ],
+  "relatedTexts": [
+    "mallarme_livre"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "L'œuvre implique la disparition élocutoire du poëte.",
+      "officialTranslation": "作品は、詩人の発話的な消失を含意する。"
+    },
+    {
+      "id": 2,
+      "french": "qui cède l'initiative aux mots.",
+      "officialTranslation": "詩人は言葉にイニシアチブを譲る。"
+    },
+    {
+      "id": 3,
+      "french": "par le heurt de leur inégalité mobilisés.",
+      "officialTranslation": "それらの不均等な衝突によって動員される。"
+    },
+    {
+      "id": 4,
+      "french": "ils s'allument de reflets réciproques.",
+      "officialTranslation": "言葉は相互の反映で照らされる。"
+    },
+    {
+      "id": 5,
+      "french": "comme une virtuelle traînée de feux sur des pierreries.",
+      "officialTranslation": "宝石の上の仮想的な火の尾のように。"
+    },
+    {
+      "id": 6,
+      "french": "remplaçant la respiration perceptible en l'ancien souffle lyrique.",
+      "officialTranslation": "古い叙情的な息吹における知覚可能な呼吸に取って代わって。"
+    }
+  ]
+}

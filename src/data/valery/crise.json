@@ -1,0 +1,52 @@
+{
+  "id": "valery_crise",
+  "title": "La Crise de l'esprit",
+  "author": "Paul Valéry",
+  "source": "La Nouvelle Revue française",
+  "year": "1919",
+  "difficulty": "中級〜上級",
+  "category": "valery",
+  "modernRelevance": "★★★★★",
+  "context": "第一次大戦後。文明の危機。ヨーロッパの精神。",
+  "keywords": [
+    "civilisation",
+    "mortelles",
+    "crise",
+    "abîme"
+  ],
+  "relatedTexts": [
+    "valery_vinci"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Nous autres, civilisations, nous savons maintenant que nous sommes mortelles.",
+      "officialTranslation": "我々文明は、今や自分たちが死すべきものであることを知っている。"
+    },
+    {
+      "id": 2,
+      "french": "Nous sentons qu'une civilisation a la même fragilité qu'une vie.",
+      "officialTranslation": "我々は、文明が生命と同じ脆弱性を持つことを感じている。"
+    },
+    {
+      "id": 3,
+      "french": "Élam, Ninive, Babylone étaient de beaux noms vagues.",
+      "officialTranslation": "エラム、ニネヴェ、バビロンは美しく曖昧な名前であった。"
+    },
+    {
+      "id": 4,
+      "french": "Mais France, Angleterre, Russie... ce seraient aussi de beaux noms.",
+      "officialTranslation": "しかしフランス、イギリス、ロシア... これらもまた美しい名前であろう。"
+    },
+    {
+      "id": 5,
+      "french": "Et nous voyons maintenant que l'abîme de l'histoire est assez grand pour tout le monde.",
+      "officialTranslation": "そして我々は今、歴史の深淵がすべての人にとって十分に大きいことを知っている。"
+    },
+    {
+      "id": 6,
+      "french": "Nous sentons qu'une civilisation a la même fragilité qu'une vie.",
+      "officialTranslation": "我々は文明が生命と同じ脆弱性を持つことを感じている。"
+    }
+  ]
+}

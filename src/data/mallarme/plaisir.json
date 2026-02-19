@@ -1,0 +1,52 @@
+{
+  "id": "mallarme_plaisir",
+  "title": "Plaisir sacré",
+  "author": "Stéphane Mallarmé",
+  "source": "Divagations",
+  "year": "1897",
+  "difficulty": "中級",
+  "category": "mallarme_music",
+  "modernRelevance": "★★★☆☆",
+  "context": "コンサート体験。音楽と群衆。神聖な快楽。",
+  "keywords": [
+    "concert",
+    "foule",
+    "musique",
+    "mystère"
+  ],
+  "relatedTexts": [
+    "mallarme_wagner"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "La note maintenant d'une rentrée de capitale est donnée par l'ouverture des concerts.",
+      "officialTranslation": "首都への帰還の合図は今や、コンサートの開幕によって与えられる。"
+    },
+    {
+      "id": 2,
+      "french": "Même spectacle chaque saison : une assistance.",
+      "officialTranslation": "毎シーズン同じ光景。聴衆。"
+    },
+    {
+      "id": 3,
+      "french": "La foule remplit envers les sons, sa fonction par excellence de gardienne du mystère !",
+      "officialTranslation": "群衆は、音に対して、神秘の守護者という卓越した機能を果たす！"
+    },
+    {
+      "id": 4,
+      "french": "Personne ne conteste à l'effet public de l'ensemble symphonique, une plénitude.",
+      "officialTranslation": "交響楽全体の公的効果に、充溢があることを誰も否定しない。"
+    },
+    {
+      "id": 5,
+      "french": "Privilège du concert : y déposer comme à la Banque, de soi, des titres de richesse imaginaire.",
+      "officialTranslation": "コンサートの特権、それは銀行のように、想像上の富の証券を預けることである。"
+    },
+    {
+      "id": 6,
+      "french": "Un plaisir rare, et digne, y est, de laisser, à la fois, tout le public, une heure, rêveur.",
+      "officialTranslation": "稀で尊い快楽がそこにある、一時間、すべての公衆を同時に夢想者にすることの。"
+    }
+  ]
+}

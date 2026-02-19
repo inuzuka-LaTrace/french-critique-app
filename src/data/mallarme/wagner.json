@@ -1,0 +1,53 @@
+{
+  "id": "mallarme_wagner",
+  "title": "Richard Wagner, rêverie d'un poëte français",
+  "author": "Stéphane Mallarmé",
+  "source": "Revue wagnérienne",
+  "year": "1885",
+  "difficulty": "中級〜上級",
+  "category": "mallarme_music",
+  "modernRelevance": "★★★★☆",
+  "context": "総合芸術。劇場の役割。観念の概念。",
+  "keywords": [
+    "Wagner",
+    "théâtre",
+    "Idée",
+    "synthèse"
+  ],
+  "relatedTexts": [
+    "baudelaire_wagner",
+    "mallarme_musique"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Je vénère comment, par une supercherie, on projette, à quelque élévation défendue et de foudre !",
+      "officialTranslation": "私は崇める、ある欺瞞によって、禁じられた高みへ、雷鳴の！"
+    },
+    {
+      "id": 2,
+      "french": "le conscient manque chez nous de ce qui là-haut éclate.",
+      "officialTranslation": "我々のうちにある意識的な欠如を、そこで爆発するものへと投影することを。"
+    },
+    {
+      "id": 3,
+      "french": "Le Théâtre appelle non tel, qui s'y pavanât hier, pour être vu.",
+      "officialTranslation": "劇場が呼ぶのは、昨日そこで見られるために得意げにしていた誰かではない。"
+    },
+    {
+      "id": 4,
+      "french": "mais tout, doué d'une vue.",
+      "officialTranslation": "見ることのできるすべてのものである。"
+    },
+    {
+      "id": 5,
+      "french": "Ce héros : son geste aux péripéties de la race.",
+      "officialTranslation": "この英雄、その身振りは種族の波乱万丈である。"
+    },
+    {
+      "id": 6,
+      "french": "selon la Fable le motif conduit vers l'Idée.",
+      "officialTranslation": "寓話に従って、動機は観念へと導く。"
+    }
+  ]
+}

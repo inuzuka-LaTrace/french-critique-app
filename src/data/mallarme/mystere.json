@@ -1,0 +1,53 @@
+{
+  "id": "mallarme_mystere",
+  "title": "Le Mystère dans les Lettres",
+  "author": "Stéphane Mallarmé",
+  "source": "Divagations",
+  "year": "1897",
+  "difficulty": "上級",
+  "category": "mallarme_poetics",
+  "modernRelevance": "★★★★★",
+  "context": "意味の多義性。表面と深層の二重構造。",
+  "keywords": [
+    "mystère",
+    "sens",
+    "miroitement",
+    "lecture"
+  ],
+  "relatedTexts": [
+    "mallarme_crise",
+    "mallarme_musique"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Tout écrit doit présenter un sens même indifférent.",
+      "officialTranslation": "すべての書かれたものは、無関心な意味さえも提示しなければならない。"
+    },
+    {
+      "id": 2,
+      "french": "on détourne l'oisif, charmé que rien ne l'y concerne.",
+      "officialTranslation": "何も自分に関係ないと喜ぶ怠け者を逸らす。"
+    },
+    {
+      "id": 3,
+      "french": "Si n'inquiétait je ne sais quel miroitement, en dessous.",
+      "officialTranslation": "それでもなお、下にある、何らかの煌めきが不安にさせる。"
+    },
+    {
+      "id": 4,
+      "french": "Je sais, on veut limiter le Mystère.",
+      "officialTranslation": "私は知っている、神秘を限定したいのだと。"
+    },
+    {
+      "id": 5,
+      "french": "L'air sous le texte applique son motif invisible.",
+      "officialTranslation": "テキストの下の空気は、見えない動機を適用する。"
+    },
+    {
+      "id": 6,
+      "french": "Le tour propre désigne la grimace mystérieuse.",
+      "officialTranslation": "固有の回転は、神秘的な顔つきを指し示す。"
+    }
+  ]
+}

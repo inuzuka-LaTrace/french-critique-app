@@ -1,0 +1,53 @@
+{
+  "id": "baudelaire_romantisme",
+  "title": "Qu'est-ce que le romantisme ?",
+  "author": "Charles Baudelaire",
+  "source": "Salon de 1846",
+  "year": "1846",
+  "difficulty": "中級",
+  "category": "baudelaire_aesthetics",
+  "modernRelevance": "★★★★★",
+  "context": "ロマン主義の定義。近代性の概念の萌芽。感じ方の問題。",
+  "keywords": [
+    "romantisme",
+    "beauté",
+    "modernité",
+    "sentiment"
+  ],
+  "relatedTexts": [
+    "baudelaire_peintre",
+    "baudelaire_heroisme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Peu de gens aujourd'hui voudront donner à ce mot un sens réel et positif.",
+      "officialTranslation": "今日、この言葉に真実で肯定的な意味を与えようとする人はほとんどいない。"
+    },
+    {
+      "id": 2,
+      "french": "Le romantisme n'est précisément ni dans le choix des sujets ni dans la vérité exacte, mais dans la manière de sentir.",
+      "officialTranslation": "ロマン主義とは、正確には主題の選択にあるのでも、正確な真実にあるのでもなく、感じ方のうちにあるのだ。"
+    },
+    {
+      "id": 3,
+      "french": "Pour moi, le romantisme est l'expression la plus récente, la plus actuelle du beau.",
+      "officialTranslation": "私にとって、ロマン主義とは美の最も新しい、最も現代的な表現である。"
+    },
+    {
+      "id": 4,
+      "french": "Il y a autant de beautés qu'il y a de manières habituelles de chercher le bonheur.",
+      "officialTranslation": "幸福を探し求める習慣的な方法があるだけ、美も存在する。"
+    },
+    {
+      "id": 5,
+      "french": "Qui dit romantisme dit art moderne, c'est-à-dire intimité, spiritualité, couleur, aspiration vers l'infini.",
+      "officialTranslation": "ロマン主義というのは近代芸術を意味する。すなわち、内面性、精神性、色彩、無限への憧憬である。"
+    },
+    {
+      "id": 6,
+      "french": "expressed par tous les moyens que possèdent les arts.",
+      "officialTranslation": "芸術が持つあらゆる手段によって表現される。"
+    }
+  ]
+}

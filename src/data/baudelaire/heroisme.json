@@ -1,0 +1,53 @@
+{
+  "id": "baudelaire_heroisme",
+  "title": "De l'héroïsme de la vie moderne",
+  "author": "Charles Baudelaire",
+  "source": "Salon de 1846",
+  "year": "1846",
+  "difficulty": "中級",
+  "category": "baudelaire_modernity",
+  "modernRelevance": "★★★★☆",
+  "context": "近代生活の英雄主義。黒服の美。日常の叙事詩。",
+  "keywords": [
+    "héroïsme",
+    "vie moderne",
+    "habit noir",
+    "beauté"
+  ],
+  "relatedTexts": [
+    "baudelaire_peintre",
+    "baudelaire_romantisme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Cependant, la vie parisienne est féconde en sujets poétiques et merveilleux.",
+      "officialTranslation": "しかしながら、パリの生活は詩的で驚異に満ちた主題に富んでいる。"
+    },
+    {
+      "id": 2,
+      "french": "Le merveilleux nous enveloppe et nous abreuve comme l'atmosphère.",
+      "officialTranslation": "驚異は大気のように我々を包み、潤す。"
+    },
+    {
+      "id": 3,
+      "french": "mais nous ne le voyons pas.",
+      "officialTranslation": "しかし我々はそれを見ない。"
+    },
+    {
+      "id": 4,
+      "french": "L'habit noir et la redingote ont non seulement leur beauté politique.",
+      "officialTranslation": "黒服とフロックコートは、政治的美だけでなく。"
+    },
+    {
+      "id": 5,
+      "french": "qui est l'expression de l'égalité universelle, mais encore leur beauté poétique.",
+      "officialTranslation": "それは普遍的平等の表現である、しかしさらに詩的な美も持っている。"
+    },
+    {
+      "id": 6,
+      "french": "qui est l'expression de l'âme publique.",
+      "officialTranslation": "それは公衆の魂の表現である。"
+    }
+  ]
+}

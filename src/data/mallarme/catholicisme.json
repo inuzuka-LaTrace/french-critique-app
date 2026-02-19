@@ -1,0 +1,71 @@
+{
+  "id": "mallarme_catholicisme",
+  "title": "Catholicisme",
+  "author": "Stéphane Mallarmé",
+  "source": "Divagations, Eugène Fasquelle, éditeur, 1897, p. 300-307. Section « Offices ». (初出：「Catholicisme」Variations sur un sujet, La Revue blanche, 1895)",
+  "year": "1897",
+  "difficulty": "最上級",
+  "category": "mallarme_culture",
+  "modernRelevance": "★★★★☆",
+  "context": "カトリシズムと近代国家の祝祭。ユイスマンス『En Route』への応答。芸術的礼拝と世俗的典礼の構想。",
+  "keywords": [
+    "religion",
+    "rite",
+    "fête",
+    "communion",
+    "mythe",
+    "État",
+    "Messe",
+    "lustre",
+    "Huysmans",
+    "Justice"
+  ],
+  "relatedTexts": [
+    "mallarme_de_meme",
+    "mallarme_wagner",
+    "mallarme_musique_lettres",
+    "mallarme_action_restreinte"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Présomption, on imagine, par suite de silence extérieur, que cela, mainte vibration de certitude et de ténèbres jointe en un méditatif unisson, a cessé —\n\nAinsi —\n\nSimplement, dans l'inaptitude de gens à percevoir leur néant sinon comme la faim, misère profane, hors l'accompagnement du tonnerre d'orgues absolu de la Mort.",
+      "officialTranslation": "外部の沈黙の結果として、あのこと——確信と暗闇の多くの振動が瞑想的なユニゾンに結ばれたもの——は終わったと思い込まれている——\n\nそのように——\n\n単純に、人々が自らの虚無を、死の絶対的なオルガンの雷鳴の伴奏なしには、俗なる惨めさとして、飢えとしてしか知覚できないことにおいて。"
+    },
+    {
+      "id": 2,
+      "french": "À l'ordre, nous ne manquâmes, en le cas. Le moyen âge, à jamais, reste l'incubation ainsi que commencement de monde, moderne : au seuil d'une ère dispensatrice, je veux, du bienfait terrestre ou d'aisance plénière — tout, par souci que la projection de sainteté ne suffît pas et manquât court, se ramassa au noir de nous pour filer véritablement si c'est possible, en joie, quelque chose comme durant les siècles des siècles, oh ! que ce soit.",
+      "officialTranslation": "その場合、われわれは秩序に欠けなかった。中世は、永遠に、孵化と同時に近代世界の始まりとして残る。地上の恩恵あるいは完全な安楽という、私の望む、一つの分配の時代の閾において——すべてが、聖性の投射が十分でなく短命に終わるという懸念から、われわれの内の暗闘に集まって、本当に可能であれば、何世紀もの世紀の間のように、おお、そうあれかし、喜びのうちに何ものかを糸として引き出すために。"
+    },
+    {
+      "id": 3,
+      "french": "Une prétention, qui se targue de laïcité sans que ce mot invite un sens, liée au refus d'inspirations supérieures, soit, tirons-les de notre fonds, imite, à présent, dans l'habitude, ce qu'intellectuellement la discipline de la science omettant, au risque de choir ou de les prouver, dogmes et philosophie.",
+      "officialTranslation": "この言葉が意味を呼び起こすことなく俗世性を誇る、上位の霊感の拒絶に結びついた一つの主張は、それならわれわれ自身の中からそれを引き出そう、今や習慣において、知的には科学の規律が、崩れ落ちるか証明するかの危険を冒しつつ、ドグマと哲学を省略することを模倣している。"
+    },
+    {
+      "id": 4,
+      "french": "Quand même survivrait, acceptation courante d'une entre les Chimères, la religion, en cette épreuve liminaire, la Justice —\n\nUn rite s'extériorisera-t-il de la pratique quotidienne, comme pompes et sceau : ou, en est-ce fait d'un genre grandiose de distraction. Question, enchevêtrée en son éploi, peu en rapport, je sais, avec ce qui se traite : il faut lecture de soirs comme une dont je sors, le livre exceptionnel d'Huysmans, pour intimer, avec espoir de se défendre contre la superbe influence, mon adaptation ou le transport à telle manie —\n\nL'intrusion dans les fêtes futures. Que doivent-elles être : tributaires, d'abord, du loisir dominical —\n\nNul, à moins de suspendre, comme sa vision, le lourd lustre, évocateur multiple de motifs, n'éclairerait ici ; mais on peut déduire, pourtant, des moyens et des nécessités en cause.",
+      "officialTranslation": "たとえ宗教が——キメラの一つの一般的な受容として——この予備的な試練において、正義として、生き延びるとしても——\n\n一つの儀礼は、日常の実践から、威容と封印として外部化されるだろうか。あるいは、壮大な種類の気散じで終わるだろうか。問い、その運用のなかに絡み合い、私が知るように、論じられていることとは大して関係のない。ユイスマンスの例外的な書物のような、そこから私が出てきたばかりの夜の読書が必要だ、その卓越した影響力に抵抗する望みをもって、私の適応、あるいはそのような癖への移送を告げるために——\n\n将来の祝祭への侵入。それらはいかなるものであるべきか——まず、日曜日の余暇の従者として——\n\nここでは、その幻影のように、動機の多様な喚起者たる重いシャンデリアを吊るさないかぎり、誰も照らし出すことができない。しかし、問題となる手段と必要性を、それでも演繹することはできる。"
+    },
+    {
+      "id": 5,
+      "french": "À quelque amphithéâtre, comme une aile d'infinité humaine, bifurque la multitude, effarouchée devant le brusque abîme fait par le dieu, l'homme — ou Type. Représentation avec concert. Le miracle de la musique est cette pénétration, en réciprocité, du mythe et de la salle, par quoi se comble jusqu'à étinceler des arabesques et d'ors en traçant l'arrêt à la boîte sonore, l'espace vacant, face à la scène : absence d'aucun, où s'écarte l'assistance et que ne franchit le personnage.",
+      "officialTranslation": "ある円形劇場において、人間の無限の翼のように、群衆は二股に分かれる——神、人間——あるいは型——が突然作り出した深淵の前で恐れをなして。音楽を伴う上演。音楽の奇跡とは、神話と場内のこの相互的な浸透である。それによって、舞台に面した空虚な空間——誰の不在でもあり、聴衆が退くところであり、登場人物が越えないところ——は、アラベスクと黄金が音響の箱への移行を描くことで輝くまで満たされる。"
+    },
+    {
+      "id": 6,
+      "french": "Notre communion ou part d'un à tous et de tous à un, ainsi, soustraite au mets barbare que désigne le sacrement — en la consécration de l'hostie, néanmoins, s'affirme, prototype de cérémonials, malgré la différence avec une tradition d'art, la Messe. L'amateur que l'on est, maintenant, de quelque chose qui, au fond, soit ne saurait plus assister, comme passant, à la tragédie, comprît-elle un retour, allégorique, vers lui ; et, tout de près, exige un fait — du moins la crédulité à ce fait au nom de résultats. « Présence réelle » : ou, que le dieu soit là, diffus, total, mimé de loin par l'acteur effacé, par nous su tremblants, en raison de toute gloire, latente si telle indue, qu'il assuma, puis rend, frappée à l'authenticité des mots et lumière, triomphale de Patrie, ou d'Honneur, de Paix.",
+      "officialTranslation": "われわれの交歓、あるいは一から全へ全から一への分け前は、かくして、秘跡が指し示す野蛮な食事から引き離されて——しかし聖体の奉献において、典礼の原型として、芸術的伝統との差異にもかかわらず、ミサは肯定される。今日われわれがその愛好者である何ものか、その本質においては、もはや通行人として悲劇に立ち合うことができず、たとえそれが彼自身への寓意的な回帰を含むとしても。そしてごく近くで、事実を——少なくとも結果の名における事実への信念を——要求する。「現実の臨在」——あるいは、神がそこに存在し、拡散し、完全に、遠くから消え去った俳優に模倣されて、われわれが震えながら、彼が引き受けた、もし正当でないならば潜在したままの一切の栄光のゆえに知り、ついで返還する——祖国あるいは名誉あるいは平和の、言葉と光の真正性に打ち込まれた、凱旋の栄光を。"
+    },
+    {
+      "id": 7,
+      "french": "Sans une pensée d'éblouir le vitrage de coupole constatant élévation et transparence à ce que la rumeur dénomme édifice social, importerait peu quelque pas en avant ; sauf, ainsi, pour entrer, inaugurer et saluer une arrière-ressemblance avec des gravités du passé, assombries en la mémoire ou qu'instaure la foule.\n\nUne parité, des réminiscences liturgiques exclusivement notre bien propre ou originel, inscrites au seuil et de certains apparats, profanes, avoués, s'impose : cependant n'allez mal, conformément à une erreur chez des prédicants, élaver en je sais quelle dilution couleur électricité et peuple, l'archaïque outremer de ciels. Tout s'interrompt, effectif, dans l'histoire, peu de transfusion : ou le rapport consiste en ceci que les deux états auront existé, séparément, pour une confrontation par l'esprit.",
+      "officialTranslation": "噂が社会的建築物と呼ぶものへの高揚と透明性を確認するドームの窓ガラスを眩ませようとする思いもなく、若干の前進はほとんど重要でないだろう。そのようにして入り、記念し、記憶の中に暗くなった過去の重みとの、あるいは群衆が設立するものとの後方の類似を挨拶するためでなければ。\n\n一つの同等性が、もっぱらわれわれ固有あるいは根源的な財産としての典礼的回想を、閾に、そして世俗的な、公言された一定の様式に刻み込んで、自らを押しつける。しかし、説教者たちのある誤りに従って、空の古風な群青を、電気と民衆の色をした何らかの希釈のうちに持ち上げないように。歴史においてすべての実効的なつながりは断絶し、移転はほとんどない。あるいは関係はこのことにある——二つの状態が、精神による対峙のために、別々に存在してきたということに。"
+    },
+    {
+      "id": 8,
+      "french": "Alors s'en apercevra-t-on ou, du moins, y gardera-t-on la sympathie, qui m'angoisse : peut-être, pas; et j'ai voulu, d'ici, quand ce n'est prêt, accouder le Songe à l'autel contre le tombeau retrouvé — pieux ses pieds à de la cendre. Le nuage autour exprès : que préciser.. Plus, serait entonner le rituel et trahir, avec rutilance, le lever de soleil d'une chape d'officiant, en place que le desservant enguirlande d'encens, pour la masquer, une nudité de lieu.",
+      "officialTranslation": "そのとき、それに気づくだろうか、あるいは少なくとも私を悩ます共感を保つだろうか——おそらく、否。そして私は、ここから、準備ができていないとき、夢を見出された墓に対する祭壇に肘をつかせたかった——その灰への足が敬虔に。周りに意図的な霞。何を明確にすべきか……それ以上は、儀礼を歌い始め、聖職者が場所の裸形を隠すために香で花飾るかわりに、執行者の祭服の日の出を輝かしく裏切ることになろう。"
+    }
+  ]
+}

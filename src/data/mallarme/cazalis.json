@@ -1,0 +1,53 @@
+{
+  "id": "mallarme_cazalis",
+  "title": "Lettre à Henri Cazalis",
+  "author": "Stéphane Mallarmé",
+  "source": "Correspondance",
+  "year": "1866",
+  "difficulty": "中級〜上級",
+  "category": "mallarme_poetics",
+  "modernRelevance": "★★★★★",
+  "context": "1866年5月の重要書簡。無の発見。詩人の使命。",
+  "keywords": [
+    "Néant",
+    "Idéal",
+    "poésie",
+    "mission"
+  ],
+  "relatedTexts": [
+    "mallarme_crise",
+    "mallarme_musique"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Malheureusement, en creusant le vers à ce point, j'ai rencontré deux abîmes.",
+      "officialTranslation": "不幸にも、詩句をこれほどまでに掘り下げることで、私は二つの深淵に出会った。"
+    },
+    {
+      "id": 2,
+      "french": "qui me désespèrent. L'un est le Néant.",
+      "officialTranslation": "それは私を絶望させる。一つは無である。"
+    },
+    {
+      "id": 3,
+      "french": "Je suis parfaitement mort.",
+      "officialTranslation": "私は完全に死んだ。"
+    },
+    {
+      "id": 4,
+      "french": "et la région la plus impure où mon Esprit puisse s'aventurer est l'Éternité.",
+      "officialTranslation": "そして私の精神が冒険できる最も不純な領域は永遠である。"
+    },
+    {
+      "id": 5,
+      "french": "Mon Esprit, ce solitaire habituel de sa propre Pureté.",
+      "officialTranslation": "私の精神、それ自身の純粋さの習慣的な孤独者。"
+    },
+    {
+      "id": 6,
+      "french": "n'est plus obscurci même par le reflet du Temps.",
+      "officialTranslation": "もはや時間の反映によってさえ曇らされることはない。"
+    }
+  ]
+}

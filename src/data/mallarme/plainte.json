@@ -1,0 +1,52 @@
+{
+  "id": "mallarme_plainte",
+  "title": "Plainte d'automne",
+  "author": "Stéphane Mallarmé",
+  "source": "Divagations",
+  "year": "1897",
+  "difficulty": "中級",
+  "category": "mallarme_culture",
+  "modernRelevance": "★★★★☆",
+  "context": "秋の嘆き。散文詩。古い書物と憂愁。",
+  "keywords": [
+    "automne",
+    "mélancolie",
+    "livres",
+    "enfance"
+  ],
+  "relatedTexts": [
+    "mallarme_expositions"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Depuis que Maria m'a quitté pour aller dans une autre étoile.",
+      "officialTranslation": "マリアが別の星に行くために私のもとを去ってから。"
+    },
+    {
+      "id": 2,
+      "french": "j'ai toujours chéri la solitude.",
+      "officialTranslation": "私は常に孤独を愛してきた。"
+    },
+    {
+      "id": 3,
+      "french": "Je me plais dans les vieux livres.",
+      "officialTranslation": "私は古い書物の中に喜びを見出す。"
+    },
+    {
+      "id": 4,
+      "french": "L'été, je hais le soleil : il me fait songer à des choses puériles.",
+      "officialTranslation": "夏、私は太陽を憎む。それは私に子供じみたことを考えさせる。"
+    },
+    {
+      "id": 5,
+      "french": "Et je relis un de ces chers poèmes.",
+      "officialTranslation": "そして私はこれらの愛しい詩の一つを読み返す。"
+    },
+    {
+      "id": 6,
+      "french": "dont les lignes énigmatiques ont un sens si doux dans mon souvenir.",
+      "officialTranslation": "その謎めいた行は、私の記憶の中でこれほど甘い意味を持つ。"
+    }
+  ]
+}

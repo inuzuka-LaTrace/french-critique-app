@@ -1,0 +1,52 @@
+{
+  "id": "mallarme_expositions",
+  "title": "Expositions",
+  "author": "Stéphane Mallarmé",
+  "source": "Divagations",
+  "year": "1897",
+  "difficulty": "中級",
+  "category": "mallarme_culture",
+  "modernRelevance": "★★★☆☆",
+  "context": "万国博覧会論。群衆と近代性。",
+  "keywords": [
+    "exposition",
+    "foule",
+    "spectacle",
+    "luxe"
+  ],
+  "relatedTexts": [
+    "mallarme_plainte"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Tout le monde y a passé, au cours d'une vie.",
+      "officialTranslation": "誰もがそこを通った、一生に一度は。"
+    },
+    {
+      "id": 2,
+      "french": "Les foules se rendent à l'Exposition.",
+      "officialTranslation": "群衆は博覧会に向かう。"
+    },
+    {
+      "id": 3,
+      "french": "spectacle populaire par excellence.",
+      "officialTranslation": "卓越した民衆的な見世物。"
+    },
+    {
+      "id": 4,
+      "french": "Le luxe industriel déployé réclame la foule.",
+      "officialTranslation": "展開された産業の贅沢は群衆を要求する。"
+    },
+    {
+      "id": 5,
+      "french": "Cet attrait appartient au siècle.",
+      "officialTranslation": "この魅力は、この世紀に属している。"
+    },
+    {
+      "id": 6,
+      "french": "Le génie contemporain se jauge.",
+      "officialTranslation": "現代の天才は、測られる。"
+    }
+  ]
+}

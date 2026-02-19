@@ -1,53 +1,55 @@
 {
-  "id": "mallarme_ballets",
-  "title": "Ballets",
-  "author": "Stéphane Mallarmé",
-  "source": "Divagations",
-  "year": "1897",
-  "difficulty": "中級〜上級",
-  "category": "mallarme_representation",
-  "modernRelevance": "★★★★☆",
-  "context": "身体による書記。ダンサーは隠喩。",
-  "keywords": [
-    "danse",
-    "métaphore",
-    "écriture",
-    "corporelle"
-  ],
-  "relatedTexts": [
-    "mallarme_mimique",
-    "mallarme_hamlet"
-  ],
+  "id": "baudelaire_wagner_encore",
+  "title": "Richard Wagner et Tannhäuser à Paris — Encore quelques mots",
+  "author": "Charles Baudelaire",
+  "source": "L'Art romantique (初出：Revue Européenne, 8 avril 1861)",
+  "year": "1861",
+  "difficulty": "中級",
+  "category": "baudelaire_music",
+  "modernRelevance": "★★★☆☆",
+  "context": "タンホイザー初演スキャンダルへの反論。定期会員制度の専制。フランスの名誉をめぐる憤激。",
+  "keywords": ["Tannhäuser", "scandale", "abonnés", "Jockey-Club", "ballet", "presse", "Paris", "réaction", "injustice"],
+  "relatedTexts": ["baudelaire_wagner_1", "baudelaire_wagner_2", "baudelaire_wagner_3", "baudelaire_wagner_4"],
   "paragraphs": [
     {
       "id": 1,
-      "french": "La danseuse n'est pas une femme qui danse.",
-      "officialTranslation": "踊り子は踊る女性ではない。"
+      "french": "« L'épreuve est faite ! La musique de l'avenir est enterrée ! » s'écrient avec joie tous les siffleurs et cabaleurs. « L'épreuve est faite ! » répètent tous les niais du feuilleton. Et tous les badauds leur répondent en chœur, et très innocemment : « L'épreuve est faite ! »\n\nEn effet, une épreuve a été faite, qui se renouvellera encore bien des milliers de fois avant la fin du monde ; c'est que, d'abord, toute œuvre grande et sérieuse ne peut pas se loger dans la mémoire humaine ni prendre sa place dans l'histoire sans de vives contestations ; ensuite, que dix personnes opiniâtres peuvent, à l'aide de sifflets aigus, dérouter des comédiens, vaincre la bienveillance du public, et pénétrer même de leurs protestations discordantes la voix immense d'un orchestre. Enfin, un inconvénient des plus intéressants a été vérifié, c'est qu'un système de location qui permet de s'abonner à l'année crée une sorte d'aristocratie, laquelle peut, à un moment donné, exclure le vaste public de toute participation au jugement d'une œuvre.",
+      "officialTranslation": "「試みは終わった！未来の音楽は埋葬された！」すべての罵倒者と謀略者が喜んで叫ぶ。「試みは終わった！」と連載記事のすべての阿呆が繰り返す。そしてすべての野次馬が合唱して、ごく無邪気に「試みは終わった！」と答える。\n\n実際、ある試みがなされたが、それは世の終わりまでに何千回も繰り返されるだろう。まず、偉大で真剣な作品はすべて、激しい異議なしに人間の記憶に収まることも歴史に自らの場所を取ることもできないということ。次いで、10人の頑固な者が甲高い口笛で俳優を当惑させ、聴衆の好意を打ち負かし、不協和な抗議で巨大なオーケストラの声さえ貫くことができるということ。最後に、最も興味深い不都合が確かめられた——年間予約制を可能にする貸席制度は一種の貴族制を作り出し、その貴族制はある時点で広大な一般公衆を作品の審判への一切の参加から排除しうるということだ。"
     },
     {
       "id": 2,
-      "french": "pour ces motifs juxtaposés qu'elle n'est pas une femme, mais une métaphore.",
-      "officialTranslation": "並置されたこれらの理由のために、彼女は女性ではなく、隠喩なのだ。"
+      "french": "Les gens qui se croient débarrassés de Wagner se sont réjouis beaucoup trop vite ; nous pouvons le leur affirmer. Je les engage vivement à célébrer moins haut un triomphe qui n'est pas des plus honorables d'ailleurs, et même à se munir de résignation pour l'avenir. En vérité, ils ne comprennent guère le jeu de bascule des affaires humaines, le flux et le reflux des passions. Ils ignorent aussi de quelle patience et de quelle opiniâtreté la Providence a toujours doué ceux qu'elle investit d'une fonction. Aujourd'hui la réaction est commencée ; elle a pris naissance le jour même où la malveillance, la sottise, la routine et l'envie coalisées ont essayé d'enterrer l'ouvrage. L'immensité de l'injustice a engendré mille sympathies, qui maintenant se montrent de tous côtés.",
+      "officialTranslation": "ワーグナーから解放されたと思っている人々は余りにも早く喜んでいる。そう断言できる。彼らにそれほど大声で、しかもそれほど名誉あるものでもない勝利を祝うことをやめ、将来に備えて諦念を武装するよう強く勧める。まことに彼らは人間の事柄のシーソーゲーム、情熱の満ち引きをほとんど理解していない。また摂理が機能を委ねる者たちに常に与えてきた忍耐と不屈さについても知らない。今日、反動が始まった。反動は悪意・愚かさ・因習・嫉妬が結束して作品を埋葬しようとしたまさにその日に生まれた。不正義の広大さが千の共感を生み、それが今やあらゆる方向から現れてきている。"
     },
     {
       "id": 3,
-      "french": "résumant un des aspects élémentaires de notre forme, glaive, coupe, fleur.",
-      "officialTranslation": "我々の形の基本的な側面の一つ、剣、杯、花を要約しながら。"
+      "french": "Aux personnes éloignées de Paris, l'aventure inattendue du drame de Tannhäuser doit apparaître comme une énigme. Il serait facile de l'expliquer par la coïncidence malheureuse de plusieurs causes, dont quelques-unes sont étrangères à l'art. Avouons tout de suite la raison principale, dominante : l'opéra de Wagner est un ouvrage sérieux, demandant une attention soutenue ; on conçoit tout ce que cette condition implique de chances défavorables dans un pays où l'ancienne tragédie réussissait surtout par les facilités qu'elle offrait à la distraction. En Italie, on prend des sorbets et l'on fait des cancans dans les intervalles du drame ; en France, on joue aux cartes. « Vous êtes un impertinent, vous qui voulez me contraindre à prêter à votre œuvre une attention continue », s'écrie l'abonné récalcitrant, « je veux que vous me fournissiez un plaisir digestif plutôt qu'une occasion d'exercer mon intelligence. »",
+      "officialTranslation": "パリから遠い人々には、タンホイザーのドラマが思わぬ事態は謎として現れるに違いない。いくつかの不幸な原因の一致によって説明するのは容易だろう。主要で支配的な理由をただちに認めよう——ワーグナーのオペラは持続した注意を要求する真剣な作品だ。古典的悲劇が何より散漫さの容易さによって成功していた国で、この条件がいかに多くの不利な要素を含意するかは想像できる。イタリアではドラマの幕間にシャーベットを食べ世間話をし、フランスでは牌を打つ。「あなたは失礼千万だ、自分の作品に絶え間ない注意を払わせようとするとは」と反抗的な定期会員は叫ぶ——「知性を働かせる機会ではなく消化的な快楽を提供してほしい」と。"
     },
     {
       "id": 4,
-      "french": "et qu'elle ne danse pas, suggérant, par le prodige de raccourcis ou d'élans.",
-      "officialTranslation": "そして彼女は踊らない、短縮や飛躍の驚異によって、暗示しながら。"
+      "french": "A cette cause principale, il faut en ajouter d'autres qui sont aujourd'hui connues de tout le monde. L'ordre impérial, qui fait tant d'honneur au prince, a ameuté contre l'artiste beaucoup d'envieux et beaucoup de ces badauds qui croient toujours faire acte d'indépendance en aboyant à l'unisson. Le décret qui venait de rendre quelques libertés au journal et à la parole ouvrait carrière à une turbulence naturelle, longtemps comprimée, qui s'est jetée, comme un animal fou, sur le premier passant venu. Ce passant, c'était le Tannhäuser, autorisé par le chef de l'État et protégé ouvertement par la femme d'un ambassadeur étranger. Quelle admirable occasion ! Toute une salle française s'est amusée pendant plusieurs heures de la douleur de cette femme, et, chose moins connue, Mme Wagner elle-même a été insultée pendant une des représentations. Prodigieux triomphe !",
+      "officialTranslation": "この主要な原因に、今日誰もが知っている他の原因を加えなければならない。皇帝の命令——君主の名誉を大いに高める——が芸術家に対して多くの嫉妬者と、一斉に吠えることで常に独立心を示していると信じる野次馬たちを煽り立てた。新聞と言論にいくらかの自由を返したばかりの勅令が、長く抑圧されてきた自然な騒動に活動の場を開き、それは狂った動物のように最初の通行人に飛びかかった。その通行人こそタンホイザー——国家元首によって認可され、外国大使の妻によって公然と保護されていた。何という絶好の機会！フランス中の聴衆がこの女性の苦しみを数時間楽しみ、あまり知られていないが、ワーグナー夫人自身がある上演中に侮辱された。実に驚くべき勝利よ！"
     },
     {
       "id": 5,
-      "french": "avec une écriture corporelle.",
-      "officialTranslation": "身体的な書記をもって。"
+      "french": "Une mise en scène plus qu'insuffisante, faite par un ancien vaudevilliste ; une exécution molle et incorrecte de la part de l'orchestre ; un ténor allemand sur qui on fondait les principales espérances, et qui se met à chanter faux avec une assiduité déplorable ; une Vénus endormie, habillée d'un paquet de chiffons blancs ; toutes les places livrées, pour deux représentations, à une foule hostile ou indifférente à toute aspiration idéale : toutes ces choses doivent être également prises en considération. Seuls, mademoiselle Sax et Morelli ont fait tête à l'orage. Morelli, avec l'admirable souplesse italienne, s'est conformé humblement au style et au goût de l'auteur, et les personnes qui ont eu souvent le loisir de l'étudier disent que cette docilité lui a profité, et qu'il n'a jamais paru dans un aussi beau jour que sous le personnage de Wolfram.",
+      "officialTranslation": "元ヴォードヴィル作家による余りにも不十分な演出、オーケストラによる緩慢で不正確な演奏、主要な期待が寄せられていたのに嘆かわしいほど頻繁に音を外すドイツ人テノール、白いぼろ布の束に包まれた眠れるウェヌス、二公演にわたってすべての理想的な熱情に敵対的または無関心な群衆に渡されたすべての席——これらすべても等しく考慮に入れるべきだ。サックス嬢とモレッリだけが嵐に立ち向かった。モレッリはイタリア人の驚嘆すべき柔軟性で、作者のスタイルと趣味に謙虚に従い、彼をしばしば研究する機会を持った人々は、この従順さが彼に有益だったと、ウォルフラムの役ほど輝いたことはなかったと言う。"
     },
     {
       "id": 6,
-      "french": "Le ballet est une représentation de poésie par excellence et seulement.",
-      "officialTranslation": "バレエは、卓越してかつ唯一の、詩の表象である。"
+      "french": "La question du ballet, élevée à la hauteur d'une question vitale et agitée pendant plusieurs mois, n'a pas peu contribué à l'émeute. « Un opéra sans ballet ! qu'est-ce que cela ? » disait la routine. On a fait manœuvrer sur la scène, en manière de consolation, des régiments prussiens en jupes courtes, avec les gestes mécaniques d'une école militaire ; et une partie du public disait : « Voilà un mauvais ballet et une musique qui n'est pas faite pour la danse. » Le bon sens répondait : « Ce n'est pas un ballet ; mais ce devrait être une bacchanale, une orgie, comme l'indique la musique. » Que les hommes qui peuvent se donner le luxe d'une maîtresse parmi les danseuses de l'Opéra, désirent qu'on mette le plus souvent possible en lumière les talents et les beautés de leur emplette, c'est là certes un sentiment presque paternel que tout le monde comprend et excuse facilement ; mais que ces mêmes hommes rendent impossible l'exécution d'un ouvrage qui leur déplaît, voilà ce qui est intolérable.",
+      "officialTranslation": "バレエの問題——重大問題の高さにまで引き上げられ数ヶ月にわたって騒がれた——も暴動に少なからず貢献した。「バレエなしのオペラ！それが何だ？」と因習が言った。慰めとして、短いスカートのプロイセン連隊が軍事学校の機械的な身振りで舞台を歩き回らされた。「あれは出来の悪いバレエで、ダンス向けでない音楽だ」と聴衆の一部は言った。良識は答えた——「バレエではない。だが音楽が示すように酒宴、乱痴気騒ぎであるべきだ」と。オペラの踊り子の中に情婦を持つ贅沢を許せる男たちが、その商品の才能と美しさをできる限り光の当たる場所に置きたいと望むのは、誰もが容易に理解し許す父性的な感情と言えるだろう。しかし同じ男たちが気に入らない作品の上演を不可能にするのは耐えがたいことだ。"
+    },
+    {
+      "id": 7,
+      "french": "On espérait arracher à ces enragés leur victime en la présentant au public un dimanche, c'est-à-dire un jour où les abonnés et le Jockey-Club abandonnent volontiers la salle à une foule qui profite de la place libre et du loisir. Mais ils avaient fait ce raisonnement assez juste : « Si nous permettons que le succès ait lieu aujourd'hui, l'administration en tirera un prétexte suffisant pour nous imposer l'ouvrage pendant trente jours. » Et ils sont revenus à la charge, armés de tous les instruments homicides confectionnés à l'avance. Le public, le public entier, a lutté pendant deux actes, et dans sa bienveillance, doublée par l'indignation, il applaudissait non seulement les beautés irrésistibles, mais même les passages qui l'étonnaient et le déroutaient. Mais les quelques sifflets ont courageusement persisté, sans motif et sans interruption ; et tout le troisième acte a été submergé dans le tumulte. Dans la presse, aucune résistance, aucune protestation. M. Berlioz a évité de dire son avis ; courage négatif. Remercions-le de n'avoir pas ajouté à l'injure universelle.",
+      "officialTranslation": "日曜日——定期会員とジョッキー・クラブが自由席と余暇を楽しむ群衆に喜んで席を譲る日——に公衆に提示することで、狂信者たちから犠牲者を奪い取ることが期待された。しかし彼らはかなり正確な推論をした——「今日の成功を許せば、当局はそれを30日間作品を押し付けるための十分な口実に使うだろう」。そして事前に製造された凶器を完全武装して舞い戻った。聴衆全体が二幕間戦い、憤慨で倍加した好意において、抗しがたい美しさだけでなく驚かせ困惑させる箇所さえも拍手した。しかし数本の口笛は理由もなく中断もなく勇ましく続き、第三幕全体が騒動の中に沈んだ。報道陣には抵抗も抗議も皆無。ベルリオーズは自らの意見を言うのを避けた——消極的な勇気だ。普遍的な侮辱に加わらなかったことを感謝しよう。"
+    },
+    {
+      "id": 8,
+      "french": "Or, pendant les scandales soulevés par l'ouvrage de Wagner, je me disais : « Qu'est-ce que l'Europe va penser de nous, et en Allemagne que dira-t-on de Paris ? Voilà une poignée de tapageurs qui nous déshonorent collectivement ! » Mais non, cela ne sera pas. Je crois, je sais, je jure que parmi les littérateurs, les artistes et même parmi les gens du monde, il y a encore bon nombre de personnes bien élevées, douées de justice, et dont l'esprit est toujours libéralement ouvert aux nouveautés qui leur sont offertes. L'Allemagne aurait tort de croire que Paris n'est peuplé que de polissons. Enfin l'idée est lancée, la trouée est faite, c'est l'important. Si peu de temps que l'ouvrage ait paru devant le public, l'ordre de l'Empereur, auquel nous devons de l'avoir entendu, a apporté un grand secours à l'esprit français, esprit logique, amoureux d'ordre, qui reprendra facilement la suite de ses évolutions.\n\n8 avril 1861.",
+      "officialTranslation": "ワーグナーの作品が引き起こしたスキャンダルの最中、私は思っていた——「ヨーロッパはわれわれをどう思うだろう、ドイツではパリについて何が言われるだろう。これは一握りの騒動師たちが集合的にわれわれの名誉を損ねているのだ！」しかし、そうはならない。文学者・芸術家・世間の人々の中に、教養があり、公正さを持ち、提供される新しさにいつも自由に開かれた精神を持つ人間がまだ多くいると信じ、知り、誓う。ドイツはパリが無礼者だけで住まわれていると思うべきでない。ともかく観念は投じられ、突破口は開かれた——それが重要なことだ。作品が聴衆の前にほんの短い時間現れたとはいえ、われわれがそれを聴くことができた皇帝の命令は、論理的で秩序を愛し、進化の続きを容易に取り戻すフランスの精神に大きな助けをもたらした。\n\n1861年4月8日"
     }
   ]
 }

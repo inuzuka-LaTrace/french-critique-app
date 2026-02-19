@@ -1,53 +1,61 @@
 {
-  "id": "baudelaire_romantisme",
+  "id": "baudelaire_romantisme_complet",
   "title": "Qu'est-ce que le romantisme ?",
   "author": "Charles Baudelaire",
   "source": "Salon de 1846",
   "year": "1846",
-  "difficulty": "中級",
+  "firstPublication": "Salon de 1846",
+  "difficulty": "上級",
   "category": "baudelaire_aesthetics",
   "modernRelevance": "★★★★★",
-  "context": "ロマン主義の定義。近代性の概念の萌芽。感じ方の問題。",
-  "keywords": [
-    "romantisme",
-    "beauté",
-    "modernité",
-    "sentiment"
-  ],
-  "relatedTexts": [
-    "baudelaire_peintre",
-    "baudelaire_heroisme"
-  ],
+  "context": "『1846年のサロン』第2章。ロマン主義を様式や主題の問題ではなく「感じ方の様式」として定義し、その本質を「親密さ、精神性、色彩、無限への憧憬」に見出す。ボードレールの美学全体の理論的基盤をなすテキスト。ドラクロワ論・近代性論と三位一体をなす。",
+  "keywords": ["romantisme", "intimité", "spiritualité", "couleur", "infini"],
+  "relatedTexts": ["baudelaire_delacroix_1", "baudelaire_heroisme", "baudelaire_peintre"],
   "paragraphs": [
     {
       "id": 1,
-      "french": "Peu de gens aujourd'hui voudront donner à ce mot un sens réel et positif.",
-      "officialTranslation": "今日、この言葉に真実で肯定的な意味を与えようとする人はほとんどいない。"
+      "french": "Peu de gens aujourd'hui voudront donner à ce mot un sens réel et positif ; et cependant osera-t-on affirmer que toute une génération a accepté une bataille à propos d'un terme dont personne ne savait le sens ? Il est facile de se convaincre que les querelles du romantisme et du classicisme étaient des querelles d'intérêts et de rivalités personnelles.",
+      "provisionalTranslation": "今日この言葉に実質的かつ積極的な意味を与えようとする人は少ない。しかしだからといって、ある世代全体が誰もその意味を知らない言葉をめぐる論争を受け入れたと断言できるだろうか。ロマン主義と古典主義の論争が利害と個人的な競争心の論争であったことは容易に確認できる。"
     },
     {
       "id": 2,
-      "french": "Le romantisme n'est précisément ni dans le choix des sujets ni dans la vérité exacte, mais dans la manière de sentir.",
-      "officialTranslation": "ロマン主義とは、正確には主題の選択にあるのでも、正確な真実にあるのでもなく、感じ方のうちにあるのだ。"
+      "french": "Cependant, en restant dans l'ordre des choses naturelles, le romantisme n'est précisément ni dans le choix des sujets ni dans la vérité exacte, mais dans la manière de sentir. Ils ont cherché en dehors, et c'est en dedans qu'il était seulement possible de le trouver.",
+      "provisionalTranslation": "しかし自然なものの秩序にとどまるならば、ロマン主義は正確には主題の選択にも厳密な真実にもあるのではなく、感じ方の様式にある。彼らは外に求めたが、それは内にのみ見出しうるものだった。"
     },
     {
       "id": 3,
-      "french": "Pour moi, le romantisme est l'expression la plus récente, la plus actuelle du beau.",
-      "officialTranslation": "私にとって、ロマン主義とは美の最も新しい、最も現代的な表現である。"
+      "french": "Pour moi, le romantisme est l'expression la plus récente, la plus actuelle du beau. Il y a autant de beautés qu'il y a de manières habituelles de chercher le bonheur. La philosophie du progrès explique cela clairement ; ainsi, comme il y a eu autant d'idéaux qu'il y avait d'individus cherchant leur bonheur, le concept de romantisme est nécessairement mobile, fugitif.",
+      "provisionalTranslation": "私にとって、ロマン主義とは美の最も新しい、最も現代的な表現である。幸福を求める習慣的な様式と同じ数だけ美は存在する。進歩の哲学はこのことを明確に説明している。かくして幸福を求める個人の数だけ理想があったように、ロマン主義の概念は必然的に流動的で、はかないものだ。"
     },
     {
       "id": 4,
-      "french": "Il y a autant de beautés qu'il y a de manières habituelles de chercher le bonheur.",
-      "officialTranslation": "幸福を探し求める習慣的な方法があるだけ、美も存在する。"
+      "french": "Qui dit romantisme dit art moderne, — c'est-à-dire intimité, spiritualité, couleur, aspiration vers l'infini, exprimées par tous les moyens que contiennent les arts. Il s'ensuit que toute irrégularité, c'est-à-dire tout ce qui est imprévu, surprenant, étonnant, est le complément indispensable du beau.",
+      "provisionalTranslation": "ロマン主義と言えば近代芸術と言うことだ——すなわち、諸芸術が含むあらゆる手段によって表現された、親密さ、精神性、色彩、無限への憧憬である。したがってあらゆる不規則性、すなわち予期されない、驚かせる、仰天させるすべてのものは、美の不可欠な補完をなす。"
     },
     {
       "id": 5,
-      "french": "Qui dit romantisme dit art moderne, c'est-à-dire intimité, spiritualité, couleur, aspiration vers l'infini.",
-      "officialTranslation": "ロマン主義というのは近代芸術を意味する。すなわち、内面性、精神性、色彩、無限への憧憬である。"
+      "french": "En conséquence, il est évident que le romantisme implique la recherche d'un idéal individuel et d'un beau relatif, et non pas la célébration d'un beau absolu et traditionnel. Qui cherche le beau absolu n'est pas un romantique. Le romantique n'invoque que sa propre nature.",
+      "provisionalTranslation": "したがって、ロマン主義が絶対的かつ伝統的な美の称揚ではなく、個人的な理想と相対的な美の探求を含意することは明白だ。絶対的な美を求める者はロマン主義者ではない。ロマン主義者は自己自身の本性のみを呼び起こす。"
     },
     {
       "id": 6,
-      "french": "expressed par tous les moyens que possèdent les arts.",
-      "officialTranslation": "芸術が持つあらゆる手段によって表現される。"
+      "french": "Pour résumer ma pensée en une formule, il faut dire que le romantisme n'est pas situé dans l'exécution, mais dans la conception. Ils ont regardé en dehors, je le répète, et ce n'est que par un retour intérieur que l'artiste trouve la vérité. La vérité est dans l'artiste lui-même, et non pas dans le monde extérieur.",
+      "provisionalTranslation": "私の考えをひとつの定式にまとめるならば、ロマン主義は制作にあるのではなく、構想にあると言わなければならない。繰り返すが、彼らは外を見た。内への回帰によってのみ芸術家は真実を見出す。真実は芸術家自身の中にあり、外界にあるのではない。"
+    },
+    {
+      "id": 7,
+      "french": "Ainsi l'artiste romantique dédaigne la nature telle qu'elle est. Il cherche à voir au delà et en dessous. Et c'est parce que le romantisme est l'aspiration vers l'infini que ses productions sont souvent sombres, mélancoliques, violentes. Elles doivent l'être, parce qu'elles reflètent l'âme de l'artiste qui cherche sans trouver.",
+      "provisionalTranslation": "かくしてロマン主義の芸術家はありのままの自然を軽んじる。その向こうに、その下に見ようとする。そしてロマン主義が無限への憧憬であるがゆえに、その産物はしばしば暗く、憂鬱で、激烈だ。そうでなければならない。なぜならそれらは、見出すことなく求め続ける芸術家の魂を映すからだ。"
+    },
+    {
+      "id": 8,
+      "french": "Il n'est pas étonnant que le romantisme soit en étroite relation avec la mélancolie, avec le rêve, avec tout ce qui est nocturne et mystérieux. Le romantique est un être qui aime ce qui est invisible, qui est attiré vers les ténèbres lumineuses, vers les abîmes étoilés, vers tout ce qui signifie l'au-delà.",
+      "provisionalTranslation": "ロマン主義がメランコリー、夢、夜的で神秘的なすべてのものと密接に結びついていることは驚くに当たらない。ロマン主義者は不可視のものを愛し、輝く暗闇へ、星に満ちた深淵へ、彼岸を意味するすべてのものへと引き寄せられる存在だ。"
+    },
+    {
+      "id": 9,
+      "french": "Enfin, pour bien comprendre le romantisme, il faut convenir que la beauté n'est jamais un produit de la règle, mais de l'exception. L'exception, c'est l'individu. Et le romantisme est la glorification de l'individu contre la règle, de la passion contre la raison, du mystère contre la clarté.",
+      "provisionalTranslation": "最後に、ロマン主義を正しく理解するためには、美は決して規則の産物ではなく例外の産物であることを認めなければならない。例外、それが個人である。そしてロマン主義とは、規則に対する個人の、理性に対する情念の、明晰さに対する神秘の称揚なのだ。"
     }
   ]
 }

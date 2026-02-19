@@ -1,0 +1,75 @@
+{
+  "id": "valmore_reve_intermittent",
+  "title": "Rêve intermittent d'une nuit triste",
+  "author": "Marceline Desbordes-Valmore",
+  "source": "Poésies inédites",
+  "year": "1860",
+  "difficulty": "中級〜上級",
+  "category": "valmore",
+  "modernRelevance": "★★★★☆",
+  "context": "夜の夢と覚醒が交互に訪れる構造を持つ長詩の抜粋。亡くなった母親への呼びかけが詩全体を貫く。ヴァルモール夫人の詩の中でも最も個人的・自伝的な作品のひとつ。死・母性・記憶が絡み合う複雑な感情の織物。",
+  "keywords": ["rêve", "mère", "mort", "mémoire", "nuit"],
+  "relatedTexts": ["valmore_mal_du_pays", "valmore_separees"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Viens, ô ma mère ! entends ma voix qui t'appelle,",
+      "officialTranslation": "来て、おお母よ！ あなたを呼ぶ私の声を聞いて、"
+    },
+    {
+      "id": 2,
+      "french": "Ta fille vers ton ombre étend ses bras lassés.",
+      "officialTranslation": "あなたの影へと、娘が疲れた腕を伸ばしている。"
+    },
+    {
+      "id": 3,
+      "french": "Je ne suis pas heureuse en ce monde sans elle.",
+      "officialTranslation": "彼女のいないこの世界で私は幸せではない。"
+    },
+    {
+      "id": 4,
+      "french": "Il me tarde de voir tes yeux que j'ai fermés.",
+      "officialTranslation": "私が閉じたあなたの目を見ることが待ち遠しい。"
+    },
+    {
+      "id": 5,
+      "french": "Est-ce toi ? — Quel silence ! — Est-ce toi qui passes ?",
+      "officialTranslation": "あなたなの？ — なんという沈黙！ — あなたが通り過ぎているの？"
+    },
+    {
+      "id": 6,
+      "french": "Le vent souffle et s'éteint ; la nuit est sans voix.",
+      "officialTranslation": "風が吹いて消える；夜には声がない。"
+    },
+    {
+      "id": 7,
+      "french": "Viens, j'ai besoin de toi dans ces sombres espaces",
+      "officialTranslation": "来て、この暗い空間の中で私はあなたを必要としている"
+    },
+    {
+      "id": 8,
+      "french": "Où mon âme perdue a perdu jusqu'au mois.",
+      "officialTranslation": "失われた私の魂が月さえも失った場所で。"
+    },
+    {
+      "id": 9,
+      "french": "Je me rendors. — Toujours le même rêve arrive ;",
+      "officialTranslation": "また眠りにつく。 — いつも同じ夢がやってくる；"
+    },
+    {
+      "id": 10,
+      "french": "Il ressemble à la mort, il ressemble à l'amour.",
+      "officialTranslation": "それは死に似ている、それは愛に似ている。"
+    },
+    {
+      "id": 11,
+      "french": "C'est la même douceur, la même fuite vive,",
+      "officialTranslation": "同じ優しさ、同じ活きた逃走、"
+    },
+    {
+      "id": 12,
+      "french": "Un reste de la nuit qui se sauve du jour.",
+      "officialTranslation": "昼から逃げ去る夜の名残。"
+    }
+  ]
+}

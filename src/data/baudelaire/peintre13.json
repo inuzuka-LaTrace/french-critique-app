@@ -1,0 +1,47 @@
+{
+  "id": "baudelaire_peintre_13",
+  "title": "Le Peintre de la vie moderne (XIII) — Les Voitures",
+  "author": "Charles Baudelaire",
+  "source": "Le Figaro, 1863",
+  "year": "1863",
+  "firstPublication": "Le Figaro, 26 et 29 novembre, 3 décembre 1863",
+  "difficulty": "上級",
+  "category": "baudelaire_modernity",
+  "modernRelevance": "★★★★☆",
+  "context": "第13章・最終章。馬車を近代性の象徴として論じ、速度・運動・都市の流れをテーマに据える。「近代性の画家」論の締めくくりとして、一時的なものの中に永遠を見出すという本書全体の主題を総括する。",
+  "keywords": ["voitures", "mouvement", "vitesse", "modernité", "ville"],
+  "relatedTexts": ["baudelaire_peintre_12", "baudelaire_peintre_1", "baudelaire_heroisme"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Les voitures ! Voilà encore un de ces sujets que les peintres académiques dédaignent, comme tous les sujets qui portent trop visiblement la marque du temps présent. Et pourtant, qui peut nier que la voiture, dans ses formes multiples, est l'un des symboles les plus caractéristiques de la vie moderne ?",
+      "provisionalTranslation": "馬車！ これもまたアカデミックな画家たちが軽んじる主題のひとつだ——現在という時代の刻印をあまりにも目に見えて帯びているすべての主題と同様に。しかし馬車がその多様な形において近代生活の最も特徴的な象徴のひとつであることを誰が否定できるだろうか。"
+    },
+    {
+      "id": 2,
+      "french": "M. G. aime les voitures avec passion. Il les dessine dans toutes leurs variétés : le carrosse d'apparat et le fiacre de louage, la calèche légère et le lourd omnibus, la berline des voyageurs et le cabriolet du dandy. Chacune a sa beauté propre, son rythme, sa façon d'habiter l'espace.",
+      "provisionalTranslation": "G氏は馬車を情熱的に愛する。あらゆる種類を描く。儀礼用の大型馬車と貸し馬車、軽い四輪馬車と重い乗合馬車、旅人のベルリン馬車とダンディの二輪馬車。それぞれに固有の美、固有のリズム、固有の空間の占め方がある。"
+    },
+    {
+      "id": 3,
+      "french": "Ce qui fascine M. G. dans les voitures, c'est avant tout le mouvement. La voiture en marche est une synthèse de la vie moderne : vitesse, bruit, foule, danger, élégance. Elle condense en elle-même tout ce que la ville a de frénétique et de poétique à la fois.",
+      "provisionalTranslation": "G氏が馬車に魅了されるのは何より運動だ。走る馬車は近代生活の総合だ——速度、騒音、群衆、危険、優雅さ。都市が持つ熱狂的なものと詩的なものを一身に凝縮している。"
+    },
+    {
+      "id": 4,
+      "french": "Il y a une beauté dans une voiture bien attelée, bien menée, qui n'est pas sans rapport avec la beauté d'un être vivant. Les chevaux, les harnais, la carrosserie, tout cela forme un ensemble harmonieux où chaque élément est à sa place et contribue à l'effet général. C'est de l'art appliqué au service de la vie.",
+      "provisionalTranslation": "よく馬を繋ぎよく操られた馬車には、生き物の美と無関係でない美がある。馬、馬具、車体——これらすべてが調和のとれた全体を形成し、各要素がその位置にあって全体的な効果に貢献する。これは生活に奉仕する応用芸術だ。"
+    },
+    {
+      "id": 5,
+      "french": "Mais M. G. ne s'arrête pas à la surface. Ce qui l'intéresse dans la voiture, c'est aussi ce qu'elle révèle sur ceux qui la conduisent et ceux qu'elle transporte. La voiture est un indicateur social d'une précision remarquable. Elle dit le rang, la fortune, les prétentions, les goûts de celui qui la possède.",
+      "provisionalTranslation": "しかしG氏は表面に留まらない。馬車で彼の興味を引くのはまた、それを御す者とそれが運ぶ者について馬車が明かすものでもある。馬車は際立った精度を持つ社会的指標だ。それを持つ者の地位、財産、野心、趣味を語る。"
+    },
+    {
+      "id": 6,
+      "french": "Ainsi, jusque dans l'humble fiacre ou dans l'omnibus populaire, M. G. voit le reflet de la vie collective, le signe des transformations sociales en cours, la marque du temps présent. Et c'est en cela qu'il est véritablement le peintre de la vie moderne : en sachant voir le grand dans le petit, l'éternel dans le fugitif, la poésie dans la prose de la vie quotidienne.",
+      "provisionalTranslation": "かくして粗末な貸し馬車や庶民の乗合馬車においてさえ、G氏は集団的生の反映、進行中の社会変容の徴、現在という時代の刻印を見る。そしてそれこそが彼を真に近代生活の画家たらしめるものだ——小さなものの中に大きなものを、はかないものの中に永遠を、日常生活の散文の中に詩を見ることを知る画家として。"
+    },
+    {
+      "id": 7,
+      "french": "Tel est M. G. Son œuvre est le miroir de notre époque. Elle no

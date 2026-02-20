@@ -5,6 +5,7 @@ import valeryData from './data/valery';
 import valmoreData from './data/valmore';
 import vanlerbergheData from './data/vanlerberghe';
 import verlaineData from './data/verlaine';
+import gautierData from './data/gautier';
 
 // ユーティリティ：officialTranslation / provisionalTranslation 両対応
 const getTranslation = (para) =>
@@ -40,7 +41,8 @@ export default function App() {
       ...valeryData,
       ...valmoreData,
       ...vanlerbergheData,
-      ...verlaineData
+      ...verlaineData,
+      ...gautierData,
     };
     setTexts(allTexts);
     setLoading(false);
@@ -73,7 +75,8 @@ export default function App() {
     valery:                     { name: 'ヴァレリー' },
     valmore:                    { name: 'ヴァルモール' },
     vanlerberghe:               { name: 'ヴァン・レルベルグ' },
-    verlaine_critique:          { name: 'ヴェルレーヌ批評' }
+    verlaine_critique:          { name: 'ヴェルレーヌ批評' },
+    gautier:                    { name: 'ゴーティエ' }
   };
 
   // カテゴリーで絞り込み後、さらに検索クエリで絞り込む（本文テキストも対象）
@@ -227,6 +230,7 @@ export default function App() {
     valmore:                 'ヴァルモール',
     vanlerberghe:            'ヴァン・レルベルグ',
     verlaine_critique:       'ヴェルレーヌ批評',
+    gautier:                 'ゴーティエ',
   };
 
   const authorColor = (cat) => {
@@ -236,6 +240,7 @@ export default function App() {
     if (cat?.startsWith('valmore'))      return darkMode ? 'bg-pink-900/40 text-pink-300'     : 'bg-pink-100 text-pink-800';
     if (cat?.startsWith('vanlerberghe')) return darkMode ? 'bg-emerald-900/40 text-emerald-300' : 'bg-emerald-100 text-emerald-800';
     if (cat?.startsWith('verlaine'))     return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
+    if (cat?.startsWith('gautier'))      return darkMode ? 'bg-cyan-900/40 text-cyan-300' : 'bg-cyan-100 text-cyan-800';
     return darkMode ? 'bg-gray-800 text-gray-300' : 'bg-gray-100 text-gray-700';
   };
 

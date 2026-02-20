@@ -1,0 +1,111 @@
+{
+  "id": "gautier_symphonie_blanc",
+  "title": "Symphonie en blanc majeur",
+  "author": "Théophile Gautier",
+  "source": "Émaux et Camées",
+  "year": "1852",
+  "firstPublication": "Émaux et Camées, 1852 (Charpentier)",
+  "difficulty": "中級",
+  "category": "gautier",
+  "modernRelevance": "★★★★★",
+  "context": "1852年初版から収録されたゴーティエの代表詩。音楽家ホイッスラーの「白のシンフォニー」三部作（1861–67）に直接霊感を与え、マラルメの「白」への詩学——「エロディアード」「白鳥のソネット」「骰子一擲」の白いページ——の根源的なイメージ源となった。スウェーデンのピアニスト Marie Kalergis に捧げられたとも言われる。白という単一の色調のすべての変奏を——雪・大理石・エルミン・オパール・アロエ・蝋燭・氷河・スフィンクス——連鎖させ、女-白鳥の神秘的な冷厳を通じて、解けることのない美の謎として提示する。",
+  "keywords": ["白", "感覚の交響", "女-白鳥", "冷厳", "神秘", "色彩詩", "マラルメへの影響"],
+  "relatedTexts": [
+    "gautier_l_art",
+    "baudelaire_gautier",
+    "mallarme_poetics",
+    "vanlerberghe_entrevision"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "De leur col blanc courbant les lignes,\nOn voit dans les contes du Nord,\nSur le vieux Rhin, des femmes-cygnes\nNager en chantant près du bord,",
+      "provisionalTranslation": "その白い首の曲線を引きながら、\n北方の物語の中に見える、\n古いライン川のほとり、女-白鳥たちが\n岸近く歌いながら泳ぐのを、"
+    },
+    {
+      "id": 2,
+      "french": "Ou, suspendant à quelque branche\nLe plumage qui les revêt,\nFaire luire leur peau plus blanche\nQue la neige de leur duvet.",
+      "provisionalTranslation": "あるいは、自分たちを包む羽毛を\nどこかの枝に吊るし、\n羽毛の雪よりもさらに白い\n肌を輝かせるのを。"
+    },
+    {
+      "id": 3,
+      "french": "De ces femmes il en est une,\nQui chez nous descend quelquefois,\nBlanche comme le clair de lune\nSur les glaciers dans les cieux froids ;",
+      "provisionalTranslation": "そのような女のなかにひとりいる、\n時おりわれらのもとへ降りてくる者が、\n冷たい空の氷河にかかる\n月光のように白い者が；"
+    },
+    {
+      "id": 4,
+      "french": "Conviant la vue enivrée\nDe sa boréale fraîcheur\nÀ des régals de chair nacrée,\nÀ des débauches de blancheur !",
+      "provisionalTranslation": "その北方的な清冽さで\n陶然とした眼を招く、\n真珠色の肌の饗宴へ、\n白さの放蕩へ！"
+    },
+    {
+      "id": 5,
+      "french": "Son sein, neige moulée en globe,\nContre les camélias blancs\nEt le blanc satin de sa robe\nSoutient des combats insolents.",
+      "provisionalTranslation": "その胸、球形に型どられた雪が、\n白い椿と\n衣裳の白いサテンとに対して\n不敵な戦いを続ける。"
+    },
+    {
+      "id": 6,
+      "french": "Dans ces grandes batailles blanches,\nSatins et fleurs ont le dessous,\nEt, sans demander leurs revanches,\nJaunissent comme des jaloux.",
+      "provisionalTranslation": "この白の大きな戦いの中で、\nサテンも花も下手に出て、\n仕返しを求めることもなく、\n嫉妬する者のように黄ばんでゆく。"
+    },
+    {
+      "id": 7,
+      "french": "Sur les blancheurs de son épaule,\nParos au grain éblouissant,\nComme dans une nuit du pôle,\nUn givre invisible descend.",
+      "provisionalTranslation": "その肩の白さの上に、\nまばゆい粒肌のパロス島の石よ、\n極夜のように、\n見えない霜が降りてくる。"
+    },
+    {
+      "id": 8,
+      "french": "De quel mica de neige vierge,\nDe quelle moelle de roseau,\nDe quelle hostie et de quel cierge\nA-t-on fait le blanc de sa peau ?",
+      "provisionalTranslation": "処女雪のどんな雲母から、\n葦のどんな髄から、\nどんな聖体パンとどんな蝋燭から\nその肌の白さは作られたのか？"
+    },
+    {
+      "id": 9,
+      "french": "A-t-on pris la goutte lactée\nTachant l'azur du ciel d'hiver,\nLe lis à la pulpe argentée,\nLa blanche écume de la mer ;",
+      "provisionalTranslation": "冬空の青を染める\n乳白色の雫をとったのか、\n銀色の果肉を持つ百合を、\n海の白い泡を；"
+    },
+    {
+      "id": 10,
+      "french": "Le marbre blanc, chair froide et pâle,\nOù vivent les divinités ;\nL'argent mat, la laiteuse opale\nQu'irisent de vagues clartés ;",
+      "provisionalTranslation": "神々の住む\n白い大理石、冷たく蒼い肉を；\nぼんやりした光の虹彩に彩られる\n艶消しの銀、乳白のオパールを；"
+    },
+    {
+      "id": 11,
+      "french": "L'ivoire, où ses mains ont des ailes,\nEt, comme des papillons blancs,\nSur la pointe des notes frêles\nSuspendent leurs baisers tremblants ;",
+      "provisionalTranslation": "象牙を——その手が翼を持ち、\n白い蝶のように、\n繊細な音符の先に\n震える口づけを宙吊りにする；"
+    },
+    {
+      "id": 12,
+      "french": "L'hermine vierge de souillure,\nQui pour abriter leurs frissons,\nOuate de sa blanche fourrure\nLes épaules et les blasons ;",
+      "provisionalTranslation": "汚れを知らない白貂を——\n肩と紋章を\nその白い毛皮で包み、\n震えを宿らせるために；"
+    },
+    {
+      "id": 13,
+      "french": "Le vif-argent aux fleurs fantasques\nDont les vitraux sont ramagés ;\nLes blanches dentelles des vasques,\nPleurs de l'ondine en l'air figés ;",
+      "provisionalTranslation": "ステンドグラスに縫いこまれた\n幻想的な花模様の水銀を；\n空気の中に凝固した\n水の精の涙、水盤の白いレースを；"
+    },
+    {
+      "id": 14,
+      "french": "L'aubépine de mai qui plie\nSous les blancs frimas de ses fleurs ;\nL'albâtre où la mélancolie\nAime à retrouver ses pâleurs ;",
+      "provisionalTranslation": "花の白い霜の重みに\n傾く五月の山査子を；\nメランコリーが\nその蒼白さを見出すのを好む雪花石膏を；"
+    },
+    {
+      "id": 15,
+      "french": "Le duvet blanc de la colombe,\nNeigeant sur les toits du manoir,\nEt la stalactite qui tombe,\nLarme blanche de l'antre noir ?",
+      "provisionalTranslation": "館の屋根に雪を降らせる\n鳩の白い羽毛を、\n黒い洞窟の白い涙、\n落下する鍾乳石を？"
+    },
+    {
+      "id": 16,
+      "french": "Des Groenlands et des Norvèges\nVient-elle avec Séraphita ?\nEst-ce la Madone des neiges,\nUn sphinx blanc que l'hiver sculpta,",
+      "provisionalTranslation": "グリーンランドとノルウェーから\nセラフィタとともに来るのか？\n雪の聖母なのか、\n冬が彫った白いスフィンクス、"
+    },
+    {
+      "id": 17,
+      "french": "Sphinx enterré par l'avalanche,\nGardien des glaciers étoilés,\nEt qui, sous sa poitrine blanche,\nCache de blancs secrets gelés ?",
+      "provisionalTranslation": "雪崩に埋もれたスフィンクス、\n星の氷河の守護者、\nそして白い胸の下に\n凍った白い秘密を隠す者なのか？"
+    },
+    {
+      "id": 18,
+      "french": "Sous la glace où calme il repose,\nOh ! qui pourra fondre ce cœur !\nOh ! qui pourra mettre un ton rose\nDans cette implacable blancheur !",
+      "provisionalTranslation": "静かに憩う氷の下に、\nああ！誰がこの心を溶かせるのか！\nああ！誰がこの容赦なき白さの中に\nひとかけらの薔薇色を注げるのか！"
+    }
+  ]
+}

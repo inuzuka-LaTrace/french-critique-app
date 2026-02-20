@@ -71,7 +71,7 @@ export default function App() {
     valery:                     { name: 'ヴァレリー' },
     valmore:                    { name: 'ヴァルモール' },
     vanlerberghe:               { name: 'ヴァン・レルベルグ' },
-    verlaine:                   { name: 'ヴェルレーヌ批評' }
+    verlaine_critique:          { name: 'ヴェルレーヌ批評' }
   };
 
   // カテゴリーで絞り込み後、さらに検索クエリで絞り込む
@@ -199,7 +199,7 @@ export default function App() {
     valery:                  'ヴァレリー',
     valmore:                 'ヴァルモール',
     vanlerberghe:            'ヴァン・レルベルグ',
-    verlaine:                'ヴェルレーヌ批評',
+    verlaine_critique:       'ヴェルレーヌ批評',
   };
 
   const authorColor = (cat) => {

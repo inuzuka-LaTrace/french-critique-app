@@ -1,0 +1,131 @@
+{
+  "id": "baudelaire_gautier",
+  "title": "Théophile Gautier",
+  "author": "Charles Baudelaire",
+  "source": "L'Artiste, 1858 / Théophile Gautier, 1859",
+  "year": "1859",
+  "firstPublication": "L'Artiste, 13 mars 1859",
+  "difficulty": "上級",
+  "category": "baudelaire_aesthetics",
+  "modernRelevance": "★★★★★",
+  "context": "1859年、ボードレールは詩人テオフィル・ゴーティエに捧げた長篇評論を発表した。『悪の華』初版（1857年）の献辞に「完全な詩人」と称えたゴーティエへの賛辞は、同時にボードレール自身の詩学——「芸術のための芸術」の批判的継承と超克——を宣言する場となっている。詩人の使命・想像力・言語の魔術・美の本質について展開される議論は、象徴主義の理論的礎石のひとつとして広く読まれてきた。",
+  "keywords": ["詩人", "想像力", "芸術のための芸術", "言語", "美", "ゴーティエ", "形式", "文体"],
+  "relatedTexts": [
+    "baudelaire_romantisme_complet",
+    "baudelaire_delacroix_1",
+    "baudelaire_peintre_4",
+    "verlaine_poetes_maudits_mallarme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Il y a des hommes qui tiennent de la nature le droit imprescriptible à eux-mêmes, qui ont reçu de la Providence une âme si particulière, si originale, si complexe, si riche, qu'elle est presque à elle seule l'équivalent de tout un peuple. Théophile Gautier est un de ces hommes.",
+      "provisionalTranslation": "天性によって、みずからに対する譲渡不可能な権利を持って生まれてきた人間たちがいる。摂理から、それだけでほとんど民族全体に匹敵するほど特異で、独創的で、複雑で、豊かな魂を授けられた人間たちが。テオフィル・ゴーティエは、そのような人間のひとりである。"
+    },
+    {
+      "id": 2,
+      "french": "La création de Théophile Gautier est immense. Quelques-uns de ceux qui liront ces lignes sont peut-être tentés de sourire, comparant l'étendue de son œuvre avec l'étroitesse de son ambition apparente. Ne soyons pas dupes des apparences. L'artiste qui se voue exclusivement au beau n'abdique pas pour cela la profondeur ; il la cache, voilà tout.",
+      "provisionalTranslation": "テオフィル・ゴーティエの創作は広大である。これを読む人のなかには、その仕事の広がりと表向きの野心の狭さを比べて、苦笑いしたくなる者もあるかもしれない。しかし見かけに惑わされてはならない。美にのみ身を捧げた芸術家は、だからといって深みを放棄するのではない。ただそれを隠しているにすぎない。"
+    },
+    {
+      "id": 3,
+      "french": "La poésie est ce qu'il y a de plus réel, c'est ce qui n'est complètement vrai que dans un autre monde. Ce monde-ci, dictionnaire hiéroglyphique, doit être traduit. C'est à travers les réseaux du beau que peut transpirer la profondeur.",
+      "provisionalTranslation": "詩とは最も実在的なものである。それは別の世界においてのみ完全に真であるものだ。この世界は象形文字の辞書であり、翻訳されなければならない。美の網目を通してのみ、深みは滲み出ることができる。"
+    },
+    {
+      "id": 4,
+      "french": "Puisque tous les siècles et tous les peuples ont leur beauté, nous en avons inévitablement la nôtre. C'est là un ordre de considérations que Théophile Gautier, artiste absolu, a souvent développé. Il sait que la beauté actuelle et particulière est le sceau qu'imprime sur ses productions médiocres ou non la destinée inévitable.",
+      "provisionalTranslation": "あらゆる時代とあらゆる民族がみずからの美を持つのだから、私たちもまた必然的にみずからの美を持つ。これは、絶対的芸術家たるテオフィル・ゴーティエがしばしば展開してきた考察の順序である。彼は知っている——現在的で特殊な美こそが、良し悪しを問わずその時代の産物に、不可避な運命が押し刻む刻印なのだということを。"
+    },
+    {
+      "id": 5,
+      "french": "Qu'est-ce que le poète (je prends le mot dans son acception la plus large) sans l'imagination ? C'est un scribe. Et l'imagination qui n'est pas guidée par quelque art fort est une folie sans profit. Théophile Gautier possède souverainement l'art d'écrire.",
+      "provisionalTranslation": "想像力なき詩人は（私はこの語を最も広い意味で用いる）何者か？ただの書記にすぎない。そして何らかの強固な技芸によって導かれない想像力は、実りなき狂気である。テオフィル・ゴーティエは書くことの技芸を、至高の形で持ち備えている。"
+    },
+    {
+      "id": 6,
+      "french": "Un sentiment profond, inné, de la correspondance et du symbolisme universels. Cela veut dire, pour nous exprimer plus clairement, qu'il sait parfaitement et toujours comment agencer les couleurs, les sons, les parfums, les idées, les formes, dans cette sorte de magie blanche qui fait la grande poésie.",
+      "provisionalTranslation": "普遍的な照応とシンボリスムの、深く生得的な感覚。これはより明確に言い表すなら、色と音と香りと観念と形を、偉大な詩を生む白魔術とでも呼ぶべきそのやり方で按配する術を、彼が完璧に、かつ常に心得ているということである。"
+    },
+    {
+      "id": 7,
+      "french": "Lui seul a été capable d'écrire quelques vers que l'on peut appeler philosophiques, dans le sens le plus haut et le plus sévère du mot, sans pour cela quitter ni le rythme, ni la rime, ni la grâce naturelle du style. Ces vers sont admirables, parce qu'ils sont le produit d'une âme qui, profondément sensuelle et sensible, s'est élevée jusqu'à la philosophie par l'amour intense et passionné de la beauté.",
+      "provisionalTranslation": "彼だけが、この語の最も高度かつ厳格な意味における哲学的と呼びうる詩句を、しかもリズムも韻も文体の自然な優雅さも手放さずに書くことができた。これらの詩句が賞賛に値するのは、深く官能的で感受性豊かな魂が、美への強烈で情熱的な愛によって哲学にまで高まった所産だからである。"
+    },
+    {
+      "id": 8,
+      "french": "Il croit — et c'est en cela qu'il est un poète — que la distinction entre art et utilité est radicale et profonde ; que la beauté n'a pas besoin d'être utile pour être belle ; que l'utilité, d'ailleurs, ne dégoûte pas nécessairement de la beauté.",
+      "provisionalTranslation": "彼は信じている——そしてそこにこそ彼が詩人たる所以があるのだが——芸術と実用の区別は根本的かつ深いものだと。美は美であるために有用である必要はない。また有用性は必ずしも美への嫌悪をもたらすものではない、と。"
+    },
+    {
+      "id": 9,
+      "french": "Comme tous les poètes, il est surtout amoureux de la beauté. Et dans la beauté, il est surtout épris de la beauté plastique. Il la cherche partout : dans les musées, dans les rues, dans les ateliers, dans la nature, et, pour qu'on ne s'y trompe pas, il l'a proclamé lui-même. Il aime la marbre, il aime les étoffes, il aime les couleurs, et il a le sens de l'harmonie et du style.",
+      "provisionalTranslation": "すべての詩人がそうであるように、彼は何よりも美に恋している。そして美のなかでも、とりわけ造形的な美に魅了されている。彼はそれをいたるところに探し求める——美術館に、街路に、アトリエに、自然のなかに。そしてそれが誤解されないよう、彼自身がそれを宣言してきた。彼は大理石を愛し、布地を愛し、色彩を愛する。そして彼は調和と文体の感覚を持っている。"
+    },
+    {
+      "id": 10,
+      "french": "Il y a des esprits qui, du côté de la nature physique, ne peuvent jamais s'élever plus haut que la surface des choses. Il y en a d'autres qui fouillent l'intérieur et qui n'aperçoivent que les mécanismes. Théophile Gautier possède un sens particulier qui lui permet de percevoir, quand et comme il lui plaît, le charme mystérieux de la surface et le sens caché de la profondeur.",
+      "provisionalTranslation": "物質的自然のある面に関して、ものの表面より高くは決して昇れない精神たちがいる。内部を掘り下げて仕組みしか見えない精神たちもいる。テオフィル・ゴーティエには、彼が望む時に望む形で、表面の神秘的な魅力と深みの隠された意味とを同時に感知させる特別な感覚が備わっている。"
+    },
+    {
+      "id": 11,
+      "french": "Sa poésie est toujours saine. Elle plaît et elle plaira longtemps, parce qu'elle puise ses forces dans des régions où l'homme en général est peu aventuré. Elle est à la fois légère et profonde, plastique et musicale, précise et rêveuse. C'est la plus haute ambition que puisse se proposer un artiste : être en même temps coloriste et musicien.",
+      "provisionalTranslation": "彼の詩は常に健全である。それは喜ばれており、また長く喜ばれ続けるだろう。なぜなら、人間が一般的にはほとんど踏み込まない領域から力を汲み取っているからである。それは同時に軽やかで深く、造形的で音楽的であり、明確で夢想的でもある。芸術家が自らに課しうる最高の野心とはこれである——同時に色彩家であり音楽家であること。"
+    },
+    {
+      "id": 12,
+      "french": "Certaines gens ont prétendu que Théophile Gautier, en s'enfermant trop dans l'amour exclusif du Beau, s'était condamné à ne pas exprimer les passions et les souffrances de l'humanité. C'est là une erreur grave et facile à réfuter.",
+      "provisionalTranslation": "テオフィル・ゴーティエが美への排他的な愛に閉じこもることで、人類の情熱と苦悩を表現することを自ら断念してしまった、と主張する人々がいる。これは重大な誤りであり、容易に反論できる。"
+    },
+    {
+      "id": 13,
+      "french": "La passion, l'art, la douleur, l'enthousiasme, peuvent se résumer en un seul mot : l'intensité. Or ce caractère d'intensité se rencontre universellement dans les œuvres de Gautier. Il est la chose la plus difficile à feindre ; c'est lui qui fait que les vrais chefs-d'œuvre résistent au temps.",
+      "provisionalTranslation": "情熱、芸術、苦痛、熱狂——これらはひとつの言葉に集約できる。強度、である。さてこの強度という特性は、ゴーティエの作品において普遍的に見出される。強度は偽ることの最も難しいものであり、真の傑作を時の侵食に耐えさせるのはまさにこの強度なのだ。"
+    },
+    {
+      "id": 14,
+      "french": "La nature des poètes, — des vrais poètes, — est si étrange, si complexe, si intérieure, si mystérieuse même pour eux, que les hommes du monde ne peuvent pas les juger ; ils ne peuvent pas même les comprendre. La supériorité des poètes est faite d'une accumulation de dons si divers, si difficiles à apprécier séparément, que l'admiration naïve du vulgaire s'arrête d'ordinaire à l'une des qualités les moins essentielles.",
+      "provisionalTranslation": "詩人の——真の詩人の——本質とは、あまりに奇妙で複雑で内面的で、詩人自身にとってさえ神秘的なため、世俗の人々には彼らを裁くことができない。理解することさえできないのだ。詩人の優越性は、あまりに多様で個々には評価し難い才能の蓄積から成っているため、俗衆の素朴な賞賛は通常、最も本質的でない資質のひとつで止まってしまう。"
+    },
+    {
+      "id": 15,
+      "french": "Le beau est toujours étonnant. Il est absurde de supposer que ce qui est beau n'est pas voulu. Aussi, quand vous lisez dans un poème des vers admirables et sonores, riches d'images magnifiques, ne vous hâtez pas de dire : cela est fortuit. Ce qui est fortuit n'est pas beau. Ce qui est beau est toujours le résultat d'une intention.",
+      "provisionalTranslation": "美は常に驚異的である。美しいものが意図されたものでないと仮定するのは不条理である。だから、詩のなかに荘重で響き渡り、壮麗なイマージュに満ちた詩句を読むとき、急いで「これは偶然だ」と言ってはならない。偶然的なものは美しくない。美しいものは常に意図の結果である。"
+    },
+    {
+      "id": 16,
+      "french": "Je veux parler de sa prodigieuse faculté d'absorption. Autant les grandes âmes sont avides d'apprendre, autant les petites ont peur. Gautier a tout absorbé : les littératures étrangères, les sciences annexes des arts, la philosophie de l'art, l'histoire, les voyages, — et tout cela sans effort apparent, avec l'aisance d'un homme qui respire.",
+      "provisionalTranslation": "私が言いたいのは、彼の驚異的な吸収能力についてである。偉大な魂が学ぼうとする熱望の強さは、小さな魂の恐怖の強さに等しい。ゴーティエはすべてを吸収した——外国文学、芸術の諸補助学、芸術哲学、歴史、旅——すべてを、目立った苦労もなく、息をする人間の気軽さで。"
+    },
+    {
+      "id": 17,
+      "french": "Gautier est un écrivain d'une immense intelligence innée, laquelle s'est heureusement développée au contact de l'érudition. Son style est ample, souple, sûr, précis, lumineux. Ces qualités sont inséparables, et elles toutes résultent d'une application constante et d'un respect religieux pour sa propre langue.",
+      "provisionalTranslation": "ゴーティエは、博識との接触によって幸いにも発展した巨大な生得的知性を持つ作家である。彼の文体は豊かで、柔軟で、確実で、正確で、明晰である。これらの資質は不可分であり、すべてが絶え間ない努力と自国語への宗教的な敬意から生まれる。"
+    },
+    {
+      "id": 18,
+      "french": "Je ne comprends pas qu'une main pure puisse toucher, sans une espèce de frémissement, une langue dans laquelle toutes les aspirations humaines ont été si magnifiquement formulées. Car la langue française est, avant tout, l'instrument d'un peuple logicien, amoureux de précision et de fini.",
+      "provisionalTranslation": "人類のあらゆる渇望がかくも壮麗に定式化されてきた言語に、ある種の戦慄なしに純粋な手が触れうるとは、私には理解できない。なぜならフランス語とは何よりもまず、論理を好む民族の、精確さと完結性を愛する民族の、道具だからである。"
+    },
+    {
+      "id": 19,
+      "french": "Le poète est, dans le sens le plus étroit, le plus précis du mot, producteur. Il produit des sensations, des images, des idées. Mais comme ces productions ne peuvent jamais être que l'expression de son génie propre, elles doivent porter le cachet particulier de son esprit. C'est ce que Gautier a toujours fait. Son œuvre est, avant tout, personnelle.",
+      "provisionalTranslation": "詩人は、この語の最も厳密で最も精確な意味において、産出者である。彼は感覚を、イマージュを、観念を産出する。しかしこれらの産出物は、彼固有の天才の表現であるしかないため、彼の精神の特殊な刻印を帯びていなければならない。これこそゴーティエが常にやってきたことである。彼の作品は何よりもまず、個人的なものだ。"
+    },
+    {
+      "id": 20,
+      "french": "L'imagination est la reine des facultés. C'est elle qui fait l'artiste, le poète, le romancier, le peintre. Elle tient une place immense dans la philosophie de l'art. Sans elle, toutes les autres facultés sont comme des servantes sans maîtresse, des forces exercées sans but.",
+      "provisionalTranslation": "想像力は諸能力の女王である。芸術家を、詩人を、小説家を、画家を作るのは想像力である。芸術の哲学において、それは計り知れない位置を占める。想像力なしには、他のすべての能力は主人のいない召使いのようなもの、目的なく行使される力にすぎない。"
+    },
+    {
+      "id": 21,
+      "french": "Combien faut-il que soit grand un poète, pour que tant de critiques aient pu si longtemps se tromper sur lui, sans même le soupçonner ? Sa gloire est faite, maintenant, d'une façon définitive. Elle ne peut plus être battue en brèche que par ces esprits perpétuellement en retard que l'on nomme, dans le langage vulgaire, les esprits sérieux.",
+      "provisionalTranslation": "これほど多くの批評家たちが、それとも気づかずに、これほど長い間誤り続けることができたとは、この詩人がいかに偉大でなければならないか。彼の栄光は今や確定した形で出来上がっている。もはやそれを崩せるのは、俗語で真面目な精神と呼ばれる、永遠に遅れをとっている精神たちだけだ。"
+    },
+    {
+      "id": 22,
+      "french": "Pour finir, je dirai que Théophile Gautier est non seulement un poète parfait mais encore un écrivain universel. Il a abordé presque tous les genres, et dans tous il a laissé une empreinte indélébile. Mais c'est surtout comme poète qu'il doit être révéré. C'est comme poète qu'il survivra.",
+      "provisionalTranslation": "結びに私は言おう、テオフィル・ゴーティエは完全な詩人であるのみならず、普遍的な書き手でもあると。彼はほぼあらゆるジャンルに取り組み、すべてにおいて消えない刻印を残した。しかし詩人としてこそ、何よりも彼は崇敬されなければならない。詩人としてこそ、彼は生き残るであろう。"
+    }
+  ]
+}

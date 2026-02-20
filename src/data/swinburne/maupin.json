@@ -1,0 +1,33 @@
+{
+  "id": "swinburne_maupin_sonnet",
+  "title": "Sonnet (with a Copy of Mademoiselle de Maupin)",
+  "author": "Algernon Charles Swinburne",
+  "source": "Poems and Ballads, Second Series",
+  "year": "1878",
+  "firstPublication": "Poems and Ballads, Second Series (Chatto & Windus, 1878)",
+  "difficulty": "上級",
+  "category": "swinburne",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "ゴーティエの小説『モーパン嬢』（1835）を友人に贈る際に添えられたソネット。「これは精神と感覚の黄金の書、美の聖典」という書き出しは、ゴーティエを象徴主義の原典的テクストの作者として位置づけるとともに、美とは「密な生の薄暗い空気」のなかで「求め、見つけ、そして失う」ものだという逆説的な認識論を提示する。後半の「未達の欲望の未知の神への祭壇の火のように魂が燃える」というイメージは、ボードレール「美」の冷たく石のような神とは正反対の、燃焼する形而上的美の欲望を示す。「ヴェールを被った神の顔は二度と露わにされない」という最終行は、マラルメの「空虚」——詩は何かを指し示すが、その何かは常に不在のまま——と同一の詩学的立場を宣言する。スウィンバーン、ゴーティエ、マラルメ、ワイルドという象徴主義の連鎖を一篇のソネットで可視化するテクスト。本アプリに収録されたゴーティエとワイルドの詩群への最も直接的な「批評的注釈」として機能する。",
+  "keywords": ["ゴーティエへの献辞", "美の神学", "芸術のための芸術", "ソネット", "未達の欲望", "象徴主義宣言"],
+  "relatedTexts": [
+    "baudelaire_gautier",
+    "gautier_l_art",
+    "wilde_theoretikos",
+    "wilde_helas",
+    "mallarme_poetics"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "This is the golden book of spirit and sense,\nThe holy writ of beauty; he that wrought\nMade it with dreams and faultless words and thought\nThat seeks and finds and loses in the dense\nDim air of life that beauty's excellence\nWherewith love makes one hour of life distraught\nAnd all hours after follow and find not aught.",
+      "provisionalTranslation": "これは精神と感覚の黄金の書、\n美の聖典；それを作った者は\n夢と完璧な言葉と思索で作った——\n生の密な薄暗い空気のなかで美の卓越を\n求め、見つけ、そして失う思索で、\n愛がもって生の一時間を狂わせ\nそれ以後のすべての時間が追い求めても何も見つけない卓越を。"
+    },
+    {
+      "id": 2,
+      "originalText": "Here is that height of all love's eminence\nWhere man may breathe but for a breathing-space\nAnd feel his soul burn as an altar-fire\nTo the unknown God of unachieved desire,\nAnd from the middle mystery of the place\nWatch lights that break, hear sounds as of a quire,\nBut see not twice unveiled the veiled God's face.",
+      "provisionalTranslation": "ここにあるのはすべての愛の卓越の高みで、\nそこで人は一瞬の間だけ息をすることができ、\n未達の欲望の未知の神への\n祭壇の火のように魂が燃えるのを感じ、\nその場所の中心の神秘から\n砕け散る光を見、聖歌隊のような音を聞く、\nしかしヴェールを被った神の顔が露わにされるのを二度と見ることはない。"
+    }
+  ]
+}

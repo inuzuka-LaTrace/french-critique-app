@@ -1,1 +1,1 @@
-# french-critique-app
+# modern-text-parallel-tranlation

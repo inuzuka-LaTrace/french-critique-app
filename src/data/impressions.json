@@ -1,0 +1,51 @@
+{
+  "id": "wilde_impressions",
+  "title": "Impressions: I. Les Silhouettes / II. La Fuite de la Lune",
+  "author": "Oscar Wilde",
+  "source": "Poems (1881) — Flowers of Gold",
+  "year": "1881",
+  "firstPublication": "PAN, 23 April 1881; Poems (David Bogue, 1881)",
+  "difficulty": "初級",
+  "category": "wilde",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "「印象派」という名を冠した二部作で、ともに夜の海辺と月を描く。1881年4月23日、雑誌『PAN』に初出。詩集『Poems』（1881年）の「Flowers of Gold」セクションに収録。\n\nI. Les Silhouettes（シルエット）は4行連×3連構成。灰色の縞模様が走る海、死んだ風、嵐の湾を枯れ葉のように吹き飛ばされる月——という暗鬱な背景に、砂浜の黒い舟と無邪気に乗り込む水夫の少年、そして丘の稜線を横切るシルエットとなった刈人たちが対比される。タイトルの「シルエット」が示すとおり、詩全体が暗い輪郭線だけで描かれる版画（エッチング）のような印象詩。\n\nII. La Fuite de la Lune（月の逃亡）は4行連×3連構成。外界の静寂を描く第1連、孤独な鳥の鳴き声だけが響く第2連ののち、突然月が鎌状の刃を空から引っ込めて黄色のヴェールに包まれて暗い洞窟へと逃げ去る第3連——と静から動へ転換する。タイトルの「la fuite」は「逃走」「出奔」を意味し、月の消え去りを擬人化する。\n\n両詩ともにホイッスラーの「ノクターン」連作（夜の海・川の印象的画面）との深い共鳴がある。ワイルドの初期詩に特徴的な「瞬間の印象」の凝縮と、フランス象徴派のエクフラシス的手法が融合した小品。",
+  "keywords": ["印象派", "夜の海", "シルエット", "月", "ホイッスラー", "エッチング", "静寂"],
+  "relatedTexts": [
+    "wilde_sphinx",
+    "wilde_magdalen_walks",
+    "mallarme_poetics"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "I. LES SILHOUETTES\n\nThe sea is flecked with bars of grey,\nThe dull dead wind is out of tune,\nAnd like a withered leaf the moon\nIs blown across the stormy bay.",
+      "provisionalTranslation": "I. シルエット\n\n海は灰色の縞で斑になり、\n鈍く死んだ風は音程を外れ、\n月は枯れた葉のように\n嵐の湾を吹き飛ばされてゆく。"
+    },
+    {
+      "id": 2,
+      "originalText": "Etched clear upon the pallid sand\nThe black boat lies: a sailor boy\nClambers aboard in careless joy\nWith laughing face and gleaming hand.",
+      "provisionalTranslation": "青ざめた砂の上にくっきりと刻まれ\n黒い舟が横たわる：一人の水夫の少年が\n無邪気な喜びで乗り込んでいく\n笑う顔と輝く手とともに。"
+    },
+    {
+      "id": 3,
+      "originalText": "And overhead the curlews cry,\nWhere through the dusky upland grass\nThe young brown-throated reapers pass,\nLike silhouettes against the sky.",
+      "provisionalTranslation": "そして頭上でチドリが鳴く、\n薄暗い高地の草を通り抜けて\n若い褐色の喉をした刈人たちが過ぎてゆく、\n空を背にしたシルエットのように。"
+    },
+    {
+      "id": 4,
+      "originalText": "II. LA FUITE DE LA LUNE\n\nTo outer senses there is peace,\nA dreamy peace on either hand,\nDeep silence in the shadowy land,\nDeep silence where the shadows cease.",
+      "provisionalTranslation": "II. 月の逃亡\n\n外界の感覚には平和がある、\n両側にある夢うつつの平和、\n影の国の深い静寂、\n影が消えるところの深い静寂。"
+    },
+    {
+      "id": 5,
+      "originalText": "Save for a cry that echoes shrill\nFrom some lone bird disconsolate;\nA corncrake calling to its mate;\nThe answer from the misty hill.",
+      "provisionalTranslation": "ただ甲高く響き渡る一声を除いて\n孤独な嘆きの鳥から；\n番を求めて鳴くクイナの声；\n霧の丘からの返答。"
+    },
+    {
+      "id": 6,
+      "originalText": "And suddenly the moon withdraws\nHer sickle from the lightening skies,\nAnd to her sombre cavern flies,\nWrapped in a veil of yellow gauze.",
+      "provisionalTranslation": "そして突然月は引っ込める\n鎌を明るみはじめる空から、\nそして己が薄暗い洞窟へと飛び去る、\n黄色いガーゼのヴェールに包まれて。"
+    }
+  ]
+}

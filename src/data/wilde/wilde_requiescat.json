@@ -1,0 +1,47 @@
+{
+  "id": "wilde_requiescat",
+  "title": "Requiescat",
+  "author": "Oscar Wilde",
+  "source": "Poems",
+  "year": "1881",
+  "firstPublication": "Poems, 1881 (David Bogue, London)",
+  "difficulty": "初級",
+  "category": "wilde",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "「安らかに眠れ」を意味するラテン語の題名を持つ哀歌。1867年に10歳で夭折した妹イソラ・ワイルドへの追悼詩とされる。「軽く踏め、彼女はそこにいる / 雪の下に」という書き出しから「心よ、重い荷を降ろせ、/やさしく、優しく眠れ」という結末まで、完璧なシンプリシテで死者の存在の繊細さを保つ。ヴァルモール夫人の悼詩群との最も直接的な共鳴関係を持つワイルドの詩であり、「雛菊が育つのを聞くことができる」という感覚の超越は、ヴァン・レルベルグの死の詩「La Mort」に通じる。マラルメの「墓碑詩」シリーズとも並列して読むことができる死の詩学の英語圏における結晶。",
+  "keywords": ["哀歌", "妹への追悼", "死", "シンプリシテ", "短詩", "記憶"],
+  "relatedTexts": [
+    "valmore_separees",
+    "vanlerberghe_la_mort",
+    "wilde_helas",
+    "verlaine_poetes_maudits_valmore"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Tread lightly, she is near\nUnder the snow,\nSpeak gently, she can hear\nThe daisies grow.",
+      "provisionalTranslation": "軽く踏め、彼女はそこにいる\n雪の下に、\n優しく語れ、彼女には聞こえる\n雛菊が育つのが。"
+    },
+    {
+      "id": 2,
+      "originalText": "All her bright golden hair\nTarnished with rust,\nShe that was young and fair\nFallen to dust.",
+      "provisionalTranslation": "あの輝く金色の髪も\n錆に汚れ、\n若く美しかった彼女は\n塵と帰した。"
+    },
+    {
+      "id": 3,
+      "originalText": "Lily-like, white as snow,\nShe hardly knew\nShe was a woman, so\nSweetly she grew.",
+      "provisionalTranslation": "百合のように、雪のように白く、\n彼女はほとんど知らなかった\n自分が女であることを、それほどに\n甘やかに育った。"
+    },
+    {
+      "id": 4,
+      "originalText": "Coffin-board, heavy stone,\nLie on her breast,\nI vex my heart alone,\nShe is at rest.",
+      "provisionalTranslation": "棺の板よ、重い石よ、\n彼女の胸の上に横たわれ、\nわたしひとりが心を悩ます、\n彼女は安らっているのに。"
+    },
+    {
+      "id": 5,
+      "originalText": "Peace, peace, she cannot hear\nLyre or sonnet,\nAll my life's buried here,\nHeap earth upon it.",
+      "provisionalTranslation": "平和を、平和を、彼女には聞こえない\n竪琴もソネットも、\nわたしの生のすべてはここに埋もれている、\n土を積み重ねよ、その上に。"
+    }
+  ]
+}

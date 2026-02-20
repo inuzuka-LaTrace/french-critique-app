@@ -1,0 +1,36 @@
+{
+  "id": "wilde_to_my_wife",
+  "title": "To My Wife: With a Copy of My Poems",
+  "author": "Oscar Wilde",
+  "source": "Poems (1881) / Uncollected Poems",
+  "year": "1885",
+  "firstPublication": "Uncollected Poems (Methuen Uniform Edition, 1908)",
+  "difficulty": "初級",
+  "category": "wilde",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "コンスタンス・ロイドとの結婚（1884年）の翌年頃に書かれ、自分の詩集を妻に贈る際に添えた献呈詩。1881年の詩集刊行時には収録されず、ワイルド没後の1908年メシュン版統一全集の「未収録詩篇」として初めて活字になった。詩は3連（各4行）の極めて簡素な形式をとり、ワイルドには珍しい装飾を排した率直な愛の言葉で書かれている。詩集の詩句を「落ちた花びら」に、冬の荒涼とした大地を「愛のない土地」に譬え、詩が庭の記憶を冬にも囁き続けるという比喩で結ばれる。1884年から始まるワイルドの結婚生活は当初幸福なものだったが、1895年の逮捕・投獄後にコンスタンスは離婚を余儀なくされた。この詩に後から「そして何もする必要はない / ただもう一度口付けして別れるだけだ…／一つの世界は二人には足りなかった / わたしのような者とあなたのような者には」という連を付け加えて読む伝承があるが、これは別人による後世の付加とされる。詩の短さと簡明さが、ワイルドの詩的才能の別の側面——過剰を排した純粋な感情表現——を示している。",
+  "keywords": ["コンスタンス", "献呈詩", "詩と愛", "冬と庭", "花びら", "結婚"],
+  "relatedTexts": [
+    "wilde_magdalen_walks",
+    "valmore_separees",
+    "valmore_adieu"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "I can write no stately proem\nAs a prelude to my lay;\nFrom a poet to a poem\nI would dare to say.",
+      "provisionalTranslation": "わたしは格調ある序章を書けない\n詩へのまえがきとして；\n詩人から詩へ\nあえて言うとすれば。"
+    },
+    {
+      "id": 2,
+      "originalText": "For if of these fallen petals\nOne to you seem fair,\nLove will waft it till it settles\nOn your hair.",
+      "provisionalTranslation": "この落ちた花びらのうち\n一枚でもあなたに美しく見えるなら、\n愛がそれを運んで\nあなたの髪の上に降り落とすだろう。"
+    },
+    {
+      "id": 3,
+      "originalText": "And when wind and winter harden\nAll the loveless land,\nIt will whisper of the garden,\nYou will understand.",
+      "provisionalTranslation": "そして風と冬が\n愛のない土地をすべて硬くする時、\nそれは庭のことを囁くだろう、\nあなたにはわかるはずだ。"
+    }
+  ]
+}

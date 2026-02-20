@@ -1,0 +1,67 @@
+{
+  "id": "swinburne_year_of_the_rose",
+  "title": "The Year of the Rose",
+  "author": "Algernon Charles Swinburne",
+  "source": "Poems and Ballads, Second Series",
+  "year": "1878",
+  "firstPublication": "Poems and Ballads, Second Series (Chatto & Windus, 1878)",
+  "difficulty": "中級",
+  "category": "swinburne",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "薔薇の季節の短さと愛の時間の短さを重ね合わせる象徴的な抒情詩。9連構成で、それぞれが「薔薇色の土地での薔薇の支配」というモチーフを変奏する。詩の大きな構造は三つの運動からなる：前半の女神（ヴィーナス）の北方への到来と薔薇の盛り（1–6連）、転換としての衰退（7連）、そして恋人たちの時間の短さと愛の消滅（8–9連）。特徴的なのは8行連の最後2行が繰り返し「薔薇色の土地」へと帰還する円環構造で、薔薇の盛りと衰退を音楽的に反復する。同じ詩集に収められた「A Forsaken Garden」が廃園を通じて愛の消滅を描くのに対し、この詩は季節の循環という自然の時間の中に愛の時間を溶かし込む。スウィンバーンが好んだ弱強格の柔らかい律動と、「薔薇」「葉」「息」「死」の連鎖が詩全体を密に結びつけている。",
+  "keywords": ["薔薇", "愛の短さ", "季節の循環", "女神", "時間", "北方と南方"],
+  "relatedTexts": [
+    "swinburne_forsaken_garden",
+    "swinburne_ballad_dreamland",
+    "valmore_roses",
+    "vanlerberghe_rosier_mystique"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "From the depths of the green garden-closes\nWhere the summer in darkness dozes\nTill autumn pluck from his hand\nAn hour-glass that holds not a sand;\nFrom the maze that a flower-belt encloses\nTo the stones and sea-grass on the strand\nHow red was the reign of the roses\nOver the rose-crowned land!",
+      "provisionalTranslation": "緑の庭の奥深くから\n夏が暗闇の中でまどろんでいるところ\n秋が彼の手から取り上げるまで\n砂一粒も残らない砂時計を；\n花の帯に囲まれた迷路から\n岸辺の石と海草まで\n薔薇の支配はなんと赤かったことか\n薔薇の冠をいただく土地の上で！"
+    },
+    {
+      "id": 2,
+      "originalText": "The year of the rose is brief;\nFrom the first blade blown to the sheaf,\nFrom the thin green leaf to the gold,\nIt has time to be sweet and grow old,\nTo triumph and leave not a leaf\nFor witness in winter's sight\nHow lovers once in the light\nWould mix their breath with its breath,\nAnd its spirit was quenched not of night,\nAs love is subdued not of death.",
+      "provisionalTranslation": "薔薇の年は短い；\n最初の芽吹きから穂束まで、\n薄い緑の葉から金色まで、\n甘くなり老いる時間はある、\n勝利し、冬の目には\nかつて光の中の恋人たちが\n自分たちの息をその息と混ぜ合わせたことの\n証人となる葉一枚も残さずに；\nそしてその精神は夜に消えなかった、\n愛が死に屈しないように。"
+    },
+    {
+      "id": 3,
+      "originalText": "In the red-rose land not a mile\nOf the meadows from stile to stile,\nOf the valleys from stream to stream,\nBut the air was a long sweet dream\nAnd the earth was a sweet wide smile\nRed-mouthed of a goddess, returned\nFrom the sea which had borne her and burned,\nThat with one swift smile of her mouth\nLooked full on the north as it yearned,\nAnd the north was more than the south.",
+      "provisionalTranslation": "薔薇色の土地では一マイルも\n木戸から木戸への牧草地も、\n流れから流れへの谷も、\n空気は長く甘い夢だった\n大地は女神の赤い口の\n甘く広い微笑みだった、帰ってきた\n彼女を宿して燃えた海から、\nその口の一つの素早い微笑みで\n憧れる北に正面から向かって、\n北は南より豊かだった。"
+    },
+    {
+      "id": 4,
+      "originalText": "For the north, when winter was long,\nIn his heart had made him a song,\nAnd clothed it with wings of desire,\nAnd shod it with shoon as of fire,\nTo carry the tale of his wrong\nTo the south-west wind by the sea,\nThat none might bear it but he\nTo the ear of the goddess unknown\nWho waits till her time shall be\nTo take the world for a throne.",
+      "provisionalTranslation": "北は、冬が長かった時、\n心の中に歌を作り、\n欲望の翼でそれを包み、\n炎のような靴でそれを履かせた、\n自分の不満の物語を運ぶために\n海辺の南西の風へと、\n彼以外の誰も運べないように\n未知の女神の耳へと\n彼女の時が来るまで待っている者、\n世界を玉座とする者の耳へと。"
+    },
+    {
+      "id": 5,
+      "originalText": "In the earth beneath, and above\nIn the heaven where her name is love,\nShe warms with light from her eyes\nThe seasons of life as they rise,\nAnd her eyes are as eyes of a dove,\nBut the wings that lift her and bear\nAs an eagle's, and all her hair\nAs fire by the wind's breath curled,\nAnd her passage is song through the air,\nAnd her presence is spring through the world.",
+      "provisionalTranslation": "地の下にも、上にも\n愛という名で知られる天においても、\n彼女は目からの光で温める\n生の季節を、それが昇るにつれて、\n彼女の目は鳩の目のよう、\nしかし彼女を持ち上げ運ぶ翼は\n鷲のように、そして彼女の髪はすべて\n風の息に巻かれた炎のように、\n彼女の通過は空気を通る歌、\n彼女の存在は世界を通る春。"
+    },
+    {
+      "id": 6,
+      "originalText": "So turned she northward and came,\nAnd the white-thorn land was aflame\nWith the fires that were shed from her feet,\nThat the north, by her love made sweet,\nShould be called by a rose-red name;\nAnd a murmur was heard as of doves,\nAnd a music beginning of loves\nIn the light that the roses made,\nSuch light as the music loves,\nThe music of man with maid.",
+      "provisionalTranslation": "そして彼女は北に向かって来た、\n白い茨の土地は燃えていた\n彼女の足から注がれた炎で、\n彼女の愛によって甘くなった北が\n薔薇色の名で呼ばれるように；\n鳩のようなざわめきが聞こえ、\n愛の始まりの音楽が\n薔薇が作った光の中で、\n音楽が愛するような光の中で、\n男と乙女の音楽が。"
+    },
+    {
+      "id": 7,
+      "originalText": "But the days drop one upon one,\nAnd a chill soft wind is begun\nIn the heart of the rose-red maze\nThat weeps for the roseleaf days\nAnd the reign of the rose undone\nThat ruled so long in the light,\nAnd by spirit, and not by sight,\nThrough the darkness thrilled with its breath,\nStill ruled in the viewless night,\nAs love might rule over death.",
+      "provisionalTranslation": "しかし日々は一つひとつと落ち、\n冷たい柔らかい風が始まる\n薔薇色の迷路の心の中で\n薔薇の葉の日々のために泣いて\n崩れ去った薔薇の支配のために\nあれほど長く光の中で支配した、\nそして精神によって、視覚ではなく、\nその息に震わされた暗闇を通って、\nいまだに見えない夜の中で支配する、\n愛が死の上に支配するように。"
+    },
+    {
+      "id": 8,
+      "originalText": "The time of lovers is brief;\nFrom the fair first joy to the grief\nThat tells when love is grown old,\nFrom the warm wild kiss to the cold,\nFrom the red to the white-rose leaf,\nThey have but a season to seem\nAs roseleaves lost on a stream\nThat part not and pass not apart\nAs a spirit from dream to dream,\nAs a sorrow from heart to heart.",
+      "provisionalTranslation": "恋人たちの時は短い；\n美しい最初の喜びから悲しみまで\n愛が老いたことを告げる悲しみまで、\n暖かく野性的な口付けから冷たい口付けまで、\n赤い薔薇の葉から白い薔薇の葉まで、\n彼らには一つの季節しかない\n流れの上に失われた薔薇の葉のように見える\n離れず別れて過ぎない\n精神が夢から夢へと、\n悲しみが心から心へと。"
+    },
+    {
+      "id": 9,
+      "originalText": "From the bloom and the gloom that encloses\nThe death-bed of Love where he dozes\nTill a relic be left not of sand\nTo the hour-glass that breaks in his hand;\nFrom the change in the grey garden-closes\nTo the last stray grass of the strand,\nA rain and ruin of roses\nOver the red-rose land.",
+      "provisionalTranslation": "愛の死の床を閉ざす\n咲き乱れと薄暗がりから、愛がまどろむ\n彼の手の中で砕ける砂時計に\n砂の欠片一つも残らなくなるまで；\n灰色の庭の奥の変化から\n岸辺の最後の迷い込んだ草まで、\n薔薇の雨と廃墟\n薔薇色の土地の上に。"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "wilde_ave_maria",
+  "title": "Ave Maria Gratia Plena",
+  "author": "Oscar Wilde",
+  "source": "Poems (1881)",
+  "year": "1881",
+  "firstPublication": "Poems (David Bogue, 1881)",
+  "difficulty": "中級",
+  "category": "wilde",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "タイトルはラテン語で「恵みに満ちたマリアよ」——受胎告知の天使の挨拶句（ルカ1:28）から取られた。詩はイタリア旅行中のフィレンツェで書かれ、末尾に「Florence.」と記される。語り手は「受胎告知」を描いた絵画（おそらくフィレンツェのウフィツィ美術館またはサン・マルコ修道院所蔵のフラ・アンジェリコの作品）の前に立ち、最初に期待した神の顕現——ゼウスが黄金の雨となってダナエーに降った神話的場面、あるいはセメレーが神の体を直視して焼かれた場面——とのあまりの落差に驚く。しかし詩の結びで語り手は「愛の最高の神秘」の前に震えて立ち尽くす。ソネット形式（八行詩＋六行詩のイタリア式ソネット）を用い、ギリシャ神話の過激な神性顕現から始まり、キリスト教の静謐な神性顕現（白い鳩の翼）へと転換する構造が詩の核心をなす。ワイルドの宗教的感受性——過剰なギリシャ的欲望とカトリック的神秘主義の緊張——を端的に示す作品として、「E Tenebris」とともによく読まれる。",
+  "keywords": ["受胎告知", "マリア", "ダナエー", "セメレー", "ギリシャとキリスト教", "フィレンツェ", "愛の神秘"],
+  "relatedTexts": [
+    "wilde_sphinx",
+    "baudelaire_romantisme_complet",
+    "mallarme_poetics"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Was this His coming! I had hoped to see\n   A scene of wondrous glory, as was told\n   Of some great God who in a rain of gold\nBroke open bars and fell on Danae:\nOr a dread vision as when Semele\n   Sickening for love and unappeased desire\n   Prayed to see God's clear body, and the fire\nCaught her brown limbs and slew her utterly:",
+      "provisionalTranslation": "これが神の到来だったのか！わたしは目にすることを望んでいた\n　　驚異的な栄光の光景を、語り伝えられていたような、\n　　黄金の雨の中でとある偉大な神が\n檻の扉を壊してダナエーの上に降った時のような；\nあるいはセメレーの時のような恐るべき幻視を\n　　愛と満たされない欲望に病んだ彼女が\n　　神の明らかな体を見ることを祈った時、炎が\n彼女の褐色の手足を捕らえて彼女を完全に殺した："
+    },
+    {
+      "id": 2,
+      "originalText": "With such glad dreams I sought this holy place,\n   And now with wondering eyes and heart I stand\n   Before this supreme mystery of Love:\nSome kneeling girl with passionless pale face,\n   An angel with a lily in his hand,\n   And over both the white wings of a Dove.\n\nFlorence.",
+      "provisionalTranslation": "そのような喜ばしい夢を抱いてわたしはこの聖なる場所を求めた、\n　　そして今、驚きの目と心をもってわたしは立っている\n　　この愛の最高の神秘の前に：\n情熱を持たぬ青ざめた顔をして跪く少女、\n　　百合の花を手に持つ天使、\n　　そして二人の上に白い鳩の翼。\n\nフィレンツェ。"
+    }
+  ]
+}

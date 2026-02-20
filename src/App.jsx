@@ -19,6 +19,32 @@ const getOriginalText = (para) =>
 const getSpeechLang = (textObj) =>
   textObj?.originalLang ?? 'fr-FR';
 
+// 言語ごとの優先音声名リスト（品質の高いものを優先）
+const PREFERRED_VOICES = {
+  'fr': ['Thomas', 'Google français', 'Microsoft Julie', 'Amelie'],
+  'de': ['Anna', 'Google Deutsch', 'Microsoft Hedda'],
+  'en': ['Daniel', 'Google UK English Female', 'Samantha', 'Google US English'],
+};
+
+const getBestVoice = (lang) => {
+  const voices = window.speechSynthesis.getVoices();
+  if (!voices.length) return null;
+  const prefix = lang.split('-')[0];
+  const preferred = PREFERRED_VOICES[prefix] || [];
+  for (const name of preferred) {
+    const v = voices.find(v => v.name.includes(name));
+    if (v) return v;
+  }
+  return voices.find(v => v.lang.startsWith(lang.split('-')[0])) ?? null;
+};
+
+// 読み上げ速度設定
+const SPEECH_RATES = {
+  fast:   { rate: 1.25, label: 'ヒアリング' },
+  normal: { rate: 0.9,  label: '通常' },
+  slow:   { rate: 0.65, label: 'シャドーイング' },
+};
+
 export default function App() {
   const [texts, setTexts] = useState({});
   const [loading, setLoading] = useState(true);
@@ -40,6 +66,7 @@ export default function App() {
   const [collapsedParagraphs, setCollapsedParagraphs] = useState({});
   const [readyToScroll, setReadyToScroll] = useState(null); // テキストIDを保持
   const [speakingId, setSpeakingId] = useState(null); // 'all' or paragraphId
+  const [speechRate, setSpeechRate] = useState('normal');
   const settingsRef = useRef(null);
   const bodyRef = useRef(null); // 本文セクションへのref
 
@@ -49,11 +76,22 @@ export default function App() {
     if (speakingId === id) { setSpeakingId(null); return; }
     const utter = new SpeechSynthesisUtterance(text);
     utter.lang = lang;
-    utter.rate = 0.9;
-    utter.onend = () => setSpeakingId(null);
-    utter.onerror = () => setSpeakingId(null);
-    setSpeakingId(id);
-    window.speechSynthesis.speak(utter);
+    utter.rate = SPEECH_RATES[speechRate]?.rate ?? 0.9;
+    // 高品質音声を優先選択（voices非同期読み込み対策）
+    const assignVoice = () => {
+      const best = getBestVoice(lang);
+      if (best) utter.voice = best;
+      utter.onend = () => setSpeakingId(null);
+      utter.onerror = () => setSpeakingId(null);
+      setSpeakingId(id);
+      window.speechSynthesis.speak(utter);
+    };
+    // voicesがまだ読み込まれていない場合は待機
+    if (window.speechSynthesis.getVoices().length) {
+      assignVoice();
+    } else {
+      window.speechSynthesis.onvoiceschanged = () => { assignVoice(); window.speechSynthesis.onvoiceschanged = null; };
+    }
   };
 
   const speakParagraph = (para, textObj) => {
@@ -350,6 +388,25 @@ export default function App() {
                         className={`py-1.5 px-3 text-xs rounded text-left transition-colors ${fontFamily === val ? 'bg-indigo-600 text-white' : darkMode ? 'bg-gray-800 text-gray-300 hover:bg-gray-700' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}
                       >
                         {label}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+
+                {/* 読み上げ速度 */}
+                <div className="mb-4">
+                  <label className={`text-xs font-medium ${textClass} block mb-2`}>読み上げ速度</label>
+                  <div className="flex flex-col gap-1">
+                    {Object.entries(SPEECH_RATES).map(([key, { label }]) => (
+                      <button
+                        key={key}
+                        onClick={() => setSpeechRate(key)}
+                        className={`py-1.5 px-3 text-xs rounded text-left transition-colors ${speechRate === key ? 'bg-indigo-600 text-white' : darkMode ? 'bg-gray-800 text-gray-300 hover:bg-gray-700' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}
+                      >
+                        {key === 'fast' ? '🎧 ' : key === 'slow' ? '🗣 ' : '▶ '}{label}
+                        <span className={`ml-1 opacity-60 text-xs`}>
+                          {key === 'fast' ? '(1.25x)' : key === 'slow' ? '(0.65x)' : '(0.9x)'}
+                        </span>
                       </button>
                     ))}
                   </div>

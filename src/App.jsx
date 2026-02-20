@@ -29,7 +29,9 @@ export default function App() {
   const [searchQuery, setSearchQuery] = useState('');
   const [showSettings, setShowSettings] = useState(false);
   const [collapsedParagraphs, setCollapsedParagraphs] = useState({});
+  const [readyToScroll, setReadyToScroll] = useState(null); // テキストIDを保持
   const settingsRef = useRef(null);
+  const bodyRef = useRef(null); // 本文セクションへのref
 
   useEffect(() => {
     const allTexts = {
@@ -74,17 +76,21 @@ export default function App() {
     verlaine_critique:          { name: 'ヴェルレーヌ批評' }
   };
 
-  // カテゴリーで絞り込み後、さらに検索クエリで絞り込む
+  // カテゴリーで絞り込み後、さらに検索クエリで絞り込む（本文テキストも対象）
   const filteredTexts = Object.values(texts)
     .filter(t => selectedCategory === 'all' || t.category === selectedCategory)
     .filter(t => {
       if (!searchQuery.trim()) return true;
       const q = searchQuery.toLowerCase();
-      return (
+      const inMeta =
         t.title?.toLowerCase().includes(q) ||
         t.author?.toLowerCase().includes(q) ||
-        (t.keywords || []).some(k => k.toLowerCase().includes(q))
+        (t.keywords || []).some(k => k.toLowerCase().includes(q));
+      const inBody = (t.paragraphs || []).some(p =>
+        p.french?.toLowerCase().includes(q) ||
+        (p.provisionalTranslation ?? p.officialTranslation ?? '').toLowerCase().includes(q)
       );
+      return inMeta || inBody;
     });
 
   useEffect(() => {
@@ -132,6 +138,27 @@ export default function App() {
     setSelectedText(textId);
     setEditingParagraph(null);
     setCollapsedParagraphs({});
+    setReadyToScroll(null);
+  };
+
+  // vボタンのハンドラ：1回目→変色、2回目→スクロール
+  const handleVButton = (e, textId) => {
+    e.stopPropagation(); // カード選択を妨げない
+    if (readyToScroll === textId) {
+      // 同一テキストが選択済みなら即スクロール
+      if (selectedText === textId) {
+        bodyRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      } else {
+        // テキストを切り替えてからスクロール（少し待つ）
+        handleTextChange(textId);
+        setTimeout(() => {
+          bodyRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }, 80);
+      }
+      setReadyToScroll(null);
+    } else {
+      setReadyToScroll(textId);
+    }
   };
 
   const toggleParagraph = (id) => {
@@ -203,11 +230,12 @@ export default function App() {
   };
 
   const authorColor = (cat) => {
-    if (cat?.startsWith('baudelaire')) return darkMode ? 'bg-amber-900/40 text-amber-300' : 'bg-amber-100 text-amber-800';
-    if (cat?.startsWith('mallarme'))   return darkMode ? 'bg-sky-900/40 text-sky-300'     : 'bg-sky-100 text-sky-800';
-    if (cat?.startsWith('valery'))     return darkMode ? 'bg-rose-900/40 text-rose-300'   : 'bg-rose-100 text-rose-800';
-    if (cat?.startsWith('valmore'))    return darkMode ? 'bg-pink-900/40 text-pink-300'   : 'bg-pink-100 text-pink-800';
+    if (cat?.startsWith('baudelaire'))   return darkMode ? 'bg-amber-900/40 text-amber-300'   : 'bg-amber-100 text-amber-800';
+    if (cat?.startsWith('mallarme'))     return darkMode ? 'bg-sky-900/40 text-sky-300'       : 'bg-sky-100 text-sky-800';
+    if (cat?.startsWith('valery'))       return darkMode ? 'bg-rose-900/40 text-rose-300'     : 'bg-rose-100 text-rose-800';
+    if (cat?.startsWith('valmore'))      return darkMode ? 'bg-pink-900/40 text-pink-300'     : 'bg-pink-100 text-pink-800';
     if (cat?.startsWith('vanlerberghe')) return darkMode ? 'bg-emerald-900/40 text-emerald-300' : 'bg-emerald-100 text-emerald-800';
+    if (cat?.startsWith('verlaine'))     return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
     return darkMode ? 'bg-gray-800 text-gray-300' : 'bg-gray-100 text-gray-700';
   };
 
@@ -353,7 +381,7 @@ export default function App() {
             type="text"
             value={searchQuery}
             onChange={(e) => { setSearchQuery(e.target.value); setSelectedCategory('all'); }}
-            placeholder="タイトル・著者・キーワードで検索..."
+            placeholder="タイトル・著者・本文テキストで検索..."
             className={`w-full rounded-xl border pl-9 pr-9 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all ${inputBg}`}
           />
           {searchQuery && (
@@ -378,39 +406,59 @@ export default function App() {
           ) : (
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
               {filteredTexts.map((text) => (
-                <button
+                <div
                   key={text.id}
-                  onClick={() => handleTextChange(text.id)}
-                  className={`p-3 rounded-lg border text-left transition-all ${
+                  className={`relative rounded-lg border text-left transition-all ${
                     selectedText === text.id
                       ? darkMode
                         ? 'border-indigo-500 bg-indigo-900/30 ring-1 ring-indigo-500'
                         : 'border-indigo-500 bg-indigo-50 ring-1 ring-indigo-400'
                       : darkMode
-                        ? `border-gray-800 hover:border-gray-700 hover:bg-gray-800/50`
-                        : `border-gray-200 hover:border-indigo-300 hover:bg-gray-50`
+                        ? 'border-gray-800 hover:border-gray-700 hover:bg-gray-800/50'
+                        : 'border-gray-200 hover:border-indigo-300 hover:bg-gray-50'
                   }`}
                 >
-                  {/* カテゴリーバッジ */}
-                  <span className={`inline-block text-xs px-2 py-0.5 rounded-full mb-1.5 font-medium ${authorColor(text.category)}`}>
-                    {catShort[text.category] || text.category}
-                  </span>
-                  <h3 className={`font-serif text-sm font-medium ${textClass} leading-snug line-clamp-2`}>
-                    {text.title}
-                  </h3>
-                  <p className={`text-xs ${textSecondary} mt-0.5`}>{text.author}</p>
-                  <div className={`flex items-center gap-2 mt-1.5 text-xs ${textSecondary}`}>
-                    <span>{text.year}</span>
-                    <span>·</span>
-                    <span>{text.paragraphs.length}段落</span>
-                    {text.difficulty && (
-                      <>
-                        <span>·</span>
-                        <span>{text.difficulty}</span>
-                      </>
-                    )}
-                  </div>
-                </button>
+                  {/* カード本体（テキスト選択） */}
+                  <button
+                    onClick={() => handleTextChange(text.id)}
+                    className="w-full p-3 pr-10 text-left"
+                  >
+                    {/* カテゴリーバッジ */}
+                    <span className={`inline-block text-xs px-2 py-0.5 rounded-full mb-1.5 font-medium ${authorColor(text.category)}`}>
+                      {catShort[text.category] || text.category}
+                    </span>
+                    <h3 className={`font-serif text-sm font-medium ${textClass} leading-snug line-clamp-2`}>
+                      {text.title}
+                    </h3>
+                    <p className={`text-xs ${textSecondary} mt-0.5`}>{text.author}</p>
+                    <div className={`flex items-center gap-2 mt-1.5 text-xs ${textSecondary}`}>
+                      <span>{text.year}</span>
+                      <span>·</span>
+                      <span>{text.paragraphs.length}段落</span>
+                      {text.difficulty && (
+                        <>
+                          <span>·</span>
+                          <span>{text.difficulty}</span>
+                        </>
+                      )}
+                    </div>
+                  </button>
+
+                  {/* vボタン：1回目→変色、2回目→本文へスクロール */}
+                  <button
+                    onClick={(e) => handleVButton(e, text.id)}
+                    title={readyToScroll === text.id ? 'もう一度押すと本文へ移動' : '本文へ移動（2回押し）'}
+                    className={`absolute top-2 right-2 w-6 h-6 flex items-center justify-center rounded text-xs font-bold transition-all select-none ${
+                      readyToScroll === text.id
+                        ? 'bg-indigo-500 text-white shadow-md scale-110'
+                        : darkMode
+                          ? 'text-gray-600 hover:text-gray-400'
+                          : 'text-gray-300 hover:text-gray-500'
+                    }`}
+                  >
+                    ∨
+                  </button>
+                </div>
               ))}
             </div>
           )}
@@ -447,7 +495,7 @@ export default function App() {
         </div>
 
         {/* ─── 段落コントロールバー ─────────────────── */}
-        <div className={`rounded-xl border p-3 mb-4 flex flex-wrap items-center justify-between gap-3 ${cardBgClass}`}>
+        <div ref={bodyRef} className={`rounded-xl border p-3 mb-4 flex flex-wrap items-center justify-between gap-3 ${cardBgClass}`}>
           <div className="flex gap-2">
             <button
               onClick={expandAll}
@@ -496,7 +544,7 @@ export default function App() {
                   <div className="flex items-center gap-3 min-w-0">
                     <span className={`text-xs font-mono w-6 shrink-0 ${textSecondary}`}>{para.id}</span>
                     {isCollapsed && showFrench && (
-                      <span className={`text-sm truncate italic ${textClass} ${fontFamily === 'sans' ? '' : 'italic'}`}>
+                      <span className={`text-sm truncate ${textClass}`}>
                         {para.french}
                       </span>
                     )}
@@ -524,7 +572,7 @@ export default function App() {
                         <span className={`text-xs font-semibold px-2 py-0.5 rounded ${darkMode ? 'bg-indigo-900/50 text-indigo-300 border border-indigo-800' : 'bg-indigo-600 text-white'}`}>
                           原文
                         </span>
-                        <p className={`mt-2 leading-relaxed ${textClass} ${fontFamily !== 'sans' ? 'italic' : ''} ${
+                        <p className={`mt-2 leading-relaxed ${textClass} ${
                           fontSize === 'xlarge' ? 'text-2xl' :
                           fontSize === 'large'  ? 'text-xl' :
                           fontSize === 'medium' ? 'text-lg' : 'text-base'

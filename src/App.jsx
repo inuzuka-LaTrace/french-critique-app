@@ -6,6 +6,8 @@ import valmoreData from './data/valmore';
 import vanlerbergheData from './data/vanlerberghe';
 import verlaineData from './data/verlaine';
 import gautierData from './data/gautier';
+import wildeData from './data/wilde';
+import swinburneData from './data/swinburne';
 
 // ユーティリティ：officialTranslation / provisionalTranslation 両対応
 const getTranslation = (para) =>
@@ -123,6 +125,8 @@ export default function App() {
       ...vanlerbergheData,
       ...verlaineData,
       ...gautierData,
+      ...wildeData,
+      ...swinburneData,
     };
     setTexts(allTexts);
     setLoading(false);
@@ -156,7 +160,9 @@ export default function App() {
     valmore:                    { name: 'ヴァルモール' },
     vanlerberghe:               { name: 'ヴァン・レルベルグ' },
     verlaine_critique:          { name: 'ヴェルレーヌ批評' },
-    gautier:                    { name: 'ゴーティエ' }
+    gautier:                    { name: 'ゴーティエ' },
+    wilde:                      { name: 'ワイルド' },
+    swinburne:                  { name: 'スウィンバーン' }
   };
 
   // カテゴリーで絞り込み後、さらに検索クエリで絞り込む（本文テキストも対象）
@@ -311,6 +317,8 @@ export default function App() {
     vanlerberghe:            'ヴァン・レルベルグ',
     verlaine_critique:       'ヴェルレーヌ批評',
     gautier:                 'ゴーティエ',
+    wilde:                   'ワイルド',
+    swinburne:               'スウィンバーン',
   };
 
   const authorColor = (cat) => {
@@ -321,6 +329,8 @@ export default function App() {
     if (cat?.startsWith('vanlerberghe')) return darkMode ? 'bg-emerald-900/40 text-emerald-300' : 'bg-emerald-100 text-emerald-800';
     if (cat?.startsWith('verlaine'))     return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
     if (cat?.startsWith('gautier'))      return darkMode ? 'bg-cyan-900/40 text-cyan-300' : 'bg-cyan-100 text-cyan-800';
+    if (cat?.startsWith('wilde'))        return darkMode ? 'bg-teal-900/40 text-teal-300' : 'bg-teal-100 text-teal-800';
+    if (cat?.startsWith('swinburne'))    return darkMode ? 'bg-indigo-900/40 text-indigo-300' : 'bg-indigo-100 text-indigo-800';
     return darkMode ? 'bg-gray-800 text-gray-300' : 'bg-gray-100 text-gray-700';
   };
 
@@ -332,7 +342,7 @@ export default function App() {
         <div className="max-w-6xl mx-auto px-4 py-3 flex items-center gap-4">
           <div className="flex-1 min-w-0">
             <h1 className={`text-lg font-serif font-semibold ${textClass} truncate`}>
-              近代西洋テクスト対訳
+              近代西洋テクスト対訳集
             </h1>
             <p className={`text-xs ${textSecondary}`}>{Object.keys(texts).length}編収録</p>
           </div>
@@ -783,7 +793,7 @@ export default function App() {
 
         {/* フッター */}
         <div className={`text-center text-xs ${textSecondary} pb-8 space-y-1`}>
-          <p>{Object.keys(texts).length}編収録 · ボードレール · マラルメ · ヴァレリー · ヴァルモール · ヴァン・レルベルグ · ヴェルレーヌ · ゴーティエ</p>
+          <p>{Object.keys(texts).length}編収録 · ボードレール · マラルメ · ヴァレリー · ヴァルモール · ヴァン・レルベルグ · ヴェルレーヌ · ゴーティエ · ワイルド · スウィンバーン</p>
           <p>掲載の日本語訳は学習補助のための試訳であり、確定した翻訳ではありません</p>
         </div>
       </div>

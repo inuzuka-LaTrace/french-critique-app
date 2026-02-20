@@ -1,0 +1,37 @@
+{
+  "id": "wilde_symphony_yellow",
+  "title": "Symphony in Yellow",
+  "author": "Oscar Wilde",
+  "source": "Poems (Uncollected Poems 1876–1893)",
+  "year": "1889",
+  "firstPublication": "The Centennial Magazine (February, 1889)",
+  "difficulty": "初級",
+  "category": "wilde",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "ホイッスラーの「夜想曲」シリーズ（特に「黒と金の夜想曲」1874）から直接着想を得た感覚詩。テムズ川の秋の光景を「黄」という単一の色の変奏として提示し、バスが黄色の蝶のように橋を渡り、霧が黄色い絹のスカーフとして桟橋に垂れ、黄色い葉が散り、最後にテムズ川そのものが「翡翠の杖」となる。ゴーティエ「白のシンフォニー」の構造（単一色調の変奏→謎への収束）をロンドンの都市風景で反復する。マラルメが追求した純粋な感覚の音楽化——詩の意味を消去して音と色のみを残す——に最も近いワイルドの詩。「わたしの足元に」という一人称の出現（第3連）が、それまでの純粋な知覚描写に微妙な主観を導入する。",
+  "keywords": ["色彩詩", "印象主義", "ホイッスラー", "テムズ川", "感覚の交響", "都市詩"],
+  "relatedTexts": [
+    "gautier_symphonie_blanc",
+    "wilde_helas",
+    "wilde_impression_matin",
+    "mallarme_poetics"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "An omnibus across the bridge\nCrawls like a yellow butterfly,\nAnd, here and there, a passer-by\nShows like a little restless midge.",
+      "provisionalTranslation": "橋を渡るバスが\n黄色い蝶のようにのろのろと進み、\nそこかしこ、通行人が\n小さな落ち着きのないブユのように見える。"
+    },
+    {
+      "id": 2,
+      "originalText": "Big barges full of yellow hay\nAre moored against the shadowy wharf,\nAnd, like a yellow silken scarf,\nThe thick fog hangs along the quay.",
+      "provisionalTranslation": "黄色い干し草を満載した大きな荷舟が\n暗い桟橋に繋がれ、\n黄色い絹のスカーフのように、\n濃い霧が埠頭に垂れこめる。"
+    },
+    {
+      "id": 3,
+      "originalText": "The yellow leaves begin to fade\nAnd flutter from the temple elms,\nAnd at my feet the pale green Thames\nLies like a rod of rippled jade.",
+      "provisionalTranslation": "黄色い葉が色褪せはじめ、\n寺院のニレの木から舞い落ちる、\nそしてわたしの足元に、淡い緑のテムズが\n波紋を刻んだ翡翠の杖のように横たわる。"
+    }
+  ]
+}

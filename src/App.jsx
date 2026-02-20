@@ -11,6 +11,14 @@ import gautierData from './data/gautier';
 const getTranslation = (para) =>
   para.provisionalTranslation ?? para.officialTranslation ?? '';
 
+// ユーティリティ：french / originalText 両フィールド対応
+const getOriginalText = (para) =>
+  para.french ?? para.originalText ?? '';
+
+// 言語コード判定（JSONのoriginalLangフィールド優先、なければfr-FR）
+const getSpeechLang = (textObj) =>
+  textObj?.originalLang ?? 'fr-FR';
+
 export default function App() {
   const [texts, setTexts] = useState({});
   const [loading, setLoading] = useState(true);
@@ -31,8 +39,42 @@ export default function App() {
   const [showSettings, setShowSettings] = useState(false);
   const [collapsedParagraphs, setCollapsedParagraphs] = useState({});
   const [readyToScroll, setReadyToScroll] = useState(null); // テキストIDを保持
+  const [speakingId, setSpeakingId] = useState(null); // 'all' or paragraphId
   const settingsRef = useRef(null);
   const bodyRef = useRef(null); // 本文セクションへのref
+
+  // ── 読み上げ関数 ──────────────────────────────────────────
+  const speak = (text, lang, id) => {
+    window.speechSynthesis.cancel();
+    if (speakingId === id) { setSpeakingId(null); return; }
+    const utter = new SpeechSynthesisUtterance(text);
+    utter.lang = lang;
+    utter.rate = 0.9;
+    utter.onend = () => setSpeakingId(null);
+    utter.onerror = () => setSpeakingId(null);
+    setSpeakingId(id);
+    window.speechSynthesis.speak(utter);
+  };
+
+  const speakParagraph = (para, textObj) => {
+    const txt = getOriginalText(para);
+    if (!txt) return;
+    speak(txt, getSpeechLang(textObj), para.id);
+  };
+
+  const speakAll = (textObj) => {
+    const fullText = (textObj.paragraphs || [])
+      .map(p => getOriginalText(p))
+      .filter(Boolean)
+      .join('\n');
+    speak(fullText, getSpeechLang(textObj), 'all');
+  };
+
+  // コンポーネントアンマウント時・テキスト切替時に読み上げ停止
+  useEffect(() => {
+    window.speechSynthesis.cancel();
+    setSpeakingId(null);
+  }, [selectedText]);
 
   useEffect(() => {
     const allTexts = {
@@ -90,8 +132,8 @@ export default function App() {
         t.author?.toLowerCase().includes(q) ||
         (t.keywords || []).some(k => k.toLowerCase().includes(q));
       const inBody = (t.paragraphs || []).some(p =>
-        p.french?.toLowerCase().includes(q) ||
-        (p.provisionalTranslation ?? p.officialTranslation ?? '').toLowerCase().includes(q)
+        getOriginalText(p).toLowerCase().includes(q) ||
+        getTranslation(p).toLowerCase().includes(q)
       );
       return inMeta || inBody;
     });
@@ -252,7 +294,7 @@ export default function App() {
         <div className="max-w-6xl mx-auto px-4 py-3 flex items-center gap-4">
           <div className="flex-1 min-w-0">
             <h1 className={`text-lg font-serif font-semibold ${textClass} truncate`}>
-              フランス語圏象徴主義文学対訳
+              近代西洋テクスト対訳
             </h1>
             <p className={`text-xs ${textSecondary}`}>{Object.keys(texts).length}編収録</p>
           </div>
@@ -350,7 +392,7 @@ export default function App() {
               className={`absolute top-3 right-3 ${textSecondary} hover:opacity-70 text-xl leading-none`}
             >×</button>
             <p className={`text-sm ${darkMode ? 'text-indigo-300' : 'text-indigo-700'}`}>
-              📚 19-20世紀フランス語圏象徴主義の詩・批評テキスト対訳集。原文と仮訳を並べて比較し、自分の訳文も記録できます。
+              📚 19〜20世紀の近代西洋テクスト対訳集。フランス語・英語・ドイツ語の詩・批評原文と日本語仮訳を並べて比較し、自分の訳文も記録できます。
             </p>
             <p className={`text-xs mt-1 ${darkMode ? 'text-indigo-400' : 'text-indigo-500'}`}>
               ※ 掲載の日本語訳は学習補助のための試訳であり、確定した翻訳ではありません。
@@ -514,6 +556,17 @@ export default function App() {
             >
               ▶ すべて折りたたむ
             </button>
+            <button
+              onClick={() => speakAll(currentText)}
+              title={speakingId === 'all' ? '読み上げ停止' : '全文を読み上げる'}
+              className={`px-3 py-1.5 text-xs rounded-lg transition-colors flex items-center gap-1 ${
+                speakingId === 'all'
+                  ? 'bg-indigo-600 text-white'
+                  : darkMode ? 'bg-gray-800 text-gray-300 hover:bg-gray-700' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+              }`}
+            >
+              {speakingId === 'all' ? '⏹ 停止' : '🔊 全文'}
+            </button>
           </div>
           <button
             onClick={clearAllTranslations}
@@ -550,7 +603,7 @@ export default function App() {
                     <span className={`text-xs font-mono w-6 shrink-0 ${textSecondary}`}>{para.id}</span>
                     {isCollapsed && showFrench && (
                       <span className={`text-sm truncate ${textClass}`}>
-                        {para.french}
+                        {getOriginalText(para)}
                       </span>
                     )}
                     {!isCollapsed && (
@@ -563,6 +616,18 @@ export default function App() {
                     {hasUserTrans && (
                       <span className="w-2 h-2 rounded-full bg-purple-500" title="自分の訳あり" />
                     )}
+                    {/* 段落読み上げボタン */}
+                    <button
+                      onClick={(e) => { e.stopPropagation(); speakParagraph(para, currentText); }}
+                      title={speakingId === para.id ? '停止' : 'この段落を読み上げる'}
+                      className={`w-5 h-5 flex items-center justify-center rounded text-xs transition-colors ${
+                        speakingId === para.id
+                          ? 'bg-indigo-500 text-white'
+                          : darkMode ? 'text-gray-600 hover:text-gray-400' : 'text-gray-300 hover:text-gray-500'
+                      }`}
+                    >
+                      {speakingId === para.id ? '⏹' : '🔊'}
+                    </button>
                     <span className={`text-xs ${textSecondary}`}>{isCollapsed ? '▶' : '▼'}</span>
                   </div>
                 </button>
@@ -577,12 +642,12 @@ export default function App() {
                         <span className={`text-xs font-semibold px-2 py-0.5 rounded ${darkMode ? 'bg-indigo-900/50 text-indigo-300 border border-indigo-800' : 'bg-indigo-600 text-white'}`}>
                           原文
                         </span>
-                        <p className={`mt-2 leading-relaxed ${textClass} ${
+                        <p className={`mt-2 leading-relaxed whitespace-pre-line ${textClass} ${
                           fontSize === 'xlarge' ? 'text-2xl' :
                           fontSize === 'large'  ? 'text-xl' :
                           fontSize === 'medium' ? 'text-lg' : 'text-base'
                         }`}>
-                          {para.french}
+                          {getOriginalText(para)}
                         </p>
                       </div>
                     )}
@@ -661,7 +726,7 @@ export default function App() {
 
         {/* フッター */}
         <div className={`text-center text-xs ${textSecondary} pb-8 space-y-1`}>
-          <p>{Object.keys(texts).length}編収録 · ボードレール · マラルメ · ヴァレリー · ヴァルモール · ヴァン・レルベルグ</p>
+          <p>{Object.keys(texts).length}編収録 · ボードレール · マラルメ · ヴァレリー · ヴァルモール · ヴァン・レルベルグ · ヴェルレーヌ · ゴーティエ</p>
           <p>掲載の日本語訳は学習補助のための試訳であり、確定した翻訳ではありません</p>
         </div>
       </div>

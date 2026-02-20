@@ -1,0 +1,71 @@
+{
+  "id": "wilde_ballad_reading_gaol",
+  "title": "The Ballad of Reading Gaol",
+  "author": "Oscar Wilde",
+  "source": "The Ballad of Reading Gaol (1898)",
+  "year": "1898",
+  "firstPublication": "The Ballad of Reading Gaol (Leonard Smithers, February 1898)",
+  "difficulty": "上級",
+  "category": "wilde",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "1895年のわいせつ罪による有罪判決後、ワイルドはレディング刑務所に1895–97年の2年間収監された。この詩はその獄中体験——とりわけ自分の妻を殺した兵士C・T・ウールドリッジの絞首刑（1896年7月7日）の目撃——を基に書かれ、釈放後パリで完成した。1898年2月、「C.3.3.」（ワイルドが収監されていた棟・3階・3号室の囚人番号）の名義で出版された。詩の形式は6行連（ababcb韻）を基本とし、バラッド体に民謡の反復節を組み合わせる。6部構成：Ⅰ（絞首台への歩みを初めて目撃する）、Ⅱ（死の影が刑務所全体を覆う）、Ⅲ（絞首刑執行の朝）、Ⅳ（埋葬と祈り）、Ⅴ（生き残った囚人たちの苦悩）、Ⅵ（人類への呼びかけと普遍的な愛の欠如への告発）。「愛する者を殺すのはみな同じ（Yet each man kills the thing he loves）」という繰り返し節は詩全体を貫く哲学的命題となっており、それはワイルド自身の経験と、処刑された兵士の経験の両方を照らし出す。ヴィヨン、キーツ、コールリッジの影響下に書かれた英語で最も重要な監獄詩の一つとして評価される。",
+  "keywords": ["監獄", "絞首刑", "罪と罰", "愛と殺意", "C.3.3.", "ウールドリッジ", "レディング刑務所", "社会批判"],
+  "relatedTexts": [
+    "wilde_sphinx",
+    "verlaine_poetes_maudits_corbiere",
+    "swinburne_ballad_villon"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "He did not wear his scarlet coat,\n   For blood and wine are red,\nAnd blood and wine were on his hands\n   When they found him with the dead,\nThe poor dead woman whom he loved,\n   And murdered in her bed.\n\nHe walked amongst the Trial Men\n   In a suit of shabby grey;\nA cricket cap was on his head,\n   And his step seemed light and gay;\nBut I never saw a man who looked\n   So wistfully at the day.",
+      "provisionalTranslation": "彼は緋色の上着を着ていなかった、\n　　血とぶどう酒は赤いから、\nそして血とぶどう酒が彼の手についていた\n　　死人のそばで見つかった時に、\n彼が愛した哀れな死んだ女、\n　　寝台の中で殺された者。\n\n彼は裁かれる男たちのあいだを歩いた\n　　くたびれた灰色の服で；\n頭にはクリケット帽をかぶり、\n　　その歩みは軽く陽気に見えた；\nしかしわたしは見たことがなかった、あれほど\n　　切なそうに昼間を見つめた男を。"
+    },
+    {
+      "id": 2,
+      "originalText": "I never saw a man who looked\n   With such a wistful eye\nUpon that little tent of blue\n   Which prisoners call the sky,\nAnd at every drifting cloud that went\n   With sails of silver by.\n\nI walked, with other souls in pain,\n   Within another ring,\nAnd was wondering if the man had done\n   A great or little thing,\nWhen a voice behind me whispered low,\n   'That fellow's got to swing.'",
+      "provisionalTranslation": "わたしは見たことがなかった、あれほど\n　　切なそうな目で見つめた男を\nその小さな青いテントを\n　　囚人たちが空と呼ぶものを、\nそして銀の帆で流れ去る\n　　すべての漂う雲を。\n\nわたしは苦しむ他の魂たちとともに歩いた、\n　　別の輪の中で、\nそしてその男が大きなことか小さなことをしたのか\n　　と思っていると、\n後ろで低い声がささやいた、\n　　「あいつは絞られる運命だ。」"
+    },
+    {
+      "id": 3,
+      "originalText": "Yet each man kills the thing he loves,\n   By each let this be heard,\nSome do it with a bitter look,\n   Some with a flattering word,\nThe coward does it with a kiss,\n   The brave man with a sword!\n\nSome kill their love when they are young,\n   And some when they are old;\nSome strangle with the hands of Lust,\n   Some with the hands of Gold:\nThe kindest use a knife, because\n   The dead so soon grow cold.",
+      "provisionalTranslation": "しかしおのおのの人が愛するものを殺す、\n　　おのおのにこれを聞かせよ、\nある者は苦い眼差しでそれをし、\n　　ある者は諂いの言葉で、\n臆病者は口付けでそれをし、\n　　勇敢な男は剣でそれをする！\n\nある者は若い時に愛を殺し、\n　　ある者は老いた時に；\nある者は欲望の手で絞め殺し、\n　　ある者は黄金の手で：\n最も優しい者はナイフを使う、なぜなら\n　　死者はすぐに冷たくなるから。"
+    },
+    {
+      "id": 4,
+      "originalText": "Some love too little, some too long,\n   Some sell, and others buy;\nSome do the deed with many tears,\n   And some without a sigh:\nFor each man kills the thing he loves,\n   Yet each man does not die.\n\nHe does not die a death of shame\n   On a day of dark disgrace,\nNor have a noose about his neck,\n   Nor a cloth upon his face,\nNor drop feet foremost through the floor\n   Into an empty space.",
+      "provisionalTranslation": "ある者は愛しすぎるほど少なく、ある者は長すぎるほど；\n　　ある者は売り、他の者は買う；\nある者は多くの涙とともにその行いをし、\n　　ある者はため息もなしに：\nなぜならおのおのの人が愛するものを殺すから、\n　　しかしおのおのの人は死なない。\n\n彼は暗い不名誉の日に\n　　恥の死を死ぬわけではない、\n首に縄をかけるわけでも、\n　　顔に布をかけるわけでもなく、\n足から先に床を落ちて\n　　空虚な空間に落ちるわけでもない。"
+    },
+    {
+      "id": 5,
+      "originalText": "He did not pass in purple pomp,\n   Nor ride a moon-white steed.\nThree yards of cord and a sliding board\n   Are all the gallows' need.\nSo with rope of shame the Herald came\n   To do the secret deed.\n\nWe were as men who through a fen\n   Of filthy darkness grope:\nWe did not dare to breathe a prayer,\n   Or give our anguish scope:\nSomething was dead in each of us,\n   And what was dead was Hope.",
+      "provisionalTranslation": "彼は紫の豪華さとともに過ぎ去りはしなかった、\n　　月白の駿馬に乗りもしなかった。\n三ヤードの綱と滑る台板が\n　　絞首台に必要なすべてだ。\nそれゆえ恥の縄を持って伝令が来た\n　　秘密の行いをするために。\n\nわれわれは汚れた暗闇の沼を\n　　手探りで進む男たちのようだった：\n祈りを一つ口にする勇気も、\n　　苦悩を言葉にする勇気もなかった：\nわれわれのおのおのの中で何かが死んでいた、\n　　そして死んでいたのは希望だった。"
+    },
+    {
+      "id": 6,
+      "originalText": "There is no chapel on the day\n   On which they hang a man:\nThe Chaplain's heart is far too sick,\n   Or his face is far too wan,\nOr there is that written in his eyes\n   Which none should look upon.\n\nSo we shall let a sorrow come\n   To those who live with us,\nAnd when they die, and when they go\n   From this our prison-house,\nLet them remain with us in soul\n   Till God calls them all out.",
+      "provisionalTranslation": "男を絞首にかける日には\n　　礼拝堂での礼拝がない：\n教誨師の心はあまりにも病んでいるか、\n　　その顔はあまりにも蒼白か、\nあるいはその目には\n　　誰も見てはならないものが書かれている。\n\nそれゆえわれわれとともに生きる者たちに\n　　悲しみが来るにまかせよう、\nそして彼らが死ぬ時、この\n　　われわれの牢獄の家から去る時、\n神がすべてを呼び出すまで\n　　魂においてわれわれとともにとどまらせよう。"
+    },
+    {
+      "id": 7,
+      "originalText": "I know not whether Laws be right,\n   Or whether Laws be wrong;\nAll that we know who lie in gaol\n   Is that the wall is strong;\nAnd that each day is like a year,\n   A year whose days are long.\n\nBut this I know, that every Law\n   That men have made for Man,\nSince first Man took his brother's life,\n   And the sad world began,\nBut straws the wheat and saves the chaff\n   With a most evil fan.",
+      "provisionalTranslation": "わたしは知らない、法律が正しいかどうかを、\n　　あるいは法律が間違っているかどうかを；\n牢獄に横たわるわれわれが知るすべては\n　　壁が強固だということだ；\nそして一日一日が一年のようだということを、\n　　日々の長い一年のように。\n\nしかしわたしはこれを知っている、人間が\n　　人間のために作ったすべての法律は、\n最初の人間が兄弟の命を奪い、\n　　悲しい世界が始まって以来、\nただ小麦を散らして糠を集めるだけだと\n　　最も邪悪な扇で。"
+    },
+    {
+      "id": 8,
+      "originalText": "This too I know—and wise it were\n   If each could know the same—\nThat every prison that men build\n   Is built with bricks of shame,\nAnd bound with bars lest Christ should see\n   How men their brothers maim.\n\nWith bars they blur the gracious moon,\n   And blind the goodly sun:\nAnd they do well to hide their Hell,\n   For in it things are done\nThat Son of God nor son of Man\n   Ever should look upon!",
+      "provisionalTranslation": "これも知っている——そしておのおのが同じことを\n　　知るならば賢いことだろう——\n人間が建てるすべての刑務所は\n　　恥の煉瓦で建てられていると、\nそしてキリストが見られないよう格子で縛られていると\n　　人間がどのように兄弟を傷つけるかを。\n\n格子で彼らは優雅な月を滲ませ、\n　　善良な太陽を盲にする：\nそして彼らの地獄を隠すのは正しいことだ、\n　　そこでは行われるから\n神の子も人の子も\n　　決して見てはならないことが！"
+    },
+    {
+      "id": 9,
+      "originalText": "The vilest deeds like poison weeds,\n   Bloom well in prison-air;\nIt is only what is good in Man\n   That wastes and withers there:\nPale Anguish keeps the heavy gate,\n   And the Warder is Despair.\n\nFor they starve the little frightened child\n   Till it weeps both night and day:\nAnd they scourge the weak, and flog the fool,\n   And gibe the old and grey,\nAnd some grow mad, and all grow bad,\n   And none a word may say.",
+      "provisionalTranslation": "毒草のような最も卑劣な行いが、\n　　刑務所の空気の中でよく咲き乱れる；\nそこで萎れて枯れていくのは\n　　人間の中にある善いものだけだ：\n青ざめた苦悩が重い門を守り、\n　　看守は絶望だ。\n\nなぜなら彼らは小さな怯えた子供を飢えさせる\n　　夜も昼も泣くまで：\nそして弱い者を鞭打ち、愚者を打ちすえ、\n　　老いて白髪の者を嘲笑う、\nある者は狂い、すべての者が悪くなり、\n　　誰一人言葉を言えない。"
+    },
+    {
+      "id": 10,
+      "originalText": "Yet all is well; he has but passed\n   To Life's appointed bourne:\nAnd alien tears will fill for him\n   Pity's long-broken urn,\nFor his mourners will be outcast men,\n   And outcasts always mourn.\n\nI know not whether Laws be right,\n   Or whether Laws be wrong;\nAll that we know who lie in gaol\n   Is that the wall is strong;\nAnd that each day is like a year,\n   A year whose days are long.",
+      "provisionalTranslation": "しかしすべては良い；彼はただ過ぎ去った\n　　生の定められた終着地へと：\nそして他人の涙が彼のために満たすだろう\n　　憐れみの長く壊れた壺を、\nなぜなら彼の喪人は追放された男たちであり、\n　　追放者はいつも嘆くから。\n\nわたしは知らない、法律が正しいかどうかを、\n　　あるいは法律が間違っているかどうかを；\n牢獄に横たわるわれわれが知るすべては\n　　壁が強固だということだ；\nそして一日一日が一年のようだということを、\n　　日々の長い一年のように。"
+    }
+  ]
+}

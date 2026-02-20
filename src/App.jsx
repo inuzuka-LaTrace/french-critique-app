@@ -342,7 +342,7 @@ export default function App() {
         <div className="max-w-6xl mx-auto px-4 py-3 flex items-center gap-4">
           <div className="flex-1 min-w-0">
             <h1 className={`text-lg font-serif font-semibold ${textClass} truncate`}>
-              近代西洋テクスト対訳集
+              近代西洋テクスト対訳
             </h1>
             <p className={`text-xs ${textSecondary}`}>{Object.keys(texts).length}編収録</p>
           </div>

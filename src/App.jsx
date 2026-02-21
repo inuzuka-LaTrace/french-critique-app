@@ -345,7 +345,7 @@ export default function App() {
     if (cat?.startsWith('swinburne'))    return darkMode ? 'bg-indigo-900/40 text-indigo-300' : 'bg-indigo-100 text-indigo-800';
     if (cat?.startsWith('george'))       return darkMode ? 'bg-teal-900/40 text-teal-300' : 'bg-teal-100 text-teal-800';
     if (cat?.startsWith('hofmanstahl'))  return darkMode ? 'bg-gold-900/40 text-gold-300' : 'bg-gold-100 text-gold-800';
-    if (cat?.startsWith('trakl'))        return darkMode ? 'bg-blue-700-900/40 text-blue-700-300' : 'bg-blue-700-100 text-blue-700-800';
+    if (cat?.startsWith('trakl'))        return darkMode ? 'bg-royalblue-900/40 text-royalblue-300' : 'bg-royalblue-100 text-royalblue-800';
     return darkMode ? 'bg-gray-800 text-gray-300' : 'bg-gray-100 text-gray-700';
   };
 

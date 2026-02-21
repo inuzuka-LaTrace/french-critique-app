@@ -1,0 +1,34 @@
+{
+  "id": "george_haengenden_gaerten_12",
+  "title": "Wenn sich bei heilger ruh in tiefen matten",
+  "author": "Stefan George",
+  "source": "Das Buch der hängenden Gärten (1895)",
+  "year": "1895",
+  "firstPublication": "Die Bücher der Hirten- und Preisgedichte, der Sagen und Sänge und der hängenden Gärten (Verlag der Blätter für die Kunst, Berlin, Dezember 1895)",
+  "difficulty": "上級",
+  "category": "george",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "opNumber": "op.15 / XII",
+  "context": "op.15 第12曲。愛の成就のあとの「聖なる休息」の場面——しかしその幸福の中に死の予感が忍び込む。「都の外の白い砂がわれわれの血を啜る準備ができている（weisse sand bereit ist unser warmes blut zu schlürfen）」は、禁じられた愛に対する処刑（斬首・砂漠の刑）の暗示。シェーンベルクはこの死の予感を、平和な音楽の中に突如として出現する不協和音で示す。",
+  "keywords": [
+    "聖なる休息",
+    "処刑の予感",
+    "白い砂",
+    "番人",
+    "愛の後の死",
+    "架空庭園の書"
+  ],
+  "relatedTexts": [
+    "george_das_schoene_beet",
+    "george_entrueckung",
+    "george_das_wort"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Wenn sich bei heilger ruh in tiefen matten\nUm unsre schläfen unsre hände schmiegen ·\nVerehrung lindert unsrer glieder brand:\nSo denke nicht der ungestalten schatten\nDie an der wand sich auf und unter wiegen ·\nDer wächter nicht die rasch uns scheiden dürfen\nUnd nicht dass vor der stadt der weisse sand\nBereit ist unser warmes blut zu schlürfen.",
+      "provisionalTranslation": "聖なる休息の中で深い草地に横たわり\nわれわれの手がお互いの神殿に寄り添うとき ·\n崇拝がわれわれの手足の燃えを和らげる：\nだから思うな、壁の上で揺れ動く\n醜い影たちのことを ·\n急に二人を引き裂く権利を持つ番人のことを\nそして都の外で白い砂が\nわれわれの温かい血を啜る準備ができていることを。"
+    }
+  ]
+}

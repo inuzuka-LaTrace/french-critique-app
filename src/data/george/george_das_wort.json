@@ -1,0 +1,57 @@
+{
+  "id": "george_das_wort",
+  "title": "Das Wort",
+  "author": "Stefan George",
+  "source": "Das Neue Reich (1928)",
+  "year": "1928",
+  "firstPublication": "Das Neue Reich (Georg Bondi, Berlin, 1928)",
+  "difficulty": "上級",
+  "category": "george",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "context": "ゲオルゲ最後の詩集『新しい帝国』（Das Neue Reich, 1928）の掉尾を飾る詩。詩人がその生涯をかけて実践してきた詩法——言葉の魔術的・呪術的力能——の最終的な総括であり、20世紀ドイツ語詩の中で最も多く論じられた詩のひとつ。\n\n詩人は夢や幻想、遠くのものを「国の境い（meines landes saum）」まで持ち帰り、冥界の「灰色の女神（graue norn）」——北欧神話のノルン、運命の糸を紡ぐ女神、ここでは言語の深淵を守る存在——に名前を求める。名前が見つかれば、そのものは「密に強く咲き輝く（blüht und glänzt es dicht und stark）」。しかし最後の連では、あるとき大切な宝物を持ち帰ったが、ノルンが「ここの深みにはそのようなものは眠っていない（so schläft hier nichts auf tiefem grund）」と告げ、宝は詩人の手から抜け落ち、国もそれを得ることができなかった——という経験が語られる。\n\n結句「言葉の欠けるところに物はない（kein ding sei wo das wort gebricht）」は、ホフマンスタールの「言語の危機」を逆転させ、言葉の不在こそが存在の不在を意味するという詩的唯名論（Nominalismus）を宣言する。ハイデガーはこの詩を「言葉の本質」（Unterwegs zur Sprache, 1959）で詳細に論じ、存在論的議論の出発点とした。\n\nゲオルゲ独自の正書法として、名詞を含むすべての語を小文字で表記し、句読点に代えてダッシュを用いる。",
+  "keywords": ["言葉と存在", "ノルン", "詩的唯名論", "Das Neue Reich", "ハイデガー", "言語論", "詩人の使命", "象徴主義"],
+  "relatedTexts": [
+    "george_komm_in_den_park",
+    "george_wir_schreiten",
+    "mallarme_poetics",
+    "baudelaire_romantisme_complet"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Wunder von ferne oder traum\nBracht ich an meines landes saum",
+      "provisionalTranslation": "遠くの奇跡か夢のようなものを\nわれは国の境いへと持ち帰った"
+    },
+    {
+      "id": 2,
+      "originalText": "Und harrte bis die graue norn\nDen namen fand in ihrem born –",
+      "provisionalTranslation": "そして待った——灰色の女神が\nその泉の中に名前を見つけるまで——"
+    },
+    {
+      "id": 3,
+      "originalText": "Drauf konnt ichs greifen dicht und stark\nNun blüht und glänzt es durch die mark ...",
+      "provisionalTranslation": "そのあとでこそわれはそれを密に強く掴むことができた\n今やそれは国土の隅々まで咲き輝く……"
+    },
+    {
+      "id": 4,
+      "originalText": "Einst langt ich an nach guter fahrt\nMit einem kleinod reich und zart",
+      "provisionalTranslation": "かつてわれは順風な航海ののち辿り着いた\n豊かで繊細な宝石を手にして"
+    },
+    {
+      "id": 5,
+      "originalText": "Sie suchte lang und gab mir kund:\n›So schläft hier nichts auf tiefem grund‹",
+      "provisionalTranslation": "彼女は長く探して、われに告げた：\n「ここの深みにはそのようなものは眠っていない」"
+    },
+    {
+      "id": 6,
+      "originalText": "Worauf es meiner hand entrann\nUnd nie mein land den schatz gewann ...",
+      "provisionalTranslation": "そのときそれはわれの手から逃れ去り\nわれの国はその宝を得ることができなかった……"
+    },
+    {
+      "id": 7,
+      "originalText": "So lernt ich traurig den verzicht:\nKein ding sei wo das wort gebricht.",
+      "provisionalTranslation": "こうしてわれは悲しみのうちに断念を学んだ：\n言葉の欠けるところに、物はない。"
+    }
+  ]
+}

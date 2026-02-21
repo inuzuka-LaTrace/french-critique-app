@@ -1,0 +1,37 @@
+{
+  "id": "george_komm_in_den_park",
+  "title": "Komm in den totgesagten park und schau",
+  "author": "Stefan George",
+  "source": "Das Jahr der Seele — Nach der Lese (1897)",
+  "year": "1897",
+  "firstPublication": "Das Jahr der Seele (Georg Bondi, Berlin, 1897)",
+  "difficulty": "中級",
+  "category": "george",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "context": "『魂の年』（Das Jahr der Seele, 1897）は、ゲオルゲの詩業の中で最も広く読まれる詩集であり、秋・冬・夏という三つの季節の公園（Park）を舞台に、「抒情的な我々（lyrisches Wir）」——詩的自我と、名の明かされぬ「あなた」——の愛と喪失を描く。\n\nその冒頭を飾るこの詩は、「Nach der Lese（収穫の後）」と題されたサイクルの最初の一篇。「死んだと言われた公園（totgesagter park）」という逆説的な冒頭句は、表面上は枯れ果てたかに見える秋の庭園が、実はまだ黄・灰・紫という豊かな色彩を秘めていることを告げる。詩人は「あなた」に呼びかけ——「来て、見よ（Komm und schau）」——、遅咲きの薔薇、最後のアスター、野生の蔦の紫を一つ一つ拾い集め、花環を編むよう促す。\n\n最終連の「秋の顔の中に軽やかに織り込め（verwinde leicht im herbstlichen gesicht）」という結句は、秋を嘆くのでなく受け入れ、死の気配の中に美を見出す象徴主義的な生の態度を端的に示す。ゴットフリート・ベンはこの詩を「我が時代の最も美しい秋と公園の詩」と絶賛した。\n\nゲオルゲ独自の正書法として、名詞を含むすべての語を小文字で表記し、句読点に代えてダッシュを用いる。この表記は詩集の原典通りに保存している。",
+  "keywords": ["秋の公園", "totgesagter park", "花環", "アスター", "象徴主義", "ドイツ象徴主義", "収穫の後", "魂の年"],
+  "relatedTexts": [
+    "george_wir_schreiten",
+    "george_das_wort",
+    "mallarme_poetics",
+    "verlaine_poetes_maudits_mallarme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Komm in den totgesagten park und schau:\nDer schimmer ferner lächelnder gestade –\nDer reinen wolken unverhofftes blau\nErhellt die weiher und die bunten pfade.",
+      "provisionalTranslation": "死んだと言われた公園に来て、見よ：\n遠く微笑む岸辺のきらめき——\n澄んだ雲の思いがけない青さが\n池を、彩り豊かな小径を明るく照らす。"
+    },
+    {
+      "id": 2,
+      "originalText": "Dort nimm das tiefe gelb – das weiche grau\nVon birken und von buchs – der wind ist lau –\nDie späten rosen welkten noch nicht ganz –\nErlese küsse sie und flicht den kranz –",
+      "provisionalTranslation": "あそこで取れ、深い黄——柔らかな灰色を\n白樺と黄楊から——風はぬるい——\n遅咲きの薔薇はまだ完全には萎れていない——\n丹念に摘み、口付けして、花環を編め——"
+    },
+    {
+      "id": 3,
+      "originalText": "Vergiss auch diese lezten astern nicht –\nDen purpur um die ranken wilder reben\nUnd auch was übrig blieb von grünem leben\nVerwinde leicht im herbstlichen gesicht.",
+      "provisionalTranslation": "この最後のアスターたちも忘れるな——\n野生の蔦のつるを巡る紫を\nそして緑の生命から残ったものをも——\n秋の顔の中に軽やかに織り込め。"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "hofmannsthal_reiselied",
+  "title": "Reiselied",
+  "author": "Hugo von Hofmannsthal",
+  "source": "Gedichte (Insel-Verlag, Leipzig, 1922)",
+  "year": "1898",
+  "firstPublication": "Pan (Berlin, 1898) / Gesammelte Werke, Gedichte, Dramen I: 1891–1898, S. 51",
+  "difficulty": "中級",
+  "category": "hofmannsthal",
+  "originalLang": "de",
+  "modernRelevance": "★★★★☆",
+  "context": "1898年、ホフマンスタール24歳の作。詩人がゲオルゲとの関係を精算しつつあり、リヒャルト・シュトラウスとの協働も始まっていない、創作上の「危機の予感」の時期に書かれた。翌1902年の「チャンドス卿の手紙」——言語の崩壊を告白する散文——の直前に位置する。\n\n詩形は変形ソネット。前半の四行連（クヴァルテット）は男性韻交差韻（ABAB）、後半の二つの三行連（テルツェット）は女性韻・男性韻が交錯する（BCA BCA 変形）。詩全体で10行。ホフマンスタールの詩のなかで最も凝縮した構造をもつ。\n\n詩は二部に截然と分かれる。前半4行：水・岩・鳥という三つの自然力がそれぞれ「われわれを飲み込もうと」「われわれを叩き潰そうと」「われわれを運び去ろうと」迫る——圧倒的な脅威の三重奏。後半6行：しかし「その下には一つの国がある（Aber unten liegt ein Land）」——「年老いない湖（alterslosen Seen）」に果実を映し、「大理石の額と泉の縁（Marmorstirn und Brunnenrand）」が花咲く野から聳え、「軽い風が吹く（die leichten Winde wehn）」——突如として静謐な理想郷が現れる。\n\nこの前半と後半の対比が詩の核心。「Aber（しかし）」という一語の転換点が詩全体の重力を担う。脅威の世界から理想郷への移行は、鳥に「運び去られる（fortzutragen）」ことによって達成される——これは旅というより魂の飛翔であり、詩人の意志によらない受動的な移行。「大理石の額」は彫刻か建築か自然か曖昧なまま、「年老いない湖」は時間の外にある静止した理想空間を示す。\n\nゲオルゲの「Nach der Lese」が秋の公園を丹念な観察によって救済するのに対し、ホフマンスタールは危機の中での受動的飛翔によって理想郷に到達する——方法論の対比として学習素材として有益。歌曲化：パウル・フランケンブルガー（Vier Lieder no.2）、ロベルト・フュルステンタール（Spätlese IV no.5）、ヘルマン・ズター（4 Duette no.4）ほか。",
+  "keywords": ["旅の歌", "自然の脅威", "理想郷", "受動的飛翔", "年老いない湖", "大理石", "変形ソネット", "言語の危機前夜"],
+  "relatedTexts": [
+    "hofmannsthal_ballade",
+    "hofmannsthal_vorfruehling",
+    "hofmannsthal_terzinen",
+    "george_entrueckung"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Wasser stürzt, uns zu verschlingen,\nRollt der Fels, uns zu erschlagen,\nKommen schon auf starken Schwingen\nVögel her, uns fortzutragen.",
+      "provisionalTranslation": "水が落ちる、われわれを飲み込もうと、\n岩が転がる、われわれを叩き潰そうと、\nすでに強い翼で飛んでくる\n鳥たちが、われわれを運び去ろうと。"
+    },
+    {
+      "id": 2,
+      "originalText": "Aber unten liegt ein Land,\nFrüchte spiegelnd ohne Ende\nIn den alterslosen Seen.",
+      "provisionalTranslation": "しかしその下には一つの国がある、\n年老いない湖の中に\n果実を果てしなく映している。"
+    },
+    {
+      "id": 3,
+      "originalText": "Marmorstirn und Brunnenrand\nSteigt aus blumigem Gelände,\nUnd die leichten Winde wehn.",
+      "provisionalTranslation": "大理石の額と泉の縁が\n花咲く野から聳え上がり、\nそして軽い風が吹く。"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "george_haengenden_gaerten_5",
+  "title": "Saget mir auf welchem pfade",
+  "author": "Stefan George",
+  "source": "Das Buch der hängenden Gärten (1895)",
+  "year": "1895",
+  "firstPublication": "Die Bücher der Hirten- und Preisgedichte, der Sagen und Sänge und der hängenden Gärten (Verlag der Blätter für die Kunst, Berlin, Dezember 1895)",
+  "difficulty": "上級",
+  "category": "george",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "opNumber": "op.15 / V",
+  "context": "op.15 第5曲。語り手が「彼女の通る道」を問いかける——これは誰への問いかけか明示されない（運命の神々か、庭の精か）。「わが頬を彼女の足裏の踏み台に」という奉仕の極致。短い7行に圧縮された恋の奉仕と自己卑下。シェーンベルクはこの詩を、旋律の細かな起伏と柔かなピアノで処理した。",
+  "keywords": [
+    "彼女の道を問う",
+    "奉仕",
+    "踏み台",
+    "薔薇とすみれ",
+    "架空庭園の書"
+  ],
+  "relatedTexts": [
+    "george_das_schoene_beet",
+    "george_entrueckung",
+    "george_das_wort"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Saget mir auf welchem pfade\nHeute sie vorüberschreite –\nDass ich aus der reichsten lade\nZarte seidenweben hole ·\nRose pflücke und viole ·\nDass ich meine wange breite ·\nSchemel unter ihrer sohle.",
+      "provisionalTranslation": "教えてくれ、どの小径を\n今日彼女が通り過ぎるかを——\n最も豊かな箱から\n繊細な絹織物を取り出せるように ·\n薔薇とすみれを摘めるように ·\nわが頬を広げられるように ·\n彼女の足裏の下の踏み台として。"
+    }
+  ]
+}

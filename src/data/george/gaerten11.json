@@ -1,0 +1,34 @@
+{
+  "id": "george_haengenden_gaerten_11",
+  "title": "Als wir hinter dem beblümten tore",
+  "author": "Stefan George",
+  "source": "Das Buch der hängenden Gärten (1895)",
+  "year": "1895",
+  "firstPublication": "Die Bücher der Hirten- und Preisgedichte, der Sagen und Sänge und der hängenden Gärten (Verlag der Blätter für die Kunst, Berlin, Dezember 1895)",
+  "difficulty": "上級",
+  "category": "george",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "opNumber": "op.15 / XI",
+  "context": "op.15 第11曲。二人が初めて「花咲く門の向こう」で二人だけになる、愛の成就の場面。しかし詩は問いかける——「夢想していた至福が与えられたか？」。答えは「弱い葦のように無言で震え」「涙が溢れる」という、歓喜でなく戦慄と涙の成就。シェーンベルクはここを静謐なピアノの下で歌わせる——これが連作の感情的頂点。",
+  "keywords": [
+    "花咲く門",
+    "愛の成就",
+    "震え",
+    "涙",
+    "二人だけ",
+    "架空庭園の書"
+  ],
+  "relatedTexts": [
+    "george_das_schoene_beet",
+    "george_entrueckung",
+    "george_das_wort"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Als wir hinter dem beblümten tore\nEndlich nur das eigne hauchen spürten\nWarden uns erdachte seligkeiten?\nIch erinnere dass wie schwache rohre\nBeide stumm zu beben wir begannen\nWenn wir leis nur an uns rührten\nUnd dass unsre augen rannen –\nSo verbliebest du mir lang zu seiten.",
+      "provisionalTranslation": "花咲く門の向こうで\nようやくわれわれ自身の息吹だけを感じたとき\n夢想していた至福が与えられたか？\nわれが憶えているのは、弱い葦のように\n二人が無言で震え始めたことだ\nほんの軽く触れ合っただけで\nそしてわれわれの目から涙が溢れたことを——\nそのようにして、そなたはしばらくわれの傍らに留まった。"
+    }
+  ]
+}

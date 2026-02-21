@@ -1,0 +1,57 @@
+{
+  "id": "hofmannsthal_ballade",
+  "title": "Ballade des äußeren Lebens",
+  "author": "Hugo von Hofmannsthal",
+  "source": "Gedichte (Insel-Verlag, Leipzig, 1922)",
+  "year": "1894",
+  "firstPublication": "Blätter für die Kunst (Berlin, 1896)",
+  "difficulty": "上級",
+  "category": "hofmannsthal",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "context": "ホフマンスタール22歳の作。「外的生の歌謡（Ballade des äußeren Lebens）」というタイトルが示すように、詩は「内的生」と「外的生」の分裂を主題とする。ゲオルゲ主宰「Blätter für die Kunst」1896年号に初出。\n\n詩は変形テルツィーネ形式（ABA BCB CDC…）で書かれており、ホフマンスタールが「Terzinen über Vergänglichkeit」と同じ詩形を選んでいることが注目される。全7連のうち最初の4連は「Und（そして）」で始まる——子供たちが育ち死に、果実が腐り、風が吹き続け、言葉が交わされ、道路が伸び、場所が点在する。この連続するUndは旧約聖書の創世記を思わせる列挙の形式であると同時に、すべてが等価であり目的を欠くという虚無の修辞でもある。17回ものUndが最初の4連に重なる（Wolfgang Schneider計算）。\n\n第5・6連では一人称複数「われわれ（wir）」が初めて現れ、問いかける——「なぜこれらは建てられたのか？ なぜ笑いと泣きと蒼白が交替するのか？ これらの遊びは何のためか、われわれは大きく永遠に孤独で、さまよいながらいかなる目標も求めないのに？」\n\n最終連（4行）で詩は転換する。「しかし「夕べ」と言う者は多くを語る——深い意味と悲しみが流れ出る言葉、重い蜜が空洞の巣房から流れ出るように。」この最終行は、ゲオルゲ「Das Wort」の「言葉の欠けるところに物はない」と対話する——ゲオルゲが言葉の不在を嘆くのに対し、ホフマンスタールは「夕べ（Abend）」という一語の中に世界全体が凝縮されることを発見する。「外的生」の空虚な列挙を超えて到達する「一語の充実」が詩の到達点である。\n\n歌曲化：アルバン・ベルク（1905年、声とピアノ、Jugendlieder Vol.II 第63曲）。ベルクはこの詩を、前期作品の中で最も長大な歌曲として設定した。ヴォルフガング・フォルトナー（1970-80）ほか。",
+  "keywords": ["外的生", "虚無", "夕べ", "蜜の比喩", "言語論", "アルバン・ベルク", "テルツィーネ", "ウィーン世紀末", "孤独"],
+  "relatedTexts": [
+    "hofmannsthal_terzinen",
+    "hofmannsthal_vorfruehling",
+    "hofmannsthal_reiselied",
+    "george_das_wort"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Und Kinder wachsen auf mit tiefen Augen,\nDie von nichts wissen, wachsen auf und sterben,\nUnd alle Menschen gehen ihre Wege.",
+      "provisionalTranslation": "そして子供たちは深い目をして育つ、\n何も知らない目で、育ち、そして死に、\nそしてすべての人間たちはそれぞれの道を行く。"
+    },
+    {
+      "id": 2,
+      "originalText": "Und süße Früchte werden aus den herben\nUnd fallen nachts wie tote Vögel nieder\nUnd liegen wenig Tage und verderben.",
+      "provisionalTranslation": "そして甘い果実が渋い実から生まれ\n夜には死んだ鳥のように落ち\nそして少しの日々横たわって腐る。"
+    },
+    {
+      "id": 3,
+      "originalText": "Und immer weht der Wind, und immer wieder\nVernehmen wir und reden viele Worte\nUnd spüren Lust und Müdigkeit der Glieder.",
+      "provisionalTranslation": "そして風は常に吹き、そして常にまた\nわれわれは聞き取り、多くの言葉を語り\nそして快楽と手足の疲れを感じる。"
+    },
+    {
+      "id": 4,
+      "originalText": "Und Straßen laufen durch das Gras, und Orte\nSind da und dort, voll Fackeln, Bäumen, Teichen,\nUnd drohende, und totenhaft verdorrte…",
+      "provisionalTranslation": "そして道路が草地を走り、場所が\nあちこちに点在する、たいまつと樹木と池に満ちて、\nそして脅迫的な、死のように枯れ果てた場所が……"
+    },
+    {
+      "id": 5,
+      "originalText": "Wozu sind diese aufgebaut? Und gleichen\nEinander nie? Und sind unzählig viele?\nWas wechselt Lachen, Weinen und Erbleichen?",
+      "provisionalTranslation": "なぜこれらは建てられたのか？ そしてなぜ\nお互いに似ていないのか？ そしてなぜ無数に多いのか？\n何が笑いと泣きと蒼白を交替させるのか？"
+    },
+    {
+      "id": 6,
+      "originalText": "Was frommt das alles uns und diese Spiele,\nDie wir doch groß und ewig einsam sind\nUnd wandernd nimmer suchen irgend Ziele?",
+      "provisionalTranslation": "これらすべてとこの遊びはわれわれに何の益があるのか、\nわれわれはしかし大きく、永遠に孤独で\nさまよいながらいかなる目標も決して求めないのに？"
+    },
+    {
+      "id": 7,
+      "originalText": "Was frommt's, dergleichen viel gesehen haben?\nUnd dennoch sagt der viel, der „Abend" sagt,\nEin Wort, daraus Tiefsinn und Trauer rinnt\nWie schwerer Honig aus den hohlen Waben.",
+      "provisionalTranslation": "そのようなものを多く見たことに何の益があるのか？\nしかし「夕べ」と言う者は多くを語る、\n深い意味と悲しみが滲み出る一語を——\n重い蜜が空洞の巣房から流れ出るように。"
+    }
+  ]
+}

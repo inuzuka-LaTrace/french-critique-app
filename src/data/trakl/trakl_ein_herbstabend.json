@@ -1,0 +1,44 @@
+{
+  "id": "trakl_ein_herbstabend",
+  "title": "Ein Herbstabend",
+  "author": "Georg Trakl",
+  "source": "Gedichte (Kurt Wolff Verlag, Leipzig, 1913)",
+  "year": "1912",
+  "firstPublication": "Der Brenner (Innsbruck, 1912) / Gedichte (Kurt Wolff Verlag, Leipzig, 1913)",
+  "difficulty": "中級",
+  "category": "trakl",
+  "originalLang": "de",
+  "modernRelevance": "★★★★☆",
+  "dedication": "An Karl Röck",
+  "context": "Gedichte（1913）収録。副題に「An Karl Röck（カール・レックへ）」という献辞を持つ。カール・レックはトラークルの友人で教師・後見人的存在。ルートヴィヒ・フィッカーとともにトラークルを支援し、詩集「Gedichte」の出版にも尽力した人物。\n\n詩はトラークルが「Verfall」と並んで用いる完全なソネット形式（14行・4+4+3+3）。「Verfall」が秋の公園の夕べを語り手の夢想と戦慄を軸に描くのに対し、この詩は秋の農村の夕べを一種の地域絵画（Dorfbild）として展開する点で対照的な作品。\n\n構成を詳細に見ると、冒頭は「Das braune Dorf（褐色の村）」という名詞句と句点（ピリオド）——これは詩行ではなく見出し・タブローの銘板のように機能し、以下の14行全体がこの「褐色の村」の内部を描く絵として枠組みされる。第1クヴァルテット（4行）：秋の壁沿いを歩く「暗いもの（Ein Dunkles）」が姿を見せる——男も女も、死者たちが冷たい部屋を歩いてそれぞれのベッドを整える。生者と死者が「夕べの自然な共存」として描かれる。第2クヴァルテット（4行）：子どもたちが遊ぶ傍ら「重い影が褐色の汚水（Jauche）の上に広がり」、下女たちが「湿った青を通り抜け（feuchte Bläue）」歩き、「夜の鐘響きに満ちた目で」時折見回す。第1テルツェット（3行）：孤独な者たちのために酒場があり、「暗い丸天井の下で黄金のタバコの霞に包まれて」忍耐強く待つ。第2テルツェット（3行）：「しかし常にわが固有なるものは黒く近い（Doch immer ist das Eigne schwarz und nah）」——そして「酔漢が古い丸天井の影の中で / 遠くへ飛び去った野生の鳥を思う（den wilden Vögeln nach, die ferngezogen）」。\n\n「Das Eigne（固有なるもの）」はトラークル詩の複合的な核心語——自己・特有の宿命・罪・暗い内面という意味層を持つ。酔漢が「遠くへ飛び去った鳥」を追うのは、「Verfall」の語り手が渡り鳥の「より明るい運命を夢見る」のと同一の身振りで、現実の閉塞から逃れたいという欲動を示す。しかし「Das Eigne schwarz und nah（固有なるものは黒く近い）」という11行目が、この逃避の不可能性を断言する。ホフマンスタール「Ballade des äußeren Lebens」の「しかし常にわれわれの固有なるものは……」という問いと、「黒く近い」という断定の鮮やかな対照。\n\n「feuchte Bläue（湿った青）」はトラークルの青の変形の一つ——霊的距離・純潔としての「青」が「湿った（feucht）」という感触に変形されることで、下女たちの身体性と結びつく。同様に「夜の鐘響きに満ちた目（Augen, erfüllt von Nachtgeläuten）」は、聴覚的体験が視覚器官に侵入するという共感覚的表現。\n\nこの詩は「Ein Winterabend」の農村的・宗教的な静謐と「Im Herbst」の民謡的な収穫祝いの双方と対照して読める——秋の農村という共通素材でも、トラークルはまったく異なる色調と感情的焦点を選んでいる。歌曲化：Richard Stöhr op.29（1914）、Josef Schelb（1964）ほか。",
+  "keywords": ["秋の夕べ", "褐色の村", "死者の共存", "固有なるもの", "湿った青", "酔漢", "渡り鳥", "ソネット", "酒場", "An Karl Röck"],
+  "relatedTexts": [
+    "trakl_verfall",
+    "trakl_im_herbst",
+    "trakl_ein_winterabend",
+    "trakl_sebastian_im_traum",
+    "hofmannsthal_ballade"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Das braune Dorf.\n\nEin Dunkles zeigt im Schreiten\nSich oft an Mauern, die im Herbste stehn,\nGestalten: Mann wie Weib, Verstorbene gehn\nIn kühlen Stuben jener Bett bereiten.",
+      "provisionalTranslation": "褐色の村。\n\n暗いものが歩みながら\n秋に立つ壁沿いにしばしば姿を見せる、\n形ある者たち：男も女も、死者たちが\n冷たい部屋でそれぞれのベッドを整える。"
+    },
+    {
+      "id": 2,
+      "originalText": "Hier spielen Knaben. Schwere Schatten breiten\nSich über braune Jauche. Mägde gehn\nDurch feuchte Bläue und bisweilen sehn\nAus Augen sie, erfüllt von Nachtgeläuten.",
+      "provisionalTranslation": "ここで少年たちが遊ぶ。重い影が\n褐色の汚水の上に広がる。下女たちが\n湿った青を通り抜けて歩き、時折見回す\n夜の鐘響きに満ちた目で。"
+    },
+    {
+      "id": 3,
+      "originalText": "Für Einsames ist eine Schenke da;\nDas säumt geduldig unter dunklen Bogen,\nVon goldenem Tabaksgewölk umzogen.",
+      "provisionalTranslation": "孤独な者たちのために酒場がある；\nそれは暗い丸天井の下で忍耐強く待つ、\n黄金のタバコの霞に包まれながら。"
+    },
+    {
+      "id": 4,
+      "originalText": "Doch immer ist das Eigne schwarz und nah.\nDer Trunkne sinnt im Schatten alter Bogen\nDen wilden Vögeln nach, die ferngezogen.",
+      "provisionalTranslation": "しかし常にわが固有なるものは黒く近い。\n酔漢が古い丸天井の影の中で\n遠くへ飛び去った野生の鳥を思う。"
+    }
+  ]
+}

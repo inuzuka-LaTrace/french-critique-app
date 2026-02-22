@@ -1,0 +1,37 @@
+{
+  "id": "trakl_ein_winterabend",
+  "title": "Ein Winterabend",
+  "author": "Georg Trakl",
+  "source": "Sebastian im Traum (Kurt Wolff Verlag, Leipzig, 1915)",
+  "year": "1913",
+  "firstPublication": "Der Brenner (Innsbruck, 1913) / Sebastian im Traum (Kurt Wolff Verlag, Leipzig, 1915)",
+  "difficulty": "中級",
+  "category": "trakl",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "context": "トラークルの詩のなかで最も広く読まれ、アンソロジーに収録される頻度も最も高い作品の一つ。「Gedichte」（1913）ではなく遺稿詩集「Sebastian im Traum」（1915）に最終稿が収録された。二つの稿が存在し、アンソロジーで広く流通する決定版（第2稿）を本ファイルに収録する。\n\n第1稿（Der Brenner 1913初出）と第2稿の主な異同は第2連と第3連にある。第1稿の第2連末尾は「Seine Wunde voller Gnaden / Pflegt der Liebe sanfte Kraft（愛の柔かな力が恵み満ちる傷を養う）」、第2稿では「Golden blüht der Baum der Gnaden / Aus der Erde kühlem Saft（恵みの樹が大地の冷たい樹液から黄金に咲く）」に改められる。第3連は第1稿が「O! des Menschen bloße Pein. / Der mit Engeln stumm gerungen, / Langt von heiligem Schmerz bezwungen / Still nach Gottes Brot und Wein（ああ人の裸の苦悩よ。天使と黙して格闘し、聖なる痛みに打ち負かされて静かに神のパンとワインに手を伸ばす者）」、第2稿では「Wanderer tritt still herein; / Schmerz versteinerte die Schwelle. / Da erglänzt in reiner Helle / Auf dem Tische Brot und Wein（旅人が静かに入ってくる；痛みが敷居を石にした。すると食卓の上にパンとワインが純粋な光の中で輝く）」となる。第2稿は主語が「人間一般」から「旅人」という具体的人物へ、苦悩の描写がより凝縮した象徴（石化した敷居）へと絞られ、結末の聖餐がより静謐に示される。\n\n詩の構造は三連各四行、包み韻（ABBA）。三連はキリスト教的な三位一体を暗示し（外の世界・移行・内の世界）、各連が宇宙論的な三段階——世界全体の冬の情景（第1連）、自然・恩寵の橋渡し（第2連）、個の到着と啓示（第3連）——を担う。\n\n「恵みの樹が大地の冷たい樹液から黄金に咲く（Golden blüht der Baum der Gnaden / Aus der Erde kühlem Saft）」はトラークル語彙の典型的逆説。樹液が「冷たい（kühl）」——冬の死の季節に属する属性——から「黄金（golden）」の生が開花する。「痛みが敷居を石にした（Schmerz versteinerte die Schwelle）」は旅人の内側の苦悩が外部の物質（石の敷居）として現れるという、内外の溶解を示す。最終行のパンとワインは聖餐（Eucharistie）の直接的なシンボルであり、詩全体の象徴的到達点となる。\n\n哲学者マルティン・ハイデガーは「言葉の本質」（1950）でこの詩を詳細に分析し、「呼び集め（Versammlung）」の詩学の例として論じた。ハイデガーの読解はトラークル詩解釈の一つの頂点として広く参照される。歌曲化：Wilhelm Killmayer（1993）、Josef Schelb（1964）、Rudi Spring op.89（2013）ほか多数。",
+  "keywords": ["冬の夕べ", "旅人", "聖餐", "石化した敷居", "恵みの樹", "ハイデガー", "キリスト教象徴", "パンとワイン", "二稿"],
+  "relatedTexts": [
+    "trakl_verfall",
+    "trakl_im_herbst",
+    "trakl_de_profundis",
+    "hofmannsthal_ballade"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Wenn der Schnee ans Fenster fällt,\nLang die Abendglocke läutet,\nVielen ist der Tisch bereitet\nUnd das Haus ist wohlbestellt.",
+      "provisionalTranslation": "雪が窓に降り積もるとき、\n夕べの鐘が長く鳴り響くとき、\n多くの者のために食卓が整えられ\nそして家は整然と整っている。"
+    },
+    {
+      "id": 2,
+      "originalText": "Mancher auf der Wanderschaft\nKommt ans Tor auf dunklen Pfaden.\nGolden blüht der Baum der Gnaden\nAus der Erde kühlem Saft.",
+      "provisionalTranslation": "旅の途上にある何者かが\n暗い小径を通って門に辿り着く。\n恵みの樹が黄金に咲く\n大地の冷たい樹液から。"
+    },
+    {
+      "id": 3,
+      "originalText": "Wanderer tritt still herein;\nSchmerz versteinerte die Schwelle.\nDa erglänzt in reiner Helle\nAuf dem Tische Brot und Wein.",
+      "provisionalTranslation": "旅人が静かに入ってくる；\n痛みが敷居を石にした。\nすると純粋な光の中で輝く\n食卓の上のパンとワインが。"
+    }
+  ]
+}

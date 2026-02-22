@@ -1,0 +1,43 @@
+{
+  "id": "trakl_abendlaendisches_lied",
+  "title": "Abendländisches Lied",
+  "author": "Georg Trakl",
+  "source": "Sebastian im Traum (Kurt Wolff Verlag, Leipzig, 1915)",
+  "year": "1913",
+  "firstPublication": "Der Brenner (Innsbruck, 1. Januar 1914) / Sebastian im Traum (Kurt Wolff Verlag, Leipzig, 1915)",
+  "difficulty": "上級",
+  "category": "trakl",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "context": "1913年末から1914年初頭にかけて書かれ、「Der Brenner」1914年1月1日号に掲載。トラークルの死（1914年11月）の直前期の作品であり、後期の代表詩として位置づけられる。「Sebastian im Traum」（1915年遺稿集）に収録。\n\nタイトルの「Abendland（西洋・夕べの国）」は地理的・文明論的双義を持つ。西洋キリスト教文明の歴史的展開が詩の内容であり、同時に「夕べ（Abend）」が象徴する没落・終わりという意味も重なる。第一次世界大戦勃発の直前に書かれたこと、そしてトラークル自身が数週間後にガリチア戦線で従軍衛生兵として精神崩壊に至ることを考えると、この詩は文明の終わりの予感として読み直しうる。\n\n詩は5つの大きな連（段落）からなる自由詩。各段落は「O（ああ）」という感嘆詞で始まり、ひとつの時代・情景を喚起する——この構造はホメロスの叙事詩における英雄的呼びかけ（invocatio）の変形として機能する。\n\n第1段落「魂の夜の翼音」：太古の牧人時代。人間が獣・花・泉と調和して歩いた原初の世界。炉の神（Heimchen）の声と生贄の石に咲く血、孤独な鳥の叫びが静寂を破る。第2段落「十字軍と肉の灼熱の苦悩」：中世キリスト教の戦争・殉教・黙示録的破壊。夕べの園（ゲッセマネを暗示）で「敬虔な弟子たちが歩いた場所に今は兵士たちが傷と星の夢から目覚める」——宗教的場所の世俗的汚染。紺碧の夜の束（Zyanenbündel）という一語が連の中心に配置される。第3段落「静寂と黄金の秋の時代」：修道院の葡萄酒造り、丘と森の輝き、狩りと城館の安らぎ、夕べに人が「神の生ける頭（Gottes lebendiges Haupt）をめぐって黙して祈る」——中世的敬虔の時代。第4〜5段落「没落の苦い時間」：最終2行「ああ、没落の苦い時間、われわれが黒い水の中に石の顔を見る時（O, die bittere Stunde des Untergangs, / Da wir ein steinernes Antlitz in schwarzen Wassern beschaun）」——石化した顔が暗い水に映る。石（Stein）はトラークルにおける死・硬直の象徴、黒い水は死の水域。\n\nGRIN論文（Leichsenring 2018）はこの詩を「トラークル固有の表現主義と象徴主義の交差点」と位置づける。ゲオルゲが「Der siebente Ring」（1907）でドイツ精神史をマクシミン神格化によって召喚するのに対し、トラークルは同じ西洋史の弧を没落の叙事詩として提示する——同じ「西洋の神話化」という操作の二つの極として対照的に読める。",
+  "keywords": ["西洋", "没落", "十字軍", "牧人", "石の顔", "黒い水", "夕べの国", "文明史詩", "感嘆詞の連鎖"],
+  "relatedTexts": [
+    "trakl_verfall",
+    "trakl_de_profundis",
+    "trakl_ein_winterabend",
+    "george_entrueckung",
+    "george_das_wort"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "O der Seele nächtlicher Flügelschlag:\nHirten gingen wir einst an dämmernden Wäldern hin\nUnd es folgte das rote Wild, die grüne Blume und der lallende Quell\nDemutsvoll. O, der uralte Ton des Heimchens,\nBlut blühend am Opferstein\nUnd der Schrei des einsamen Vogels über der grünen Stille des Teichs.",
+      "provisionalTranslation": "ああ、魂の夜の翼音：\nかつてわれわれは牧人として薄明の森辺を歩き\n赤い獣と緑の花と喃語する泉が\n謙虚に続いた。ああ、炉の神の太古の音、\n生贄の石に咲く血、\nそして池の緑の静寂の上に響く孤独な鳥の叫び。"
+    },
+    {
+      "id": 2,
+      "originalText": "O, ihr Kreuzzüge und glühenden Martern\nDes Fleisches, Fallen purpurner Früchte\nIm Abendgarten, wo vor Zeiten die frommen Jünger gegangen,\nKriegsleute nun, erwachend aus Wunden und Sternenträumen.\nO, das sanfte Zyanenbündel der Nacht.",
+      "provisionalTranslation": "ああ、十字軍と肉の\n灼熱の苦悩、紫の果実が落ちる\n夕べの園で、かつて敬虔な弟子たちが歩いた場所に、\n今は兵士たちが傷と星の夢から目覚める。\nああ、夜の柔かな紺碧の束。"
+    },
+    {
+      "id": 3,
+      "originalText": "O, ihr Zeiten der Stille und goldener Herbste,\nDa wir friedliche Mönche die purpurne Traube gekeltert;\nUnd rings erglänzten Hügel und Wald.\nO, ihr Jagden und Schlösser;\nRuh des Abends,\nDa in seiner Kammer der Mensch Gerechtes sann,\nIn stummem Gebet um Gottes lebendiges Haupt rang.",
+      "provisionalTranslation": "ああ、静寂の時代と黄金の秋よ、\nわれわれが平和な修道士として紫の葡萄を搾った時代、\nそして周りには丘と森が輝いていた。\nああ、狩りと城館よ；\n夕べの安らぎよ、\n自室で人が正しいことを考え、\n神の生ける頭をめぐって黙して祈り格闘した夕べよ。"
+    },
+    {
+      "id": 4,
+      "originalText": "O, die bittere Stunde des Untergangs,\nDa wir ein steinernes Antlitz in schwarzen Wassern beschaun.",
+      "provisionalTranslation": "ああ、没落の苦い時間、\nわれわれが黒い水の中に石の顔を見る時。"
+    }
+  ]
+}

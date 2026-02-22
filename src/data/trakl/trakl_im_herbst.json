@@ -1,0 +1,38 @@
+{
+  "id": "trakl_im_herbst",
+  "title": "Im Herbst",
+  "author": "Georg Trakl",
+  "source": "Gedichte (Kurt Wolff Verlag, Leipzig, 1913)",
+  "year": "1913",
+  "firstPublication": "Gedichte (Kurt Wolff Verlag, Leipzig, 1913)",
+  "difficulty": "中級",
+  "category": "trakl",
+  "originalLang": "de",
+  "modernRelevance": "★★★★☆",
+  "context": "Gedichte（1913）収録。三連各四行、脚韻はABAB交差韻に変形リフレイン（各連に「Klosterglocken läuten darein」「Heut keltern sie den braunen Wein」が二度ずつ繰り返される）が組み合わさった独特の形式。このリフレイン構造がトラークルの詩のなかで最も民謡的・マリア賛歌的な響きを生んでおり、同時代の評者に「トラークルの最も平和な詩の一つ」と評された。\n\n内容は三段階の移行として読める。第1連：農村の秋の昼——ひまわりが柵で輝き、病人が日差しの中に座り、畑で女たちが歌いながら働く。修道院の鐘が鳴る。第2連：秋の夕べの収穫——鳥が遠くの物語を告げ、修道院の鐘が繰り返し響く。農場から弦楽が流れ、今日はワインの搾り取りの日。第3連：「するとそこで人は喜ばしく穏やかな様子を見せる（Da zeigt der Mensch sich froh und lind）」——そして最終の逆転：「霊廟が広く開いて / 日差しで美しく彩られている（Weit offen die Totenkammern sind / Und schön bemalt vom Sonnenschein）」。\n\nこの最終連こそトラークル的逆説の典型。「喜ばしく穏やかな人間」の姿と「広く開いた霊廟」が同じ「今日（heut）」「日差し（Sonnenschein）」の下に置かれる。霊廟は脅威ではなく「美しく彩られて」いる——生の祝祭と死の開口部が同一の光の中で共存する。「Totenkammern」という語の唐突さが詩の温かい表面に亀裂を走らせ、「Im Herbst」全体の穏やかさをひっくり返す読後感を生む。\n\nトラークル詩における秋の系列——「Verfall」（頽廃の戦慄）、「Verklärter Herbst」（変容した秋・年の壮大な終わり）、「Im Herbst」（収穫の喜びと開いた霊廟）——のなかで最も日常的・民衆的な位相に属し、他の秋詩との対照で読む価値が高い。リフレインの「修道院の鐘」は「Ein Winterabend」の「夕べの鐘（Abendglocke）」と響き合い、キリスト教的時間感覚がトラークルの季節詩を貫くことを示す。",
+  "keywords": ["秋", "収穫", "修道院の鐘", "ひまわり", "霊廟", "逆説", "リフレイン", "民謡形式", "ワイン", "日差し"],
+  "relatedTexts": [
+    "trakl_verfall",
+    "trakl_ein_winterabend",
+    "trakl_de_profundis",
+    "george_komm_in_den_park",
+    "george_wir_werden"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Die Sonnenblumen leuchten am Zaun,\nStill sitzen Kranke im Sonnenschein.\nIm Acker mühn sich singend die Frau'n,\nDie Klosterglocken läuten darein.",
+      "provisionalTranslation": "ひまわりが柵で輝く、\n病人たちが日差しの中に静かに座っている。\n畑では女たちが歌いながら働く、\n修道院の鐘がそこへ鳴り響く。"
+    },
+    {
+      "id": 2,
+      "originalText": "Die Vögel sagen dir ferne Mär',\nDie Klosterglocken läuten darein.\nVom Hof tönt sanft die Geige her.\nHeut keltern sie den braunen Wein.",
+      "provisionalTranslation": "鳥たちは遠くの物語をお前に語る、\n修道院の鐘がそこへ鳴り響く。\n農場から弦楽が柔かく聞こえてくる。\n今日は褐色のワインを搾り取る。"
+    },
+    {
+      "id": 3,
+      "originalText": "Da zeigt der Mensch sich froh und lind.\nHeut keltern sie den braunen Wein.\nWeit offen die Totenkammern sind\nUnd schön bemalt vom Sonnenschein.",
+      "provisionalTranslation": "するとそこで人は喜ばしく穏やかな様子を見せる。\n今日は褐色のワインを搾り取る。\n霊廟が広く開いている\nそして日差しで美しく彩られている。"
+    }
+  ]
+}

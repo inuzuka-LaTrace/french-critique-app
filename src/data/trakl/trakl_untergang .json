@@ -1,0 +1,34 @@
+{
+  "id": "trakl_untergang",
+  "title": "Untergang",
+  "author": "Georg Trakl",
+  "source": "Sebastian im Traum (Kurt Wolff Verlag, Leipzig, 1915)",
+  "year": "1913",
+  "firstPublication": "Der Brenner (Innsbruck, März 1913) / Sebastian im Traum (Kurt Wolff Verlag, Leipzig, 1915)",
+  "difficulty": "中級",
+  "category": "trakl",
+  "originalLang": "de",
+  "dedication": "An Karl Borromäus Heinrich",
+  "modernRelevance": "★★★★★",
+  "context": "1913年2月作。「Sebastian im Traum」（1915）の「Siebengesang des Todes（死の七声部歌）」章に収録。献辞「An Karl Borromäus Heinrich（カール・ボッロメウス・ハインリヒへ）」——ハインリヒはトラークルが1912年末にインスブルックで知り合った若い小説家。「Der Brenner」1913年3月号に掲載された彼の書簡では、トラークルの詩を三度読んで「深く感動し、驚き、衝撃を受け、困惑し、興奮した」と記している。詩はその数週間後に完成した。\n\n8行2段落という極めてコンパクトな構成。段落の切れ目（4行＋4行）は厳密ではなく、行の長さも不均等——最長の第4行「Beugt sich die zerbrochene Stirne der Nacht（夜の砕けた額が傾く）」は最短の第2行「Sind die wilden Vögel fortgezogen（野生の鳥たちが飛び去った）」の倍近い音節を持つ。この非対称性がリズム的な不安定さを生む。\n\n「unseren（われわれの）」という一人称複数が詩全体を特徴づける。「われわれの星々（unseren Sternen）」「われわれの墓（unsere Gräber）」——詩人と友人ハインリヒの二人が共に没落へと向かう。この「われわれ」はトラークルの詩では稀な表現で、通常は三人称や非人称が好まれる。「An Karl Borromäus Heinrich」という献辞と合わせて、この詩は友情と共同的運命の詩として読める。\n\n詩のイメージ連鎖：白い池→野生の鳥の飛去→夕べの氷の風→「われわれの星」→「われわれの墓」→「夜の砕けた額」→棕梠の下の銀の舟→白い城壁→茨の拱門→「O兄弟よ」→「盲目の時針（blinde Zeiger）」→真夜中へ。「blinde Zeiger gen Mitternacht（真夜中に向かって登る盲目の時針）」という最終行はトラークルの詩行の中で最も広く引用される句の一つ。フランツ・フューマンが1982年の著作「Der Sturz des Engels（天使の墜落）」の冒頭章でこの2行を繰り返し強迫的に引用したことで知られる。\n\n「夜の砕けた額（die zerbrochene Stirne der Nacht）」——額（Stirne）はトラークルにおいて意識・精神・自己の座であり、「砕けた（zerbrochene）」という形容は精神の崩壊を直接示す。「夜」がその砕けた額を「墓の上に傾ける（beugt sich über unsere Gräber）」——これは嘆きの身振りであり同時に圧迫の身振り。棕梠（Palmen）はトラークルの詩では異郷・死後の楽園・幻覚的南国として機能し、「銀の舟（silbernen Kahn）」とともに死の川を渡るという神話的モチーフを呼び起こすが、「揺れる（schaukeln）」という動詞の不安定さがそれを夢・錯覚の水準に留める。「白い城壁（weißen Mauern der Stadt）」は「Abendländisches Lied」の城塞イメージと接続し、「茨の拱門（Dornenbogen）」はキリストの茨の冠の転位として読める。\n\nSebastian im Traum「Siebengesang des Todes」章における位置：「Untergang」は章の中程に配され、直前に「Geistliche Dämmerung（霊的薄明）」、直後に「An einen Frühverstorbenen（早世者への）」が続く。「Abendländisches Lied」「Verklärung」と同章に並ぶことで、没落（Untergang）→変容（Verklärung）の弁証法的緊張が章全体に張られる。",
+  "keywords": ["没落", "われわれ", "友情", "盲目の時針", "真夜中", "砕けた額", "棕梠", "銀の舟", "茨の拱門", "An Karl Borromäus Heinrich"],
+  "relatedTexts": [
+    "trakl_verklaerung",
+    "trakl_abendlaendisches_lied",
+    "trakl_grodek",
+    "trakl_an_novalis",
+    "trakl_sebastian_im_traum"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Über den weißen Weiher\nSind die wilden Vögel fortgezogen.\nAm Abend weht von unseren Sternen ein eisiger Wind.\nÜber unsere Gräber\nBeugt sich die zerbrochene Stirne der Nacht.\nUnter Palmen schaukeln wir auf einem silbernen Kahn.",
+      "provisionalTranslation": "白い池の上を\n野生の鳥たちが飛び去った。\n夕べにわれわれの星々から氷の風が吹く。\nわれわれの墓の上に\n夜の砕けた額が傾く。\n棕梠の下でわれわれは銀の舟の上で揺れる。"
+    },
+    {
+      "id": 2,
+      "originalText": "Immer klingen die weißen Mauern der Stadt.\nUnter Dornenbogen\nO mein Bruder klimmen wir blinde Zeiger gen Mitternacht.",
+      "provisionalTranslation": "白い城壁が常に鳴り響く。\n茨の拱門の下で\nああ兄弟よ、われわれは盲目の時針として真夜中へ登る。"
+    }
+  ]
+}

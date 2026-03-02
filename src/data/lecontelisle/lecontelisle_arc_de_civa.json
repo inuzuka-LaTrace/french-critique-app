@@ -1,0 +1,124 @@
+{
+  "id": "lecontelisle_arc_de_civa",
+  "title": "L'Arc de Civa",
+  "author": "Charles-Marie Leconte de Lisle",
+  "source": "Poèmes antiques, Alphonse Lemerre, 1886 (初版: Librairie de Marc Ducloux, 1852)",
+  "year": "1852",
+  "firstPublication": "Poèmes antiques, 1852",
+  "difficulty": "中級",
+  "category": "leconte_de_lisle",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★☆☆",
+  "context": "ルコント・ド・リール『ポエム・アンティーク』（1852）所収のインド叙事詩的長詩。『ラーマーヤナ』の挿話に基づき、老王ダシャラタの命を受けてラクシュマナが兄ラーマを探し出し、両人はミティラーの都でジャナカ王の試練──シヴァ神の弓を張り弦を鳴らすこと──に臨む。弓を折ることで勝利したラーマはシータと結婚する権利を得る。四行スタンザ（クァトラン）を基本単位とし、アレクサンドランと8音節詩行を交互に組み合わせる構成。「科学的詩学」に基づく精密なインド神話再構成の典型例。",
+  "keywords": [
+    "ラーマーヤナ",
+    "ラーマ",
+    "シヴァ",
+    "ダシャラタ",
+    "ラクシュマナ",
+    "シータ",
+    "インド神話",
+    "高踏派",
+    "叙事詩",
+    "弓試し"
+  ],
+  "relatedTexts": [
+    "lecontelisle_surya",
+    "lecontelisle_midi",
+    "lecontelisle_l_illusion_supreme",
+    "baudelaire_heroisme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Le vieux Daçaratha, sur son siège d'érable,\nDepuis trois jours entiers, depuis trois longues nuits,\nImmobile, l'oeil cave et lourd d'amers ennuis,\nCourbe sa tête vénérable.\n\nSon dos maigre est couvert de ses grands cheveux blancs,\nEt sa robe est souillée. Il l'arrache et la froisse.\nPuis il gémit tout bas, pressant avec angoisse\nSon coeur de ses deux bras tremblants.\n\nA l'ombre des piliers aux lignes colossales,\nOù le lotus sacré s'épanouit en fleurs,\nSes femmes, ses guerriers respectent ses douleurs,\nMuets, assis autour des salles.\n\nLe vieux Roi dit : Je meurs de chagrin consumé.\nQu'on appelle Rama, mon fils plein de courage !\nTous se taisent. Les pleurs inondent son visage.\nIl dit : O mon fils bien aimé !",
+      "provisionalTranslation": "老王ダシャラタは楓の玉座に座し、\n三日三晩もの間、\nくぼんだ目を重い憂愁に曇らせたまま、\n身動きもせずその尊い頭を垂れている。\n\n痩せた背には白髪が覆いかぶさり、\n衣は汚れている。彼はそれを引き裂き揉みしだく。\nそして苦悶しながら震える両腕で\n胸を押さえながら低くうめいている。\n\n巨大な柱の影の下、\n聖なる蓮が花開くその場所で、\n王妃たちも戦士たちも彼の悲しみを慮り、\n無言のまま広間の周りに座っている。\n\n老王は言った。悲しみに燃え尽きながら死にゆく。\nラーマを呼べ、勇敢なる我が息子を！\n皆が黙る。涙がその顔に溢れる。\n彼は言う。おお愛する我が息子よ！"
+    },
+    {
+      "id": 2,
+      "originalText": "Lève-toi, Lakçmana ! Attelle deux cavales\nAu char de guerre, et prends ton arc et ton carquois.\nVa ! Parcours les cités, les montagnes, les bois,\nAu bruit éclatant des cymbales.\n\nDis à Rama qu'il vienne. Il est mon fils aîné,\nLe plus beau, le plus brave, et l'appui de ma race.\nEt mieux vaudrait pour toi, si tu manques sa trace,\nMalheureux ! n'être jamais né.\n\nLe jeune homme aux yeux noirs, se levant plein de crainte,\nFranchit en bondissant les larges escaliers ;\nIl monte sur son char avec deux cymbaliers,\nEt fuit hors de la Cité sainte.",
+      "provisionalTranslation": "立て、ラクシュマナよ！戦車に二頭の牝馬を繋ぎ、\n弓と矢筒を携えよ。\n行け！シンバルの鳴り響く中、\n都市を、山々を、森々を駆け巡れ。\n\nラーマに来るよう伝えよ。彼は私の長男、\n最も美しく、最も勇敢で、我が一族の支柱。\nもし彼の足跡を見失うならば、\n哀れな者よ、生まれてこなかった方がましであろう。\n\n黒い目をした青年は恐れつつも立ち上がり、\n広い階段を跳び越え、\nシンバル奏者を二人連れて戦車に乗り込み、\n聖なる都市の外へと疾駆した。"
+    },
+    {
+      "id": 3,
+      "originalText": "Tandis que l'attelage aux jarrets vigoureux\nHennit et court, il songe en son âme profonde :\nQue ferai-je ? Où trouver, sur la face du monde,\nRama, mon frère généreux ?\n\nCertes, la terre est grande, et voici bien des heures\nQue l'exil l'a chassé du palais paternel,\nEt que sa douce voix, par un arrêt cruel,\nN'a retenti dans nos demeures.\n\nTel Lakçmana médite. Et pourtant, jour et nuit,\nIl traverse cités, vallons, montagne et plaine.\nChaque cavale souffle une brûlante haleine,\nEt leur poil noir écume et luit.",
+      "provisionalTranslation": "逞しい脚の馬たちが嘶きながら駆ける中、\n彼は心の奥深くで思いを巡らす。\nどうすればよいのか。世界の広さの中で\n心優しき兄ラーマをどこに見つければよいのか。\n\n確かに大地は広大で、\n流謫が彼を父の宮殿から追い出してから\nすでに長い時間が過ぎ、\nその甘い声は残酷な命令のもとで我らの住処に響かない。\n\nこのようにラクシュマナは思案する。しかし日夜を問わず\n彼は都市を、谷を、山を、平野を渡る。\n各牝馬は熱い息を吐き出し、\nその黒い毛は泡立ち輝いている。"
+    },
+    {
+      "id": 4,
+      "originalText": "Avez-vous vu Rama, laboureurs aux mains rudes ?\nEt vous, filles du fleuve aux îlots de limons ?\nEt vous, fiers cavaliers qui descendez des monts,\nChasseurs des hautes solitudes ?\n\nNon ! nous étions courbés sur le sol nourricier.\nNon ! nous lavions nos corps dans l'eau qui rend plus belles.\nNon, Radjah ! nous percions les daims et les gazelles\nEt le léopard carnassier.",
+      "provisionalTranslation": "ラーマを見ましたか、岩がちな手の耕作者たちよ？\nそしてあなた方は、泥の島々の河の娘たちよ？\nそしてあなた方は、山を下りてくる誇り高い騎馬の者たちよ、\n高い孤独の猟師たちよ？\n\nいいえ！私たちは糧を与える大地に身をかがめていました。\nいいえ！私たちは美しくなる水で体を洗っていました。\nいいえ、王子様！私たちは牡鹿とガゼルを\nそして肉食の豹を射ていました。"
+    },
+    {
+      "id": 5,
+      "originalText": "Et Lakçmana soupire en poursuivant sa route.\nIl a franchi les champs où germe et croît le riz ;\nIl s'enfonce au hasard dans les sentiers fleuris\nDes bois à l'immobile voûte.\n\nAvez-vous vu Rama, Contemplateurs pieux,\nL'archer certain du but, brave entre les plus braves ?\nNon ! le rêve éternel a fermé nos yeux caves,\nEt nous n'avons vu que les Dieux !\n\nA travers les nopals aux tiges acérées,\nEt les buissons de ronce, et les rochers épars,\nEt le taillis épais inaccessible aux chars,\nIl va par les forêts sacrées.",
+      "provisionalTranslation": "ラクシュマナは道を進みながらため息をつく。\n彼は稲が芽吹き育つ田を渡ってきた。\n彼は静かな丸天井をなす森の\n花咲く小道へと当てどなく分け入る。\n\nラーマを見ましたか、敬虔な瞑想者たちよ、\n確実に的を射る弓使い、勇敢な者の中でも最も勇敢な者を？\nいいえ！永遠の夢がくぼんだ我らの目を閉じ、\n我らは神々しか見ていません！\n\n鋭い茎を持つサボテンを突き抜け、\n茨の茂みと散在する岩々を越え、\n車が入れない密生した藪を抜けて、\n彼は聖なる森々を行く。"
+    },
+    {
+      "id": 6,
+      "originalText": "Mais voici qu'un cri rauque, horrible, furieux,\nTrouble la solitude où planait le silence.\nLe jeune homme frémit dans son coeur, et s'élance,\nTendant l'oreille, ouvrant les yeux.\n\nUn Rakças de Lanka, noir comme un ours sauvage,\nLes cheveux hérissés, bondit dans le hallier.\nIl porte une massue et la fait tournoyer,\nEt sa bouche écume de rage.\n\nEn face, roidissant son bras blanc et nerveux,\nLe grand Rama sourit et tend son arc qui ploie,\nEt sur son large dos, comme un nuage, ondoie\nL'épaisseur de ses longs cheveux.",
+      "provisionalTranslation": "そのとき、沈黙が漂う孤独を\n嗄れた、恐ろしい、激しい叫びが破る。\n青年は胸の中でふるえ、飛び出した、\n耳を立て、目を見開きながら。\n\nランカーのラークシャサが、野生の熊のように黒く、\n逆立った髪で、藪の中に飛び出してきた。\n彼は棍棒を手に振り回し、\nその口は怒りで泡立っている。\n\n向かいで、白く逞しい腕を張り、\n偉大なるラーマは微笑んでたわむ弓を引き、\n広い背中の上に、雲のように、\n豊かな長い髪が波打つ。"
+    },
+    {
+      "id": 7,
+      "originalText": "Un pied sur un tronc d'arbre échoué dans les herbes,\nL'autre en arrière, il courbe avec un mâle effort\nL'arme vibrante, où luit, messagère de mort,\nLa flèche aux trois pointes acerbes.\n\nSoudain, du nerf tendu part en retentissant\nLe trait aigu. L'éclair a moins de promptitude.\nEt le Rakças rejette, en mordant le sol rude,\nSa vie immonde avec son sang.",
+      "provisionalTranslation": "草の中に横たわる木の幹に片足を乗せ、\nもう一方を後ろに引き、彼は男らしい力で\n震える武器を張る。そこには死を告げる使者、\n三つの鋭い刃を持つ矢が光る。\n\n突然、張られた弦から\n鋭い矢が鳴り響いて放たれる。稲妻よりも素早く。\nラークシャサは荒れた地面を噛みながら、\n穢れた命をその血とともに投げ出した。"
+    },
+    {
+      "id": 8,
+      "originalText": "Rama Daçarathide, honoré des Brahmanes,\nToi dont le sang est pur et dont le corps est blanc,\nDit Lakçmana, salut, dompteur étincelant\nDe toutes les races profanes !\n\nSalut, mon frère aîné, toi qui n'as point d'égal !\nO purificateur des forêts ascétiques,\nDaçaratha, courbé sous les ans fatidiques,\nGémit sur son siège royal.\n\nLes larmes dans les yeux, il ne dort ni ne mange ;\nLa pâleur de la mort couvre son noble front.\nIl t'appelle : ses pleurs ont lavé ton affront,\nMon frère, et sa douleur te venge.\n\nRama lui dit : J'irai. Tous deux sortent des bois\nOù gît le noir Rakças dans les herbes humides,\nEt montent sur le char aux sept jantes solides,\nQui crie et cède sous leur poids.",
+      "provisionalTranslation": "バラモンに称えられるダシャラタの子ラーマよ、\nその血は清く、その体は白い者よ、\nとラクシュマナは言った。万歳、輝く征服者よ、\nあらゆる不浄な民族を制する者よ！\n\n万歳、我が兄よ、比べる者のない者よ！\n苦行の森々を清める者よ、\n運命の歳月に押しつぶされたダシャラタが\n王の玉座でうめいている。\n\n涙を目に浮かべ、眠らず食べようともせず、\n死の蒼白が彼の気高い額を覆っている。\n彼はあなたを呼んでいる。その涙はあなたへの侮辱を洗い流した、\n兄よ、そして彼の悲しみはあなたの仇をとる。\n\nラーマは言った。行こう。両人は森から出る、\n濡れた草の中に黒いラークシャサが横たわっている場所から。\nそして二人は七本の重厚な輪を持つ戦車に乗り込む。\n二人の重さで車は軋み傾く。"
+    },
+    {
+      "id": 9,
+      "originalText": "La forêt disparaît. Ils franchissent vallées,\nFleuves, plaines et monts ; et, tout poudreux, voilà\nQu'ils s'arrêtent devant la grande Mytila\nAux cent pagodes crénelées.\n\nD'éclatantes clameurs emplissent la cité,\nEt le Roi les accueille et dit : Je te salue,\nChef des guerriers, effroi de la race velue\nToute noire d'iniquité !\n\nPuisses-tu, seul de tous, tendre, à Daçarathide,\nL'arc immense d'or pur que Civa m'a donné !\nMa fille est le trésor par les Dieux destiné\nA qui ploîra l'arme splendide.",
+      "provisionalTranslation": "森が消える。彼らは谷々を、\n川を、平野を、山々を渡る。そして埃まみれのまま、\n百の葛城をもつ偉大なミティラーの城前に\n停まる。\n\n輝かしい喝采が都市に満ちる。\n王は彼らを迎えて言う。貴殿に挨拶しよう、\n戦士の長よ、毛深い種族の恐怖よ、\n不正で全身真っ黒な者たちの。\n\n皆の中でただ一人、ダシャラタの子よ、\nシヴァが我に与えた広大な純金の弓を張ることができますように！\n我が娘は神々が定めたる宝、\nこの輝かしい武器を曲げることのできる者への。"
+    },
+    {
+      "id": 10,
+      "originalText": "Je briserai cet arc comme un rameau flétri ;\nLes Dêvas m'ont promis la plus belle des femmes !\nIl saisit l'arme d'or d'où jaillissent des flammes,\nEt la tend d'un bras aguerri.\n\nEt l'arc ploie et se brise avec un bruit terrible.\nLa foule se prosterne et tremble. Le Roi dit :\nPuisse un jour Ravana, sept fois vil et maudit,\nTomber sous ta flèche invincible !\n\nSois mon fils. - Et l'époux immortel de Sita,\nGrâce aux Dieux incarnés qui protègent les justes,\nPlein de gloire, revit ses demeures augustes\nEt le vieux roi Daçaratha.",
+      "provisionalTranslation": "この弓を枯れた小枝のように折ってみせよう。\nデーヴァたちは私に最も美しい女性を約束した！\n彼は炎が走る金の武器を掴み、\n鍛えられた腕でそれを引き絞る。\n\n弓はたわみ、恐ろしい轟音とともに折れる。\n群衆は平伏してふるえる。王は言う。\nいつの日かラーヴァナが、七重に卑劣で呪われた者が、\nあなたの無敵の矢の前に倒れますように！\n\n我が子となれ。──こうしてシータの不滅の夫は、\n正しき者を守る化身の神々のおかげで、\n栄光に満ちて、崇高な住処へと\nそして老王ダシャラタのもとへと戻った。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "詩形は四行スタンザ（quatrain）を基本単位とし、アレクサンドラン（12音節）×3行と8音節詩行×1行を交互に配置する。この変形クァトランはルコント・ド・リールの叙事詩的詩篇に特徴的で、ラシーヌ的な古典的威厳と物語的流動性を両立させる。長詩全体で10スタンザ構成。出典は『ラーマーヤナ』第一編（バーラカーンダ）のシータ・スヴァヤンヴァラ（花嫁選び）の挿話。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Le vieux Daçaratha",
+      "body": "「ダシャラタ（Daçaratha）」はラーマの父、アヨーディヤーの王。名はサンスクリットで「十頭の車」を意味し、十頭の戦車を操る者の意。ラーマを14年間の流謫に出すことになった経緯がある（前妻ケーケーイーへの約束により）。詩はその苦悩の一場面から始まる。ルコント・ド・リールはサンスクリット語の固有名詞をフランス語に音写して使用し、詩の「異国情緒」の効果とともに学術的正確性を追求している。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Avez-vous vu Rama, laboureurs aux mains rudes ?",
+      "body": "探索の場面で、ラクシュマナは耕作者・河の娘・猟師・瞑想者という異なる社会的階層に順次問いかける。各問いに対して否定の答えが返る──この「問いと否定の連鎖」は叙事詩的定型表現で、テクストにリトルネッロ的なリズムを与える。ルコント・ド・リールは『ラーマーヤナ』原典の反復的な叙事詩的語法をフランス語の詩形に翻案している。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "Un Rakças de Lanka",
+      "body": "「ランカーのラークシャサ（Rakças de Lanka）」──ラークシャサはヒンドゥー神話における鬼神・悪霊。ランカー（スリランカに比定される島）は魔王ラーヴァナの本拠地。詩の末尾でラーヴァナへの言及が伏線として回収される──小さな戦闘（ラークシャサとの対決）が長い戦争（ラーマ対ラーヴァナ）の予告として機能する叙事詩的構造。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Et l'arc ploie et se brise avec un bruit terrible.",
+      "body": "「弓がたわみ、恐ろしい轟音とともに折れる」──詩の頂点となる行動。「シヴァの弓（L'Arc de Civa）」というタイトル自体がこの瞬間を指す。弓を折るという行為は英雄的試練（試練と選別）の典型的モチーフで、ギリシャ神話のオデュッセウスの弓試し（ペーネロペーへの求婚者選び）と構造的に対応する──ルコント・ド・リールの「科学的詩学」がインドとギリシャの神話を並列的に扱う視点を示す。",
+      "type": "commentary"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「L'Arc de Civa」は同詩集の「Sûryâ」と対をなす。「スーリャ」が讃歌・宇宙論的形式（太陽神への直接呼びかけ）であるのに対し、「シヴァの弓」は三人称叙事詩形式（物語の再構成）──両者は古代インドの詩的モードの二極をフランス語詩形で示す。ホフマンスタールの「わが子への詩（Verse auf ein kleines Kind）」との比較において、ルコント・ド・リールの詩が個人的感情を完全に排除しているのに対し、ホフマンスタールは神話的語彙の中に個人的感慨を滲ませる──両者の詩学的差異が現れる。",
+      "targetId": "lecontelisle_surya",
+      "targetParagraphId": null
+    }
+  ]
+}

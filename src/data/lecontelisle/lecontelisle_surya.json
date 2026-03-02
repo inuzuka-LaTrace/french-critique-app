@@ -1,0 +1,95 @@
+{
+  "id": "lecontelisle_surya",
+  "title": "Sûryâ",
+  "author": "Charles-Marie Leconte de Lisle",
+  "source": "Poèmes antiques, Alphonse Lemerre, 1886 (初版: Librairie de Marc Ducloux, 1852)",
+  "year": "1852",
+  "firstPublication": "Poèmes antiques, 1852",
+  "difficulty": "中級",
+  "category": "leconte_de_lisle",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★☆☆",
+  "context": "ルコント・ド・リール『古代詩集』（Poèmes antiques, 1852）の巻頭を飾るヴェーダ讃歌。サンスクリット語で太陽神を意味する「スーリャ（Sûryâ）」へのフランス語による讃歌で、『リグ・ヴェーダ』の太陽賛歌（Sûrya-sûkta）に基づく。四連構成の各連後に同一のルフランが挿入される讃歌形式を採用。印象派・高踏派の詩学に則り、個人的感情を排して古代インドの宇宙論的スケールを再構成した。太陽神の眠り・覚醒・天空行進・沈降という一日の循環を圧倒的なヴィジョンで描く。",
+  "keywords": [
+    "スーリャ",
+    "太陽神",
+    "ヴェーダ讃歌",
+    "インド神話",
+    "高踏派",
+    "讃歌",
+    "アウローラ",
+    "アプサラス",
+    "ポエム・アンティーク",
+    "ルフラン"
+  ],
+  "relatedTexts": [
+    "lecontelisle_midi",
+    "lecontelisle_l_illusion_supreme",
+    "lecontelisle_arc_de_civa",
+    "baudelaire_elevation",
+    "hoelderlin_brot_und_wein"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Ta demeure est au bord des océans antiques,\nMaître ! Les grandes Eaux lavent tes pieds mystiques.\n\nSur ta face divine et ton dos écumant\nL'Abîme primitif ruisselle lentement.\nTes cheveux qui brûlaient au milieu des nuages,\nParmi les rocs anciens déroulés sur les plages,\nPendent en noirs limons, et la houle des mers\nEt les vents infinis gémissent au travers.\nSûryâ ! Prisonnier de l'Ombre infranchissable,\nTu sommeilles couché dans les replis du sable.\nUne haleine terrible habite en tes poumons ;\nElle trouble la neige errante au flanc des monts ;\nDans l'obscurité morne en grondant elle affaisse\nLes astres submergés par la nuée épaisse,\nEt fais monter en choeur les soupirs et les voix\nQui roulent dans le sein vénérable des bois.\n\nTa demeure est au bord des océans antiques,\nMaître ! Les grandes Eaux lavent tes pieds mystiques.",
+      "provisionalTranslation": "あなたの住処は古代の海の岸辺にあり、\n主よ！偉大なる大水があなたの神秘の御足を洗う。\n\nあなたの神々しい御顔と泡立つ御背に\n太古の深淵がゆっくりと流れ落ちる。\n雲の中で燃えていたあなたの髪は、\n浜辺に広がる古い岩々の間に\n黒い泥濘となって垂れ下がり、海の波濤と\n無限の風がその中をうめきながら吹き抜ける。\nスーリャよ！越えられぬ闇の囚人よ、\nあなたは砂の褶曲の中に横たわり眠る。\nあなたの肺に恐ろしい息吹が宿っている。\nそれは山腹をさまよう雪を乱し、\n暗い闇の中でとどろきながら、濃い雲に\n沈められた星々を傾け、\n森の尊い懐に漂う嘆きと声を\n合唱させながら立ち上らせる。\n\nあなたの住処は古代の海の岸辺にあり、\n主よ！偉大なる大水があなたの神秘の御足を洗う。"
+    },
+    {
+      "id": 2,
+      "originalText": "Elle vient, elle accourt, ceinte de lotus blancs,\nL'Aurore aux belles mains, aux pieds étincelants ;\nEt tandis que, songeur, près des mers tu reposes,\nElle lie au char bleu les quatre Vaches roses.\nVois ! Les palmiers divins, les érables d'argent,\nEt les frais nymphéas sur l'eau vive nageant,\nLa vallée où pour plaire entrelaçant leurs danses\nTournent les Apsaras en rapides cadences,\nPar la nue onduleuse et molle enveloppés,\nS'éveillent, de rosée et de flamme trempés.\nPour franchir des sept cieux les larges intervalles,\nAttelle au timon d'or les sept fauves Cavales,\nSecoue au vent des mers un reste de langueur,\nEclate, et lève-toi dans toute ta vigueur !\n\nTa demeure est au bord des océans antiques,\nMaître ! Les grandes Eaux lavent tes pieds mystiques.",
+      "provisionalTranslation": "彼女が来る、白い蓮を腰に巻いた彼女が駆けてくる、\n美しい手と輝く足を持つアウローラが。\nあなたが夢想しながら海の傍らで休んでいる間に、\n彼女は青い車に四頭の薔薇色の牝牛を繋ぐ。\n見よ！神々しい椰子の木、銀の楓、\nそして生き生きとした水面を漂う清らかな睡蓮よ、\n揺れる薄布に包まれながら、\nアプサラスたちが速い拍子で踊りを絡ませる谷が、\n露と炎に濡れながら目覚めてゆく。\n七つの天の広い間隔を渡り越えるために、\n金の轅に七頭の黄褐色の牝馬を繋ぎ、\n海風の中で残る倦怠を振り払い、\n輝き出し、力の限り立ち上がれ！\n\nあなたの住処は古代の海の岸辺にあり、\n主よ！偉大なる大水があなたの神秘の御足を洗う。"
+    },
+    {
+      "id": 3,
+      "originalText": "Mieux que l'oiseau géant qui tourne au fond des cieux,\nTu montes, ô guerrier, par bonds victorieux ;\nTu roules comme un fleuve, ô Roi, source de l'Etre !\nLe visible infini que ta splendeur pénètre,\nEn houles de lumière ardemment agité,\nPalpite de ta force et de ta majesté.\nDans l'air flambant, immense, oh ! que ta route est belle\nPour arriver au seuil de la Nuit éternelle !\nQuand ton char tombe et roule au bas du firmament,\nQue l'horizon sublime ondule largement !\nO Sûryâ ! Ton corps lumineux vers l'eau noire\nS'incline, revêtu d'une robe de gloire ;\nL'Abîme te salue et s'ouvre devant toi :\nDescends sur le profond rivage et dors, ô Roi !\n\nTa demeure est au bord des océans antiques,\nMaître ! Les grandes Eaux lavent tes pieds mystiques.",
+      "provisionalTranslation": "天空の奥を旋回する巨鳥よりも遠く、\nあなたは戦士よ、勝利の跳躍で昇ってゆく。\nあなたは川のように転がる、おお王よ、存在の源よ！\nあなたの輝きが貫く目に見える無限が、\n光の波濤となって熱烈に揺れ動き、\nあなたの力と威厳に脈打っている。\n燃え立つ広大な大気の中で、おお、何と美しい道であろう\n永遠の夜の敷居へと至るその道は！\nあなたの車が天球の底へと落ちくだるとき、\n何と崇高な地平が大きく波打つことか！\nおおスーリャよ！あなたの輝く体が黒い水へと\n栄光の衣を纏ったまま傾いてゆく。\n深淵があなたに挨拶をし、あなたの前に開く。\n深い岸辺に降り立ち、眠れ、おお王よ！\n\nあなたの住処は古代の海の岸辺にあり、\n主よ！偉大なる大水があなたの神秘の御足を洗う。"
+    },
+    {
+      "id": 4,
+      "originalText": "Guerrier resplendissant, qui marches dans le ciel\nA travers l'étendue et le temps éternel ;\nToi qui verses au sein de la Terre robuste\nLe fleuve fécondant de ta chaleur auguste,\nEt sièges vers midi sur les brûlants sommets,\nRoi du monde, entends-nous, et protège à jamais\nLes hommes au sang pur, les races pacifiques\nQui te chantent au bord des océans antiques !",
+      "provisionalTranslation": "輝ける戦士よ、天空を歩む者よ、\n広大な空間と永遠の時を越えて。\n大地の懐に\nあなたの崇高な熱の恵みの川を注ぐ者よ、\n燃える山頂に正午近く座する者よ、\n世界の王よ、我らの声を聞き、永遠に守りたまえ、\n清らかな血を持つ人々を、平和な民族を、\n古代の海の岸辺であなたを讃え歌う者たちを！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "「スーリャ」はサンスクリットで太陽神を意味し、インド・ヨーロッパ語族共通の語根から派生する。詩はアレクサンドランの対句（alexandrins à rimes plates）を基調とし、各連後に同一のルフラン（Ta demeure est au bord des océans antiques / Maître ! Les grandes Eaux lavent tes pieds mystiques）が繰り返される──『リグ・ヴェーダ』の讃歌構造を踏まえた形式。ルコント・ド・リールは1852年版序文で「個人的感情の詩的表出を回避し、科学と詩の同盟を目指す」と宣言しており、この詩はその宣言の最初の実践例。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "L'Abîme primitif",
+      "body": "「太古の深淵（Abîme primitif）」──ヴェーダ宇宙論における原初の大海（サムドラ）への言及。太陽神スーリャは夜の間この深淵に沈んでいると考えられた。マラルメ「骰子一擲」の「深淵（Abîme）」と同一語が使われるが、機能は逆で──マラルメでは創造的な虚無として、ルコント・ド・リールでは宇宙的な根源の場所として。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "les quatre Vaches roses",
+      "body": "「四頭の薔薇色の牝牛（les quatre Vaches roses）」──ヴェーダ神話における夜明けの女神ウシャス（Ushas、詩ではフランス語でAurore＝アウローラ）が率いる牛の群れ。リグ・ヴェーダの讃歌では夜明けが「光の牛を解き放つ」と描写される。「アプサラス（Apsaras）」は水と雲の精霊で、ルコント・ド・リールがサンスクリット語彙をほぼそのまま詩に導入している──これが彼の「科学的詩学」の具体的方法。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Tu roules comme un fleuve, ô Roi, source de l'Etre !",
+      "body": "「あなたは川のように転がる、おお王よ、存在の源よ！」──太陽が「存在の源（source de l'Etre）」として定義される。高踏派の宇宙論的・非人格的な詩学を示す核心的詩行。ボードレールの「高翔」（Élévation）では詩人が太陽と同化して上昇するが、ルコント・ド・リールでは詩人の主観は完全に排除され、神話的存在の運動だけが描かれる──両者の詩学的差異を示す対照点。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Roi du monde, entends-nous, et protège à jamais\nLes hommes au sang pur, les races pacifiques",
+      "body": "詩の末尾に初めて一人称複数「我ら（nous）」が現れ、讃歌として太陽神への祈願で締め括られる。「清らかな血を持つ人々（hommes au sang pur）」という表現は、ルコント・ド・リールのヴェーダ解釈における「アーリア人」概念の反映──19世紀のインド学（orientalisme）が持つ人種論的含意を内包しており、今日の読解では批判的文脈化が必要。同時にこれは詩人が自らを古代讃歌の詠唱者の末裔として位置づけるジェスチャーでもある。",
+      "type": "commentary"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「スーリャ」は同じ『ポエム・アンティーク』に収録される「L'Arc de Civa」とともにインド神話組としての対を成す。「スーリャ」が讃歌・宇宙論的形式であるのに対し、「L'Arc de Civa」は叙事詩的・物語的形式──同一の詩集の中で古代インドの二つの詩的モードを示す。「Midi」との比較では、太陽崇拝というテーマを共有しながら、「Midi」がギリシャ的・無時間的静寂を描くのに対し、「スーリャ」はヴェーダ的・循環的な運動を描く。",
+      "targetId": "lecontelisle_arc_de_civa",
+      "targetParagraphId": null
+    }
+  ]
+}

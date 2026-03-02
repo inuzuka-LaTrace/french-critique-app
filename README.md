@@ -1,1 +1,1 @@
-# modern-text-parallel-tranlation
+# modern-text-parallel-translation

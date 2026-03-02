@@ -1,0 +1,158 @@
+{
+  "id": "rimbaud_le_bateau_ivre",
+  "title": "Le Bateau ivre",
+  "author": "Arthur Rimbaud",
+  "source": "Poésies complètes, L. Vanier, Paris, 1895 (初刊); テキスト底本：manuscrit Verlaine（ヴェルレーヌ手書き写本・1871年）およびVanier 1895年版を対照。初出：Lutèce, 2-9 novembre 1883",
+  "year": "1871",
+  "firstPublication": "Lutèce, 2-9 novembre 1883 (初出誌掲載); Poésies complètes, L. Vanier, 1895 (初刊本)",
+  "difficulty": "上級",
+  "category": "rimbaud",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ランボーが1871年秋（17歳）、パリのヴェルレーヌのもとへ向かう直前にシャルルヴィルで書いた詩。25カトラン100行、アレクサンドランの交差韻。ランボーは自分を売り込む「名刺」としてヴェルレーヌにこの詩を送った。一人称の船（bateau）が語り手──川を下り、引き綱（haleurs）が切れ、嵐の海へと解放される。詩は「解放→幻視の連鎖→疲弊→帰還不可能の宣言」という四段の運動を25連で実現する。マラルメは「Divagations」（1897）でこの詩を論じ、「当時すでにできていた」と証言──「Bateau ivre」の時点でランボーの革命は完成していたと述べる。詩の最後「Si je désire une eau d'Europe」連では「ヨーロッパの水」として求めるのが黒く冷たい水たまりの中の「子供が放つ紙の小船（un bateau frêle comme un papillon de mai）」──これが詩全体の自己引用であり、詩の破壊と子供への回帰という二重の意味を持つ。",
+  "keywords": [
+    "酔いどれ船",
+    "解放",
+    "幻視",
+    "海",
+    "詩人=船",
+    "「Je sais」「J'ai vu」",
+    "ヴォワイヤン（詩人-予言者）",
+    "疲弊",
+    "帰還不可能",
+    "マラルメ証言"
+  ],
+  "relatedTexts": [
+    "rimbaud_saison_prologue",
+    "verlaine_poetes_maudits_rimbaud",
+    "baudelaire_elevation",
+    "baudelaire_harmonie_du_soir",
+    "mallarme_crise_de_vers",
+    "hoelderlin_brot_und_wein"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Comme je descendais des Fleuves impassibles,\nJe ne me sentis plus guidé par les haleurs :\nDes Peaux-Rouges criards les avaient pris pour cibles,\nLes ayant cloués nus aux poteaux de couleurs.\n\nJ'étais insoucieux de tous les équipages,\nPorteur de blés flamands ou de cotons anglais.\nQuand avec mes haleurs ont fini ces tapages,\nLes Fleuves m'ont laissé descendre où je voulais.\n\nDans les clapotements furieux des marées,\nMoi, l'autre hiver, plus sourd que les cerveaux d'enfants,\nJe courus ! Et les Péninsules démarrées\nN'ont pas subi tohu-bohus plus triomphants.\n\nLa tempête a béni mes éveils maritimes.\nPlus léger qu'un bouchon j'ai dansé sur les flots\nQu'on appelle rouleurs éternels de victimes,\nDix nuits, sans regretter l'œil niais des falots !",
+      "provisionalTranslation": "無感動な川を下っていくにつれて、\n私はもはや引き綱に導かれていると感じなくなった。\n叫ぶインディアンたちが引き手を標的にしていた、\n彼らを丸裸で彩色した杭に釘付けにして。\n\n私はフランドルの小麦やイギリスの綿の運び屋として、\nすべての乗組員に無頓着だった。\n引き手たちとこの騒ぎが終わったとき、\n川は私を好きなところへ下らせた。\n\n潮の激しい波音の中で、\n私は、昨年の冬、子供の頭より耳が遠くなって、走った！\nそして外れた半島たちも\nこれほど大得意のごった返しは経験しなかった。\n\n嵐が私の海上の目覚めを祝福した。\nコルクより軽く、私は波の上で踊った、\n永遠の犠牲者の転がし屋と呼ばれる波の上で、\n十夜、灯台の間抜けな目を惜しみもせず！"
+    },
+    {
+      "id": 2,
+      "originalText": "Plus douce qu'aux enfants la chair des pommes sûres,\nL'eau verte pénétra ma coque de sapin\nEt des taches de vins bleus et des vomissures\nMe lava, dispersant gouvernail et grappin.\n\nEt dès lors, je me suis baigné dans le Poème\nDe la Mer, infusé d'astres, et lactescent,\nDévorant les azurs verts ; où, flottaison blême\nEt ravie, un noyé pensif parfois descend ;\n\nOù, teignant tout à coup les bleuités, délires\nEt rythmes lents sous les rutilements du jour,\nPlus fortes que l'alcool, plus vastes que nos lyres,\nFermentent les rousseurs amères de l'amour !",
+      "provisionalTranslation": "酸いりんごの実が子供たちに甘いよりも甘く、\n緑の水が私のもみの木の船体に浸み込み、\n青ワインの染みと嘔吐物が\n私を洗い、舵と鈎錨を散らした。\n\nそれ以来、私は海の詩の中に浸かっている、\n星が染み込み、乳白色の詩の中に、\n緑の青空を貪り食いながら。そこに、青白い\n恍惚とした漂流として、物思いにふける溺死者が時おり降りてくる。\n\nそこに、青さを突然染め上げながら、錯乱と\n日の輝きの下の遅いリズムが、\nアルコールより強く、私たちのリラより広く、\n愛の苦い茶褐色が発酵する！"
+    },
+    {
+      "id": 3,
+      "originalText": "Je sais les cieux crevant en éclairs, et les trombes\nEt les ressacs et les courants : je sais le soir,\nL'Aube exaltée ainsi qu'un peuple de colombes,\nEt j'ai vu quelquefois ce que l'homme a cru voir !\n\nJ'ai vu le soleil bas, taché d'horreurs mystiques,\nIlluminant de longs figements violets,\nPareils à des acteurs de drames très antiques\nLes flots roulant au loin leurs frissons de volets !\n\nJ'ai rêvé la nuit verte aux neiges éblouies,\nBaiser montant aux yeux des mers avec lenteurs,\nLa circulation des sèves inouïes,\nEt l'éveil jaune et bleu des phosphores chanteurs !",
+      "provisionalTranslation": "私は雷に裂かれる空と、たつまきと\n砕け波と海流を知っている。私は夕暮れを知っている、\n鳩の群れのように高揚した夜明けを知っている、\nそして時おり私は人間が見たと思ったものを見た！\n\n私は低い太陽が神秘的な恐怖に汚染され、\n長い紫の凝固を照らすのを見た、\n遥か遠くに鎧戸の震えを転がす波が\n古代悲劇の俳優に似て！\n\n私は夢見た、緑の夜を、眩しい雪を、\n海の目へとゆっくり登る接吻を、\n途方もない樹液の循環を、\nそして歌う燐光の黄と青の目覚めを！"
+    },
+    {
+      "id": 4,
+      "originalText": "J'ai suivi, des mois pleins, pareille aux vacheries\nHystériques, la houle à l'assaut des récifs,\nSans songer que les pieds lumineux des Maries\nPussent forcer le mufle aux Océans poussifs !\n\nJ'ai heurté, savez-vous, d'incroyables Florides\nMêlant aux fleurs des yeux de panthères à peaux\nD'hommes ! Des arcs-en-ciel tendus comme des brides\nSous l'horizon des mers, à de glauques troupeaux !\n\nJ'ai vu fermenter les marais énormes, nasses\nOù pourrit dans les joncs tout un Léviathan !\nDes écroulements d'eaux au milieu des bonaces,\nEt les lointains vers les gouffres cataractant !\n\nGlaciers, soleils d'argent, flots nacreux, cieux de braises !\nÉchouages hideux au fond des golfes bruns\nOù les serpents géants dévorés des punaises\nChoient, des arbres tordus, avec de noirs parfums !",
+      "provisionalTranslation": "何ヶ月もかけて、ヒステリックな牛小屋のような\n礁への突撃の大波に従った、\n聖母マリアたちの輝く足が\n息切れした海洋の鼻面を押さえつけられるとも思わずに！\n\n私はぶつかった、ご存知ですか、信じられないフロリダに、\n人間の皮を持つ豹の目を花に混ぜながら！\n馬勒のように張られた虹が\n海の地平線の下に、青白い群れに！\n\n私は巨大な沼地が発酵するのを見た、巣罠、\nそこで葦の中に一頭のレヴィアタン全体が腐る！\n凪の真っ只中の水の崩落、\nそして彼方が滝のように深淵へ傾いていく！\n\n氷河、銀の太陽、真珠母貝の波、燃え盛る空！\n茶色い入り江の底の醜い座礁、\nそこに南京虫に食われる巨大な蛇が\n黒い香りとともに、曲がった木から落ちる！"
+    },
+    {
+      "id": 5,
+      "originalText": "J'aurais voulu montrer aux enfants ces dorades\nDu flot bleu, ces poissons d'or, ces poissons chantants.\n- Des écumes de fleurs ont bercé mes dérades\nEt d'ineffables vents m'ont ailé par instants.",
+      "provisionalTranslation": "子供たちに見せたかった、青い波のこれらのシイラを、\nこれらの金色の魚、これらの歌う魚を。\n──花の泡が私の流れ出しを揺り籠に揺らし、\n言葉にできない風が時おり私に翼を与えた。"
+    },
+    {
+      "id": 6,
+      "originalText": "Parfois, martyr lassé des pôles et des zones,\nLa mer dont le sanglot faisait mon roulis doux\nMontait vers moi ses fleurs d'ombre aux ventouses jaunes\nEt je restais, ainsi qu'une femme à genoux...\n\nPresqu'île, ballottant sur mes bords les querelles\nEt les fientes d'oiseaux clabaudeurs aux yeux blonds.\nEt je voguais, lorsqu'à travers mes liens frêles\nDes noyés descendaient dormir, à reculons !",
+      "provisionalTranslation": "時おり、極地と海域に疲れた殉教者、\nその嘆きが私の心地よい揺れを作っていた海が、\n黄色い吸盤をもつ影の花を私へと差し上げ、\n私は膝をついた女のように留まっていた……\n\nほとんど島として、岸辺で揺れながら、\nブロンドの目を持つ騒がしい鳥たちの口論と糞を。\nそして私は航行した、私の脆い絆を通り抜けながら、\n溺死者たちが後ろ向きに眠りに下りてくるとき！"
+    },
+    {
+      "id": 7,
+      "originalText": "Or moi, bateau perdu sous les cheveux des anses,\nJeté par l'ouragan dans l'éther sans oiseau,\nMoi dont les Monitors et les voiliers des Hanses\nN'auraient pas repêché la carcasse ivre d'eau ;\n\nLibre, fumant, monté de brumes violettes,\nMoi qui trouais le ciel rougeoyant comme un mur\nQui porte, confiture exquise aux bons poètes,\nDes lichens de soleil et des morves d'azur ;\n\nQui courais, taché de lunules électriques,\nPlanche folle, escorté des hippocampes noirs,\nQuand les juillets faisaient crouler à coups de triques\nLes cieux ultramarins aux ardents entonnoirs ;",
+      "provisionalTranslation": "さて私は、入り江の髪の下に迷った船、\nハリケーンによって鳥のないエーテルに投げ込まれた、\n私の水に酔った残骸を\n装甲艦もハンザ同盟の帆船も引き揚げなかっただろう。\n\n自由に、煙を上げ、紫の霞に運ばれ、\n私は赤く輝く空に穴を開けた、壁のように、\n善良な詩人への上等なジャムとして\n太陽の地衣類と青空の鼻水を運ぶ壁に。\n\n電気的な弓形に汚れ、走りながら、\n狂った板として、黒い海馬に護衛されながら、\n七月が棍棒の一撃で崩壊させるとき\n熱い漏斗へと群青の空を。"
+    },
+    {
+      "id": 8,
+      "originalText": "Moi qui tremblais, sentant geindre à cinquante lieues\nLe rut des Béhémots et les Maelstroms épais,\nFileur éternel des immobilités bleues,\nJe regrette l'Europe aux anciens parapets !\n\nJ'ai vu des archipels sidéraux ! et des îles\nDont les cieux délirants sont ouverts au vogueur :\n- Est-ce en ces nuits sans fonds que tu dors et t'exiles,\nMillion d'oiseaux d'or, ô future Vigueur ?\n\nMais, vrai, j'ai trop pleuré ! Les Aubes sont navrantes.\nToute lune est atroce et tout soleil amer :\nL'âcre amour m'a gonflé de torpeurs enivrantes.\nÔ que ma quille éclate ! Ô que j'aille à la mer !",
+      "provisionalTranslation": "私は震えながら、五十リュー先でベヘモット（海獣）の\n発情と厚い渦巻きが呻くのを感じながら、\n青い静寂の永遠の紡ぎ手として、\n私は古い欄干のヨーロッパが恋しい！\n\n私は星座の群島を見た！そして島々を、\nその狂乱した空が航海者に開かれている島々を。\n──この底のない夜々の中で汝は眠り亡命するのか、\n百万羽の金の鳥よ、おお未来の活力よ？\n\nしかし本当に、私は泣きすぎた！夜明けは心を打ち砕く。\nすべての月は残酷で、すべての太陽は苦い。\n辛辣な愛が私を酔わせる倦怠で膨らませた。\nおお、竜骨が砕けよ！おお、私が海に出よ！"
+    },
+    {
+      "id": 9,
+      "originalText": "Si je désire une eau d'Europe, c'est la flache\nNoire et froide où vers le crépuscule embaumé\nUn enfant accroupi plein de tristesse, lâche\nUn bateau frêle comme un papillon de mai.\n\nJe ne puis plus, baigné de vos langueurs, ô lames,\nEnlever leur sillage aux porteurs de cotons,\nNi traverser l'orgueil des drapeaux et des flammes,\nNi nager sous les yeux horribles des pontons.",
+      "provisionalTranslation": "もし私がヨーロッパの水を望むなら、それは黒く\n冷たい水たまりだ、香り立つ夕暮れに向かって\n悲しみに満ちてうずくまった子供が、放つ\n五月の蝶のように儚い小舟を。\n\nもはや私にはできない、あなたがたの倦怠に浸かりながら、おお波よ、\n綿の運び手たちからその航跡を奪うことも、\n旗と炎の誇りを横切ることも、\n浮き橋の恐ろしい目の下で泳ぐことも。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "25カトラン（四行詩）100行、アレクサンドラン（12音節）交差韻（ABAB）──形式は古典的高踏派の正統を守りながら、内容が形式を爆破する構造。ランボーがこの詩を「名刺」としてヴェルレーヌに送ったとき（1871年9月）、当時16歳（まもなく17歳）の詩人はパリに一度も行ったことがなく、海も見たことがなかった──「酔いどれ船」の幻視は完全に書物・想像・「ヴォワイヤン（詩人-予言者）論」の実践から生まれた。「Je courus！（走った！）」という感嘆符付き短文が長行の間に挿入される構文──アレクサンドランの流れを突然の短絡で破る技法は、マラルメ「詩語の危機」が後に「ヴェルスのクリーズ」として論じる形式的解体の先行実践。マラルメは「Divagations」（1897）でこの詩を「当時すでにできていた（Le Bateau Ivre était fait à l'époque, déjà）」と証言し、ランボーの革命が「Bateau ivre」の時点で完成していたと述べる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Comme je descendais des Fleuves impassibles,\nJe ne me sentis plus guidé par les haleurs :",
+      "body": "詩の最初の二行が全体の構造原理を設定する。「Fleuves impassibles（無感動な川）」──川が「無感動（impassible）」であることで、川という自然が感情的反応を持たない他者として定義される。「haleurs（引き手）」──運河の船を陸から引く人夫。船（詩人）は川（自然）に導かれるのでも自らの意志で動くのでもなく、「引き手」という社会的・経済的拘束に支配されていた──その拘束が切れることで詩が始まる。この「拘束の切断による解放」という構造が「Une saison en enfer」プロローグの「Je me suis armé contre la justice. Je me suis enfui（私は正義に向かって武装した。私は逃げた）」と同型──ランボーの詩的解放は常に「逃走」として始まる。「Des Peaux-Rouges criards（叫ぶインディアンたち）」──ランボーが実際に見たことのない「新大陸」の幻想的形象。フェニモア・クーパー『モヒカン族の最後』等の冒険小説から来る。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Et dès lors, je me suis baigné dans le Poème\nDe la Mer, infusé d'astres, et lactescent,",
+      "body": "「海の詩（le Poème de la Mer）」──「Poème」の大文字表記が決定的。海そのものが「詩」として定義される──詩人が「海の詩に浸かる（baigné dans le Poème de la Mer）」ことは、詩を読む・書くのでなく詩の中に物理的に浸ることを意味する。「lactescent（乳白色の）」──海の白泡を牛乳の白さに例える形容詞（ラテン語 lac＝乳）。「infusé d'astres（星が染み込んだ）」「lactescent（乳白色の）」という二重の光学的・液体的形容が「海の詩」を宇宙的・身体的な流体として定義する。ボードレール「旅への誘い（L'Invitation au voyage）」の「そこはすべてが秩序と美、豊かさ、静けさ、官能（Là, tout n'est qu'ordre et beauté, / Luxe, calme et volupté）」という理想化された旅と対照的に、ランボーの「海の詩」は「嘔吐物（vomissures）」「青ワインの染み（taches de vins bleus）」による浄化から始まる──美化でなく汚染による洗礼。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Je sais les cieux crevant en éclairs, et les trombes\nEt j'ai vu quelquefois ce que l'homme a cru voir !",
+      "body": "「Je sais（私は知っている）」「J'ai vu（私は見た）」という動詞の反復連鎖──§3-4に集中する「知覚の目録」構造。「J'ai vu quelquefois ce que l'homme a cru voir（私は時おり人間が見たと思ったものを見た）」──「l'homme a cru voir（人間が見たと思った）」というフレーズが、一般的な人間の知覚に対する「船＝詩人」の知覚の優越を宣言する。しかしこれは単純な優越でなく、「人間が見たと信じた（cru voir）」というエピステモロジー的な留保付き──「実際に見た」でなく「人間が見たと思っていたものと同じものを見た」という微妙な差異。ランボーの「ヴォワイヤン（詩人-予言者）」論（1871年5月の「見者の手紙（Lettre du voyant）」）の詩的実践──「ありとあらゆる感覚の長く、計画的な、理性的な錯乱（un long, immense et raisonné dérèglement de tous les sens）」によって「未知のものを見る」。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "J'ai heurté, savez-vous, d'incroyables Florides\nMêlant aux fleurs des yeux de panthères à peaux\nD'hommes !",
+      "body": "「J'ai heurté, savez-vous（私はぶつかった、ご存知ですか）」──「savez-vous（ご存知ですか）」という突然の読者への呼びかけが詩の中に異物として挿入される。この語りかけは詩的没我（詩人が海と一体化する）を一瞬破断させる──「私はぶつかった、聞いてますか、信じられないフロリダに」という宣言が、幻視の宣言でありながら同時に幻視の奇妙さを読者と共有しようとする社交的ジェスチャーとして機能する。「人間の皮を持つ豹の目（yeux de panthères à peaux d'hommes）」──形容詞と名詞が「皮（peaux）」を介して動物と人間の間で分裂する複合形象。共感覚的・幻視的イメージの典型。「�croyables Florides（信じられないフロリダ）」──地名の形容詞化（「フロリダ的な」でなく「信じられないフロリダ」）が地理的現実と幻想的空間の間を揺れる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "J'aurais voulu montrer aux enfants ces dorades\nDu flot bleu, ces poissons d'or, ces poissons chantants.",
+      "body": "「J'aurais voulu（したかった）」──条件法過去、詩全体で最初の後悔・不可能の語法。それまでの「Je sais / J'ai vu / J'ai suivi / J'ai heurté」という直説法現在・複合過去の連鎖（知覚と行為の肯定的連鎖）が、この連で初めて「できなかった」という形に転じる──幻視の目録から疲弊・後悔への転換点。「子供たちに見せたかった（montrer aux enfants）」──「子供（enfants）」という語の出現が重要：§9「悲しみに満ちてうずくまった子供（Un enfant accroupi plein de tristesse）」への伏線。幻視の絶頂期に「子供への回帰」が潜在的欲望として現れる──これが「酔いどれ船」の詩的プロジェクト全体の亀裂点。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Presqu'île, ballottant sur mes bords les querelles\nEt les fientes d'oiseaux clabaudeurs aux yeux blonds.",
+      "body": "「Presqu'île（ほとんど島）」──詩の最も詩学的な形象のひとつ。「presque（ほとんど）」という副詞が名詞（île＝島）に付される結果、「ほとんど島・もはや半島」という中間状態の形象が生まれる──完全に海に解放された船でも、陸に繋がれた船でもない中間的存在として船（詩人）が定義される。疲弊の段階での自己規定：自由でも不自由でもない「ほとんど」の状態。「騒がしい鳥たちの糞（fientes d'oiseaux clabaudeurs）」──「鳥の糞」という完全に非詩的・物質的なイメージが「Poème de la Mer」（§2）の宇宙的幻視と並置される。詩的美化から物質的卑俗への落下──「Une saison en enfer」プロローグで美が「苦かった」という発見と同じ構造。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Or moi, bateau perdu sous les cheveux des anses,\nJeté par l'ouragan dans l'éther sans oiseau,",
+      "body": "「Or moi（さて私は）」──§18連（7段落冒頭）で詩の構造的転換が起きる。「Or（さて・ところで）」という接続詞が新しい叙述段階を開く。以後三連（18-20連）で船（詩人）は三重の「Moi qui（私は……した）」という自己定義の連鎖に入る：「Moi, bateau perdu（迷った船たる私）」「Libre, fumant（自由に、煙を上げ）」「Qui courais（走っていた私）」──これはプロローグの「Je me suis allongé…Je me suis séché…J'ai joué」連鎖と同型の一人称自己定義の反復。しかしここでの自己定義は「過去の絶頂体験の想起」として機能する：§21「Je regrette l'Europe（ヨーロッパが恋しい）」という後悔の前に置かれた自己賞賛は、後悔をより深くするための準備。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Moi qui tremblais, sentant geindre à cinquante lieues\nLe rut des Béhémots et les Maelstroms épais,\nFileur éternel des immobilités bleues,\nJe regrette l'Europe aux anciens parapets !",
+      "body": "「Fileur éternel des immobilités bleues（青い静寂の永遠の紡ぎ手）」──詩全体で最も凝縮した自己定義。「Fileur（紡ぎ手）」という動詞的名詞が「永遠（éternel）」と「青い静寂（immobilités bleues）」という相反する形容と結びつく：「動く紡ぎ手」が「静止した青さ」を紡ぐ──運動と静止の逆説的統合として詩人（船）の本質が定義される。「Je regrette l'Europe aux anciens parapets（古い欄干のヨーロッパが恋しい）！」──第22連の詩の最大の転換点。「Ô sorcières, ô misère（魔女よ、惨めさよ）」と逃れようとした「ヨーロッパ」へ、詩人は後悔として戻ろうとする──解放が後悔を生み、後悔が解放の価値を逆説的に確認するという循環。「J'ai vu des archipels sidéraux（星座の群島を見た）！」──幻視の頂点として機能するが、直後に「Mais, vrai, j'ai trop pleuré（しかし本当に、泣きすぎた）」という失墜が来る。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Si je désire une eau d'Europe, c'est la flache\nNoire et froide où vers le crépuscule embaumé\nUn enfant accroupi plein de tristesse, lâche\nUn bateau frêle comme un papillon de mai.",
+      "body": "詩の最も有名な連のひとつ──詩全体の自己引用的な結末。「ヨーロッパの水」として唯一望まれるのが「黒く冷たい水たまり（flache noire et froide）」と「子供が放つ紙の小舟（un bateau frêle comme un papillon de mai）」──詩全体（「酔いどれ船」）が「子供の放った紙の小舟」として遡及的に再定義される。「子供が放つ」という行為は、詩人が詩（Bateau ivre）を書く行為の像：「悲しみに満ちてうずくまった子供（Un enfant accroupi plein de tristesse）」はランボー自身の子供時代（シャルルヴィル・アルデンヌの内陸の町の少年、海を知らない）の像として読める。「五月の蝶のように儚い小舟（un bateau frêle comme un papillon de mai）」──詩の最初に「引き手に拘束された運搬船」として始まった船（bateau）が、最後に「紙の小舟（bateau frêle）」として縮小・純化される：社会的機能から詩的純粋さへの移行、しかし同時に「儚さ（frêle）」の承認。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "ボードレール「高揚（Élévation）」との詩学的対話：「Élévation」では詩人の精神が「湖・峡谷・森・雲（lacs, vallons, forêts, nuages）」を越えて「苦もなく、苦悩もなく（sans effort, sans peur）」上昇するのに対し、「Bateau ivre」の船は「嵔吐物に洗われ（vomissures me lava）」「溺死者とともに（noyés descendaient dormir）」「糞を積んで（fientes d'oiseaux）」漂流する──詩的上昇の汚染・物質化。ヘルダーリン「パンと葡萄酒（Brot und Wein）」との比較：どちらも「神々の不在の時代」における詩人の条件を主題とし、「暗闇の夜（Nacht）」と「夜明け（Aube）」の間の詩的空間を探索する。しかしヘルダーリンが「聖なる夜」の神聖さを保持するのに対し、ランボーの「夜明けは心を打ち砕く（Les Aubes sont navrantes）」は夜明けの脱神聖化を宣言する。マラルメ「詩語の危機（Crise de vers）」との接続：マラルメが「言語の音と意味の間に亀裂がある」ことを理論的に提示するのに対し、「Bateau ivre」は「紙の小舟（bateau frêle）」という詩の自己引用によって「詩とは何か」を詩の中で問う──詩の自己反省的（méta-poétique）構造の実践的先行。",
+      "targetId": "baudelaire_elevation",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "intertextual",
+      "anchor": "J'aurais voulu montrer aux enfants ces dorades",
+      "body": "「verlaine_poetes_maudits_rimbaud」との接続：ヴェルレーヌ「呪われた詩人たち」第4章（ランボー篇）でヴェルレーヌはこの詩を「最も完璧なランボーの詩」と評し、「完全な感覚の錯乱（complet dérèglement des sens）」の実践として論じる。ヴェルレーヌが「Bateau ivre」の手書き写本を保管していたこと（manuscrit Verlaine）が、この詩の正確なテキスト確立に決定的な役割を果たした──詩人と批評家、詩と批評という二重の関係。",
+      "targetId": "verlaine_poetes_maudits_rimbaud",
+      "targetParagraphId": null
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "rimbaud_saison_l_eclair",
+  "title": "Une saison en enfer — L'Éclair",
+  "author": "Arthur Rimbaud",
+  "source": "Une saison en enfer, Alliance Typographique (M.-J. Poot et Compagnie), Bruxelles, 1873. テキスト底本：François Bon による1873年初版原典数値化版",
+  "year": "1873",
+  "firstPublication": "Une saison en enfer, Bruxelles, 1873年10月",
+  "difficulty": "上級",
+  "category": "rimbaud",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "「地獄のある季節」第8章。「L'Impossible」の後、「Matin」「Adieu」の前に置かれる。詩集全体の構造的転換点──「雷光（éclair）」というタイトルが示すように、一瞬の閃光として「労働」「科学」「救済」の可能性が点滅し、即座に消える。散文3節のみの最短章のひとつ。「労働（le travail humain）」から始まり「傲慢（orgueil）」「反乱（révolte）」を経て、「哀れな魂よ、永遠は失われたのではないか」という問いで終わる──「Matin」の「一度だけ、ある若さがあった」という転回への直接の準備。",
+  "keywords": [
+    "雷光",
+    "労働",
+    "科学",
+    "コヘレト",
+    "傲慢",
+    "反乱",
+    "永遠",
+    "地獄の季節",
+    "最短章",
+    "転換点"
+  ],
+  "relatedTexts": [
+    "rimbaud_saison_prologue",
+    "rimbaud_saison_matin",
+    "rimbaud_le_bateau_ivre",
+    "baudelaire_spleen",
+    "mallarme_angoisse",
+    "lecontelisle_les_raisons_du_saint_pere"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Le travail humain ! c'est l'explosion qui éclaire mon abîme de temps en temps.\n« Rien n'est vanité ; à la science, et en avant ! » crie l'Ecclésiaste moderne, c'est-à-dire Tout le monde. Et pourtant les cadavres des méchants et des fainéants tombent sur le cœur des autres...",
+      "provisionalTranslation": "人間の労働！──それが時おり私の深淵を照らす爆発だ。\n「何も虚しくない。科学へ、前進せよ！」と現代の伝道の書、すなわちあらゆる人が叫ぶ。しかしそれでも、悪人と怠け者の死体が他の者たちの心の上に落ちてくる……"
+    },
+    {
+      "id": 2,
+      "originalText": "Ah ! vite, vite un peu ; là-bas, par-delà la nuit, ces récompenses futures, éternelles... les échappons-nous ?...\n— Qu'y puis-je ? Je connais le travail ; et la science est trop lente. Que la prière galope et que la lumière gronde... je le vois bien. C'est trop simple, et il fait trop chaud ; on se passera de moi. J'ai mon devoir, j'en serai fier à la façon de plusieurs, en le mettant de côté.\nMa vie est usée. Allons ! feignons, fainéantons, ô pitié ! Et nous existerons en nous amusant, en rêvant amours monstres et univers fantastiques, en nous plaignant et en querellant les apparences du monde, saltimbanque, mendiant, artiste, bandit, — prêtre !\nSur mon lit d'hôpital, l'odeur de l'encens m'est revenue si puissante ; gardien des aromates sacrés, confesseur, martyr...\nJe reconnais là ma sale éducation d'enfance. Puis quoi !... Aller mes vingt ans, si les autres vont vingt ans...",
+      "provisionalTranslation": "ああ！急いで、少し急いで。あそこ、夜の彼方に、あの未来の永遠の報い……私たちはそれから逃れるのか……\n──私に何ができるというのか？私は労働を知っている。そして科学は遅すぎる。祈りが疾走し光が轟くとよい……よく分かる。あまりにも単純で、暑すぎる。私なしでやっていくだろう。私には義務がある。多くの人の流儀でそれを誇りにしよう、脇に置きながら。\n私の人生は使い果たされた。さあ！ふりをしよう、怠けよう、おお憐れみよ！そして私たちは楽しみながら、怪物的な愛と幻想的な宇宙を夢見ながら、世界の外観に不満を言い争いながら生きていこう──軽業師、乞食、芸術家、盗賊、──司祭！\n病院のベッドで、香の匂いが戻ってきた、これほど強く。聖なる芳香の守護者、告解聴聞者、殉教者……\nそこに私は子供時代の汚れた教育を認める。それで何だというのか！……二十歳を行こう、他の者が二十歳を行くなら……"
+    },
+    {
+      "id": 3,
+      "originalText": "Non ! non ! à présent je me révolte contre la mort ! Le travail paraît trop léger à mon orgueil : ma trahison au monde serait un supplice trop court. Au dernier moment, j'attaquerais à droite, à gauche...\nAlors, — oh ! — chère pauvre âme, l'éternité serait-elle pas perdue pour nous !",
+      "provisionalTranslation": "いや！いや！今や私は死に対して反乱を起こす！労働は私の傲慢には軽すぎるように見える。世界への私の裏切りはあまりにも短い苦しみになるだろう。最後の瞬間に、私は右へ左へ攻撃するだろう……\nそのとき──ああ！──哀れで愛しき魂よ、永遠は私たちにとって失われたのではないのか！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "「地獄のある季節」全9章の中で最短の章のひとつ──散文3節のみ。「L'Impossible」の長い哲学的迂回（東洋・西洋・近代精神）の後に、「L'Éclair（雷光）」というタイトルが示す通り、一瞬の閃光として議論が圧縮される。タイトル「éclair」は複数の意味を持つ：雷光・閃光・瞬間的な理解・菓子のエクレア（これは無関係）。詩集の構造的位置として「反乱（révolte）」の最後の叫びを担う──「Matin（朝）」では「一度だけある若さがあった」という回想で語り口が転換するため、「L'Éclair」の「いや！いや！」という叫びは地獄内部の最後の抵抗として機能する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "« Rien n'est vanité ; à la science, et en avant ! » crie l'Ecclésiaste moderne",
+      "body": "「現代の伝道の書（l'Ecclésiaste moderne）」──旧約聖書「コヘレト（Ecclésiaste）」の有名な冒頭「空の空、すべては空（Vanité des vanités, tout est vanité）」への直接の転倒。コヘレトが「すべては虚しい」と説くのに対し、「現代の伝道の書＝あらゆる人（Tout le monde）」は「何も虚しくない。科学へ！」と叫ぶ──19世紀実証主義・進歩主義思想（コント、スペンサー）への皮肉的要約。「c'est-à-dire Tout le monde（すなわちあらゆる人）」という注釈が個人の思想でなく時代の集合的声として提示する。しかしその「科学の進歩」の陰で「悪人と怠け者の死体が他者の心に落ちる」──社会的進歩の言説と個人的疎外の現実の対照。「Les Raisons du Saint-Père」（ルコント・ド・リール）が宗教的権威の論理を内部から批判したのと同様、ランボーは近代進歩主義の論理を内部から解体する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "feignons, fainéantons, ô pitié ! Et nous existerons en nous amusant, en rêvant amours monstres et univers fantastiques, en nous plaignant et en querellant les apparences du monde, saltimbanque, mendiant, artiste, bandit, — prêtre !",
+      "body": "「ふりをしよう、怠けよう」から「軽業師、乞食、芸術家、盗賊、──司祭！」への列挙──社会的役割のパロディ的カタログ。この列挙はボードレール「旅（Le Voyage）」の「道化師、それとも聖人か」という二項対立を多項的に展開する。注目すべきは「芸術家（artiste）」が「盗賊（bandit）」と「司祭（prêtre）」の間に置かれること──詩的職業が「社会的逸脱」のカテゴリーの一つとして中立化される。「prêtre（司祭）！」の後のダッシュと感嘆符──リストの締めとして宗教的権威が「盗賊」と同列に置かれる。プロローグの「cher Satan」への呼びかけとの対照：プロローグではサタンに語りかけることで反宗教的立場を宣言したが、ここでは「司祭になる」というシミュレーションによって同じ批判的立場を表現する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Sur mon lit d'hôpital, l'odeur de l'encens m'est revenue si puissante",
+      "body": "「病院のベッドで香の匂いが戻った」──1873年7月のブリュッセルでの拳銃事件後、ランボーが聖リュック病院（Saint-Luc）に入院していた事実への自伝的参照。「香（encens）」は典礼的な香──病院で宗教的な香りを嗅ぐという経験が、「告解聴聞者（confesseur）、殉教者（martyr）」という宗教的役割の列挙へ続く。「je reconnais là ma sale éducation d'enfance（そこに私は子供時代の汚れた教育を認める）」──カトリック的教育への遡及的批判。「Mauvais sang」章の「私はガリアの先祖から」というアイデンティティの遡行と同型──幼少期の宗教教育の「汚れ（sale）」への還元。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Non ! non ! à présent je me révolte contre la mort ! Le travail paraît trop léger à mon orgueil",
+      "body": "「いや！いや！今や私は死に対して反乱を起こす！」──詩集全体で最も激しい叫び。二重否定の反復（Non! non!）がプロローグの「Ô sorcières, ô misère, ô haine」という三重感嘆と対応する。「死に対して反乱（révolte contre la mort）」──§2の「使い果たされた人生（ma vie est usée）」「怠けよう（fainéantons）」という諦念から突然の反転。しかしこの反乱は「傲慢（orgueil）」に根ざす──「労働は私の傲慢には軽すぎる（Le travail paraît trop léger à mon orgueil）」。つまり死への抵抗が「義務への帰還」でも「救済への希望」でもなく、純粋な傲慢（自己主張）として提示される。「chère pauvre âme, l'éternité serait-elle pas perdue pour nous（哀れで愛しき魂よ、永遠は失われたのではないか）！」──章の最後の問いが全体の到達点を先取りする。「Matin」での転回と「Adieu」での「現実を抱きしめる」という解答が、この問いへの応答として機能する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "ヴァレリー「詩学講義」の「行為と不定義なもの」論との対照：ヴァレリーが「制作行為（poïen）が詩の本質」と肯定的に定義するのに対し、ランボーの「L'Éclair」では「人間の労働（le travail humain）」が「時おり深淵を照らす爆発（l'explosion qui éclaire mon abîme de temps en temps）」として──つまり継続的な光源でなく非連続的な閃光として──定義される。「Bateau ivre」の「Je sais（知っている）」「J'ai vu（見た）」という知覚の肯定的蓄積と対照的に、「L'Éclair」では「Qu'y puis-je？（私に何ができるか）」という無力の問いが支配する──幻視（vision）から意志の喪失（désespoir）への移行が「地獄のある季節」全体の弧線を完成させる。",
+      "targetId": "valery_premiere_lecon_cours_de_poetique",
+      "targetParagraphId": null
+    }
+  ]
+}

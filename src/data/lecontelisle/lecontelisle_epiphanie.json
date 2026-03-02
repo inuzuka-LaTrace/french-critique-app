@@ -1,0 +1,100 @@
+{
+  "id": "lecontelisle_epiphanie",
+  "title": "Épiphanie",
+  "author": "Charles-Marie Leconte de Lisle",
+  "source": "Poèmes tragiques, Alphonse Lemerre, 1884 (増補版 1886, p. 66-67)",
+  "year": "1884",
+  "firstPublication": "Poèmes tragiques, Alphonse Lemerre, 1884",
+  "difficulty": "中級",
+  "category": "leconte_de_lisle",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★☆☆",
+  "context": "ルコント・ド・リール『悲劇詩集』所収の20行詩・5スタンザ。「顕現（Épiphanie）」というキリスト教の祝日名（東方の三博士によるキリストの顕現）を題名に持ちながら、内容はノルウェーの湖畔を通り過ぎる一人の女性の姿──喜びも悲しみも知らぬ「永遠に白き幻」の描写に終始する。高踏派の非人格的詩学を極限まで押し進めた「純粋なヴィジョンの詩」。女性は名を持たず、地上の感情を超越した霊的存在として描かれ、最終スタンザで「永遠の夜明けの橙の木の守護者」が彼女の通過を見守る。マラルメの「聖女（Sainte）」との詩学的近接が指摘される。",
+  "keywords": [
+    "顕現",
+    "ノルウェー",
+    "北極",
+    "白",
+    "幻影",
+    "超越",
+    "高踏派",
+    "純粋性",
+    "霊的美",
+    "橙の木の守護者"
+  ],
+  "relatedTexts": [
+    "lecontelisle_les_roses_d_ispahan",
+    "lecontelisle_le_parfum_imperissable",
+    "lecontelisle_l_illusion_supreme",
+    "mallarme_sainte",
+    "mallarme_apparition",
+    "verlaine_clair_de_lune"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Elle passe, tranquille, en un rêve divin,\nSur le bord du plus frais de tes lacs, ô Norvège !\nLe sang rose et subtil qui dore son col fin\nEst doux comme un rayon de l'aube sur la neige.",
+      "provisionalTranslation": "彼女は過ぎてゆく、穏やかに、神聖な夢の中で、\nおおノルウェーよ、汝の最も清らかな湖の岸辺を。\nその細い首を黄金色に染める薔薇色の微かな血は\n雪の上の夜明けの光線のように柔らかい。"
+    },
+    {
+      "id": 2,
+      "originalText": "Au murmure indécis du frêne et du bouleau,\nDans l'étincellement et le charme de l'heure,\nElle va, reflétée au pâle azur de l'eau\nQu'un vol silencieux de papillons effleure.",
+      "provisionalTranslation": "トネリコと白樺の不確かなざわめきの中、\nその時間の輝きと魅力の中で、\n彼女は進む、蝶たちの沈黙の飛翔がかすめる\n水の淡い青に映されながら。"
+    },
+    {
+      "id": 3,
+      "originalText": "Quand un souffle furtif glisse en ses cheveux blonds,\nUne cendre ineffable inonde son épaule ;\nEt, de leur transparence argentant leurs cils longs,\nSes yeux ont la couleur des belles nuits du Pôle.",
+      "provisionalTranslation": "ひそやかな息吹が金色の髪の中に滑り込むとき、\n言葉にならない灰が彼女の肩に降り注ぐ。\nそしてその透明さで長い睫毛を銀色に染め、\n彼女の目は極地の美しい夜の色をしている。"
+    },
+    {
+      "id": 4,
+      "originalText": "Purs d'ombre et de désir, n'ayant rien espéré\nDu monde périssable où rien d'ailé ne reste,\nJamais ils n'ont souri, jamais ils n'ont pleuré,\nCes yeux calmes ouverts sur l'horizon céleste.",
+      "provisionalTranslation": "影も欲望も持たず、はかない世界に\n翼あるものが何も残らないその世界に何も望まず、\n一度も微笑まず、一度も涙を流さなかった、\n天上の地平に向かって開かれたこれらの静かな目は。"
+    },
+    {
+      "id": 5,
+      "originalText": "Et le Gardien pensif du mystique oranger\nDes balcons de l'Aurore éternelle se penche,\nEt regarde passer ce fantôme léger\nDans les plis de sa robe immortellement blanche.",
+      "provisionalTranslation": "そして神秘の橙の木の物思わしげな守護者が\n永遠の夜明けのバルコニーから身を乗り出し、\nこの軽やかな幻が過ぎてゆくのを見守る、\n永遠に白きその衣の折り目の中を。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "5スタンザ20行、アレクサンドランの交互韻（ABAB）。詩全体が一つの動詞「passe（過ぎてゆく）」を起点とし、「va（進む）」を経て、最終スタンザで「regarde passer（過ぎてゆくのを見守る）」に至る──女性の通過という単一の動作が詩全体を貫く。「Épiphanie（顕現）」というタイトルは逆説的：キリスト教的「顕現」は神が人に姿を現すことだが、この詩では女性は「幻（fantôme）」として現れ、地上の感情（喜び・悲しみ）を一切持たないまま過ぎてゆく──「顕現しながら顕現しない」存在。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Sur le bord du plus frais de tes lacs, ô Norvège !",
+      "body": "北欧──特にノルウェー──の選択は詩の色調を決定する。19世紀フランス詩においてノルウェーはエキゾティスムの一極を担う：ペルシャ・インドが「熱と香り」の世界であるのに対し、スカンディナヴィアは「冷たさと光と透明性」の世界。「Sûryâ」のインド洋の太陽神、「Les Roses d'Ispahan」のペルシャの薔薇と並置するとき、この詩の極地的清涼感がルコント・ド・リールの地理的詩学の対極として位置づけられる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Une cendre ineffable inonde son épaule ;\nEt, de leur transparence argentant leurs cils longs,\nSes yeux ont la couleur des belles nuits du Pôle.",
+      "body": "「言葉にならない灰（cendre ineffable）」──「ineffable（言葉にならない）」はキリスト教神秘主義で神の本質を表す用語。「灰」は通常「消滅・死」を含意するが、ここでは光に近い「雪・霜・極地の白」のニュアンスを持つ。「極地の美しい夜の色（la couleur des belles nuits du Pôle）」──極夜（白夜の逆、一日中暗い夜）の色は深い藍色から紫・群青──感情のない「静かな目（yeux calmes）」の色として、熱帯の太陽でなく極地の冷光が選ばれる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Purs d'ombre et de désir, n'ayant rien espéré\nDu monde périssable où rien d'ailé ne reste,\nJamais ils n'ont souri, jamais ils n'ont pleuré",
+      "body": "詩の神学的核心──「影も欲望もなく、何も望まず、笑わず、泣かなかった」目という定義。この三重の否定（影・欲望・希望なし、笑いなし、涙なし）は感情の欠如でなく感情の超越として提示される。仏教的な「煩悩からの解脱」とキリスト教的な「原罪以前の純粋性」が重なる──「はかない世界（monde périssable）に翼あるものが何も残らない」という一行は、地上の喜びも悲しみも「翼があって過ぎ去るもの」として等しく定義することを意味する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Et le Gardien pensif du mystique oranger\nDes balcons de l'Aurore éternelle se penche",
+      "body": "「神秘の橙の木の物思わしげな守護者（le Gardien pensif du mystique oranger）」──詩で唯一、地上でも女性でもない存在の登場。「永遠の夜明けのバルコニー」という語は天上界を示す。「mystique oranger（神秘の橙の木）」はキリスト教の「生命の木（arbor vitae）」への暗示であると同時に、「Les Roses d'Ispahan」の「橙の木（oranger）」とも共鳴する──愛の喪失で香りを失った地上の橙の木に対して、こちらは永遠の夜明けの「神秘の橙の木」。女性は地上と天上の境界を「過ぎてゆく」存在として最後に確定される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "マラルメ「聖女（Sainte）」（1865）との詩学的近接が最も顕著。「聖女」では音楽を演奏しない聖女の指が「楽器としての翼のない天使」になるという非行為の形象化が行われ、この詩では「笑わず泣かなかった目」が「天上の地平に開かれた静かな目」になる──どちらも「非行為・無感情」を超越の記号として使う。ヴェルレーヌ「月光（Clair de lune）」との比較：「月光」では仮面を被った舞踏者たちが悲しみを歌いながら信じていないが、「顕現」の女性は感情そのものを超越している──高踏派的静謐とヴェルレーヌ的憂愁の詩学的距離。",
+      "targetId": "mallarme_sainte",
+      "targetParagraphId": null
+    }
+  ]
+}

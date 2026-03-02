@@ -1,0 +1,143 @@
+{
+  "id": "poe_ulalume",
+  "title": "Ulalume",
+  "author": "Edgar Allan Poe",
+  "source": "American Whig Review, December 1847 (初出、匿名); text from Complete Works of Edgar Allan Poe, ed. Thomas Ollive Mabbott, Harvard University Press, 1969",
+  "year": "1847",
+  "firstPublication": "American Whig Review, December 1847 (匿名掲載); Home Journal, January 1, 1848 (初めて著者名付き掲載)",
+  "difficulty": "上級",
+  "category": "poe",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "1847年に発表されたポーの最も難解な詩のひとつ。10スタンザ・不等行構造（各スタンザ9〜11行）。舞台は「10月の孤独な夜」、語り手は自分の「魂（Psyche）」を擬人化した分身とともに幻想的な森を彷徨い、アスタルテ（フェニキアの愛と月の女神）の星に誘われるまま歩いて、昨年の同じ夜に失った恋人「ウラルーム」の墓に辿り着く。「Ulalume」という名前は造語で、ラテン語「ululare（嘆き叫ぶ）」と「lumen（光）」の合成として詩の音響効果を担う。地名「Auber」「Weir」も造語──現実の地理でなく純粋に音響的・感情的な景観。「The Raven」が意識的な問いかけと答えの反復構造を持つのに対し、「Ulalume」は無意識的な彷徨と発見という構造──語り手は自分がいつの夜・どこにいるかを「知らない」まま歩き、終盤で記憶が回帰する。ヴァージニア・クレム（1847年1月没）への哀悼詩とされる。",
+  "keywords": [
+    "Ulalume",
+    "Psyche",
+    "アスタルテ",
+    "無意識の彷徨",
+    "記憶の回帰",
+    "造語地名",
+    "10月の森",
+    "墓",
+    "月の女神",
+    "魂の二分"
+  ],
+  "relatedTexts": [
+    "poe_the_raven",
+    "poe_annabel_lee",
+    "poe_israfel",
+    "baudelaire_spleen",
+    "mallarme_angoisse",
+    "trakl_ein_herbstabend"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "The skies they were ashen and sober;\nThe leaves they were crispéd and sere,\nThe leaves they were withering and sere;\nIt was night in the lonesome October\nOf my most immemorial year;\nIt was hard by the dim lake of Auber,\nIn the misty mid region of Weir:\nIt was down by the dank tarn of Auber,\nIn the ghoul-haunted woodland of Weir.",
+      "provisionalTranslation": "空は灰色で無彩だった。\n葉はちりちりと枯れていた、\n葉は萎びて枯れていた。\n孤独な10月の夜のことだった、\n私の最も記憶の果てしない年の。\nそれはオーベルの薄暗い湖の近く、\nウィアの霧の漂う中間地域で。\nそれはオーベルのじめじめした沼の傍ら、\nグールに憑かれたウィアの森の中でのことだった。"
+    },
+    {
+      "id": 2,
+      "originalText": "Here once, through an alley Titanic\nOf cypress, I roamed with my Soul—\nOf cypress, with Psyche, my Soul.\nThese were days when my heart was volcanic\nAs the scoriac rivers that roll,\nAs the lavas that restlessly roll\nTheir sulphurous currents down Yaanek\nIn the ultimate climes of the pole,\nThat groan as they roll down Mount Yaanek\nIn the realms of the boreal pole.",
+      "provisionalTranslation": "ここでかつて、糸杉の並ぶ\nタイタン的な小道を通り、私は自分の魂とともに彷徨った──\n糸杉の道を、プシュケー、私の魂とともに。\nこれらは私の心が火山のようだった頃のことで、\nゆっくりと流れる溶岩滓の河のように、\n静かに流れる溶岩が\nその硫黄の流れをヤーネク山から流し下ろすように、\n極地の果ての地で、\nボレアス（北風）の極地の王国で\nヤーネク山を流れ下りながら呻くように。"
+    },
+    {
+      "id": 3,
+      "originalText": "Our talk had been serious and sober,\nBut our thoughts they were palsied and sere,\nOur memories were treacherous and sere,\nFor we knew not the month was October,\nAnd we marked not the night of the year,\n(Ah, night of all nights in the year!)\nWe noted not the dim lake of Auber\n(Though once we had journeyed down here),\nRemembered not the dank tarn of Auber\nNor the ghoul-haunted woodland of Weir.",
+      "provisionalTranslation": "私たちの話は真剣で無彩だった、\nしかし私たちの思いは麻痺して枯れていた、\n私たちの記憶は裏切り者で枯れていた、\nなぜなら私たちは月が10月だと知らず、\n一年の夜を気に留めなかったから、\n（ああ、一年の夜のすべての夜！）\n私たちはオーベルの薄暗い湖に気づかず、\n（かつてここを下って旅したことがあるのに）、\nオーベルのじめじめした沼も覚えておらず、\nウィアのグールに憑かれた森も。"
+    },
+    {
+      "id": 4,
+      "originalText": "And now, as the night was senescent\nAnd star-dials pointed to morn,\nAs the star-dials hinted of morn,\nAt the end of our path a liquescent\nAnd nebulous lustre was born,\nOut of which a miraculous crescent\nArose with a duplicate horn,\nAstarte's bediamonded crescent\nDistinct with its duplicate horn.",
+      "provisionalTranslation": "そして今、夜が老いていくにつれ、\n星の時計が夜明けを指し、\n星の時計が夜明けを示唆するにつれ、\n私たちの道の果てに、流れるような\n朦朧とした輝きが生まれ、\nそこから奇跡的な三日月が\n二重の角を持って現れた、\nアスタルテのダイヤモンド散りばめた三日月が、\n二重の角をはっきりと持って。"
+    },
+    {
+      "id": 5,
+      "originalText": "And I said—\"She is warmer than Dian:\nShe rolls through an ether of sighs,\nShe revels in a region of sighs:\nShe has seen that the tears are not dry on\nThese cheeks, where the worm never dies,\nAnd has come past the stars of the Lion\nTo point us the path to the skies,\nTo the Lethean peace of the skies:\nCome up, in despite of the Lion,\nTo shine on us with her bright eyes:\nCome up through the lair of the Lion,\nWith love in her luminous eyes.\"",
+      "provisionalTranslation": "そして私は言った──「彼女はディアナより温かい。\n彼女はため息のエーテルの中を漂い、\nため息の領域で喜び楽しんでいる。\n彼女は見ている、涙がまだ乾いていないことを\nこの頬の上に、虫が決して死なないこの頬に、\n彼女はライオン座の星々を越えてやって来た、\n私たちに天への道を示すために、\n空の忘却の川の平和へと。\n来い、ライオンにもかかわらず、\nその輝く目で私たちを照らすために。\nライオンの巣窟を通って来い、\nその光り輝く目に愛を宿して。」"
+    },
+    {
+      "id": 6,
+      "originalText": "But Psyche, uplifting her finger,\nSaid—\"Sadly this star I mistrust:\nHer pallor I strangely mistrust:\nOh, hasten!—oh, let us not linger!\nOh, fly!—let us fly!—for we must.\"\nIn terror she spoke, letting sink her\nWings until they trailed in the dust;\nIn agony sobbed, letting sink her\nPlumes till they trailed in the dust,\nTill they sorrowfully trailed in the dust.",
+      "provisionalTranslation": "しかしプシュケーは指を持ち上げ、\n言った──「悲しいことに、この星を私は信じられない。\nその蒼白さを私は不思議なほど信じられない。\nおお、急いで！──ぐずぐずしないで！\nおお、逃げよ！──逃げよう！──そうしなければならない。」\n恐怖の中で彼女は語り、羽根を垂らした、\n翼が塵の中に引きずられるまで。\n苦悶の中で泣きじゃくり、羽根を垂らした、\n羽根が塵の中に引きずられるまで、\n悲しそうに塵の中に引きずられるまで。"
+    },
+    {
+      "id": 7,
+      "originalText": "I replied—\"This is nothing but dreaming:\nLet us on by this tremulous light!\nLet us bathe in this crystalline light!\nIts sibyllic splendor is beaming\nWith hope and in beauty to-night:\nSee, it flickers up the sky through the night!\nAh, we safely may trust to its gleaming,\nAnd be sure it will lead us aright:\nWe safely may trust to a gleaming\nThat cannot but guide us aright,\nSince it flickers up to Heaven through the night.\"",
+      "provisionalTranslation": "私は答えた──「これはただの夢に過ぎない。\nこの揺れる光に沿って進もう！\nこの水晶のような光に浴しよう！\nその巫女的な輝きは輝いている、\n今夜は希望と美をもって。\n見ろ、夜空をちらちらと輝いている！\nああ、私たちはその輝きを安全に信頼できる、\nきっと正しく導いてくれると確信して。\n私たちはその輝きを安全に信頼できる、\n正しく導かずにはいられない輝きを、\n夜を通して天へとちらちらと輝いているのだから。」"
+    },
+    {
+      "id": 8,
+      "originalText": "Thus I pacified Psyche and kissed her,\nAnd tempted her out of her gloom,\nAnd conquered her scruples and gloom;\nAnd we passed to the end of the vista,\nBut were stopped by the door of a tomb,\nBy the door of a legended tomb;\nAnd I said—\"What is written, sweet sister,\nOn the door of this legended tomb?\"\nShe replied—\"Ulalume—Ulalume—\n'T is the vault of thy lost Ulalume!\"",
+      "provisionalTranslation": "こうして私はプシュケーをなだめ口づけし、\n彼女を暗鬱な気持ちから誘い出し、\n彼女の躊躇いと暗鬱を征服した。\nそして私たちは遠景の果てまで進んだ、\nしかし墓の扉で止められた、\n言い伝えのある墓の扉で。\n私は言った──「何と書いてある、優しい姉妹よ、\nこの言い伝えのある墓の扉には？」\n彼女は答えた──「ウラルーム──ウラルーム──\nこれは汝の失われたウラルームの納骨堂だ！」"
+    },
+    {
+      "id": 9,
+      "originalText": "Then my heart it grew ashen and sober\nAs the leaves that were crisped and sere,\nAs the leaves that were withering and sere,\nAnd I cried—\"It was surely October\nOn this very night of last year\nThat I journeyed—I journeyed down here,\nThat I brought a dread burden down here:\nOn this night of all nights in the year,\nAh, what demon has tempted me here?\nWell I know, now, this dim lake of Auber,\nThis misty mid region of Weir:\nWell I know, now, this dank tarn of Auber,\nThis ghoul-haunted woodland of Weir.\"",
+      "provisionalTranslation": "するとこの心は灰色で無彩になった、\nちりちりと枯れた葉のように、\n萎びて枯れた葉のように。\nそして私は叫んだ──「確かに10月だった、\n昨年のまさにこの夜、\n私はここを下って旅した──旅した、\nここに恐ろしい重荷を運んできた。\n一年の夜のすべての夜に、\nああ、どんな悪魔が私をここに誘ったのか？\n今、よく知っている、このオーベルの薄暗い湖を、\nウィアのこの霧の漂う中間地域を。\n今、よく知っている、このオーベルのじめじめした沼を、\nウィアのこのグールに憑かれた森を。」"
+    },
+    {
+      "id": 10,
+      "originalText": "Said we, then—the two, then—\"Ah, can it\nHave been that the woodlandish ghouls,\nThe pitiful, the merciful ghouls,\nTo bar up our way and to ban it\nFrom the secret that lies in these wolds,\nFrom the thing that lies hidden in these wolds,\nHad drawn up the specter of a planet\nFrom the limbo of lunary souls,\nThis sinfully scintillant planet\nFrom the Hell of the planetary souls?\"",
+      "provisionalTranslation": "そして私たちは言った──二人で──「ああ、もしや\nそうだったのではないか、森のグールたちが、\n哀れな、慈悲深いグールたちが、\n私たちの道を塞ぎ閉ざすために、\nこの原野に横たわる秘密から、\nこの荒地に隠れているものから、\n月の魂たちの辺獄から\nひとつの惑星の幻影を引き上げたのでは、\n惑星の魂たちの地獄から\nこの罪深く輝きちらつく惑星を？」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "各スタンザ9〜11行・不等行のアナパエスト三歩格（anapestic trimeter）を基調とし、「sober / October」「sere / year / Weir / here」という二系統の行末韻が全篇を支配する。「The Raven」のトロカイウス八歩格（強勢先行）と対照的に、アナパエスト（弱弱強）は後から来る強勢が波のように寄せる感覚を生む──「記憶が後から回帰する」という詩の構造と韻律が対応する。第1スタンザの「sober / sere / October / year / Auber / Weir」という音の網が第9スタンザで「ashen and sober / leaves…sere / October / year / here / Auber / Weir」として完全に回帰する──形式的な円環構造が「無意識の反復」という詩の主題を音響的に実現する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "the dim lake of Auber,\nIn the misty mid region of Weir",
+      "body": "「オーベル（Auber）」「ウィア（Weir）」──両者とも造語地名。実在の地理でなく純粋に音響的・感情的な景観として機能する。「Auber」はフランスの作曲家ダニエル・オーベール（1782-1871）へのオマージュとも言われるが、詩中では音響的選択として機能する：「sober / October / Auber」の「-ober」音型の反復。「Weir」は英語で「堰（水流を止める仕切り）」の意味──「水流を堰き止める」という語義が「記憶の流れを止める」という詩の主題と共鳴する。「the ghoul-haunted woodland of Weir（グールに憑かれたウィアの森）」という定式句が第1・3・9スタンザで反復され、詩の地名的主調音（leitmotif）として機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "I roamed with my Soul—\nOf cypress, with Psyche, my Soul.",
+      "body": "「プシュケー、私の魂（Psyche, my Soul）」──語り手の「魂」が擬人化された分身「プシュケー」として外在化される。プシュケーはギリシャ神話では「魂」であり、エロスと結ばれた人間の娘でもある──「Israfel」のイスラフェルが「心弦＝リュートを奏でる天使」であるのに対し、ここでは語り手の魂そのものが翼を持つ（§6「Wings until they trailed in the dust」）分身として詩的空間を共に歩く。語り手と魂（プシュケー）の対話構造は「The Raven」の語り手と鴉（反射装置）の構造の内面化──外部の鴉が「Nevermore」と答えるのに対し、ここでは内部の魂「プシュケー」が警告を発する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Astarte's bediamonded crescent\nDistinct with its duplicate horn.",
+      "body": "「アスタルテ（Astarte）」──フェニキア・シリアの愛・豊穣・月の女神、バビロニアのイシュタルに相当。「二重の角を持つ三日月（crescent with a duplicate horn）」は月の上弦・下弦の二形態を指すとも、金星が月に接近する天文現象（「金星が月の角の間に見える」）とも解釈される。ポーはコーランの天使「イスラフェル」（「Israfel」）・フェニキアの女神「アスタルテ」・ローマの月の女神「ディアナ（Dian）」（§5）という異宗教的神話体系を一詩中に混在させる──これはボードレール「美の賛歌（Hymne à la Beauté）」の「汝は天から来るか地獄から来るか」という美の無差別的崇拝と詩学的に共鳴する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "She has seen that the tears are not dry on\nThese cheeks, where the worm never dies,",
+      "body": "「虫が決して死なないこの頬（cheeks, where the worm never dies）」──聖書的典拠：マルコ9:48「彼らの虫は死なず、火は消えない」（地獄の描写）。しかしここでは地獄でなく「悲しみを生き続ける顔」として用いられる──涙が乾かないように、悲しみの「虫」が頬に住み続ける。「The Raven」のマーク・§7「魂に悲しみを満ちた（soul with sorrow laden）」と類似した存在状態だが、「The Raven」が「精神的苦悩」として描くのに対し、「Ulalume」は「肉体的腐敗」の意象で悲しみを表現する──より物質的・感覚的な悲しみの詩学。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "But Psyche, uplifting her finger,\nSaid—\"Sadly this star I mistrust:\nHer pallor I strangely mistrust\"",
+      "body": "「プシュケーの警告」──詩の転換点。語り手がアスタルテの光に希望を見出す（§5）のに対し、魂（プシュケー）は「蒼白さを信じられない（pallor I strangely mistrust）」と警戒する。「蒼白さ（pallor）」という語は「The Raven」のパラス胸像の「蒼白な（pallid）」と同じ語根──白・蒼白が死の前触れとして機能する。プシュケーは「翼が塵の中に引きずられるまで（Wings until they trailed in the dust）」と描写される──魂が地に落ちることが、警告が理性的でなく苦悶的であることを示す。語り手が魂の警告を無視して（§7）進む──これが「The Raven」の「自己拷問」と対照的な「自己欺瞞」の構造。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Ah, what demon has tempted me here?\nWell I know, now, this dim lake of Auber,\nThis misty mid region of Weir",
+      "body": "詩の最大の転換──第1スタンザの「知らなかった」景観（「we knew not」「we marked not」「We noted not」「Remembered not」：§3）が第9スタンザで「今、よく知っている（Well I know, now）」へと反転する。「今（now）」という一語が詩全体の認識論的転換を担う──記憶の回帰がいかに突然であるかを「now」の孤立が体現する。「どんな悪魔が私をここに誘ったのか（what demon has tempted me here）」──語り手は「アスタルテの星」を「悪魔の誘惑」として事後的に再解釈する。しかし第10スタンザが示唆するように、その「悪魔」は実は「慈悲深いグール」かもしれない──「悪意ある誘惑」と「慈悲ある導き」の解釈が最後まで決定されない。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Had drawn up the specter of a planet\nFrom the limbo of lunary souls,\nThis sinfully scintillant planet\nFrom the Hell of the planetary souls?",
+      "body": "最終スタンザ──詩が問いとして閉じる。「森のグールたちが（woodlandish ghouls）」という語り手と魂の共同の疑問が示すのは：アスタルテの星＝惑星の幻影が「哀れな、慈悲深いグールたち（The pitiful, the merciful ghouls）」によって秘密（ウラルームの墓）から語り手を遠ざけるために召喚された可能性。つまり「誘惑」が実は「保護」であったという逆説的解釈。「辺獄（limbo）」「地獄（Hell）」という神学的語彙が「月の魂（lunary souls）」「惑星の魂（planetary souls）」という異教的語彙と混在する──詩が「グールの慈悲によって宇宙的平和へ導かれる」という解釈と「悪魔によって自己拷問の場に誘われる」という解釈の両方を開いたまま終わる。「The Raven」が「Nevermore」という決定的答えで閉じるのに対し、「Ulalume」は問いで閉じる──これがポーの二大詩作品の最大の形式的差異。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "ボードレール「Spleen」（「J'ai plus de souvenirs que si j'avais mille ans」）との比較：「Spleen」では記憶が「千年分の記憶を持つかのよう」な重さで意識を圧迫するのに対し、「Ulalume」では記憶が一時的に消え、語り手は「知らぬまま」彷徨う──記憶の過剰と記憶の欠如という対照的な悲しみの詩学。トラークル「秋の夜（Ein Herbstabend）」との比較：トラークルの秋の夜は静止した時間として描かれるのに対し、「Ulalume」の「10月の孤独な夜」は運動（彷徨・回帰）を駆動する──同じ「秋の夜」の詩的使用の二方向性。マラルメ「不安（Angoisse）」（「Je fuis, pâle, défait…」）との詩学的共鳴：どちらも詩人の分裂した自己（マラルメは「私」と「夢」、ポーは「語り手」と「プシュケー」）が秘密の知識と向き合うことへの恐れを主題とする。",
+      "targetId": "baudelaire_spleen",
+      "targetParagraphId": null
+    }
+  ]
+}

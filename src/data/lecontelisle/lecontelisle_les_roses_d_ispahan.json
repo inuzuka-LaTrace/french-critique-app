@@ -1,0 +1,104 @@
+{
+  "id": "lecontelisle_les_roses_d_ispahan",
+  "title": "Les Roses d'Ispahan",
+  "author": "Charles-Marie Leconte de Lisle",
+  "source": "Poèmes tragiques, Alphonse Lemerre, 1884",
+  "year": "1863",
+  "firstPublication": "Poèmes tragiques, Alphonse Lemerre, 1884 (詩作：1863年頃)",
+  "difficulty": "初級",
+  "category": "leconte_de_lisle",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ルコント・ド・リール『悲劇詩集』（Poèmes tragiques, 1884）所収の24行詩。高踏派の詩人が書いた最も典雅な愛の詩として知られ、ガブリエル・フォーレが1884年に作曲した歌曲（op.39-4）によって広く親しまれる。詩形は「ヴィラネル」に近い反復構造を持つ変形ソネット──「mousse（苔）」「oranger（橙の木）」「douce（甘い）」「léger（軽やかな）」の4語が詩全体を通じて循環しながら、愛人の去った後の庭園の変容を描く。イスファハン（イラン）・モスル（イラク）という中東の地名が喚起する異国情緒の中に、愛の儚さと自然の永続という主題が埋め込まれる。",
+  "keywords": [
+    "イスファハン",
+    "ヴィラネル",
+    "ペルシャ",
+    "愛の喪失",
+    "フォーレ",
+    "反復",
+    "高踏派",
+    "香り",
+    "レイラ",
+    "東洋趣味"
+  ],
+  "relatedTexts": [
+    "lecontelisle_surya",
+    "lecontelisle_l_illusion_supreme",
+    "lecontelisle_le_dernier_dieu",
+    "baudelaire_harmonie_du_soir",
+    "valmore_les_roses_de_saadi"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Les roses d'Ispahan dans leur gaîne de mousse,\nLes jasmins de Mossoul, les fleurs de l'oranger\nOnt un parfum moins frais, ont une odeur moins douce,\nÔ blanche Leïlah ! que ton souffle léger.",
+      "provisionalTranslation": "イスファハンの薔薇たちは苔の鞘の中に、\nモスルの茉莉花、橙の花たちは、\nより新鮮でなく、より甘くない香りを持つ、\nおお白きレイラよ！汝の軽やかな息吹よりも。"
+    },
+    {
+      "id": 2,
+      "originalText": "Ta lèvre est de corail, et ton rire léger\nSonne mieux que l'eau vive et d'une voix plus douce,\nMieux que le vent joyeux qui berce l'oranger,\nMieux que l'oiseau qui chante au bord du nid de mousse.",
+      "provisionalTranslation": "汝の唇は珊瑚、汝の軽やかな笑いは\n清水よりも響き渡り、より甘い声を持つ、\n橙の木を揺り籠とする喜びに満ちた風よりも、\n苔の巣の縁で歌う鳥よりも。"
+    },
+    {
+      "id": 3,
+      "originalText": "Mais la subtile odeur des roses dans leur mousse,\nLa brise qui se joue autour de l'oranger\nEt l'eau vive qui flue avec sa plainte douce\nOnt un charme plus sûr que ton amour léger !",
+      "provisionalTranslation": "しかし苔の中の薔薇たちの微妙な香りは、\n橙の木の周りをたわむれる微風は、\nそして甘い嘆きとともに流れる清水は、\n汝の軽やかな愛よりも確かな魅力を持つ！"
+    },
+    {
+      "id": 4,
+      "originalText": "Ô Leïlah ! depuis que de leur vol léger\nTous les baisers ont fui de ta lèvre si douce,\nIl n'est plus de parfum dans le pâle oranger,\nNi de céleste arome aux roses dans leur mousse.",
+      "provisionalTranslation": "おおレイラよ！その軽やかな飛翔によって\nすべての口づけがあの甘い唇から逃げ去ってから、\n蒼白になった橙の木にはもはや香りがなく、\n苔の中の薔薇たちには天上の芳香もない。"
+    },
+    {
+      "id": 5,
+      "originalText": "L'oiseau, sur le duvet humide et sur la mousse,\nNe chante plus parmi la rose et l'oranger ;\nL'eau vive des jardins n'a plus de chanson douce,\nL'aube ne dore plus le ciel pur et léger.",
+      "provisionalTranslation": "鳥は、湿った羽毛と苔の上で、\n薔薇と橙の木の間でもはや歌わない。\n庭の清水はもはや甘い歌を持たず、\n夜明けはもはや澄んで軽やかな空を黄金色に染めない。"
+    },
+    {
+      "id": 6,
+      "originalText": "Oh ! que ton jeune amour, ce papillon léger,\nRevienne vers mon coeur d'une aile prompte et douce,\nEt qu'il parfume encor les fleurs de l'oranger,\nLes roses d'Ispahan dans leur gaine de mousse !",
+      "provisionalTranslation": "おお！汝の若い愛よ、あの軽やかな蝶よ、\n素早く甘い翼で我が心へと戻ってくれ、\nそしてもう一度橙の木の花々を、\nイスファハンの薔薇たちを苔の鞘の中で香り高くしてくれ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "24行・6スタンザ、アレクサンドランによる変形ヴィラネル。「mousse（苔）／oranger（橙の木）」と「douce（甘い）／léger（軽やかな）」の4語が全スタンザを循環する──正確なヴィラネルでないが、反復の構造原理を採用している。各スタンザはABBA韻形（交互韻）。4語の循環が意味の変容を追跡する：§1では愛人の優位を讃え、§3では自然の優位を逆転し、§4-5では喪失後の自然の変容を描き、§6では回帰の祈りで締める。ガブリエル・フォーレの歌曲版（Op.39 no.4, 1884）は§3を省略した短縮版を使用。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Les roses d'Ispahan dans leur gaîne de mousse,\nLes jasmins de Mossoul",
+      "body": "イスファハン（イスファハーン）はイラン中部の古都、ムガル帝国期「世界の半分（Nesf-e Jahan）」と称された。モスル（Mossoul）はイラク北部の都市で、香辛料・香水の交易の要衝。両都市名の配置が詩の最初の2行に据えられることで、詩全体に「遠い東方からもたらされた豪奢な香り」という枠組みが確立される。ルコント・ド・リールにとって東洋は「Poèmes antiques」のインドと並ぶもうひとつの理想化された過去の場所。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ont un charme plus sûr que ton amour léger !",
+      "body": "詩の転換点──§1-2で「汝は薔薇よりも香しい」と讃えた後、§3で突然「薔薇の方が確かな魅力を持つ」と逆転する。「ton amour léger（汝の軽やかな愛）」の「léger」は§1の「ton souffle léger（汝の軽やかな息吹）」と同じ語だが、機能が変わる──賛美の形容詞から「不確か・移ろいやすい」の含意をもつ形容詞へ。高踏派の「非個人的詩学」の中で愛の脆弱性が自然の確かさとの対比によって描かれる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Il n'est plus de parfum dans le pâle oranger,\nNi de céleste arome aux roses dans leur mousse.",
+      "body": "§4-5は詩の最大の逆説──愛人が去ると、自然は「汝の愛より確かな魅力を持つ」（§3）はずの薔薇・橙・水・鳥・夜明けまでもがすべて色を失う。「pâle oranger（蒼白になった橙の木）」という人格化が鍵──橙の木が愛人の喪失を悼む。自然の永続性と人間の愛の対比（§3）が、実は愛によって自然も生かされているという逆説（§4-5）へと転換する。ボードレール「夕暮れの調和（Harmonie du soir）」との共鳴：香り・花・夕暮れが愛の喪失の文脈で共鳴する音楽的世界。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Oh ! que ton jeune amour, ce papillon léger,\nRevienne vers mon coeur d'une aile prompte et douce",
+      "body": "「汝の若い愛よ、あの軽やかな蝶よ」──§3の「軽やかな愛（amour léger）」が§6では「軽やかな蝶（papillon léger）」という比喩に展開する。蝶は花から花へと移ろう──愛の「軽やかさ」はまさに蝶の本性。しかしその蝶に「戻ってくれ（revienne）」と接続法で祈願する──不確かな愛への確かな祈り。詩の最終行が冒頭の一行とほぼ同じ（「苔の鞘の中のイスファハンの薔薇」）に戻ることで円環が閉じる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "ヴァルモール「サアディの薔薇（Les Roses de Saadi）」との対照は詩学的主題の核心をなす：ヴァルモールでは花束を贈ろうとした瞬間に薔薇が散るという愛の過剰と喪失の詩であり、ルコント・ド・リールでは薔薇の香りが愛人の去後に消えるという愛の喪失と自然の変容の詩──どちらも薔薇と愛の連結を主題とするが、ヴァルモールが情感の溢れる直接性を示すのに対し、ルコント・ド・リールは反復の形式美の中に感情を昇華させる。「Harmonie du soir」（ボードレール）との比較では、香り・音・光の共感覚的な融合という方法を共有しながら、「夕暮れの調和」が消えゆく現在を描くのに対し、この詩は失われた過去を描く。",
+      "targetId": "valmore_les_roses_de_saadi",
+      "targetParagraphId": null
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 import React, { useState, useEffect, useRef } from 'react';
-import baudelaireData from './data/baudelaire';
+import racineData from './data/racine';
 import mallarmeData from './data/mallarme';
+import baudelaireData from './data/baudelaire';
 import valeryData from './data/valery';
 import valmoreData from './data/valmore';
-import racineData from './data/racine';
 import rimbaudData from './data/rimbaud';
 import verlaineData from './data/verlaine';
 import lecontelisleData from './data/lecontelisle';

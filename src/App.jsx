@@ -136,17 +136,17 @@ export default function App() {
 
   useEffect(() => {
     const allTexts = {
-      ...baudelaireData,
+     　...racineData,
       ...mallarmeData,
+      ...baudelaireData,
       ...valeryData,
       ...verlaineData,
+      ...rimbaudData,
       ...gautierData,
       ...valmoreData,
       ...lecontelisleData,
       ...rodenbachData,
       ...vanlerbergheData,
-      ...racineData,
-      ...rimbaudData,
       ...poeData,
       ...wildeData,
       ...swinburneData,

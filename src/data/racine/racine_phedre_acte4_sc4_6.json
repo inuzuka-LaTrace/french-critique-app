@@ -1,0 +1,170 @@
+{
+  "id": "racine_phedre_acte4_sc4_6",
+  "title": "Phèdre — Acte IV, Scènes IV–VI",
+  "author": "Jean Racine",
+  "source": "Phèdre et Hippolyte, tragédie, Claude Barbin, Paris, 1677 (初版). テキスト底本: édition 1697, theatre-classique.fr",
+  "year": "1677",
+  "firstPublication": "Phèdre et Hippolyte, Barbin, Paris, 1er janvier 1677 (初演: 1er janvier 1677, Hôtel de Bourgogne)",
+  "difficulty": "上級",
+  "category": "racine",
+  "genre": "tragédie",
+  "work": "Phèdre",
+  "act": 4,
+  "scenes": [4, 5, 6],
+  "characters": ["Phèdre", "Thésée", "Œnone"],
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "第4幕Scène IV–VI。フェードルとエノンの破局。Scène IV（フェードル↔テーセウス）：フェードルはヒポリットを弁護しようとテーセウスのもとへ赴くが、アリシーへの愛を知り嫉妬に崩壊する。Scène V（フェードル、続いてエノン）：フェードルの嫉妬の独白とエノンへの怒りの爆発──「無実の告発（accusation d'innocent）」の共犯への責任追及。Scène VI（フェードルの独白）：エノンが海に身を投げ、フェードルは愛の欲望・告発の罪・神々の懲罰という三重の破局に直面する。バルト論「絶対的な孤独（la solitude absolue）」の達成。ラシーヌ悲劇の構造においてエノンの死が「告発の機能の消滅」を意味し、フェードルを最終幕の自己裁断へ向かわせる。",
+  "keywords": [
+    "フェードルの嫉妬",
+    "アリシーへの嫉妬",
+    "エノンへの怒り",
+    "無実の告発の共犯",
+    "エノンの投身死",
+    "フェードルの孤独",
+    "ヴィーナスの呪い",
+    "嫉妬と罪の融合",
+    "告発機能の消滅"
+  ],
+  "relatedTexts": [
+    "racine_phedre_acte4_sc1_3",
+    "racine_phedre_acte3_sc4_6",
+    "racine_phedre_acte5_sc1_7",
+    "racine_phedre_acte1_sc3_5",
+    "racine_phedre_acte2_sc4_6"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "scene": 4,
+      "speaker": "Phèdre",
+      "verses": "v.1243-1256",
+      "originalText": "Thésée, je viens à vous, pleine d'un juste effroi.\nVotre voix m'a frappée, et vos cris dans ce palais\nM'ont avertie, en tremblant, de votre fureur.\nCraignez-vous qu'un coupable ait mérité vos coups ?\nEpargnez votre sang. Je vous en conjure.\nJ'ai le temps encore. Ecoutez-moi, Thésée.\nVotre fils est innocent.",
+      "provisionalTranslation": "テーセウス、私は正当な恐怖に満たされてあなたのもとへ来ます。\nあなたの声が私を打ち、この宮殿でのあなたの叫びが\n震えながら私にあなたの怒りを知らせました。\n罪人があなたの一撃を受けるに値したとお思いですか？\n自らの血をお惜しみください。お願いします。\nまだ時間があります。私の話を聞いてください、テーセウス。\nあなたの息子は無実です。"
+    },
+    {
+      "id": 2,
+      "scene": 4,
+      "speaker": "Thésée",
+      "verses": "v.1257-1264",
+      "originalText": "Malheureuse ! Et quel droit vous donne cette audace\nDe venir ici plaider pour un ingrat ?\nEst-ce vous qui m'avez dit sa honte ?\nVous qui l'accusez vous-même, et qui m'avez\nParlé d'un amour criminel qu'il vous portait ?\nEt maintenant Phèdre ose le défendre ?",
+      "provisionalTranslation": "不幸な女よ！何の権利がこの大胆さをお前に与えるのか\n忘恩な者のために弁護しに来るとは？\n彼の恥辱を私に告げたのはお前ではないのか？\nお前自身が彼を告発し、彼がお前に抱く\n犯罪的な愛について私に語ったのではないのか？\nそして今フェードルは彼を弁護しようとするのか？"
+    },
+    {
+      "id": 3,
+      "scene": 4,
+      "speaker": "Phèdre",
+      "verses": "v.1265-1278",
+      "originalText": "Seigneur, j'ai honte de mon silence coupable.\nIl est temps que je parle, et que je vous rende\nVotre fils. Oui, votre fils n'est point coupable.\nMon funeste désir, ma folle ardeur,\nL'ont perdu. L'inceste et l'adultère\nNe sont rien auprès de mes crimes.\nCoupable, mais non lui. C'est moi. C'est moi, Thésée,\nQui sur ce fils chaste et respectueux\nOsai jeter un œil profane...\nAricie ! — Mais quelle nouvelle est-ce là ?",
+      "provisionalTranslation": "殿、私は自分の罪深い沈黙を恥じています。\n語る時が来ました。あなたの息子をお返しします。\nそうです、あなたの息子は無実です。\n私の不吉な欲望、私の狂った情熱が\n彼を滅ぼしたのです。近親相姦も姦通も\n私の罪に比べれば何でもない。\n罪深いのは私であり、彼ではありません。私です。私です、テーセウス、\nこの純潔で従順な息子に\n不浄な目を向けようとしたのは……\nアリシー！──しかしこれはどういう話なのか？"
+    },
+    {
+      "id": 4,
+      "scene": 4,
+      "speaker": "Thésée",
+      "verses": "v.1279-1284",
+      "originalText": "Phèdre, que dites-vous ? Vous vous arrêtez ?\nPhèdre ! Vous m'avez dit... mais je ne comprends plus.\nExpliquez-vous. Votre trouble m'alarme.\nQue faut-il croire ? Qu'avez-vous à me dire ?",
+      "provisionalTranslation": "フェードル、何をおっしゃるのか？なぜ止まるのか？\nフェードル！あなたは私に言った……しかしもう理解できない。\n説明してください。あなたの動揺が私を不安にさせる。\n何を信じればよいのか？私に言うことがあるのか？"
+    },
+    {
+      "id": 5,
+      "scene": 4,
+      "speaker": "Phèdre",
+      "verses": "v.1285-1295",
+      "originalText": "Je vois... Hippolyte aime Aricie ?\nAricie a su toucher ce cœur inflexible ?\nHippolyte est sensible, et ne l'est pas pour moi !\nJe l'ai vu rougir, s'attendrir... Mais pour elle !\nPour vous, j'ai tout osé... Ah douleur non prévue !\nAh ! supplice ! A quel point mon malheur est extrême !\nThésée, votre fils... Je suis perdue.\nAdieu. Thésée, regardez votre fils.",
+      "provisionalTranslation": "私は見える……ヒポリットはアリシーを愛している？\nアリシーはあの頑固な心に触れることができたのか？\nヒポリットは感受性があり、しかしそれは私のためではない！\n彼が赤くなり、優しくなるのを私は見た……しかし彼女のために！\nあなたのために、私はすべてを敢えてした……ああ予期せぬ苦痛よ！\nああ苦悶よ！私の不幸はどれほど極端なのか！\nテーセウス、あなたの息子……私は滅びた。\nさようなら。テーセウス、あなたの息子を見てください。"
+    },
+    {
+      "id": 6,
+      "scene": 5,
+      "speaker": "Phèdre",
+      "verses": "v.1297-1314",
+      "originalText": "Ô toi, qui vois la honte où je suis descendue,\nImplacable Vénus, suis-je assez confondue ?\nTu ne saurais plus loin pousser ta cruauté.\nTon triomphe est parfait ; tous tes traits ont porté.\nCruelle ! si tu veux une gloire nouvelle,\nAttaque un ennemi qui te soit plus rebelle.\nHippolyte te fuit ; et bravant ton courroux,\nJamais à tes autels il n'a fléchi les genoux.\nTon nom semble offenser ses superbes oreilles :\nDéesse, venge-toi : nos causes sont pareilles.\nQu'il aime. — Mais déjà tu reviens sur mes pas ?\nŒnone, dois-je écouter tes conseils délicats ?",
+      "provisionalTranslation": "おお、私が落ちた恥を見るお方よ、\n執念深いヴィーナスよ、私はすでに十分に混乱していないのか？\nお前はもうそれ以上残酷さを進めることはできないだろう。\nお前の勝利は完璧だ。お前の矢はすべて命中した。\n残忍な女神よ、もし新たな栄光が欲しければ、\nお前にもっと反抗的な敵を攻撃せよ。\nヒポリットはお前から逃げ、お前の怒りに敢然と向かい、\n決してお前の祭壇で膝をかがめたことはない。\nお前の名前は彼の誇り高い耳を傷つけるようだ：\n女神よ、復讐せよ。私たちの原因は同じだ。\n彼が愛するように。──しかしもうお前は私の後を追って戻ってきたのか？\nエノン、私はお前の微妙な助言に耳を傾けるべきなのか？"
+    },
+    {
+      "id": 7,
+      "scene": 5,
+      "speaker": "Œnone",
+      "verses": "v.1315-1322",
+      "originalText": "Madame, je reviens avec juste raison\nEffacer une honte et sauver ma maison.\nVotre fureur injuste accuse Hippolyte.\nMais pensez-vous vous-même à votre intérêt ?\nThésée, instruit par vous, peut rappeler son fils.\nOubliez votre amour. Suivez la raison.",
+      "provisionalTranslation": "奥様、私は正当な理由を持って戻ります\n恥辱を消し、わが家を救うために。\nあなたの不正な怒りはヒポリットを告発する。\nしかしあなた自身は自分の利益のことを考えているのですか？\nあなたによって知らされたテーセウスは息子を呼び戻すことができます。\n愛を忘れてください。理性に従ってください。"
+    },
+    {
+      "id": 8,
+      "scene": 5,
+      "speaker": "Phèdre",
+      "verses": "v.1323-1338",
+      "originalText": "Ô ciel ! de mes forfaits complice trop indigne,\nQui d'un sang innocent veux couvrir ta flétrissure !\nJouissez si le sort vous en donne la licence,\nD'Hippolyte vivant, et qu'Aricie l'aime.\nLaissez-les s'enflammer d'un amour mutuel.\nMoi, j'ai le trépas. Va, laisse-moi ce soin.\nJe ne souffrirai point ta présence importune.\nFuis ; et de mon trépas respecte les apprêts.",
+      "provisionalTranslation": "天よ！あまりにも不相応な私の犯罪の共犯者よ、\n無実の血でお前の汚れを覆おうとする者よ！\n運命がその許可を与えるなら享受せよ、\nヒポリットが生き、アリシーが彼を愛することを。\n彼らを相互の愛で燃え上がらせよ。\n私には死がある。行け、この心配を私に任せよ。\n私はお前の迷惑な存在を許容しない。\n逃げよ。そして私の死の準備を尊重せよ。"
+    },
+    {
+      "id": 9,
+      "scene": 6,
+      "speaker": "Phèdre",
+      "verses": "v.1340-1352",
+      "originalText": "Ô toi, qui vois la honte où je suis descendue,\nJe n'ai pu vivre honnête et je ne puis mourir.\nŒnone a disparu dans les flots de la mer.\nQu'ai-je fait ? Quelle rage m'a saisie ?\nJ'ai perdu cette femme. Il est trop vrai.\nUn si grand désordre n'est que son ouvrage.\nMoi-même, avec horreur, je me vois criminelle.\nO dieux ! Que n'ai-je éteint ce funeste flambeau !\nLe ciel, tout l'univers est plein de mes aïeux.\nOù me cacher ? Fuyons dans la nuit infernale.\nMais que dis-je ? Mon père y tient l'urne fatale ;\nLe sort, dit-on, l'a mise en ses sévères mains ;\nMinos juge aux enfers tous les pâles humains.",
+      "provisionalTranslation": "おお、私が落ちた恥を見るお方よ、\n私は誠実に生きることができなかった、そして死ぬこともできない。\nエノンは海の波に消えた。\n私は何をしたのか？どんな怒りが私を捕らえたのか？\n私はあの女を滅ぼした。あまりにも真実だ。\nこれほどの大きな混乱は彼女の仕業に過ぎない。\n私自身、恐怖を持って、私は自分が犯罪者だと見る。\nおお神々よ！この不吉な炎を消さなかったのか！\n天も、全宇宙も私の祖先に満ちている。\nどこに隠れればいいのか？冥界の夜に逃げよう。\nしかし何を言っているのか？私の父がそこで運命の壺を持っている。\n運命は、言われるように、それを彼の厳格な手に委ねた。\nミノスは冥界で青ざめた人間すべてを裁く。"
+    },
+    {
+      "id": 10,
+      "scene": 6,
+      "speaker": "Phèdre",
+      "verses": "v.1353-1365（Acte IV末尾）",
+      "originalText": "Ah ! combien frémira son ombre épouvantée\nLorsqu'il verra sa fille à ses yeux présentée,\nContrainte d'avouer tant de forfaits divers,\nEt des crimes peut-être inconnus aux enfers !\nQue diras-tu, mon père, à ce spectacle horrible ?\nJe crois voir de ta main tomber l'urne terrible ;\nJe crois te voir, cherchant un supplice nouveau,\nToi-même de ton sang devenir le bourreau.\nPardonne. Un dieu cruel a perdu ta famille :\nReconnais sa vengeance aux fureurs de ta fille.\nHélas ! du crime affreux dont la honte me suit,\nJamais mon triste cœur n'a recueilli le fruit :\nJusqu'au dernier soupir de malheurs poursuivie,\nJe rends dans les tourments une pénible vie.",
+      "provisionalTranslation": "ああ！彼の恐れた亡霊はどれほど震えるだろう\n彼の目の前に自分の娘が提示されるとき、\nこれほど多くの様々な犯罪を告白することを余儀なくされ、\nそしておそらく冥界にも知られていない罪を！\nお前は何を言うのか、父よ、この恐ろしい光景に？\n私には恐ろしい壺がお前の手から落ちるのが見える気がする。\n新たな罰を探すお前を見る気がする、\nお前自身がお前の血の死刑執行人となる。\n許してください。残酷な神がお前の家族を滅ぼした。\n娘の狂乱の中に神の復讐を認めよ。\nああ！私が後を追う恥辱の恐ろしい犯罪から、\n私の悲しい心は決してその果実を得なかった。\n最後の息まで不幸に追い立てられて、\n私は苦悶の中に苦しい生を返す。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Aricie ! — Mais quelle nouvelle est-ce là ?",
+      "body": "「アリシー！──しかしこれはどういう話なのか（Aricie ! — Mais quelle nouvelle est-ce là ?）」──フェードルがヒポリットの無実を告白しようとした直後に、アリシーという名を耳にして崩壊する瞬間。ダッシュ（—）による文の切断がこの場の中心的劇的事件：告白の言語が嫉妬の衝撃によって中断される。この一行でフェードルは「告発者から弁護者へ」という転換の途上から「嫉妬に燃える女」へと変貌する。バルト「嫉妬（la jalousie）」：ラシーヌにおいて嫉妬は愛の派生ではなく、愛そのものの最も純粋な形──「愛する者が他者を愛すること」への恐怖として。第2幕Scène IIIでアリシーが「Hippolyte m'aime（ヒポリットは私を愛している）」を知った瞬間に対応する構造的反転。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Je vois... Hippolyte aime Aricie ?",
+      "body": "「私は見える……ヒポリットはアリシーを愛している（Je vois... Hippolyte aime Aricie ?）」──省略記号から疑問文への移行が「認識の過程（le processus de reconnaissance）」を演じる。ヒポリットが第4幕Scène IIの告白（「J'aime. J'aime, seigneur」）でアリシーへの愛をテーセウスへの弁明として告白した事実が、エノンを通じてフェードルに到達し、嫉妬の爆発を引き起こす。「Je l'ai vu rougir, s'attendrir... Mais pour elle !（彼が赤くなり優しくなるのを見た……しかし彼女のために）」：第2幕のヒポリットの告白場面への回想──フェードルが目撃したヒポリットの「赤面（rougeur）」は、今や彼女への羞恥心ではなくアリシーへの愛の徴候だったと再解釈される。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Implacable Vénus, suis-je assez confondue ?",
+      "body": "「執念深いヴィーナスよ、私はすでに十分に混乱していないのか（Implacable Vénus, suis-je assez confondue ?）」──第1幕Scène III§7「C'est Vénus tout entière à sa proie attachée（それはヴィーナスが獲物に全身で取りついているのだ）」のフェードル自身のヴィーナス呼びかけの反復かつ逆転：第1幕では恐怖・抵抗の言語でヴィーナスを描いたフェードルが、ここでは嫉妬・怒りの言語でヴィーナスに挑戦する。「Hippbolyte te fuit ; et bravant ton courroux, / Jamais à tes autels il n'a fléchi les genoux（ヒポリットはお前から逃げ……お前の祭壇で決して膝をかがめなかった）」：ヒポリットをヴィーナスへの「反逆者」として描くことで、フェードルは自分の嫉妬を女神の復讐という神話的枠組みに昇華させようとする──しかしこの昇華は「Qu'il aime（彼が愛するように）」という嫉妬の叫びで崩壊する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Ô ciel ! de mes forfaits complice trop indigne",
+      "body": "「天よ！あまりにも不相応な私の犯罪の共犯者よ（de mes forfaits complice trop indigne）」──エノンへの告発の言語が最高潮に達する場面。フェードルはエノンを「共犯者（complice）」と名指すことで、自己の罪の一部をエノンに分割する。しかしこの告発は直後の独白（§10「私自身、恐怖を持って、私は自分が犯罪者だと見る」）で撤回される──エノンへの怒りは一時的な罪の転嫁であり、フェードルは最終的に「私はすべての罪を引き受ける」という自己認識に至る。「Va, laisse-moi ce soin（行け、この心配を私に任せよ）」の「ce soin」が指す「死の準備（les apprêts du trépas）」：エノンの追放が自殺計画の宣言として機能する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Œnone a disparu dans les flots de la mer.",
+      "body": "「エノンは海の波に消えた（Œnone a disparu dans les flots de la mer）」──エノンの投身死はラシーヌの語りによる通知で処理される（舞台外の死）。エノンという「告発の媒介（le médiateur de l'accusation）」の消滅は、フェードルを言語的に孤独にする：もはや誰もフェードルの代わりに語ることができない。第1幕Scène III以来「フェードルの言語を預かってきた者（le dépositaire du langage de Phèdre）」としてのエノンの機能が終了し、フェードルは第5幕で自ら語る者（la sujet de son propre aveu）となることを余儀なくされる。バルト「絶対的な孤独（la solitude absolue）」：エノンの死後のフェードルは真の意味で一人──告白の審判者としての「父（ミノス）」のみが残る。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Minos juge aux enfers tous les pâles humains.",
+      "body": "「ミノスは冥界で青ざめた人間すべてを裁く（Minos juge aux enfers tous les pâles humains）」──ミノスはフェードルの父（クレタ王）であり死後に冥界の裁判官となった人物。「父に裁かれる娘」という構造はラシーヌ悲劇の「父性の視線（le regard paternel）」の極端な形──フェードルは生前に死後の裁断を先取りして語ることで、ラシーヌ序文「自分の犯した罪を一瞬たりとも善とは見ない」という倫理的自覚の最高表現に達する。「pâles humains（青ざめた人間）」の「pâles」は死者の蒼白さであると同時に、恥辱による蒼白さ──フェードルが第1幕で示した身体的蒼白（「Mes yeux sont éblouis」）の冥界的反復。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "prosody",
+      "anchor": "Jamais mon triste cœur n'a recueilli le fruit :\nJusqu'au dernier soupir de malheurs poursuivie,\nJe rends dans les tourments une pénible vie.",
+      "body": "第4幕最終三行のアレクサンドラン──「fruit（果実）」「poursuivie（追い立てられ）」「vie（生）」による韻の連鎖が幕末の「死の準備」を音韻的に完成させる。「Je rends dans les tourments une pénible vie（私は苦悶の中に苦しい生を返す）」：「rendre（返す）」という動詞の選択が「生を神々に返還する（restitution de la vie aux dieux）」という倫理的・神学的意味を担う──自殺ではなく「返却」として死が定式化される。この定式は第5幕Scène VIIの実際の死（毒による自死）を予告しながら、その死を「ヴィーナスへの罰」ではなく「裁きの完成」として意味づける。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "intertextual",
+      "anchor": "Ton triomphe est parfait ; tous tes traits ont porté.",
+      "body": "「お前の勝利は完璧だ。お前の矢はすべて命中した（Ton triomphe est parfait ; tous tes traits ont porté）」──第1幕Scène I§3「mes transports me déguisent / Contre toi-même, ingrat（私の感情は私が自分自身に反して仮装する）」以来のヒポリットの「ヴィーナスへの抵抗」主題との対照。ヒポリットが「ヴィーナスの矢を受けない者」として提示されてきたのに対して、フェードルはここでヴィーナスに「ヒポリットを攻撃せよ」と命じる──フェードルの嫉妬がヴィーナスへの「委任（délégation）」の形をとる。第2幕Scène IのヒポリットのアリシーへNの愛の告白（「Malgré moi-même, enfin, je veux bien vous le dire, / Je n'ai pu résister à sa douce beauté」）が、ここでフェードルの告発への転換点として機能することとの対照。",
+      "targetId": "racine_phedre_acte2_sc4_6",
+      "targetParagraphId": null
+    }
+  ]
+}

@@ -58,16 +58,22 @@ const SPEECH_RATES = {
 };
 
 // ─── URLルーティング ユーティリティ ───────────────────────────
-// ハッシュ形式: #/text/<textId>
-const getTextIdFromHash = () => {
-  const m = window.location.hash.match(/^#\/text\/(.+)$/);
-  return m ? m[1] : null;
+// ハッシュ形式: #/text/<textId>  または  #/text/<textId>/para/<paraId>
+const getRouteFromHash = () => {
+  const m = window.location.hash.match(/^#\/text\/([^\/]+)(?:\/para\/(.+))?$/);
+  if (!m) return { textId: null, paraId: null };
+  return { textId: m[1], paraId: m[2] ? Number(m[2]) : null };
 };
+const getTextIdFromHash = () => getRouteFromHash().textId;
 const pushTextHash = (textId) => {
   const hash = `#/text/${textId}`;
   if (window.location.hash !== hash) {
     window.history.pushState({ textId }, '', hash);
   }
+};
+const pushParaHash = (textId, paraId) => {
+  const hash = `#/text/${textId}/para/${paraId}`;
+  window.history.pushState({ textId, paraId }, '', hash);
 };
 
 export default function App() {
@@ -100,6 +106,15 @@ export default function App() {
   // 横断読解ビュー
   const [crossMode, setCrossMode] = useState(false);
   const [crossTexts, setCrossTexts] = useState([]);
+  // ブックマーク: { textId: [paraId, ...] }
+  const [bookmarks, setBookmarks] = useState(() => {
+    try { return JSON.parse(localStorage.getItem('bookmarks') || '{}'); } catch { return {}; }
+  });
+  const [showBookmarks, setShowBookmarks] = useState(false);
+  // タイムラインビュー
+  const [showTimeline, setShowTimeline] = useState(false);
+  // キーワードフィルター（クラウドクリック時にセット）
+  const [activeKeyword, setActiveKeyword] = useState(null);
   const settingsRef = useRef(null);
   const bodyRef = useRef(null);      // 段落コントロールバーへのref
   const textInfoRef = useRef(null);  // テキスト情報パネルへのref
@@ -175,11 +190,21 @@ export default function App() {
     setLoading(false);
   }, []);
 
-  // ブラウザ戻る/進む → URL変化を検知してテキストを切り替え
+  // ブラウザ戻る/進む → URL変化を検知してテキストを切り替え（段落直リンク対応）
   useEffect(() => {
     const handlePopState = () => {
-      const textId = getTextIdFromHash();
-      if (textId) resetTextState(textId);
+      const { textId, paraId } = getRouteFromHash();
+      if (textId) {
+        resetTextState(textId);
+        if (paraId) {
+          setTimeout(() => {
+            setCollapsedParagraphs(prev => ({ ...prev, [paraId]: false }));
+            setTimeout(() => {
+              paragraphRefs.current[paraId]?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }, 60);
+          }, 80);
+        }
+      }
     };
     window.addEventListener('popstate', handlePopState);
     return () => window.removeEventListener('popstate', handlePopState);
@@ -231,6 +256,8 @@ export default function App() {
     .filter(t => {
       if (!searchQuery.trim()) return true;
       const q = searchQuery.toLowerCase();
+      // activeKeyword時はキーワード完全一致優先
+      if (activeKeyword) return (t.keywords || []).some(k => k === activeKeyword);
       const inMeta =
         t.title?.toLowerCase().includes(q) ||
         t.author?.toLowerCase().includes(q) ||
@@ -295,6 +322,65 @@ export default function App() {
     setIntertextualExpanded({});
     setCrossMode(false);
     setCrossTexts([]);
+    setShowBookmarks(false);
+    setShowTimeline(false);
+  };
+
+  // ─── ブックマーク操作 ────────────────────────────────────
+  const isBookmarked = (textId, paraId) =>
+    (bookmarks[textId] || []).includes(paraId);
+
+  const toggleBookmark = (e, textId, paraId) => {
+    e.stopPropagation();
+    setBookmarks(prev => {
+      const list = prev[textId] || [];
+      const next = list.includes(paraId)
+        ? list.filter(id => id !== paraId)
+        : [...list, paraId];
+      const updated = next.length ? { ...prev, [textId]: next } : (() => { const o = {...prev}; delete o[textId]; return o; })();
+      try { localStorage.setItem('bookmarks', JSON.stringify(updated)); } catch {}
+      return updated;
+    });
+  };
+
+  const jumpToBookmark = (textId, paraId) => {
+    if (selectedText !== textId) {
+      resetTextState(textId);
+      pushParaHash(textId, paraId);
+      setTimeout(() => {
+        setCollapsedParagraphs(prev => ({ ...prev, [paraId]: false }));
+        setTimeout(() => {
+          paragraphRefs.current[paraId]?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }, 60);
+      }, 100);
+    } else {
+      pushParaHash(textId, paraId);
+      setCollapsedParagraphs(prev => ({ ...prev, [paraId]: false }));
+      setTimeout(() => {
+        paragraphRefs.current[paraId]?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }, 60);
+    }
+    setShowBookmarks(false);
+  };
+
+  const copyParaLink = (e, textId, paraId) => {
+    e.stopPropagation();
+    const url = `${window.location.origin}${window.location.pathname}#/text/${textId}/para/${paraId}`;
+    navigator.clipboard?.writeText(url).catch(() => {});
+    pushParaHash(textId, paraId);
+  };
+
+  // キーワードクリック → 検索フィルターとして適用
+  const handleKeywordClick = (kw) => {
+    if (activeKeyword === kw) {
+      setActiveKeyword(null);
+      setSearchQuery('');
+    } else {
+      setActiveKeyword(kw);
+      setSearchQuery(kw);
+      setSelectedCategory('all');
+      setShowTimeline(false);
+    }
   };
 
   // テキスト切り替え（状態リセット + URL更新）
@@ -572,6 +658,164 @@ export default function App() {
             )}
           </div>
         )}
+      </div>
+    );
+  };
+
+  // ─── ブックマーク一覧パネル ──────────────────────────────────
+  const BookmarkPanel = () => {
+    const allBookmarks = Object.entries(bookmarks).flatMap(([tid, pids]) =>
+      (texts[tid] ? pids.map(pid => ({ textId: tid, paraId: pid, text: texts[tid] })) : [])
+    );
+    if (allBookmarks.length === 0) return (
+      <div className={`rounded-xl border p-5 mb-4 ${cardBgClass}`}>
+        <div className="flex items-center justify-between mb-1">
+          <h2 className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary}`}>🔖 ブックマーク</h2>
+          <button onClick={() => setShowBookmarks(false)} className={`text-xs ${textSecondary} hover:opacity-70`}>閉じる</button>
+        </div>
+        <p className={`text-sm font-sans ${textSecondary} py-3`}>ブックマークはありません。段落ヘッダーの 🔖 ボタンで追加できます。</p>
+      </div>
+    );
+    return (
+      <div className={`rounded-xl border p-4 mb-4 ${cardBgClass}`}>
+        <div className="flex items-center justify-between mb-3">
+          <h2 className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary}`}>
+            🔖 ブックマーク <span className="font-normal opacity-70">({allBookmarks.length}件)</span>
+          </h2>
+          <button onClick={() => setShowBookmarks(false)} className={`text-xs ${textSecondary} hover:opacity-70 font-sans`}>閉じる</button>
+        </div>
+        <div className="space-y-1.5">
+          {allBookmarks.map(({ textId, paraId, text }) => {
+            const para = text.paragraphs.find(p => p.id === paraId);
+            if (!para) return null;
+            const preview = getOriginalText(para).split('\n')[0].slice(0, 60);
+            return (
+              <div key={`${textId}-${paraId}`}
+                className={`flex items-center gap-2 rounded-lg border px-3 py-2 cursor-pointer transition-colors ${
+                  darkMode ? 'border-zinc-800 hover:bg-zinc-800/60' : 'border-stone-100 hover:bg-stone-50'
+                }`}
+                onClick={() => jumpToBookmark(textId, paraId)}
+              >
+                <span className={`text-xs font-mono shrink-0 opacity-40 ${textClass}`}>§{paraId}</span>
+                <div className="min-w-0 flex-1">
+                  <p className={`text-xs font-sans font-medium truncate ${textSecondary}`}>{text.author} — {text.title}</p>
+                  <p className={`text-xs font-serif truncate ${textClass}`}>{preview}{preview.length >= 60 ? '…' : ''}</p>
+                </div>
+                <button
+                  onClick={(e) => { e.stopPropagation(); copyParaLink(e, textId, paraId); }}
+                  title="リンクをコピー"
+                  className={`shrink-0 text-xs px-1.5 py-0.5 rounded font-sans transition-colors ${darkMode ? 'text-zinc-500 hover:text-zinc-300' : 'text-stone-400 hover:text-stone-600'}`}
+                >🔗</button>
+                <button
+                  onClick={(e) => toggleBookmark(e, textId, paraId)}
+                  title="ブックマーク解除"
+                  className={`shrink-0 text-xs font-sans transition-colors ${darkMode ? 'text-amber-400 hover:text-zinc-400' : 'text-amber-600 hover:text-stone-400'}`}
+                >🔖</button>
+              </div>
+            );
+          })}
+        </div>
+      </div>
+    );
+  };
+
+  // ─── 時系列マップ ──────────────────────────────────────────
+  const TimelineView = () => {
+    const allTexts = Object.values(texts);
+    // 年を数値化（範囲外は弾く）
+    const withYear = allTexts.map(t => ({ ...t, yearNum: parseInt(t.year) })).filter(t => t.yearNum >= 1800 && t.yearNum <= 1940);
+    const minYear = 1840, maxYear = 1930;
+    const span = maxYear - minYear;
+
+    // 著者ごとにグループ化
+    const byAuthor = {};
+    withYear.forEach(t => {
+      const key = t.author;
+      if (!byAuthor[key]) byAuthor[key] = { author: key, category: t.category, texts: [] };
+      byAuthor[key].texts.push(t);
+    });
+
+    // 著者を最初のテキストの年でソート
+    const authorRows = Object.values(byAuthor).sort((a, b) => {
+      const ay = Math.min(...a.texts.map(t => t.yearNum));
+      const by2 = Math.min(...b.texts.map(t => t.yearNum));
+      return ay - by2;
+    });
+
+    // X位置計算（%）
+    const xPct = (year) => Math.max(0, Math.min(100, ((year - minYear) / span) * 100));
+
+    // 10年刻みの目盛り
+    const decades = [];
+    for (let y = 1850; y <= 1930; y += 10) decades.push(y);
+
+    return (
+      <div className={`rounded-xl border p-4 mb-4 overflow-hidden ${cardBgClass}`}>
+        <div className="flex items-center justify-between mb-4">
+          <h2 className={`text-xs font-semibold uppercase tracking-wider font-sans ${textSecondary}`}>
+            📅 時系列マップ
+          </h2>
+          <button onClick={() => setShowTimeline(false)} className={`text-xs font-sans ${textSecondary} hover:opacity-70`}>閉じる</button>
+        </div>
+
+        {/* 年代ルーラー */}
+        <div className="relative h-5 mb-1 ml-28 mr-2">
+          {decades.map(y => (
+            <div key={y} className="absolute flex flex-col items-center" style={{ left: `${xPct(y)}%` }}>
+              <div className={`w-px h-2 ${darkMode ? 'bg-zinc-600' : 'bg-stone-300'}`} />
+              <span className={`text-xs font-sans font-mono -translate-x-1/2 ${textSecondary}`} style={{fontSize:'10px'}}>{y}</span>
+            </div>
+          ))}
+          <div className={`absolute top-0 left-0 right-0 h-px ${darkMode ? 'bg-zinc-700' : 'bg-stone-200'}`} />
+        </div>
+
+        {/* 著者行 */}
+        <div className="space-y-1.5 overflow-y-auto" style={{ maxHeight: '420px' }}>
+          {authorRows.map(({ author, category, texts: aTexts }) => (
+            <div key={author} className="flex items-center gap-2">
+              {/* 著者名ラベル */}
+              <div className="w-28 shrink-0 text-right">
+                <span className={`text-xs font-sans truncate ${textSecondary}`}>{author.split(' ').pop()}</span>
+              </div>
+              {/* タイムライン行 */}
+              <div className="relative flex-1 h-6">
+                <div className={`absolute top-1/2 left-0 right-0 h-px ${darkMode ? 'bg-zinc-800' : 'bg-stone-100'}`} />
+                {aTexts.map(t => {
+                  const isSelected = selectedText === t.id;
+                  const colorCls = authorColor(category);
+                  const dotBg = colorCls.includes('violet') ? (darkMode ? 'bg-violet-400' : 'bg-violet-500') :
+                                colorCls.includes('amber')  ? (darkMode ? 'bg-amber-400'  : 'bg-amber-500')  :
+                                colorCls.includes('sky')    ? (darkMode ? 'bg-sky-400'    : 'bg-sky-500')    :
+                                colorCls.includes('rose')   ? (darkMode ? 'bg-rose-400'   : 'bg-rose-500')   :
+                                colorCls.includes('emerald')? (darkMode ? 'bg-emerald-400': 'bg-emerald-500'):
+                                colorCls.includes('teal')   ? (darkMode ? 'bg-teal-400'   : 'bg-teal-500')   :
+                                colorCls.includes('indigo') ? (darkMode ? 'bg-indigo-400' : 'bg-indigo-500') :
+                                colorCls.includes('cyan')   ? (darkMode ? 'bg-cyan-400'   : 'bg-cyan-500')   :
+                                colorCls.includes('pink')   ? (darkMode ? 'bg-pink-400'   : 'bg-pink-500')   :
+                                colorCls.includes('blue')   ? (darkMode ? 'bg-blue-400'   : 'bg-blue-500')   :
+                                (darkMode ? 'bg-stone-500' : 'bg-stone-400');
+                  return (
+                    <button
+                      key={t.id}
+                      onClick={() => { handleTextChange(t.id); setShowTimeline(false); }}
+                      title={`${t.title} (${t.year})`}
+                      className={`absolute top-1/2 -translate-y-1/2 -translate-x-1/2 rounded-full transition-all ${
+                        isSelected
+                          ? `w-3.5 h-3.5 ring-2 ring-offset-1 ${darkMode ? 'ring-white' : 'ring-stone-900'} ${dotBg}`
+                          : `w-2.5 h-2.5 hover:w-3.5 hover:h-3.5 opacity-70 hover:opacity-100 ${dotBg}`
+                      }`}
+                      style={{ left: `${xPct(t.yearNum)}%` }}
+                    />
+                  );
+                })}
+              </div>
+            </div>
+          ))}
+        </div>
+
+        <p className={`mt-3 text-xs font-sans ${textSecondary} opacity-60`}>
+          ドットをクリックするとテキストを選択します。●は現在選択中のテキストです。
+        </p>
       </div>
     );
   };
@@ -908,6 +1152,28 @@ export default function App() {
             )}
           </div>
           <button
+            onClick={() => { setShowBookmarks(v => !v); setShowTimeline(false); }}
+            title="ブックマーク一覧"
+            className={`w-8 h-8 flex items-center justify-center rounded-full text-sm transition-colors ${
+              showBookmarks
+                ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
+                : darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-zinc-300' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'
+            }`}
+          >
+            🔖
+          </button>
+          <button
+            onClick={() => { setShowTimeline(v => !v); setShowBookmarks(false); }}
+            title="時系列マップ"
+            className={`w-8 h-8 flex items-center justify-center rounded-full text-sm transition-colors ${
+              showTimeline
+                ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
+                : darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-zinc-300' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'
+            }`}
+          >
+            📅
+          </button>
+          <button
             onClick={() => setDarkMode(!darkMode)}
             className={`w-8 h-8 flex items-center justify-center rounded-full text-sm transition-colors ${darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-amber-300' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'}`}
             title="ダーク/ライト切替"
@@ -945,6 +1211,12 @@ export default function App() {
           </div>
         )}
 
+        {/* ─── ブックマークパネル ─────────────────── */}
+        {showBookmarks && <BookmarkPanel />}
+
+        {/* ─── 時系列マップ ──────────────────────── */}
+        {showTimeline && <TimelineView />}
+
         {/* ─── カテゴリーフィルター ─────────────────── */}
         <div className={`rounded-xl border p-4 mb-4 ${cardBgClass}`}>
           <div className="flex flex-wrap gap-1.5">
@@ -967,20 +1239,33 @@ export default function App() {
         </div>
 
         {/* ─── 検索バー ─────────────────────────────── */}
-        <div className="mb-4 relative">
-          <span className="absolute left-3 top-1/2 -translate-y-1/2 text-base pointer-events-none">🔍</span>
-          <input
-            type="text"
-            value={searchQuery}
-            onChange={(e) => { setSearchQuery(e.target.value); setSelectedCategory('all'); }}
-            placeholder="タイトル・著者・本文テキストで検索..."
-            className={`w-full rounded-xl border pl-9 pr-9 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all ${inputBg}`}
-          />
-          {searchQuery && (
-            <button
-              onClick={() => setSearchQuery('')}
-              className={`absolute right-3 top-1/2 -translate-y-1/2 text-base ${textSecondary} hover:opacity-70`}
-            >×</button>
+        <div className="mb-4">
+          <div className="relative">
+            <span className="absolute left-3 top-1/2 -translate-y-1/2 text-base pointer-events-none">🔍</span>
+            <input
+              type="text"
+              value={searchQuery}
+              onChange={(e) => { setSearchQuery(e.target.value); setSelectedCategory('all'); if (!e.target.value) setActiveKeyword(null); }}
+              placeholder="タイトル・著者・年・本文テキストで検索..."
+              className={`w-full rounded-xl border pl-9 pr-9 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400 transition-all font-sans ${inputBg}`}
+            />
+            {searchQuery && (
+              <button
+                onClick={() => { setSearchQuery(''); setActiveKeyword(null); }}
+                className={`absolute right-3 top-1/2 -translate-y-1/2 text-base ${textSecondary} hover:opacity-70`}
+              >×</button>
+            )}
+          </div>
+          {activeKeyword && (
+            <div className="mt-1.5 flex items-center gap-2">
+              <span className={`text-xs font-sans ${textSecondary}`}>キーワードフィルター中：</span>
+              <button
+                onClick={() => { setActiveKeyword(null); setSearchQuery(''); }}
+                className={`text-xs font-sans px-2 py-0.5 rounded border ${darkMode ? 'bg-amber-700 text-amber-100 border-amber-600' : 'bg-stone-800 text-white border-stone-700'}`}
+              >
+                ✕ {activeKeyword}
+              </button>
+            </div>
           )}
         </div>
 
@@ -1090,11 +1375,23 @@ export default function App() {
           )}
           {currentText.keywords && currentText.keywords.length > 0 && (
             <div className="flex flex-wrap gap-1.5 mt-3">
-              {currentText.keywords.map(k => (
-                <span key={k} className={`text-xs font-sans px-2 py-0.5 rounded border ${darkMode ? 'bg-zinc-800 text-zinc-400 border-zinc-700' : 'bg-stone-100 text-stone-600 border-stone-200'}`}>
-                  {k}
-                </span>
-              ))}
+              {currentText.keywords.map(k => {
+                const isActive = activeKeyword === k;
+                return (
+                  <button
+                    key={k}
+                    onClick={() => handleKeywordClick(k)}
+                    title={isActive ? `「${k}」フィルターを解除` : `「${k}」で絞り込む`}
+                    className={`text-xs font-sans px-2 py-0.5 rounded border transition-all ${
+                      isActive
+                        ? darkMode ? 'bg-amber-700 text-amber-100 border-amber-600' : 'bg-stone-800 text-white border-stone-700'
+                        : darkMode ? 'bg-zinc-800 text-zinc-400 border-zinc-700 hover:border-zinc-500 hover:text-zinc-200' : 'bg-stone-100 text-stone-600 border-stone-200 hover:border-stone-400 hover:bg-stone-50'
+                    }`}
+                  >
+                    {isActive ? '✕ ' : ''}{k}
+                  </button>
+                );
+              })}
             </div>
           )}
 
@@ -1386,6 +1683,26 @@ export default function App() {
                     {hasAnnotations && (
                       <span className="w-2 h-2 rounded-full bg-amber-400" title="注釈あり" />
                     )}
+                    {/* ブックマークボタン */}
+                    <button
+                      onClick={(e) => toggleBookmark(e, selectedText, para.id)}
+                      title={isBookmarked(selectedText, para.id) ? 'ブックマーク解除' : 'ブックマークに追加'}
+                      className={`w-5 h-5 flex items-center justify-center rounded text-xs transition-all ${
+                        isBookmarked(selectedText, para.id)
+                          ? darkMode ? 'text-amber-400' : 'text-amber-600'
+                          : darkMode ? 'text-zinc-700 hover:text-zinc-400' : 'text-stone-200 hover:text-stone-400'
+                      }`}
+                    >
+                      🔖
+                    </button>
+                    {/* リンクコピーボタン */}
+                    <button
+                      onClick={(e) => copyParaLink(e, selectedText, para.id)}
+                      title="この段落のリンクをコピー"
+                      className={`w-5 h-5 flex items-center justify-center rounded text-xs transition-colors ${darkMode ? 'text-zinc-700 hover:text-zinc-400' : 'text-stone-200 hover:text-stone-400'}`}
+                    >
+                      🔗
+                    </button>
                     {/* 段落読み上げボタン */}
                     <button
                       onClick={(e) => { e.stopPropagation(); speakParagraph(para, currentText); }}

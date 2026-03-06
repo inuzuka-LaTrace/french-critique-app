@@ -1145,11 +1145,12 @@ export default function App() {
       .map(t => ({ ...t, yearNum: parseInt(t.year) }))
       .filter(t => !isNaN(t.yearNum) && t.yearNum >= 1800 && t.yearNum <= 1940);
 
-    // 著者ごとにグループ化・年順ソート
+    // カテゴリをキーにグループ化（author文字列の表記ゆれを防ぐ）
     const byAuthor = {};
     withYear.forEach(t => {
-      if (!byAuthor[t.author]) byAuthor[t.author] = { author: t.author, category: t.category, texts: [] };
-      byAuthor[t.author].texts.push(t);
+      const key = t.category;
+      if (!byAuthor[key]) byAuthor[key] = { author: t.author, category: t.category, texts: [] };
+      byAuthor[key].texts.push(t);
     });
     const authorGroups = Object.values(byAuthor).sort((a, b) =>
       Math.min(...a.texts.map(t => t.yearNum)) - Math.min(...b.texts.map(t => t.yearNum))

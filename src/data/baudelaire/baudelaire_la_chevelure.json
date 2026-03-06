@@ -1,0 +1,139 @@
+{
+  "id": "baudelaire_la_chevelure",
+  "title": "La Chevelure",
+  "author": "Charles Baudelaire",
+  "source": "Les Fleurs du mal, 2e édition, Poulet-Malassis et de Broise, Paris, 1861, « Spleen et Idéal », XXIII",
+  "year": "1861",
+  "firstPublication": "Les Fleurs du mal, 2e édition, 1861 (初版1857年には未収録)",
+  "difficulty": "中級",
+  "category": "baudelaire",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "『悪の華』第2版「憂愁と理想」部門第XXIII番。ジャンヌ・デュヴァル詩篇群（XXII–XXXIX）に属し、直前の「Parfum exotique」と対を成す。愛人の黒髪への接触から始まり、香り→異国の海→宇宙的記憶という連想の連鎖が7つの五行連句（35行のアレクサンドラン）で展開される。ボードレール自身が散文詩「Un hémisphère dans une chevelure」（『パリの憂愁』収録）として書き直したことからも、この詩の中心的重要性が分かる。「correspondances（万物照応）」の詩学──感覚の相互浸透と官能から霊的高揚への上昇──が最も具体的かつ官能的な形で実現された作品。マラルメ「Mysticis umbraculis」への直接的影響源。",
+  "keywords": ["髪", "照応", "異国趣味", "航海", "香り", "記憶", "黒", "官能", "ジャンヌ・デュヴァル", "理想への上昇"],
+  "relatedTexts": [
+    "baudelaire_elevation",
+    "baudelaire_harmonie_du_soir",
+    "mallarme_mysticis_umbraculis",
+    "mallarme_apparition",
+    "valery_la_dormeuse"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Ô toison, moutonnant jusque sur l'encolure !\nÔ boucles ! Ô parfum chargé de nonchaloir !\nExtase ! Pour peupler ce soir l'alcôve obscure\nDes souvenirs dormant dans cette chevelure,\nJe la veux agiter dans l'air comme un mouchoir !",
+      "provisionalTranslation": "おお、羊毛よ、首筋まで波打つ羊毛よ！\nおお、巻き毛！おお、倦怠を帯びた香りよ！\n恍惚！今宵この暗い閨を満たすために\nこの髪の中に眠る思い出たちで──\n私はそれを空気の中でハンカチのように振りたい！"
+    },
+    {
+      "id": 2,
+      "french": "La langoureuse Asie et la brûlante Afrique,\nTout un monde lointain, absent, presque défunt,\nVit dans tes profondeurs, forêt aromatique !\nComme d'autres esprits voguent sur la musique,\nLe mien, ô mon amour ! nage sur ton parfum.",
+      "provisionalTranslation": "倦怠に満ちたアジアと燃えるアフリカ、\n遠く、不在の、ほとんど消え去った一つの世界全体が、\nお前の深みに生きている、芳香の森よ！\n他の魂たちが音楽の上を漂うように、\n私の魂は、おお愛しい人よ、お前の香りの上を泳ぐ。"
+    },
+    {
+      "id": 3,
+      "french": "J'irai là-bas où l'arbre et l'homme, pleins de sève,\nSe pâment longuement sous l'ardeur des climats ;\nFortes tresses, soyez la houle qui m'enlève !\nTu contiens, mer d'ébène, un éblouissant rêve\nDe voiles, de rameurs, de flammes et de mâts :",
+      "provisionalTranslation": "私はあそこへ行こう、木も人も樹液に満ちて\n気候の熱気のもとに長々と気絶するあの場所へ。\n力強い三つ編みよ、私を運ぶ波涛になれ！\nお前は含んでいる、黒檀の海よ、まばゆい夢を──\n帆と漕ぎ手と炎と帆柱の夢を："
+    },
+    {
+      "id": 4,
+      "french": "Un port retentissant où mon âme peut boire\nÀ grands flots le parfum, le son et la couleur ;\nOù les vaisseaux, glissant dans l'or et dans la moire,\nOuvrent leurs vastes bras pour embrasser la gloire\nD'un ciel pur où frémit l'éternelle chaleur.",
+      "provisionalTranslation": "私の魂が飲み干せる轟きわたる港──\n大きな波で香りを、音を、色を。\n黄金と玉虫色の絹の上を滑る船々が\nその広大な腕を開いて栄光を抱きしめようとする\n永遠の熱が震える清澄な空の栄光を。"
+    },
+    {
+      "id": 5,
+      "french": "Je plongerai ma tête amoureuse d'ivresse\nDans ce noir océan où l'autre est enfermé ;\nEt mon esprit subtil que le roulis caresse\nSaura vous retrouver, ô féconde paresse,\nInfinis bercements du loisir embaumé !",
+      "provisionalTranslation": "私は陶酔を愛する頭を沈めよう\nあの黒い大洋──もう一方が閉じ込められているその海へ。\nそして揺れに撫でられる私の繊細な精神は\nお前たちをまた見出すだろう、おお豊かな怠惰よ、\n香り漂う余暇の無限の揺り籠の揺れよ！"
+    },
+    {
+      "id": 6,
+      "french": "Cheveux bleus, pavillon de ténèbres tendues,\nVous me rendez l'azur du ciel immense et rond ;\nSur les bords duvetés de vos mèches tordues\nJe m'enivre ardemment des senteurs confondues\nDe l'huile de coco, du musc et du goudron.",
+      "provisionalTranslation": "青い髪よ、引き伸ばされた闇のテント幕よ、\nお前は私に広大で丸い空の紺碧を返してくれる。\nお前のねじれた巻き毛の産毛に覆われた縁で\n私は混ざり合った香りに熱く酔いしれる──\nヤシ油の、ムスクの、タールの香りに。"
+    },
+    {
+      "id": 7,
+      "french": "Longtemps ! toujours ! ma main dans ta crinière lourde\nSèmera le rubis, la perle et le saphir,\nAfin qu'à mon désir tu ne sois jamais sourde !\nN'es-tu pas l'oasis où je rêve, et la gourde\nOù je hume à longs traits le vin du souvenir ?",
+      "provisionalTranslation": "長く！永遠に！お前の重たいたてがみの中で私の手は\nルビーを、真珠を、サファイアを蒔くだろう、\n私の欲望にお前が決して耳を閉じないように！\nお前は私が夢見るオアシスではないのか、そして水筒ではないのか──\n私が長い一口で記憶のワインを吸い込む水筒？"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "7つの五行連句（quintils）、各連5行のアレクサンドラン（12音節）、計35行。押韻はABAAB（encolure/alcôve/chevelure – nonchaloir/mouchoir）の交互変形。五行連句という偶数でない形式が、4行連の「閉じた」完結感を避け、連のたびに「余白」を生み出す──これが連想の拡大・旅立ちの感覚と対応する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Ô toison, moutonnant jusque sur l'encolure !",
+      "body": "「Ô toison（羊毛よ）」──髪を羊毛に喩える冒頭は、ギリシア神話の「黄金の羊毛（toison d'or）」への暗示を含む。アルゴナウタイの冒険譚と重なることで、髪は最初から遠い異国への航海の出発点として提示される。「moutonnant（波打つ）」という語は同時に羊の毛と波の白波（mouton）を喚起し、海のイメージを第1連から準備する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "parfum chargé de nonchaloir",
+      "body": "「nonchaloir（倦怠・無関心）」は中世フランス語から来る古語的名詞で、「nonchalance」の詩的形。ボードレールが好んだ語で、官能的な怠惰・無気力の甘美さを意味する。「倦怠を帯びた香り」という表現は、後の「Spleen」詩篇群の倦怠（ennui）と対照的に、ここでは苦痛ではなく官能的な理想として提示される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "La langoureuse Asie et la brûlante Afrique",
+      "body": "「倦怠に満ちたアジア」と「燃えるアフリカ」──二大陸をそれぞれ一つの形容詞で定義するボードレール的圧縮。ボードレール20歳のインド洋航海（1841年、モーリシャス島・レユニオン島滞在）の実体験が基盤にある。しかしここでの「アジア」「アフリカ」は地理的事実でなく、倦怠と熱という二つの感覚的極として機能する──記憶と官能が地理を置き換えている。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Comme d'autres esprits voguent sur la musique,\nLe mien, ô mon amour ! nage sur ton parfum.",
+      "body": "詩の中心的比喩。「音楽の上を漂う魂」と「香りの上を泳ぐ魂」の対比は、「Correspondances（万物照応）」（第IV番）の詩学──感覚の相互変換──の実例。香りは音楽と等価な霊的媒体として提示される。「voguent（漂う）」と「nage（泳ぐ）」の動詞の違い──受動的な漂流と能動的な水泳──も微妙な対比を形成する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Tu contiens, mer d'ébène, un éblouissant rêve",
+      "body": "「黒檀の海（mer d'ébène）」──黒い髪が海へと変換される詩の転換点。「ebony sea」はジャンヌ・デュヴァルの黒人的出自への暗示でもある（彼女はハイチ系混血とされる）。しかしボードレールはここで人種的特定よりも、黒という色彩が内包する深さ・神秘・無限という象徴的連想を前面に出す。第6連の「cheveux bleus（青い髪）」という矛盾的形容詞と呼応する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "À grands flots le parfum, le son et la couleur",
+      "body": "「大きな波で香りを、音を、色を」──三感覚（嗅覚・聴覚・視覚）の同時的摂取。これがボードレールにおける「共感覚（synesthésie）」の最も明示的な表現の一つ。「Correspondances」では「匂い、色、音は互いに応じ合う」と宣言されるが、ここではそれが港という具体的空間で実演される。「boire（飲む）」という動詞で感覚摂取が身体的摂取として表現される点も重要。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "ce noir océan où l'autre est enfermé",
+      "body": "「あの黒い大洋──もう一方が閉じ込められているその海」。「l'autre（もう一方）」の指示対象が詩中最大の謎の一つ。愛人の意識・魂・別の自己・過去の記憶など複数の解釈が可能。「enfermé（閉じ込められた）」という動詞が、大洋が外向きの広大さであるにもかかわらず「閉じた空間」でもあることを示す──無限の中の幽閉という矛盾。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Cheveux bleus, pavillon de ténèbres tendues,\nVous me rendez l'azur du ciel immense et rond",
+      "body": "「青い髪」という矛盾的形容詞──黒髪が青みがかって見える光学的観察と、青（azur）という詩的理想の色彩の重ね合わせ。マラルメの「L'Azur」における空の青（理想・絶対）と同じ色彩記号体系を共有する。「ténèbres tendues（引き伸ばされた闇）」というテント幕の比喩は、髪が空間を区切る幕として機能し、その「闇」の内側にこそ「空の紺碧」が宿るという逆説的な照応を生む。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "De l'huile de coco, du musc et du goudron.",
+      "body": "「ヤシ油、ムスク、タール」──この三つの香りの列挙は批評的にしばしば議論される。ヤシ油とムスクは異国的・官能的な香りとして機能するが、「タール（goudron）」という船の防水材料の工業的・鼻をつく香りの突然の挿入は、詩の理想化された異国趣味を一瞬で現実の港の匂いへと引き戻す。ボードレールの美学における「悪」や「醜」の積極的包含──美は高貴なものだけでなく卑俗なものとの照応から生まれる。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Longtemps ! toujours ! ma main dans ta crinière lourde\nSèmera le rubis, la perle et le saphir,",
+      "body": "「長く！永遠に！」──時間の引き伸ばし要求が感嘆符で強調される。第6連まで続いた感覚的・空間的旅が、ここで時間的次元へと転換する。宝石（ルビー・真珠・サファイア）を「蒔く（sèmera）」という農業的動詞の使用は官能的・宝飾的イメージと有機的・自然的イメージの融合。「crinière（たてがみ）」という馬の鬣への比喩は野性的な生命力を加える。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "N'es-tu pas l'oasis où je rêve, et la gourde\nOù je hume à longs traits le vin du souvenir ?",
+      "body": "詩の結尾は二つの比喩の問いかけとして閉じる──「夢見るオアシス」と「記憶のワインを吸い込む水筒」。砂漠の生命の泉（オアシス）と旅の水の器（gourde）という対照が、詩全体の旅のモチーフを圧縮する。「vin du souvenir（記憶のワイン）」という表現が、香り→記憶→酩酊という連鎖を一語で束ねる。問いかけ形式の終結は肯定を前提とした修辞的疑問であり、詩の断言的な閉じ方として機能する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "intertextual",
+      "anchor": "le vin du souvenir",
+      "body": "「記憶のワイン」は散文詩「Un hémisphère dans une chevelure」（『パリの憂愁』収録）の同一テーマの書き直しと対応する。同時に、この詩全体の「香り→記憶→異国→大洋→記憶のワイン」という連想連鎖の構造は、マラルメ「Mysticis umbraculis」（1862）の「眠る身体→光差し込む森→苔の巣」という三段連想に直接の影響を与えた。マラルメは若年期にボードレールのこの詩学的連想構造を学んだことが、初期詩篇から明確に読み取れる。",
+      "targetId": "mallarme_mysticis_umbraculis"
+    }
+  ]
+}

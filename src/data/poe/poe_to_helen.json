@@ -1,0 +1,100 @@
+{
+  "id": "poe_to_helen",
+  "title": "To Helen",
+  "author": "Edgar Allan Poe",
+  "source": "Poems by Edgar A. Poe, Second Edition, E. Bliss, New York, 1831; revised version: The Pioneer, February 1843",
+  "year": "1831",
+  "firstPublication": "Poems by Edgar A. Poe, 1831 (初稿); The Pioneer, vol. 1, no. 2, February 1843 (改訂確定版)",
+  "difficulty": "中級",
+  "category": "poe",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★",
+  "context": "ポーが22歳のときに初出版した詩。少年期に親しんだジェイン・スタナード夫人（友人の母）への追悼として書かれたとされる。ギリシア・ローマの古典的美のイメージ（ヘレネー・ニカイア・プシュケー）を召喚しながら、美が魂を「故郷」へと導くという詩学的信念を凝縮する。三連構成の簡潔さの中に、ポー美学の核心──美と死と記憶の不可分性──が結晶している。",
+  "keywords": ["美", "古典", "ヘレネー", "魂", "故郷", "記憶", "ギリシア", "ローマ", "光", "象徴主義"],
+  "relatedTexts": [
+    "poe_a_dream_within_a_dream",
+    "poe_the_raven",
+    "swinburne_memorial_gautier",
+    "yeats_to_the_rose_upon_the_rood_of_time"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Helen, thy beauty is to me\nLike those Nicéan barks of yore,\nThat gently, o'er a perfumed sea,\nThe weary, way-worn wanderer bore\nTo his own native shore.",
+      "provisionalTranslation": "ヘレネーよ、汝の美は私にとって\nかつてのニカイアの船のようなもの──\n香り漂う海の上を静かに\n疲れ果てた旅人を運んだ船、\n彼の生まれ故郷の岸へと。"
+    },
+    {
+      "id": 2,
+      "originalText": "On desperate seas long wont to roam,\nThy hyacinth hair, thy classic face,\nThy Naiad airs have brought me home\nTo the glory that was Greece,\nAnd the grandeur that was Rome.",
+      "provisionalTranslation": "絶望の海をさまよい続けた私を、\n汝のヒュアキントスの髪、汝の古典的な顔、\n汝の水の精のような佇まいが家へと連れ帰った──\nかつてのギリシアの栄光へと、\nかつてのローマの壮大さへと。"
+    },
+    {
+      "id": 3,
+      "originalText": "Lo! in yon brilliant window-niche\nHow statue-like I see thee stand,\nThe agate lamp within thy hand!\nAh, Psyche, from the regions which\nAre Holy Land!",
+      "provisionalTranslation": "見よ！あの輝かしい窓の壁龕に\n汝がいかに彫像のように立っているかを、\n瑪瑙の灯を手に！\nああ、プシュケーよ、かの地──\n聖なる国──から来た魂よ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Nicéan barks of yore",
+      "body": "「ニカイアの船」。「Nicéan」の指示対象は諸説ある──小アジアのニカイア（ビュティニア）、あるいはニケー（勝利の女神）に由来する形容詞とする読みが主流。「yore（かつての）」という古語的副詞と合わせ、時間的な遠さと古典的雰囲気を喚起する。ポーが詩中の固有名詞に特定の考証的正確さよりも音響的・喚起的機能を求めていることを示す典型例。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "第1連はiambic tetrameter（弱強四歩格）基調のABABB韻（me / yore / sea / bore / shore）。「bore / shore」の完全韻と「me / sea」の不完全韻が対比される。語末の「shore（岸）」が第2連の「home（家）」、第3連の「Holy Land（聖なる国）」へと段階的に深化する「帰還」のモチーフを予告する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "hyacinth hair",
+      "body": "「ヒュアキントスの髪」。ヒュアキントス（Hyacinthus）はアポロンに愛された美少年で、その死後ヒヤシンスの花になったとされるギリシア神話の人物。「ヒュアキントスの髪」とは黒く波打つ豊かな髪を指す古典的表現であり、ホメロス『オデュッセイア』でアテナがオデュッセウスの髪を整える場面（6巻231行）に由来するとも言われる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Naiad airs",
+      "body": "「ナイアスのような佇まい」。Naiad（ナイアス）はギリシア神話の水の精霊。「airs（物腰・雰囲気）」という語と組み合わさることで、特定の神格への同一化ではなく、水の精のような軽やかさと優雅さを持つ雰囲気として機能する。第3連のPsyche（プシュケー）への命名と合わせ、詩全体がヘレネーを一つの固定した神話的人物像ではなく、複数の古典的美の化身として重ね合わせていく。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "the glory that was Greece,\nAnd the grandeur that was Rome.",
+      "body": "詩全体で最も有名な二行。過去時制「was」の使用が重要──現在形でなく、失われたものとしてのギリシア・ローマを提示する。「glory（栄光）」と「grandeur（壮大さ）」は意味的に近いが、ギリシアに美的・精神的な栄光を、ローマに建築・帝国的な雄大さを配分する区別がある。頭韻（glory/grandeur/Greece）と脚韻（Greece/Rome）の音響的均衡が、古典世界の秩序感を模倣する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "allusion",
+      "anchor": "desperate seas long wont to roam",
+      "body": "オデュッセウスの長い漂泊への暗示。第1連の「疲れ果てた旅人」が故郷へ帰還するイメージと連続し、詩全体がホメロス的な帰還（nostos）の構造を持つ。ポーの伝記的文脈では「絶望の海」を当時の自身の精神的放浪（アルコール依存・経済的困窮）への自己投影として読む批評も多い。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "yon brilliant window-niche",
+      "body": "第3連で詩の視点が突如転換する──それまで抽象的・神話的だったヘレネーが、壁龕に立つ具体的な彫像として視覚化される。「Lo!（見よ！）」という感嘆詞が視覚的な気づきの瞬間を演出し、「statue-like（彫像のように）」という直喩が彼女を芸術作品として固定する。この「美の彫像化」はポー詩学における美の本質──動的な生でなく、永遠に固定された理想的瞬間──を体現する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "agate lamp",
+      "body": "「瑪瑙の灯」。瑪瑙（agate）は半透明の縞模様を持つ鉱物で、古代から装飾・器具に用いられた。灯を持つ彫像的人物像はギリシアの女神彫刻（特にアテナやヘスティア）を想起させる。光源を手に持つという構図は、彼女が単なる美の対象でなく導く光であることを示す──第1・2連の「帰還を導く船」というモチーフの視覚的帰結。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Psyche",
+      "body": "プシュケー（Psyche）はギリシア語で「魂・息吹」を意味し、ローマ神話でエロスに愛された人物として神話化された。詩の最後でヘレネーがプシュケーと同一視されることで、美の体現者が「魂そのもの」へと昇華される。「Holy Land（聖なる国）」からの訪問者という定義は、彼女を現世の存在ではなく彼岸からの使者として位置づける。このポーにおける「死んだ美しい女性」という主題はのちに「The Raven」「Annabel Lee」で中心モチーフとなる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Psyche, from the regions which\nAre Holy Land",
+      "body": "「汝はかの聖なる国から来た魂」という結末はイェイツ「バラの詩篇」における永遠の美の召喚と構造的に対応する。イェイツが薔薇というケルト的・神秘主義的象徴を通じて魂の故郷を求めるように、ポーはギリシア・ローマという古典的「聖地」に美の根源を定位する。両者とも「美＝帰還を促すもの」という詩学を共有している。",
+      "targetId": "yeats_to_the_rose_upon_the_rood_of_time"
+    }
+  ]
+}

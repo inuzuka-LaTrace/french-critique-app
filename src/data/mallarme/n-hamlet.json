@@ -2,63 +2,210 @@
   "id": "mallarme_hamlet",
   "title": "Hamlet",
   "author": "Stéphane Mallarmé",
-  "source": "Divagations",
-  "year": "1897",
-  "difficulty": "中級〜上級",
+  "source": "Divagations, Eugène Fasquelle éditeur, Paris, 1897 (p. 164–170). 初出: La Revue indépendante, novembre 1886 (Mounet-Sully の上演批評として). 照合出典: Œuvres complètes, Bibliothèque de la Pléiade, t. II, éd. Bertrand Marchal, Gallimard, 2003; wikisource.org (Divagations 1897版).",
+  "year": "1886",
+  "firstPublication": "La Revue indépendante, novembre 1886; Divagations, Eugène Fasquelle éditeur, Paris, 1897 (改訂収録)",
+  "difficulty": "上級",
   "category": "mallarme_critique",
-  "modernRelevance": "★★★★☆",
-  "context": "ハムレット論。読書としての演劇。自己という書物。孤独な読書者としての王子。",
-  "keywords": [
-    "Hamlet",
-    "lecture",
-    "livre",
-    "solitaire",
-    "Polonius"
-  ],
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "1886年10月、コメディ・フランセーズでのムネ＝シュリー（Mounet-Sully）主演『ハムレット』上演を機縁として書かれた演劇批評。1897年『ディヴァガシオン』所収。マラルメはハムレットを「登場することの苦悩（le mal d'apparaître）」を体現する人物として、また「夢と運命の拮抗（l'antagonisme de rêve…avec les fatalités）」という人間存在の本質的な状況の象徴として読む。批評の主軸はコメディ・フランセーズの「誤謬」——シェイクスピアをパリ・コンサーヴァトワール式の演技様式で上演することへの批判——だが、そこから「ハムレットとは何か」という象徴主義的な人物論へと展開する。「Mimique」の「模倣なき模倣」論や「バレ（Ballets）」の身体論と並ぶ、マラルメ演劇論の中心テクスト。",
+  "keywords": ["ハムレット", "登場することの苦悩", "夢と運命の拮抗", "コメディ・フランセーズ", "ムネ＝シュリー", "俳優論", "シェイクスピア", "象徴主義的人物論", "世紀末"],
   "relatedTexts": [
-    "mallarme_ballets_full",
-    "mallarme_crayonne"
+    "mallarme_mimique",
+    "mallarme_ballets",
+    "mallarme_crayonne",
+    "mallarme_crise_de_vers",
+    "mallarme_mystere",
+    "mallarme_plainte_automne"
   ],
   "paragraphs": [
     {
       "id": 1,
-      "french": "Le sujet du monologue ou duo avec soi-même, pour quiconque porte un doigt à sa tempe, tant nous l'avons de fois lu, à même quelque livre, au courant du théâtre : il ne peut que s'interpréter, aujourd'hui, en mainte circonstance, voire omis par le dramaturge.",
-      "officialTranslation": "独白の主題、すなわち自己との二重奏——こめかみに指を当てる者にとっての——、我々はそれを何度も読んできた、何らかの書物の中で、劇場の流れの中で。それは今日では、様々な状況において解釈されるしかなく、劇作家によって省略されることさえある。"
+      "french": "Loin de tout, la Nature, en automne, prépare son Théâtre, sublime et pur, attendant pour éclairer, dans la solitude, de significatifs prestiges, que l'unique œil lucide qui en puisse pénétrer le sens (notoire, le destin de l'homme), un Poëte, soit rappelé à des plaisirs et à des soucis médiocres.",
+      "provisionalTranslation": "すべてから遠く離れて、自然は秋に、その劇場を——崇高で純粋な——準備する。孤独のなかで意義深い威厳を照らし出すために待ちながら。その意味を貫き通せる唯一の澄んだ眼（周知のとおり、人間の宿命）が、一人の詩人が、凡庸な喜びと煩いへと呼び戻されるのを待ちながら。"
     },
     {
       "id": 2,
-      "french": "Hamlet ne devient fou que de lecture : tout est là qui le tragique montre ainsi, c'est qu'un blanc scrupule ou retard de sa main à l'acte, dérangent Polonius ou le dénonciateur ordinaire chez l'homme, derrière le rideau, qui tombe sous l'épée exaspérée de lire.",
-      "officialTranslation": "ハムレットは読書によってのみ狂気に陥る。すべてはそこにあり、悲劇がそのように示すのは、行為への彼の手の白い躊躇あるいは遅延が、人間における普通の密告者であるポローニアスを——幕の背後に隠れている者を——妨げ、その者が読むことに業を煮やした剣の下に倒れるということだ。"
+      "french": "Me voici, oubliant l'amertume feuille-morte, de retour et prêt à noter, en vue de moi-même et de quelques-uns aussi, nos impressions issues de banals Soirs que le plus seul des isolés ne peut, comme il vêt l'habit séant à tous, omettre de considérer : pour l'entretien d'un malaise et, connaissant, en raison de certaines lois non satisfaites, que ce n'est plus ou pas encore l'heure extraordinaire.",
+      "provisionalTranslation": "私はここにいる、落ち葉の苦さを忘れ、戻ってきて、自分のためにも何人かのためにも、凡庸な夜々から生まれた私たちの印象を書き留める用意ができている——最も孤立した孤独者でさえ、万人に似合う服を着るように、省みずにはいられないその夜々を。一つの不安のために、そして、いくつかの満たされない法則によって、それがもはや、あるいはまだ、非常の時ではないことを知りながら。"
     },
     {
       "id": 3,
-      "french": "Le héros marche, lisant au livre de lui-même, haute et vivante page, qu'il s'en écarte et se garde de la tristesse ou bien s'y accoude sur chaque trait, pour approfondir une vérité au front de tous : ne sachant si on doit être ou ne pas être, à la fin que la certitude de paraître illusoire suffit à bâtir le mystère, qu'on évite ou croit.",
-      "officialTranslation": "英雄は歩く、自分自身という書物を読みながら——高く生きた頁を——、彼はそれから離れて悲しみから身を守るか、あるいはその一行一行に肘をつき、万人の額に書かれた真実を深く掘り下げる。存在すべきか存在すべきでないかを知らぬまま、最終的には幻想的に見えることの確信が、人が避けるか信じるかする神秘を築くに十分である。"
+      "french": "Et cependant, enfant sevré de gloire,\nTu sens courir par la nuit dérisoire,\nSur ton front pâle aussi blanc que du lait,\nLe vent qui fait voler ta plume noire\nEt te caresse, Hamlet, ô jeune Hamlet !\n\n(THÉODORE DE BANVILLE.)",
+      "provisionalTranslation": "そしてそれでも、栄光から引き離された子よ、\nおまえは感じる、嘲笑に満ちた夜を走り抜けるのを、\n乳のように白いおまえの青白い額の上を、\n黒い羽根を飛ばす風が\nおまえを撫でていくのを——ハムレット、若きハムレットよ！\n\n（テオドール・ド・バンヴィル）"
     },
     {
       "id": 4,
-      "french": "De là un spectacle interrompu, un texte substitué auquel il faut, pour nous, spectateurs, habitués, faire sonner à travers l'élocution les rappels du thème absent sur le papier et par nous su d'avance.",
-      "officialTranslation": "そこから中断された舞台が生まれ、代替されたテキストが生まれる——それに対して我々観客、慣れた者たちは、発話を通じて、紙の上には不在だが我々が予め知っている主題の反響を鳴り響かせなければならない。"
+      "french": "L'adolescent évanoui de nous aux commencements de la vie et qui hantera les esprits hauts ou pensifs par le deuil qu'il se plaît à porter, je le reconnais, qui se débat sous le mal d'apparaître : parce qu'Hamlet extériorise, sur des planches, ce personnage unique d'une tragédie intime et occulte, son nom même affiché exerce sur moi, sur toi qui le lis, une fascination, parente de l'angoisse.",
+      "provisionalTranslation": "人生の始まりに私たちの中から消えてしまった青年、崇高な、あるいは物思いに沈んだ精神たちに、みずから好んで纏う喪によって取り憑き続けるであろうその青年を、私は認識する——「登場することの苦悩（le mal d'apparaître）」のもとで藻掻いている彼を。なぜならハムレットは、舞台の上で、ある親密で秘密の悲劇の唯一の人物を外在化するのだから——その名前が掲示されるだけで、私に、それを読むおまえに、ある魅惑を行使する、不安に近縁の魅惑を。"
     },
     {
       "id": 5,
-      "french": "Hamlet, c'est de la lecture : on se promène avec un livre qu'on ne lit pas.",
-      "officialTranslation": "ハムレット、それは読書である——人は読まない書物を手に散歩する。"
+      "french": "Je sais gré aux hasards qui, contemplateur dérangé de la vision imaginative du théâtre de nuées et de la vérité pour en revenir à quelque scène humaine, me présentent, comme thème initial de causerie, la pièce que je crois celle par excellence ; tandis qu'il y avait lieu d'offusquer aisément des regards trop vite déshabitués de l'horizon pourpre, violet, rose et toujours or. Le commerce de cieux où je m'identifiai cesse, sans qu'une incarnation brutale contemporaine occupe, sur leur paravent de gloire, ma place tôt renoncée (adieu les splendeurs d'un holocauste d'année élargi à tous les temps pour que ne s'en juxtapose à personne le sacre vain) ; mais avance le seigneur latent qui ne peut devenir, juvénile ombre de tous, ainsi tenant du mythe. Son solitaire drame ! et qui, parfois, tant ce promeneur d'un labyrinthe de trouble et de griefs en prolonge les circuits avec le suspens d'un acte inachevé, semble le spectacle même pourquoi existent la rampe ainsi que l'espace doré quasi moral qu'elle défend, car il n'est point d'autre sujet, sachez-bien : l'antagonisme de rêve chez l'homme avec les fatalités à son existence départies par le malheur.",
+      "provisionalTranslation": "私は偶然に感謝する。雲の劇場の想像的ヴィジョンと真実の、気を散らされた観想者として、何らかの人間的な舞台に戻るために、私に談話の初期テーマとして、卓越した作品と私が信じる作品を提示してくれる偶然に——紫、菫、薔薇、そして常に黄金の地平から、あまりに速く遠ざかった目を容易に傷つける余地があったときに。私が自己同一化した空の交流が止む、威光の屏風の上に私の早々と放棄された場所を残酷な現代的な肉体化が占めることなく（さようなら、年の犠牲の輝きが全ての時代に広げられ、誰にも無益な聖別が隣接しないように）；しかし、なれないでいる潜在の君侯が進んでくる、万人の若き影として、こうして神話に属しながら。彼の孤独なドラマよ！そして時に、この苦悩と不満の迷路の散歩者が、未完の行為の宙吊りとともにその回路を引き延ばすほどに、それは舞台の縁どりが存在し、それが守る黄金の、ほとんど倫理的な空間が存在する理由そのものの光景に見える。なぜならほかに主題はない、よく知れ——人間における夢と、不運によって彼の存在に割り当てられた宿命との拮抗。"
     },
     {
       "id": 6,
-      "french": "Qui la représente ? cet insensé, qui arpente au long des nuits, dans le château, un livre.",
-      "officialTranslation": "それを表象するのは誰か？この狂人、夜通し城の中を、一冊の書物を手に歩き回る者。"
+      "french": "Toute la curiosité, il est vrai, dans le cas d'aujourd'hui, porte sur l'interprétation, mais en parler, impossible sans la confronter au concept.",
+      "provisionalTranslation": "あらゆる好奇心は、今日の場合、確かに、解釈の上にある。しかしそれを語ることは、概念と対峙させることなしには不可能だ。"
     },
     {
       "id": 7,
-      "french": "Le drame, on le voit limpide, est le spectacle de l'idéalité que nous portons en nous, pur comme nous, et que le théâtre, avec l'acteur pour exécuteur, dégage, afin que, rentrés en nous, nous y retrouvions les linéaments vaporeux et fixes, le caractère du mensonge qu'ont les fantômes ordinaires.",
-      "officialTranslation": "ドラマは、明瞭に見えるように、我々が内に抱く観念性の見世物である——我々と同じく純粋で——、それを劇場は俳優を実行者として解き放つ。我々が自己の内に戻ったとき、そこに通常の幻影が持つ嘘の性格である、霧のような、しかし固定した輪郭を再び見出すために。"
+      "french": "L'acteur mène ce discours.",
+      "provisionalTranslation": "俳優がこの議論を主導する。"
     },
     {
       "id": 8,
-      "french": "Hamlet tue, non Polonius, mais l'évidence : Ophélie, c'est la folie même. On sait le mot sublime ou Laërte, d'un bond, reconnaît ce qui l'a foudroyé — La Beauté.",
-      "officialTranslation": "ハムレットが殺すのは、ポローニアスではなく、証拠である。オフィーリアは狂気そのものである。人は知っている、レアーティーズが一跳びで、自分を打ちのめしたものを——美を——認識するあの崇高な言葉を。"
+      "french": "À lui seul, par divination, maîtrise incomparable des moyens et aussi une foi de lettré en la toujours certaine et mystérieuse beauté du rôle, il a su conjurer je ne sais quel maléfice comme insinué dans l'air de cette imposante représentation. Non, je ne blâme rien à la plantation du magnifique site ni au port somptueux de costumes, encore que selon la manie érudite d'à-présent, cela date, trop à coup sûr ; et que le choix exact de l'époque Renaissance spirituellement embrumée d'un rien de fourrures septentrionales, ôte du recul légendaire primitif, changeant par exemple les personnages en contemporains du dramaturge : Hamlet, lui, évite ce tort, dans sa traditionnelle presque nudité sombre un peu à la Goya. L'œuvre de Shakespeare est si bien façonnée selon le seul théâtre de notre esprit, prototype du reste, qu'elle s'accommode de la mise en scène de maintenant, ou s'en passe, avec indifférence.",
+      "provisionalTranslation": "彼ひとりで、霊感的直観によって、手段の比類なき習熟によって、またこの役の常に確実で神秘的な美への文人としての信仰によって、この堂々たる上演の空気の中に忍び込むように入り込んでいた何らかの呪いを祓うことができた。いや、私は壮麗な舞台美術の設営にも、豪奢な衣装の着用にも何も咎めない——ただし今日の博識狂の癖に従って、それは時代がかっている、確かに過ぎるほど；そしてルネサンス時代の選択が、北方の毛皮のわずかな霞で霊的に曇らされ、原初の伝説的距離を奪い、例えば登場人物を劇作家と同時代の人物に変えてしまうとはいえ——ハムレットは彼で、この過ちを免れている、伝統的な、ほとんど暗い裸に近い姿で、やや ゴヤ風に。シェイクスピアの作品は、それ以外のプロトタイプとなる、私たちの精神の唯一の劇場に従ってとてもうまく成形されているので、今日の演出に適応するか、あるいはそれなしで済ますか、無関心に。"
+    },
+    {
+      "id": 9,
+      "french": "Autre chose me déconcerte que de menus détails infiniment malaisés à régler et discutables : un mode d'intelligence particulier au lieu parisien même où s'installe Elseneur et, comme dirait la langue philosophique, l'erreur du Théâtre-Français. Ce fléau est impersonnel et la troupe d'élite acclamée, dans la circonstance, multiplia son minutieux zèle : jouer Shakespeare, ils le veulent bien, et ils veulent le bien jouer, certes. À quoi le talent ne suffit pas, mais le cède devant certaines habitudes invétérées de comprendre. Ici Horatio, non que je le vise, avec quelque chose de classique et d'après Molière dans l'allure : mais Laertes, j'aborde au sujet, joue au premier plan et pour son compte comme si voyages, double deuil pitoyable, comportaient un intérêt spécial. Les plus belles qualités (au complet,) qu'importe dans une histoire éteignant tout ce qui n'est un imaginaire héros, à demi mêlé à de l'abstraction ; et c'est trouer de sa réalité, ainsi qu'une vaporeuse toile, l'ambiance, que dégage l'emblématique Hamlet. Comparses, il le faut ! car dans l'idéale peinture de la scène tout se meut selon une réciprocité symbolique des types entre eux ou relativement à une figure seule. Magistral, tel infuse l'intensité de sa verve franche à Polonius en une sénile sottise empressée d'intendant de quelque jovial conte, je goûte, mais oublieux alors d'un ministre tout autre qui égayait mon souvenir, figure comme découpée dans l'usure d'une tapisserie pareille à celle où il lui faut rentrer pour mourir : falot, inconsistant bouffon d'âge, de qui le cadavre léger n'implique, laissé à mi-cours de la pièce, pas d'autre importance que n'en donne l'exclamation brève et hagarde « un Rat ! » Qui erre autour d'un type exceptionnel comme Hamlet, n'est que lui, Hamlet : et le fatidique prince qui périra au premier pas dans la virilité, repousse mélancoliquement, d'une pointe vaine d'épée, hors de la route interdite à sa marche, le tas de loquace vacuité gisant que plus tard il risquerait de devenir à son tour, s'il vieillissait. Ophélie, vierge enfance objectivée du lamentable héritier royal, reste d'accord avec l'esprit de conservatoires moderne : elle a du naturel, comme l'entendent les ingénues, préférant à s'abandonner aux ballades introduire tout le quotidien acquis d'une savante entre les comédiennes ; chez elle éclate non sans grâce, quelque intonation parfaite, dans les pièces du jour ou la vie.",
+      "provisionalTranslation": "些細な詳細より私を当惑させるものがある、無限に解決困難で議論の余地のある——エルシノアが設置されるパリという場所に特有の知性の様式と、哲学的言語が言うなら、コメディ・フランセーズの「誤謬」だ。この悪弊は非人称的であり、その状況において喝采を浴びたエリートの座は、その細心の熱意を重ねた：シェイクスピアを演じたい、うまく演じたい、確かに。それに才能は足りないが、ある根深い理解の習慣の前に退く。ここでホレイショーが、彼を名指すのではないが、物腰の中にモリエール風のクラシックなものを持っている。しかしレアーティーズ、主題に入れば、前景でその口座のために演じる、旅々、二重の哀れな喪が特別な関心を帯びているかのように。最も美しい資質でさえ（一そろいで）、想像上の英雄でないすべてを消滅させる物語においては何の意味があるか、抽象とへ半ば混じった英雄を。そして自分の現実でそれを穿つのだ、霞んだカンバスのように、象徴的なハムレットが発散する雰囲気を。チョイ役！それが必要だ！なぜなら舞台の理想的な絵画の中では、すべてが、相互の典型の象徴的な相互性に従って、あるいはただひとつの人物に対して動くのだから。巧みに、ある人物はポローニアスにその率直な才気の強度を——ある陽気な物語の老齢番頭の急ぐような老耄愚鈍のなかに——注入する、私は楽しむ、しかしそのとき、私の記憶を明るくした別の大臣を忘れながら、死ぬために戻らなければならない、それに似たタペストリーの摩耗から切り取られたような人物——頼りにならない、年齢の一貫しない道化で、その軽い死体は作品の中途に置き去られ、「鼠！」という短く呆然とした叫びが与えるほどの重要性しか持たない。ハムレットのような例外的な類型の周りを彷徨うものは、彼のみ、ハムレット：そして男盛りへの第一歩で死ぬ運命の王子は、その歩みを禁じられた道から、後にもし老いれば自分が代わりになる恐れのある饒舌な空虚の横たわる塊を、剣の虚しい切先で憂鬱に押しのける。オフィーリア、嘆かわしい王位継承者の客観化された少女の幼年期は、現代の音楽院の精神と一致している——彼女は素直さがある、無垢な娘たちが理解するように、バラードに身を任せるよりも女優たちの中の博識者として習得した日常すべてを導入することを好んで；彼女の中で時に完璧な語調が、今日の作品か生活の中で、優雅さなしにはないが爆発する。"
+    },
+    {
+      "id": 10,
+      "french": "Alors je surprends en ma mémoire, autres que les lettres qui groupent le mot Shakespeare, voleter de ces noms qu'il est sacrilège même de taire, car on les devine.\n\nQuel est le pouvoir du Songe !",
+      "provisionalTranslation": "そのとき私は記憶の中に、シェイクスピアという語を形成する文字とは別に、黙ることさえ不敬にあたる名前たちが、飛び交うのを見出す——なぜなら人はそれを察するのだから。\n\n夢の力とは何であることよ！"
+    },
+    {
+      "id": 11,
+      "french": "Le — je ne sais quel effacement subtil et fané et d'imagerie de jadis, qui manque à des maîtres-artistes aimant à représenter un fait comme il en arrive, clair, battant neuf ! lui Hamlet, étranger à tous lieux où il poind, le leur impose à ces vivants trop en relief, par l'inquiétant ou funèbre envahissement de sa présence : l'acteur, sur quoi se taille un peu exclusive à souhait la version française, remet tout en place seul par l'exorcisme d'un geste annulant l'influence pernicieuse de la Maison en même temps qu'il épand l'atmosphère du génie, avec un tact dominateur et du fait de s'être miré naïvement dans le séculaire texte.",
+      "provisionalTranslation": "あの——何というかほのかで色褪せた、かつての意象の消滅、事実が起きる通りに、明快に、新鮮に表現することを好む巨匠芸術家たちに欠けているもの！彼ハムレットは、彼が現れるすべての場所に異邦人として、その不安をかき立てる、あるいは陰惨な存在の侵食によって、それを浮き彫りになりすぎた生者たちに押しつける——俳優は、フランス版が我がもの顔に多少排他的に仕立てたその上で、一つの身振りの祓いによってのみ全てを元に戻す、同時に天才の雰囲気を広げながら、百年に渡るテクストに無邪気に映し出した事実から来る支配的な機微をもって、悪意ある館の影響を消滅させながら。"
+    },
+    {
+      "id": 12,
+      "french": "Son charme tout d'élégance désolée accorde comme une cadence à chaque sursaut : puis la nostalgie de la prime sagesse inoubliée malgré les aberrations que cause l'orage battant la plume délicieuse de sa toque, voilà le caractère peut-être et l'invention du jeu de ce contemporain qui tire de l'instinct parfois indéchiffrable à lui-même des éclairs de scoliaste. Ainsi m'apparaît rendue la dualité morbide qui fait le cas d'Hamlet, oui, fou en dehors et sous la flagellation contradictoire du devoir, mais s'il fixe en dedans les yeux sur une image de soi qu'il y garde intacte autant qu'une Ophélie jamais noyée, elle ! prêt toujours à se ressaisir. Joyau intact sous le désastre.",
+      "provisionalTranslation": "荒廃した優雅さのみをまとうその魅力は、あたかも各々の身震いに一つのカデンツを与えるよう：続いて、彼の帽子の愛らしい羽根を打ちつける嵐が引き起こす逸脱にもかかわらず忘れえぬ最初の叡智への郷愁——それが恐らくこの現代人の演技の性格と発明であり、自らにも解読不能な本能から注解者の閃きを引き出す。こうして私には、ハムレットの事例をなす病的二重性が表現されたように見える——そう、外部では狂い、義務の矛盾した鞭打ちのもとで、しかし内部で決して溺れなかったオフィーリアのように無傷に保つ自己のイメージに目を固定するなら、彼女！常に立て直す準備がある。壊滅の下の無傷の宝石。"
+    },
+    {
+      "id": 13,
+      "french": "Mime, penseur, le tragédien interprète Hamlet en souverain plastique et mental de l'art et surtout comme Hamlet existe par l'hérédité en les esprits de la fin de ce siècle : il convenait, une fois, après l'angoissante veille romantique, de voir aboutir jusqu'à nous résumé le beau démon, au maintien demain peut-être incompris, c'est fait. Avec solennité, un acteur lègue élucidée, quelque peu composite mais très d'ensemble, comme authentiquée du sceau d'une époque suprême et neutre, à un avenir qui probablement ne s'en souciera mais ne pourra du moins l'altérer, une ressemblance immortelle.",
+      "provisionalTranslation": "マイム、思想家として、悲劇俳優はハムレットを芸術の造形的・精神的主権者として解釈する、そして何より、ハムレットがこの世紀末の精神たちの中に遺伝によって存在するように——それはかつて一度、ロマン主義の苦悩に満ちた前夜のあと、美しき悪魔が私たちまで要約されて到達するのを見ることが相応しかった、その態度が明日は多分理解されないにせよ、それはなされた。厳粛に、一人の俳優は、幾分複合的だが全体としては非常に一体のものとして、至高で中立な時代の印章で真正化されたかのように、おそらくそれを気にしないが少なくとも変えることはできない未来に向けて、解明された不死の似姿を遺す。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "テクスト全体の構造（13段落）：三部構成。第一部（§1〜§5）：序文的・宇宙論的な導入——自然の劇場、語り手の回帰、バンヴィルの詩、ハムレットという存在の定義。第二部（§6〜§10）：上演批評——今日の公演、俳優の力、コメディ・フランセーズの「誤謬」、人物論（ホレイショー・レアーティーズ・ポローニアス・オフィーリア）。第三部（§11〜§13）：ハムレットの二重性・世紀末への遺産。§3のバンヴィル引用詩が序として機能し、§7「L'acteur mène ce discours.」という一文段落が批評の軸を宣言し、§10「Quel est le pouvoir du Songe !」という感嘆文が第二部から第三部への折返し点をなす——三つの「ヒンジ」による構造。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Loin de tout, la Nature, en automne, prépare son Théâtre, sublime et pur",
+      "body": "テクストの開幕：「すべてから遠く（Loin de tout）」という絶対的な距離の設定。「自然（la Nature）」が大文字で擬人化され「その劇場（son Théâtre）」を準備する——自然が劇場を所有する主語として立つ逆転。「崇高で純粋（sublime et pur）」：ハムレット論の核心語彙の先取り。「詩人（un Poëte）」が不定冠詞付きで登場——特定の詩人でなく「詩人という機能」として。「凡庸な喜びと煩いへと呼び戻される（rappelé à des plaisirs et à des soucis médiocres）」：詩人は自然の「崇高で純粋な劇場」から俗世の「凡庸な夜（banals Soirs）」へと降下する——§2の「Me voici」と接続する。マラルメ「Plainte d'automne」（mallarme_plainte_automne）§2の「この秋」という主題と連絡：両テクストで「秋」が詩的思考の帰還を準備する季節として機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Me voici, oubliant l'amertume feuille-morte",
+      "body": "「私はここにいる（Me voici）」——語り手の登場。フランス語の Me voici は「さあ私だ」という身振りを含む強調語法。「落ち葉の苦さを忘れ（oubliant l'amertume feuille-morte）」：feuille-morte（落ち葉色・黄褐色）は色名でもある——「落ち葉の苦さ」という比喩は秋の憂愁を色感と苦味で二重に表現する。§1の「自然の劇場」という崇高な設定から、語り手の日常的な観劇体験（「banals Soirs」）への転換——崇高から凡庸への意図的な降下。「le plus seul des isolés（最も孤立した孤独者でさえ）」：最上級による強調——「万人に似合う服（l'habit séant à tous）」というアナロジーで、公演というある種の「社会的義務」への言及。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "(THÉODORE DE BANVILLE.)",
+      "body": "テオドール・ド・バンヴィル（Théodore de Banville, 1823–1891）：フランスの詩人・劇作家。パルナシアン詩人の代表的人物のひとり。マラルメとは「現代高踏詩（Parnasse contemporain）」を通じて関係があり、マラルメの初期詩学に影響を与えた。引用された5行詩（quintet）はバンヴィルのハムレット詩からの引用。「栄光から引き離された子（enfant sevré de gloire）」「黒い羽根（plume noire）」「青白い額（front pâle）」——ハムレットの視覚的イメージを三句で確定する。「乳のように白い（aussi blanc que du lait）」：blanc と lait という白の語彙がマラルメ詩学の「白」概念（「骰子一擲」の版面の白、「Mimique」の「まだ書かれていないページ」）と共鳴する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "L'adolescent évanoui de nous aux commencements de la vie",
+      "body": "ハムレットを「人生の始まりに私たちの中から消えた青年（L'adolescent évanoui de nous aux commencements de la vie）」として定義する——ハムレットは外在的な「他者」でなく、私たちが成長の過程で失った内的な存在として提示される。évanoui（消え去った）：évanouir（消える・気絶する）から——「消え去った」「失神した」という二義。「高い、あるいは物思いに沈んだ精神たちに取り憑く（hantera les esprits hauts ou pensifs）」：hanter（取り憑く・彷徨う）——ハムレットはゴーストとして、精神に「取り憑く」。「みずから好んで纏う喪（le deuil qu'il se plaît à porter）」：se plaît à（〜を楽しむ・好む）という語が、喪を義務でなく選択として提示する。ハムレットの黒衣が自発的な選好であるという読み——これが「登場することの苦悩（le mal d'apparaître）」と連動する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "le mal d'apparaître",
+      "body": "「登場することの苦悩（le mal d'apparaître）」——このテクストでマラルメがハムレットに与えた最も核心的な定義。mal は「苦しみ・病・悪」の複数義を持ち、apparaître は「現れる・登場する・出現する」。「出現することの病/苦しみ」：存在することそのものへの苦悩、舞台に上がること・他者の前に現れることへの本質的な困難さ。これは実存的な意味でもある：ハムレットにとって「行動する（to act）」ことの不可能性——「To be or not to be」——がフランス語で「現れることの苦悩」として凝縮される。マラルメ象徴主義の根本的な命題：詩は「現れることの苦悩」に直面しながら書かれる——この命題を体現する人物としてのハムレット。「Mimique」（mallarme_mimique）の「現実の行為（action effective）でなく理念（l'idée）」を示すパントマイムの論理とも連絡する：ハムレットの「行為の宙吊り（suspens d'un acte inachevé）」（§5）は舞台論として読まれる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "le commerce de cieux où je m'identifiai cesse… mais avance le seigneur latent qui ne peut devenir, juvénile ombre de tous, ainsi tenant du mythe",
+      "body": "テクストで最も難解な統語のひとつ。「私が自己同一化した空の交流が止む（le commerce de cieux où je m'identifiai cesse）」：詩人が「雲の劇場（théâtre de nuées）」という理想的な詩的空間との同一化を放棄する——「払われた場所（ma place tôt renoncée）」。しかし「潜在の君侯が進んでくる（avance le seigneur latent）」：seigneur latent（潜在の君侯）——ハムレットは「なりえない（ne peut devenir）」存在として、「万人の若き影（juvénile ombre de tous）」として、神話に属しながら進む。「latent（潜在的な）」：visible でなく invisible、現実でなく可能性として存在するハムレット。これが「Mimique」の「理念（l'idée）」、「行為（action effective）」でない何かとしてのハムレットの位置づけ。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "l'antagonisme de rêve chez l'homme avec les fatalités à son existence départies par le malheur",
+      "body": "§5の最終文は「唯一の主題（il n'est point d'autre sujet）」の定義として全テクスト中最も明示的な命題：「人間における夢と、不運によって彼の存在に割り当てられた宿命との拮抗（l'antagonisme de rêve chez l'homme avec les fatalités à son existence départies par le malheur）」。antagonisme（拮抗）：二項の対立・緊張——夢（rêve）と宿命（fatalités）は和解せず拮抗し続ける。「不運によって割り当てられた（départies par le malheur）」：départir は「分配する・割り当てる」——宿命は偶然でなく、malheur（不運・不幸）という力によって分配されたもの。この命題がマラルメのハムレット論の核心であり、「骰子一擲（mallarme_coup_de_des）」の「偶然を廃棄できない（jamais n'abolira le hasard）」という命題と同型の宿命論を示す。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "L'acteur mène ce discours.",
+      "body": "一文のみから成る段落——最短の段落にして最大の転換の宣言。「俳優がこの議論を主導する（L'acteur mène ce discours）」：直前の§6「解釈を語ることは概念と対峙させることなしには不可能（impossible sans la confronter au concept）」という問題設定に対する解答として、「俳優」が「概念」と「解釈」を同時に体現する存在として宣言される。この宣言が§8〜§9の具体的な批評（ムネ＝シュリーとコメディ・フランセーズ）の基点となる。「Mimique」の「マイムがいかなるジャンルよりも原理に近い」という命題の演劇批評的展開として読める——俳優（acteur）が議論（discours）を主導するという逆転：知的な言語的議論でなく身体的な演技行為が思考を先導する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "il a su conjurer je ne sais quel maléfice comme insinué dans l'air de cette imposante représentation",
+      "body": "俳優（ムネ＝シュリー）への賛辞：「何らかの呪い（je ne sais quel maléfice）を祓うことができた（conjurer）」——conjurer は「呪いを払う・悪霊を追い出す」の意味を持つ儀礼的動詞。maléfice（呪い・魔法）：この「呪い」が何かは「je ne sais quel（何かはわからない）」と曖昧化される——ハムレットという役に付随する表現不可能な困難として提示。「空気の中に忍び込むように（comme insinué dans l'air）」：「Plainte d'automne」（mallarme_plainte_automne）の「空気の中で手風琴が歌う」場面と類比的な「空気としての侵入」という比喩が反復する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Hamlet, lui, évite ce tort, dans sa traditionnelle presque nudité sombre un peu à la Goya",
+      "body": "衣装論の核心：「ハムレットはほとんど暗い裸に近い伝統的な姿で（sa traditionnelle presque nudité sombre）、やや ゴヤ風（un peu à la Goya）」。Renaissance 衣装化された他の登場人物が「原初の伝説的距離（recul légendaire primitif）」を失うのに対し、ハムレットの黒衣は歴史化を免れる。「ゴヤ（Goya, Francisco de Goya, 1746–1828）」：スペインの画家。「ゴヤ風」という比較は何を意味するか——ゴヤの黒い絵（Pinturas negras）の暗さ・不安感・仮面的な表情？あるいは宮廷人物の簡素な黒衣（ゴヤの肖像画）？いずれにせよ「時代を超えた黒の強度」がゴヤの参照によって示される。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "l'erreur du Théâtre-Français",
+      "body": "「コメディ・フランセーズの誤謬（l'erreur du Théâtre-Français）」——テクストの批評的核心。「哲学的言語（la langue philosophique）」が言うなら、という留保付きで、「誤謬（erreur）」という論理学的な語が演劇批評に持ち込まれる。「誤謬」の内容：「ある根深い理解の習慣（certaines habitudes invétérées de comprendre）」——コンサーヴァトワール的な演技様式、モリエール的な発声法、登場人物への過剰なリアリズム的自律性の付与。マラルメの演劇論の原則：「舞台上の全ては、相互の典型の象徴的な相互性（réciprocité symbolique des types）に従って動く」（§9後半）——すべての人物がハムレットという単一の中心的人物への「比較役（comparses）」として機能しなければならない。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Comparses, il le faut ! car dans l'idéale peinture de la scène tout se meut selon une réciprocité symbolique des types entre eux ou relativement à une figure seule",
+      "body": "マラルメ演劇論の体系的定式化：「舞台の理想的な絵画の中では、すべてが、相互の典型の象徴的な相互性に従って、あるいはただひとつの人物に対して動く（tout se meut selon une réciprocité symbolique des types entre eux ou relativement à une figure seule）」。comparses（チョイ役・端役）という語の肯定的な使用：脇役が「端役」であることがむしろ演劇の象徴的構造の必要条件として提示される。「ひとつの人物（une figure seule）」＝ハムレット：他の全登場人物はハムレットという「単一の図（figure seule）」への関係項として機能する。「Mimique」の「場面が示すのは理念（l'idée）だけ」という命題の演劇論的展開——ハムレットという「理念」のために他の登場人物は「比較役」として機能する。",
+      "targetId": "mallarme_mimique",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "figure comme découpée dans l'usure d'une tapisserie pareille à celle où il lui faut rentrer pour mourir : falot, inconsistant bouffon d'âge, de qui le cadavre léger n'implique… pas d'autre importance que n'en donne l'exclamation brève et hagarde « un Rat ! »",
+      "body": "ポローニアス論：「タペストリーの摩耗から切り取られたような人物（figure comme découpée dans l'usure d'une tapisserie）」——ポローニアスは既製品的な人物として、摩耗したタペストリーの紋様から切り出されたイメージで描かれる。「死ぬために戻らなければならないタペストリー（la tapisserie pareille à celle où il lui faut rentrer pour mourir）」：アラスの幕の後ろで刺されるポローニアスの死の場面への的確な言及——タペストリーの「模様として戻る」という死の比喩。「鼠！（un Rat !）」：ハムレットが幕を刺すときの叫びの引用——「短く呆然とした叫び（l'exclamation brève et hagarde）」という評価語がポローニアスの死の軽さを集約する。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "je surprends en ma mémoire… voleter de ces noms qu'il est sacrilège même de taire, car on les devine.\n\nQuel est le pouvoir du Songe !",
+      "body": "「シェイクスピアという語を形成する文字とは別に、黙ることさえ不敬にあたる名前たちが飛び交う（voleter de ces noms qu'il est sacrilège même de taire）」：名前たちを「伏せたまま」にすることで読者に想起させる——「人はそれを察するのだから（on les devine）」。この「言わずに察させる」修辞がマラルメ詩学の実践：「直接言わず永続的な示唆（allusion perpétuelle）に留まる」（「Mimique」）。「Quel est le pouvoir du Songe !」：感嘆文が一行の段落として独立する——§7「L'acteur mène ce discours.」に続く二番目の一文段落。Songe（夢・夢想）大文字化：「To be or not to be」の眠り（sleep）と夢（dreams）への言及であり、同時にマラルメ的「夢（rêve）」——§5の「夢と宿命の拮抗」の夢——の別名。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Le — je ne sais quel effacement subtil et fané et d'imagerie de jadis, qui manque à des maîtres-artistes aimant à représenter un fait comme il en arrive, clair, battant neuf",
+      "body": "テクスト中で最も難解な文頭のひとつ。「Le ——」：定冠詞のあとにダッシュが来て「何と呼んでよいかわからない（je ne sais quel）」という躊躇が続く——指示するものがないままに定冠詞が立つという文法的冒険。「ほのかで色褪せた、かつての意象の消滅（effacement subtil et fané et d'imagerie de jadis）」：effacement（消滅・薄れること）——明確な現前でなく、消滅・霞み・古びた意象こそがハムレットの本質。「事実が起きる通りに、明快に、新鮮に（un fait comme il en arrive, clair, battant neuf）」：写実主義・自然主義的手法を「明快で新鮮」と描写してから、それが「巨匠芸術家たちに欠けているもの」であるという逆転——リアリズムが欠如しているのでなく、ハムレット的な「消滅の意象」がリアリストには生み出せないものとして提示される。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "la dualité morbide qui fait le cas d'Hamlet, oui, fou en dehors et sous la flagellation contradictoire du devoir, mais s'il fixe en dedans les yeux sur une image de soi qu'il y garde intacte autant qu'une Ophélie jamais noyée",
+      "body": "ハムレットの二重性の定式化：「病的な二重性（dualité morbide）」——外部では狂気（fou en dehors）、内部では無傷な自己像（image de soi intacte）。「義務の矛盾した鞭打ち（flagellation contradictoire du devoir）」：flagellation（鞭打ち）という宗教的語彙——義務が殉教的苦行として課される。「決して溺れなかったオフィーリアのように（autant qu'une Ophélie jamais noyée）」：jamais noyée（決して溺れなかった）という反事実的描写——実際にはオフィーリアは溺れる。ハムレットが内部に守る「オフィーリアのイメージ」は歴史的・劇的事実のオフィーリアでなく、「溺れる以前の」純粋なオフィーリアのイメージ。「Joyau intact sous le désastre（壊滅の下の無傷の宝石）」：全テクスト中で最も圧縮されたアフォリズム——七語で二重性の論理を完結する。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Mime, penseur, le tragédien interprète Hamlet en souverain plastique et mental de l'art",
+      "body": "最終段落の冒頭語「マイム、思想家（Mime, penseur）」——「Mimique」（mallarme_mimique）の中心語彙 Mime がここで俳優の定義として現れる。「造形的・精神的主権者（souverain plastique et mental）」：plastique（造形的・身体的）と mental（精神的・知性的）の同時的主権——身体と精神が分離せず主権を行使する俳優像。「ハムレットがこの世紀末の精神たちの中に遺伝によって存在する（Hamlet existe par l'hérédité en les esprits de la fin de ce siècle）」：遺伝（hérédité）という語の使用——ハムレットは生物学的に「遺伝」して世紀末の精神に宿る。「ロマン主義の苦悩に満ちた前夜（l'angoissante veille romantique）」：veille（前夜・徹夜）——ロマン主義が「眠れない夜」として提示される。「不死の似姿（ressemblance immortelle）」：似姿（ressemblance）でありながら不死（immortelle）——完全な同一性でなく「似ていること」の不死性。",
+      "targetId": "mallarme_mimique",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 13,
+      "type": "intertextual",
+      "anchor": "un acteur lègue élucidée… à un avenir qui probablement ne s'en souciera mais ne pourra du moins l'altérer, une ressemblance immortelle",
+      "body": "マラルメ「骰子一擲（mallarme_coup_de_des）」との連絡：「骰子一擲」の「場所以外何も起きなかった（N'AURA EU LIEU QUE LE LIEU）」という命題——行為が起きなくても「場所」だけが残るという論理——が、ここでは「おそらく気にしない未来も変えることはできない不死の似姿（ressemblance immortelle）」として演劇批評の言語で表現される。俳優の遺産（ressemblance immortelle）は行為の記録でなく「似姿」——完全な再現でなく類似性として不死化する。この「似姿の不死性」はマラルメが詩語に求めたものと同型：詩語は対象を「名指す（nommer）」のでなく「示唆（allusion）」として呼び起こす。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": null
     }
   ]
 }

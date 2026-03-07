@@ -2,20 +2,21 @@
   "id": "wilde_theoretikos",
   "title": "Theoretikos",
   "author": "Oscar Wilde",
-  "source": "Poems",
+  "source": "Poems, David Bogue, London, 1881. 照合出典: Complete Works of Oscar Wilde, Oxford University Press, 2000; The Poems of Oscar Wilde, ed. Bobby Fong & Karl Beckson, Oxford, 2000.",
   "year": "1881",
-  "firstPublication": "Poems, 1881 (David Bogue, London)",
+  "firstPublication": "Poems, David Bogue, London, 1881",
   "difficulty": "中級",
   "category": "wilde",
   "originalLang": "en-GB",
   "modernRelevance": "★★★★★",
-  "context": "「エレウテリア（自由）」連作の掉尾を飾るソネット。題名はギリシャ語で「観想的な者」を意味し、プラトン的な「観想的生活（bios theoretikos）」への回帰を宣言する。前半オクターヴで「この帝国はただ粘土の足しか持たない」とイギリス帝国主義を断罪し、後半セステットで「芸術の夢と最高の教養のなかに立ち退く」という美的隠遁を宣言する。「神のためにも、その敵のためにも」という最終行は、ボードレール「悪の華」の「徳にも悪にも奉仕しない」詩人観と直接響き合い、ゴーティエ「芸術のための芸術」——有用性からの完全な自律——の英語的実践として読めるテクスト。",
-  "keywords": ["芸術のための芸術", "観想的生活", "帝国批判", "美的隠遁", "ソネット", "教養"],
+  "context": "「エレウテリア（Eleutheria：自由）」連作7篇の掉尾を飾るソネット。題名はギリシャ語 θεωρητικός（理論的・観想的）から──プラトンが最高の生として位置づけた「観想的生活（bios theoretikos）」を指示する。連作タイトル「自由」の最終的な結論として「芸術と教養への隠遁」を宣言することで逆説が生じる：「自由」の詩が政治参加からの離脱によって完結する。オクターヴ（§1）でイギリス帝国主義を断罪し、セステット（§2）で美的隠遁を宣言するという二部構造はペトラルカ式ソネットの転換（volta）を完璧に活用する。「神のためにも、その敵のためにも──どちらでもなく（Neither for God, nor for his enemies）」という最終行は、ゴーティエ「芸術のための芸術」の英語的定式化として読めると同時に、ボードレールの「有用性からの詩の解放」との深い共鳴を持つ。",
+  "keywords": ["芸術のための芸術", "観想的生活", "bios theoretikos", "帝国批判", "美的隠遁", "ペトラルカ式ソネット", "教養", "volta"],
   "relatedTexts": [
     "wilde_helas",
     "gautier_l_art",
     "baudelaire_gautier",
-    "baudelaire_heroisme"
+    "swinburne_memorial_gautier",
+    "poe_israfel"
   ],
   "paragraphs": [
     {
@@ -26,7 +27,73 @@
     {
       "id": 2,
       "originalText": "Wisdom and reverence are sold at mart,\nAnd the rude people rage with ignorant cries\nAgainst an heritage of centuries.\nIt mars my calm: wherefore in dreams of Art\nAnd loftiest culture I would stand apart,\nNeither for God, nor for his enemies.",
-      "provisionalTranslation": "英知と畏敬が市場で売られ、\n粗野な民衆が無知な叫びで猛り狂う\n幾世紀の遺産に向かって。\nそれはわが平静を乱す：ゆえに芸術の夢と\n最高の教養のなかに、わたしは孤立して立とう、\n神のためにも、その敵のためにも——どちらでもなく。"
+      "provisionalTranslation": "英知と畏敬が市場で売られ、\n粗野な民衆が無知な叫びで猛り狂う\n幾世紀の遺産に向かって。\nそれはわが平静を乱す：ゆえに芸術の夢と\n最高の教養のなかに、わたしは孤立して立とう、\n神のためにも、その敵のためにも──どちらでもなく。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "ペトラルカ式（イタリア式）ソネット：オクターヴ（8行）＋セステット（6行）の二部構造。\n韻配置：\n• オクターヴ：clay / bay / away（A）／ might / quite / fit（B）──ABBAABBA 変形\n• セステット：mart / Art / apart（C）／ cries / centuries / enemies（D）──CDCCDC\n転換（volta）は行9「Wisdom and reverence are sold at mart」で明示的に起こる：オクターヴの外部世界批判（帝国・島・声の喪失）からセステットの内部的宣言（平静・芸術・隠遁）への転換。イアンビック・ペンタメーター（弱強五歩格）を基本とし、行ごとの語調の変化が感情的推移を体現する。ワイルドの詩集『Poems』（1881）はソネット形式を多用し、当時英国詩壇の「ソネット復興」（ロセッティ兄妹・スウィンバーン・メレディスの流れ）に位置づけられる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "feet of clay",
+      "body": "「粘土の足（feet of clay）」──ダニエル書 2:33 に由来する聖書的表現。バビロンの王ネブカドネザルが見た夢の巨像：頭は金、胸は銀、腹は青銅、脚は鉄、しかし足は「鉄と粘土の混合物」──脆弱な基盤の上に立つ帝国の象徴。19世紀英語で「外見は強大でも本質的に脆い」という慣用句として定着していた。ワイルドはこの一語でヴィクトリア朝大英帝国の「砂上の楼閣」性を宣言する──詩行の最初の語が帝国批判の全体を先取りする。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "crown of bay",
+      "body": "「月桂の冠（crown of bay）」──bay laurel（月桂樹）の冠。古代ギリシャ・ローマで詩人・英雄・皇帝に授けられた栄誉の冠。「詩の冠（poet laureate）」の原型でもある。「何者かが月桂の冠を盗み去った（Some enemy hath stolen its crown of bay）」：英国が詩的・文化的栄光を失ったという文化的喪失の宣言。詩の政治批判が軍事・経済的批判でなく「詩的冠の喪失」として語られることで、詩人としての立場からの帝国批判という方法が確立される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "that voice hath passed away\nWhich spake of Freedom",
+      "body": "「自由を語ったかの声（that voice which spake of Freedom）」──具体的な詩人・政治家への言及として読める。1881年時点で「自由を語った声」として想起されるのはまずシェリー（Ode to Liberty, 1820）、バイロン（Don Juan, The Island）、ミルトン（Areopagitica）──イギリスの自由主義的詩的伝統の系譜。ワイルドはオクスフォード在学中（1874〜78）にラスキンの芸術論と社会批評、さらにペイターの「審美主義」に深く影響を受けたが、この詩ではまだ「自由」という政治的語彙を使用している──後のウォルター・ペイター的「芸術への完全な隠遁」への移行前の過渡期的な政治意識。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "O come out of it,\nCome out of it, my Soul, thou art not fit\nFor this vile traffic-house",
+      "body": "「そこから出よ、わが魂よ（Come out of it, my Soul）」という反復命令──自己の魂への呼びかけ（apostrophe to the self）。ヴァルモール「L'Adieu」の「Adieu !」二度反復、「Les Séparées」の「N'écris pas」三度反復と同様の、反復による感情の強化。「thou art not fit（汝はふさわしくない）」：フィットネス・適合性という語──ダーウィン的「適者生存」の語彙を逆用して、市場には「生き残れない魂」の側に詩人を置く。「traffic-house（取引所・商業の家）」：traffic が「貿易・売買」、19世紀末の商業主義批判の定番語彙──マシュー・アーノルド『文化と無秩序』（1869）の「フィリスティン（俗物）」批判と共鳴する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Wisdom and reverence are sold at mart,\nAnd the rude people rage with ignorant cries\nAgainst an heritage of centuries.",
+      "body": "ソネットの volta（転換）点：オクターヴの命令法（Come out !）からセステットの叙述法・意志の宣言（I would stand apart）への移行。「mart（市場）」：「traffic-house」の言い換えとして商業主義を継続する語。「Wisdom and reverence（英知と畏敬）」──市場で売られる抽象的価値：19世紀後半の「文化の商品化」批判。「the rude people（粗野な民衆）」──demos の批判：1880年前後の英国民主主義拡大（第二・第三次選挙法改正）への保守的審美主義の反応。「heritage of centuries（幾世紀の遺産）」：文化的蓄積としての「教養（culture）」概念──マシュー・アーノルドの「最高のものを知り、それを広める努力（culture as the best that has been thought and said）」と直接対応。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "It mars my calm: wherefore in dreams of Art\nAnd loftiest culture I would stand apart,",
+      "body": "「それはわが平静を乱す（It mars my calm）」──mars（損なう・傷つける）：詩人の内的平静（calm）が外部世界によって侵害される。この「calm の侵害→隠遁の決意」という二段階が volta の内的論理。「in dreams of Art（芸術の夢のなかに）」──dream という語：芸術を「現実」と切り離す。ゴーティエ「L'Art」の「Tout passe（すべては過ぎ去る）」対「L'art robuste（堅固な芸術）」という対立を、ワイルドは「現実の世界」対「芸術の夢」として再定式化する。「loftiest culture（最高の教養）」：lofty（高い・高尚な）──物理的な高さが文化的高貴さのメタファー。「Ma chambre」のヴァルモール「Ma demeure est haute（私の住まいは高いところにある）」の審美主義的英語版として読める。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Neither for God, nor for his enemies.",
+      "body": "ソネットの最終行、詩全体の集約点。「神のためにも、その敵のためにも──どちらでもなく（Neither for God, nor for his enemies）」──二項対立の双方への不参加宣言。「for God」：宗教的奉仕・教会的芸術観。「for his enemies」：無神論・政治的反体制・世俗主義への奉仕。どちらでもない第三の位置として「芸術と教養の夢」が置かれる──これが「Theoretikos（観想的な者）」の定義。ゴーティエ「L'Art」の「L'art ne veut point de larmes（芸術は涙を望まない）」、ボードレールの「有用性からの詩の解放」と直接対応する。またポー「Israfel」の「the angel Israfel / Whose heart-strings are a lute」──天使的芸術家として俗世から切り離される詩人像との系列。「Theoretikos」はワイルドの初期詩集における「審美主義宣言」として、後の『ドリアン・グレイの肖像』序文（1891）「すべての芸術は完全に無用である」への直接の前駆として位置づけられる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "in dreams of Art\nAnd loftiest culture I would stand apart,\nNeither for God, nor for his enemies.",
+      "body": "ゴーティエ「L'Art」（gautier_l_art）との直接的連絡：ゴーティエの「芸術のための芸術（l'art pour l'art）」──有用性・道徳性からの芸術の自律──をワイルドは「Neither for God, nor for his enemies」という宗教的・政治的二項対立からの離脱として英語で定式化する。スウィンバーン「ゴーティエへの讃歌（Memorial Verses on the Death of Théophile Gautier）」（swinburne_memorial_gautier）がゴーティエの「芸術の自律」を英語圏に伝えた媒介として機能し、ワイルドはその伝統の継承者として位置づけられる。さらにポー（poe_israfel）の「詩人は俗世の外に立つ」という孤立した芸術家像との系列：英語審美主義の「フランス起源（ゴーティエ・ボードレール）→英語化（スウィンバーン・ロセッティ）→ワイルド的完成」という伝達経路が「Theoretikos」に集約される。",
+      "targetId": "gautier_l_art",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "Come out of it, my Soul",
+      "body": "ワイルド「Hélas !」（wilde_helas）との対照：「Hélas !」が「私は魂の竪琴を平俗な手に委ねてしまった（I have lain / My soul to clay）」という過去の罪悪として語るのに対し、「Theoretikos」は「Come out of it, my Soul（そこから出よ、わが魂よ）」という現在・未来の命令として語る──どちらも魂の堕落と救済をテーマにするが、前者は告白、後者は宣言という様態の差。また「Eleutheria（自由）」連作の最終詩として、連作冒頭の政治的自由への希求が最終的に「芸術への隠遁という自由」として解決される弧の完成。",
+      "targetId": "wilde_helas",
+      "targetParagraphId": null
     }
   ]
 }

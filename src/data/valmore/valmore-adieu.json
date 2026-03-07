@@ -2,59 +2,102 @@
   "id": "valmore_adieu",
   "title": "L'Adieu",
   "author": "Marceline Desbordes-Valmore",
-  "source": "Élégies, Marie et Romances",
+  "source": "Élégies, Marie et Romances, Duart, Paris, 1819. 照合出典: Œuvres poétiques, Gallimard / Bibliothèque de la Pléiade, 1983; wikisource.org; poetes.com.",
   "year": "1819",
-  "difficulty": "初級〜中級",
+  "firstPublication": "Élégies, Marie et Romances, Duart, Paris, 1819",
+  "difficulty": "初級",
   "category": "valmore",
-  "modernRelevance": "★★★☆☆",
-  "context": "別れと喪失を主題とする初期の傑作。反復とリフレインを使った音楽的構造が特徴。ヴァルモール夫人の詩法の核心である「感情の直接性」が際立つ。",
-  "keywords": ["adieu", "séparation", "amour", "douleur", "souvenir"],
-  "relatedTexts": ["valmore_roses", "valmore_chambre"],
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "1819年刊行の処女詩集『悲歌、マリーとロマンス』に収録。ヴァルモール（1786〜1859）が33歳のときの作で、生涯を通じて書き継いだ「別れと喪失」の主題の最初の頂点。全9行・アレクサンドラン（12音節）主体の変則的な連構成：対句（§1）→三行連句（§2）→二行×二（§3・§4）。「Adieu」という語が§3・§4の冒頭に配置され、詩全体にリフレイン的な反復と音楽的対称性をもたらす。ヴェルレーヌが「呪われた詩人たち」（1884）でヴァルモールを「天賦の詩人」と称した際、この詩の「感情の直接性」と「音の純粋さ」を引き合いに出している。",
+  "keywords": ["別れ", "喪失", "Adieu", "弔鐘", "魂の繋がり", "記憶", "反復"],
+  "relatedTexts": [
+    "valmore_les_roses_de_saadi",
+    "valmore_qu_en_avez",
+    "verlaine_poetes_maudits_valmore",
+    "verlaine_chanson_dautomne",
+    "baudelaire_harmonie_du_soir"
+  ],
   "paragraphs": [
     {
       "id": 1,
-      "french": "Non, l'amour qui s'en va n'est pas celui qu'on quitte,",
-      "officialTranslation": "いや、去っていく愛とは、捨てられた愛のことではない、"
+      "french": "Non, l'amour qui s'en va n'est pas celui qu'on quitte,\nC'est l'amour qu'on retient, dont l'âme nous évite.",
+      "provisionalTranslation": "いや、去っていく愛とは、捨てられた愛のことではない、\nそれは引き留める愛、その魂が私たちを避けていく愛だ。"
     },
     {
       "id": 2,
-      "french": "C'est l'amour qu'on retient, dont l'âme nous évite.",
-      "officialTranslation": "それは引き留める愛、その魂が私たちを避けていく愛だ。"
+      "french": "Ce n'est pas de partir que de mourir d'amour,\nC'est de voir que les yeux qu'on aime auront un jour\nPerdu le souvenir de notre ressemblance.",
+      "provisionalTranslation": "愛に死ぬことは、立ち去ることではない、\nそれは、いつか愛する瞳が\n私たちの面影の記憶を失うと知ることだ。"
     },
     {
       "id": 3,
-      "french": "Ce n'est pas de partir que de mourir d'amour,",
-      "officialTranslation": "愛に死ぬことは、立ち去ることではない、"
+      "french": "Adieu ! Que ce mot-là, plein d'une longue absence,\nRetombe sur le cœur comme un glas étouffé !",
+      "provisionalTranslation": "さようなら！ この言葉は、長い不在に満ちて、\nくぐもった弔鐘のように、心の上に落ちてくる！"
     },
     {
       "id": 4,
-      "french": "C'est de voir que les yeux qu'on aime auront un jour",
-      "officialTranslation": "いつか愛する瞳が"
+      "french": "Adieu ! Sombre douleur qui n'a jamais fini,\nQuand les bras ont lâché, les âmes ont tenu.",
+      "provisionalTranslation": "さようなら！ 決して終わることのない暗い苦しみよ、\n腕が離れても、魂はつながっていた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "9行・アレクサンドラン（12音節）主体の変則的スタンザ構成。韻配置：\n• §1（2行）：quitte / évite（A）──対韻\n• §2（3行）：amour / jour（B）/ ressemblance（C）──開放韻で終わり、§3冒頭の absence と呼応\n• §3（2行）：absence / étouffé（C′/D）──ressemblance→absenceの意味的連鎖\n• §4（2行）：fini / tenu（E）──半韻（-ni/-nu）\n固定スタンザを持たないこの詩は、ソネットでも四行連句詩でもなく「感情の息継ぎ」に従って呼吸する。冒頭の2行対句が命題を提示し、3行連句が命題を展開し、「Adieu」で始まる2行×2が感情的クライマックスへと収束する──形式が感情の動態を直接写す。"
     },
     {
-      "id": 5,
-      "french": "Perdu le souvenir de notre ressemblance.",
-      "officialTranslation": "私たちの面影の記憶を失うと知ることだ。"
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Non, l'amour qui s'en va n'est pas celui qu'on quitte,\nC'est l'amour qu'on retient, dont l'âme nous évite.",
+      "body": "詩の冒頭2行は「別れ」の逆説的な再定義として機能する。「Non（いや）」という否定で始まる詩：読者が当然予期する「去っていく＝別れ」という通俗的な命題をまず否定し、反転した命題を提示する。「去っていく愛（l'amour qui s'en va）」対「引き留める愛（l'amour qu'on retient）」：物理的な離別より、引き留めようとする側の魂が「避けられる」苦しみの方が深い──愛は去る者でなく残される者の問題として再定義される。dont l'âme nous évite（その魂が私たちを避ける）：éviter（避ける）という能動動詞を魂（âme）の主語に付すことで、相手の内面に宿っていた愛が自ら離れていく擬人化的な運動が描かれる。"
     },
     {
-      "id": 6,
-      "french": "Adieu ! Que ce mot-là, plein d'une longue absence,",
-      "officialTranslation": "さようなら！ この言葉は、長い不在に満ちて、"
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Ce n'est pas de partir que de mourir d'amour,\nC'est de voir que les yeux qu'on aime auront un jour\nPerdu le souvenir de notre ressemblance.",
+      "body": "三行連句で「愛の死（mourir d'amour）」を再定義する。「立ち去ること（partir）ではなく」──再び否定から始まり、§1の構造を反復。「愛する瞳がいつか／私たちの面影の記憶を失うと知ること」──未来時制（auront perdu）の使用が鍵：現在の別れでなく、「相手がいつか自分を忘れる」という未来の事実を「今」予期することの苦しみ。ressemblance（似ている・面影）：ressembler（似ている）の名詞形で、「私に似た面影の記憶」──愛する相手の記憶の中に「自分の姿」が残っているか否かという問い。三行目が2行目からの強い句またがり（enjambement）で続く：「見ること」「いつか」「失うだろう」という三要素の時間的延伸が感情的な遅延として機能する。"
     },
     {
-      "id": 7,
-      "french": "Retombe sur le cœur comme un glas étouffé !",
-      "officialTranslation": "くぐもった弔鐘のように、心の上に落ちてくる！"
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Adieu ! Que ce mot-là, plein d'une longue absence,\nRetombe sur le cœur comme un glas étouffé !",
+      "body": "「Adieu（さようなら）」の初出──詩のタイトル語がここで初めて本文に現れる。感嘆符に続く「ce mot-là（この言葉）」という指示詞：詩がタイトルの語を「外から」参照する自己言及。「長い不在に満ちて（plein d'une longue absence）」──absence と§2末の ressemblance の韻的連結：「面影」と「不在」が音の水準で接続される。「くぐもった弔鐘のように心の上に落ちてくる（Retombe sur le cœur comme un glas étouffé）」──glas（弔鐘）は葬儀の鐘。retomber（再び落ちる）という再帰動詞の使用：Adieu という言葉が言われるたびに「再び」落ちてくる繰り返しの打撃。étouffé（くぐもった・窒息させられた）：鐘の音が抑圧されているというイメージ──声にならない悲しみ。"
     },
     {
-      "id": 8,
-      "french": "Adieu ! Sombre douleur qui n'a jamais fini,",
-      "officialTranslation": "さようなら！ 決して終わることのない暗い苦しみよ、"
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "un glas étouffé",
+      "body": "glas（グラ）：カトリック教会の弔鐘。葬儀・臨終・命日に鳴らされる遅く重い鐘の音。フランス語詩における「glas」の使用は死と喪失の文脈で定型的だが、ヴァルモールは「étouffé（くぐもった）」という修飾で通常の弔鐘イメージを変形する：音が完全に響かず、内側で押し殺されている──感情が外に出られない抑圧状態の音響的メタファー。ヴェルレーヌ「秋の歌（Chanson d'Automne）」の「ヴァイオリンの長い흐느낌（les sanglots longs des violons）」と同様の、楽音による感情状態の外化。"
     },
     {
-      "id": 9,
-      "french": "Quand les bras ont lâché, les âmes ont tenu.",
-      "officialTranslation": "腕が離れても、魂はつながっていた。"
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Adieu ! Sombre douleur qui n'a jamais fini,\nQuand les bras ont lâché, les âmes ont tenu.",
+      "body": "詩の結末：「Adieu」の二度目の反復──§3冒頭との対称的配置。「決して終わることのない暗い苦しみ（Sombre douleur qui n'a jamais fini）」：現在完了 n'a jamais fini（まだ終わったことがない）による継続する苦しみの定義。最終行「腕が離れても、魂はつながっていた（Quand les bras ont lâché, les âmes ont tenu）」──詩全体のクライマックス。bras（腕・身体）対 âmes（魂）の対比が、物理的分離と精神的結合の逆説として提示される。lâcher（手放す）対 tenir（保つ・つかむ）：動詞の対立が一行に凝縮される。過去複合形（ont lâché / ont tenu）：どちらも完了した事実として同等に確定されている──身体は離れた、魂はつながっていた、という二つの事実の等価的並置。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "Quand les bras ont lâché, les âmes ont tenu.",
+      "body": "最終行の音響的対称性：「les bras ont lâché」（3音節＋2音節＋3音節）対「les âmes ont tenu」（3音節＋2音節＋3音節）──完全に対称的な音節構造が意味の対立（身体vs魂）を音の水準で体現する。フランス語アレクサンドランの6＋6構造：コンマ（,）が詩行の正中線（césure）として機能し、腕と魂が文字通り「詩行の半分ずつ」を占める。「L'Adieu」全体のリズム的完結：冒頭の「Non」という否定の衝撃から始まり、最終行の均衡した二分法的な肯定で閉じる──感情の運動が形式として結晶する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "ヴェルレーヌ「秋の歌（Chanson d'Automne）」（verlaine_chanson_dautomne）との音楽的連絡：両詩とも「繰り返し（リフレイン）」と「音の落下感」を主要な詩的手法として用いる。ヴァルモールの「Adieu！」二度の反復は、ヴェルレーヌ的なリフレイン詩学の先駆として読める。またヴェルレーヌが「呪われた詩人たち」でヴァルモールを「音楽そのものの詩人」と称した背景に、この詩の音響的構造があった。ヴェルレーヌ「詩法（Art poétique）」の「音楽をまず何より先に」という命題が、ヴァルモールにおいてはすでに実践されていた。",
+      "targetId": "verlaine_chanson_dautomne",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Perdu le souvenir de notre ressemblance",
+      "body": "「Les Roses de Saadi」（valmore_les_roses_de_saadi）の「l'odorant souvenir（芳しい記憶）」との連絡：両詩ともヴァルモールの「記憶（souvenir）」詩学の核心語。「薔薇」では記憶が嗅覚として身体に宿り続けるのに対し、「L'Adieu」では記憶が「失われる」恐怖として現れる──記憶の残存と消滅という二つの相補的な詩を形成している。また「ressemblance（面影）」という語：自分に似た何かが相手の記憶の中に存在するという認識──愛とは相手の記憶に「自分の形」を刻むことだという詩学。",
+      "targetId": "valmore_les_roses_de_saadi",
+      "targetParagraphId": null
     }
   ]
 }

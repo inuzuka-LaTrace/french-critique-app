@@ -2,59 +2,59 @@
   "id": "mallarme_plainte_automne",
   "title": "Plainte d'automne",
   "author": "Stéphane Mallarmé",
-  "source": "Divagations, Eugène Fasquelle éditeur, Paris, 1897. 初出: Le Papillon, t. II, no. 11, 15 novembre 1864. 照合出典: Œuvres complètes, Bibliothèque de la Pléiade, t. II, éd. Bertrand Marchal, Gallimard, 2003; wikisource.org.",
+  "source": "Divagations, Eugène Fasquelle éditeur, Paris, 1897 (p. 7–8). 初出: Le Papillon, t. II, no. 11, 15 novembre 1864 (異同あり). 照合出典: Œuvres complètes, Bibliothèque de la Pléiade, t. II, éd. Bertrand Marchal, Gallimard, 2003; wikisource.org (Divagations 1897版).",
   "year": "1864",
-  "firstPublication": "Le Papillon, t. II, no. 11, 15 novembre 1864",
+  "firstPublication": "Le Papillon, t. II, no. 11, 15 novembre 1864; Divagations, Eugène Fasquelle éditeur, Paris, 1897 (改訂収録)",
   "difficulty": "中級",
   "category": "mallarme",
   "originalLang": "fr-FR",
   "modernRelevance": "★★★★☆",
-  "context": "1864年、マラルメ22歳のときに詩誌『ル・パピヨン（Le Papillon）』に発表した散文詩。1897年の『ディヴァガシオン（Divagations）』に収録された際に若干の改訂が加えられている。愛人マリア（Maria）の死をめぐる孤独と追悼──冬の庭・枯れ葉・隣のカフェから漏れる通俗的な歌──を通じて、詩人の喪と感情の逆説（低俗なものが感動を呼ぶ）を探求する。同時期の散文詩「白昼夢の冬（L'Hiver blanc qui l'a glacée）」とともにマラルメ初期の追悼文学の代表作。ボードレール「秋の哀歌（Chant d'automne）」の影響が顕著だが、マラルメは感傷を排し「低俗さの中の感動」という逆説的な美学的命題へと向かう。",
-  "keywords": ["秋", "喪", "マリア", "孤独", "冬の庭", "枯れ葉", "通俗的な歌", "低俗さと感動", "散文詩", "ディヴァガシオン"],
+  "context": "1864年、マラルメ22歳のときに詩誌『ル・パピヨン（Le Papillon）』に発表した散文詩。1897年の『ディヴァガシオン（Divagations）』収録に際して大幅に改訂・拡充された。本ファイルは改訂後の1897年版に基づく。愛人マリアの死をめぐる喪──「墜落（chute）」という語への偏愛・ラテン頽廃詩への耽溺・窓の下に流れる手風琴（orgue de Barbarie）の通俗的な旋律──を通じて、喪の感情と逆説的な美的感動の論理を展開する。ボードレール「秋の歌（Chant d'automne）」の影響が顕著だが、マラルメは感傷を排し「低俗なものが感動を呼ぶ」という逆説的な美学的命題へと向かう。詩集『ディヴァガシオン』冒頭に近い位置に置かれ（「現象の未来（Le Phénomène futur）」の直後）、後続する「冬の戦慄（Frisson d'hiver）」と対をなす。",
+  "keywords": ["秋", "喪", "マリア", "墜落（chute）", "ラテン頽廃詩", "手風琴", "ポプラの並木", "通俗と感動", "散文詩", "ディヴァガシオン"],
   "relatedTexts": [
-    "mallarme_brise_marine",
+    "mallarme_frisson_dhiver",
+    "mallarme_le_phenomene_futur",
     "mallarme_toute_lame",
     "mallarme_mystere",
+    "mallarme_mimique",
     "baudelaire_spleen",
-    "baudelaire_correspondances",
-    "valmore_tristesse",
     "verlaine_chanson_automne"
   ],
   "paragraphs": [
     {
       "id": 1,
-      "french": "Depuis que Maria m'a quitté pour aller dans une autre étoile — laquelle, Orion, Altaïr, et toi, verte Vénus ? — j'ai toujours chéri la solitude. Que de longues journées j'ai passées seul avec mon chat. Par seul, j'entends sans un être matériel. Ma pensée s'est consolée d'elle-même.",
-      "provisionalTranslation": "マリアが私を去って別の星へと旅立ってから──どの星か、オリオン、アルタイル、そして緑のヴィーナス、おまえもか？──私はずっと孤独を愛してきた。猫とふたりきりで過ごした長い長い日々よ。ふたりきり、と言っても、物質的な存在なしに、という意味だ。私の思考はそれ自身によって慰められた。"
+      "french": "Depuis que Maria m'a quitté pour aller dans une autre étoile — laquelle, Orion, Altaïr, et toi, verte Vénus ? — j'ai toujours chéri la solitude. Que de longues journées j'ai passées seul avec mon chat. Par seul, j'entends sans un être matériel et mon chat est un compagnon mystique, un esprit. Je puis donc dire que j'ai passé de longues journées seul avec mon chat et, seul, avec un des derniers auteurs de la décadence latine ;",
+      "provisionalTranslation": "マリアが私を去って別の星へと旅立ってから──どの星か、オリオン、アルタイル、そして緑のヴィーナス、おまえもか？──私はずっと孤独を愛してきた。猫とふたりきりで過ごした長い長い日々よ。ふたりきり、と言っても、物質的な存在なしに、ということだ──私の猫は神秘的な仲間、ひとつの魂なのだから。だから私は、猫とともに、そしてラテン頽廃文学の最後の作家のひとりとともに、長い日々をふたりきりで過ごしたと言ってよい；"
     },
     {
       "id": 2,
-      "french": "Mais comme j'aime encore les femmes, j'ai voulu revoir une amie que j'avais jadis aimée : elle était venue me voir, par deux fois en sa belle forme d'autrefois, et il y avait entre nous une amitié sereine mais plus profonde que des liens plus violents.",
-      "provisionalTranslation": "だが、私はまだ女たちを愛しているので、かつて愛した女友達に再会したいと思った──彼女はかつての美しい姿で二度訪ねてきていて、私たちの間には穏やかだが、より激しい絆よりもさらに深い友情があった。"
+      "french": "car depuis que la blanche créature n'est plus, étrangement et singulièrement j'ai aimé tout ce qui se résumait en ce mot : chute. Ainsi, dans l'année, ma saison favorite, ce sont les derniers jours alanguis de l'été, qui précèdent immédiatement l'automne et, dans la journée, l'heure où je me promène est quand le soleil se repose avant de s'évanouir, avec des rayons de cuivre jaune sur les murs gris et de cuivre rouge sur les carreaux.",
+      "provisionalTranslation": "なぜなら白い生き物がいなくなってから、不思議なほど際立って、ひとつの言葉に集約されるすべてのものを愛するようになったから──その言葉とは「墜落（chute）」。だから、一年のなかで私の好きな季節は夏の最後の気だるい日々、すぐ秋に先行する日々であり、一日のなかで私が散歩する時間は、太陽が消えゆく前に休もうとする頃──灰色の壁に黄銅色の光線、敷石に赤銅色の光線が差す頃だ。"
     },
     {
       "id": 3,
-      "french": "Elle mourait pourtant, je la savais. Quand je la vis pour la dernière fois, à la place d'un visage habituel, il y avait un masque de plâtre couleur de chair, étrangement sculpté par la souffrance et étincelant de beauté. Peut-être souffrirait-elle encore, mais elle ne mourait plus, et je m'en étais consolé.",
-      "provisionalTranslation": "しかし彼女は死にかけていた、私にはそれがわかっていた。最後に彼女に会ったとき、見慣れた顔の代わりに、肉色の石膏の仮面があった──苦しみによって奇妙に彫刻され、美しさで輝いていた。おそらく彼女はまだ苦しんでいるかもしれなかったが、もう死にかけてはいなかった、そして私はそのことで慰められていた。"
+      "french": "De même la littérature à laquelle mon esprit demande une volupté sera la poésie agonisante des derniers moments de Rome, tant, cependant, qu'elle ne respire aucunement l'approche rajeunissante des Barbares et ne bégaie point le latin enfantin des premières proses chrétiennes.",
+      "provisionalTranslation": "同様に、私の精神が官能を求める文学とは、ローマの最後の時の瀕死の詩であろう──ただし、それが野蛮人たちの若返らせる接近をほんのわずかも吸い込まず、最初のキリスト教散文の幼稚なラテン語を一語も舌足らずに語らない限りにおいて。"
     },
     {
       "id": 4,
-      "french": "Puis voilà que dernièrement, souvenir de cet automne-ci venu, un ami que j'ai peu fréquenté pourtant et qui souffrait de l'instabilité des nerfs, un monsieur pourtant aisé, me proposa un soir de l'accompagner dans un établissement qu'il fréquentait régulièrement pour s'y distraire. J'acceptai. Nous partîmes ensemble, et quand nous fûmes là, il me laissa, pour vaquer à ses habitudes.",
-      "provisionalTranslation": "それからついこのあいだのこと、この秋の記憶が戻ってきて、あまり親しくはないが神経の不安定に悩んでいた友人が──裕福な紳士だったが──ある晩、気晴らしのためにいつも通っている場所に一緒に行かないかと誘ってきた。私は承諾した。ふたりで出かけ、そこに着くと、彼は自分の習慣のことに向かうため私を残していった。"
+      "french": "Je lisais donc un de ces chers poèmes (dont les plaques de fard ont plus de charme sur moi que l'incarnat de la jeunesse) et plongeais une main dans la fourrure du pur animal, quand un orgue de Barbarie chanta languissamment et mélancoliquement sous ma fenêtre.",
+      "provisionalTranslation": "そうして私はそのような愛しい詩篇のひとつを読み（その白粉の斑は私には若さの赤みよりも魅力的だ）、純粋な動物の毛皮に手を埋めていたとき、窓の下で手風琴がものうげに、憂愁をたたえて歌い始めた。"
     },
     {
       "id": 5,
-      "french": "Ainsi je me trouvai seul dans un jardin d'hiver, dont les hautes vitres laissaient entrer le crépuscule de novembre : je regardai les plantes exotiques se développer dans cette horreur limpide d'une lumière plus que celle de novembre, et une feuille flétrie qui tombait par terre me sembla ressembler à cela que j'avais vu sur le visage de cette femme.",
-      "provisionalTranslation": "こうして私は冬の庭にひとりでいることになった──高いガラス窓から十一月の薄暮が差し込んでいた。私は異国の植物が十一月の光を超えるその澄んだ恐怖の中に育つのを眺めていた。すると床に落ちていく一枚の枯れ葉が、あの女の顔に見たものに似ているように思われた。"
+      "french": "Il jouait dans la grande allée des peupliers dont les feuilles me paraissent mornes même au printemps, depuis que Maria a passé là avec des cierges, une dernière fois.",
+      "provisionalTranslation": "それはポプラの大きな並木道で奏でられていた──その葉は春でさえ私には陰鬱に見える、マリアが蝋燭を手に、最後の一度そこを通ってから。"
     },
     {
       "id": 6,
-      "french": "Je pensai alors à la musique que l'orchestre jouait dans le café voisin, et ce fut là le bruit de fêtes lointaines. Il y avait un air qui ressemblait à cet hiver-là, à ce deuil-là, à ce sentiment de résignation : c'était d'une pauvreté touchante. Il s'agissait d'une chanson populaire, aussi populaire que possible. Elle ne visait pas haut. Elle n'était pas non plus, dans son intention, mélancolique ; au contraire, elle visait à plaire et à amuser.",
-      "provisionalTranslation": "そのとき私は隣のカフェでオーケストラが奏でている音楽に思いを向けた──それは遠い祭りの騒めきだった。あの冬に、あの喪に、あの諦念の感情に似た旋律があった──胸を打つ貧しさだった。それは大衆的な歌、できる限り大衆的な歌だった。高みを目指してはいなかった。また、その意図において、憂愁でもなかった──むしろ喜ばせ楽しませることを目指していた。"
+      "french": "L'instrument des tristes, oui, vraiment : le piano scintille, le violon donne aux fibres déchirées la lumière, mais l'orgue de Barbarie, dans le crépuscule du souvenir, m'a fait désespérément rêver.",
+      "provisionalTranslation": "悲しみの者のための楽器、そう、まさしく──ピアノはきらめき、ヴァイオリンは引き裂かれた繊維に光を与える、しかし手風琴は、記憶の黄昏の中で、私を絶望的に夢想させた。"
     },
     {
       "id": 7,
-      "french": "Mais comme son élévation était médiocre et son raffinement nul, je la trouvai touchante, attendrissante : elle était de circonstance.",
-      "provisionalTranslation": "だが、その高さは凡庸で、その洗練はゼロだったがゆえに、私はそれを胸を打つ、心を溶かすものとして感じた──それは時と場所にふさわしかったのだ。"
+      "french": "Maintenant qu'il murmurait un air joyeusement vulgaire et qui mit la gaîté au cœur des faubourgs, un air suranné, banal : d'où vient que sa ritournelle m'allait à l'âme et me faisait pleurer comme une ballade romantique ? Je la savourai lentement et je ne lançai pas un sou par la fenêtre de peur de me déranger et de m'apercevoir que l'instrument ne chantait pas seul.",
+      "provisionalTranslation": "今その楽器は、喜びをもって俗なる旋律──郊外の人々の心に陽気さを灯した旋律、古びた、陳腐な旋律──を呟いていた。どうして、そのリトルネルが私の魂に響いてきて、ロマン主義の歌謡のように私を泣かせるのか？私はそれをゆっくり味わった。そして一銭も窓から投げなかった──自分の夢想を乱すことを恐れて、そして楽器がひとりで歌っているのではないことに気づいてしまうことを恐れて。"
     }
   ],
   "annotations": [
@@ -62,102 +62,102 @@
       "paragraphId": 1,
       "type": "prosody",
       "anchor": null,
-      "body": "テクスト全体の構造：7段落はふたつの時間軸をまたぐ。§1〜§3が「過去の喪（マリアの死・旧友の死）」、§4〜§5が「現在の秋（冬の庭・枯れ葉）」、§6〜§7が「音楽と逆説的感動」の帰結をなす。三部構造：(I)喪と孤独の宣言、(II)秋の庭という空間的な記憶の回帰、(III)通俗的な歌という予期せぬ感動の媒体。最終段落§7が一文のみ──最短の段落に全体の美学的命題を圧縮する構造は「Mimique」の「Surprise」段落と類比的。散文詩でありながら、各段落が意味的に自律した「詩連」として機能する。"
+      "body": "テクスト全体の構造（Divagations 1897版）：原2段落を7段落に再分割。§1〜§3が「喪・孤独・美的嗜好の宣言」、§4〜§5が「詩集と手風琴の登場・マリアの葬列」、§6〜§7が「楽器論と通俗的旋律への逆説的感動」の三部をなす。アーチ構造：§1で「マリア」が召喚され、§5でマリアの名が最後に現れ（「Maria a passé là…」）、§7の「夢想」で閉じる。テキスト全体が「喪と夢想」の往復運動として組み立てられており、「手風琴がひとりで歌っているのではないことに気づいてしまう（l'instrument ne chantait pas seul）」という最終の留保に全体の逆説が凝縮する。"
     },
     {
       "paragraphId": 1,
       "type": "commentary",
       "anchor": "Depuis que Maria m'a quitté pour aller dans une autre étoile — laquelle, Orion, Altaïr, et toi, verte Vénus ?",
-      "body": "「マリア（Maria）」──マラルメが1863年に死別した女性への言及。ただし実在の「マリア」の同定は諸説あり（使用人として雇っていたマリア・クリスティーナという説が有力）。「別の星へと旅立つ（aller dans une autre étoile）」という死の婉曲表現が、すぐに「どの星か（laquelle）」という問いかけで詩的に展開される──死を天文学的な移動として提示するロマン主義的な詩的語法。「オリオン、アルタイル、緑のヴィーナス（Orion, Altaïr, verte Vénus）」：三つの星の名指し──特定の星への指定でなく、可能性の列挙として死後の居場所を問う。「緑のヴィーナス（verte Vénus）」の「緑（verte）」：金星の通常の表象（白・黄）から逸脱した形容──大気圏観測での金星の緑閃光（rayon vert）への言及か、あるいはマラルメ独自の色彩感覚。"
-    },
-    {
-      "paragraphId": 1,
-      "type": "commentary",
-      "anchor": "Que de longues journées j'ai passées seul avec mon chat. Par seul, j'entends sans un être matériel.",
-      "body": "「猫とふたりきりで（seul avec mon chat）」のすぐ後に「ふたりきり、と言っても、物質的な存在なしに（sans un être matériel）」という括弧的注釈が来る──猫は「物質的な存在」でないと言いたいのか、それとも猫は「物質的な存在」だが「孤独」の条件を満たさないと言いたいのか。この曖昧さは意図的：猫は「思考の伴侶」として非物質的次元に属する生き物として提示される。マラルメの散文における括弧的自己注釈（「par seul, j'entends…」）：「Mimique」でも多用された統語的自己訂正・精密化の手法が、ここでは軽やかなユーモアの調子で現れる。"
+      "body": "「マリア（Maria）」──マラルメが1863年に死別した女性への言及。使用人として雇っていたマリア・クリスティーナという説が有力だが、詩の語り手はその同定を意図的に詩的な問いへと解消する。「別の星へと旅立つ（aller dans une autre étoile）」：死を天文学的な移動として提示するロマン主義的語法──しかしすぐに「どの星か（laquelle）」という問いかけで特定化を拒む。「オリオン、アルタイル、緑のヴィーナス（Orion, Altaïr, verte Vénus）」：三つの星の名指し。「緑のヴィーナス（verte Vénus）」の「緑（verte）」は金星の大気圏での緑閃光（rayon vert）への言及か、あるいはマラルメ独自の色彩的な逸脱──金星の通常の白・黄から外れた形容。"
     },
     {
       "paragraphId": 1,
       "type": "glossary",
-      "anchor": "Ma pensée s'est consolée d'elle-même.",
-      "body": "「私の思考はそれ自身によって慰められた（Ma pensée s'est consolée d'elle-même）」──代名動詞 se consoler de + se（自分自身によって）という構造。「自己慰撫する思考」という命題：外部の慰めなしに内部で完結する思考の自律性。ここにマラルメ詩学の根本的な身振りが現れる──外的実在に依拠しない思考の内的完結への指向。「Mimique」の「milieu, pur, de fiction（純粋な虚構の環境）」、「危機・詩（Crise de vers）」の「言語が語り手なしに語る」という命題の、日常散文的な先取り。"
+      "anchor": "mon chat est un compagnon mystique, un esprit",
+      "body": "「私の猫は神秘的な仲間、ひとつの魂（compagnon mystique, un esprit）」──「ふたりきり（seul）」の定義を精密化する括弧的注釈のあと、猫が「物質的存在」でなく「精神的存在（esprit）」であることが宣言される。これはマラルメ詩学の根本的な身振りの前触れ──物質的実在から精神的次元への昇華への指向。初出版（Le Papillon 1864）では「Par seul, j'entends sans un être matériel. Ma pensée s'est consolée d'elle-même.」という簡潔な表現だったのが、1897年の改訂で「猫は神秘的な仲間」という拡充が加えられた。この拡充はマラルメが後年到達した詩学──物質の精神化・「純粋な虚構（milieu pur de fiction）」への指向（「Mimique」参照）──を遡及的に1864年の散文に織り込む改訂として読める。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "un des derniers auteurs de la décadence latine",
+      "body": "「ラテン頽廃文学の最後の作家のひとり（un des derniers auteurs de la décadence latine）」──具体的な作家名は伏せられたまま読者に提示されない。「ラテン頽廃文学（décadence latine）」：2〜5世紀のローマ後期文学──ペトロニウス・アプレイウス・クラウディアヌス等。洗練と腐敗の同居・過度な修辞・快楽主義的な内容が特徴。この選好が§2の「chute（墜落）」という語への偏愛と直結する：「墜落」とは衰退期のラテン文学が体現するもの──頂点ではなく下降線の美学。ボードレール「悪の華」序文でのデカダンス概念との連絡。"
     },
     {
       "paragraphId": 2,
       "type": "commentary",
-      "anchor": "elle était venue me voir, par deux fois en sa belle forme d'autrefois, et il y avait entre nous une amitié sereine mais plus profonde que des liens plus violents",
-      "body": "「二度の来訪（par deux fois）」と「穏やかだが深い友情（amitié sereine mais plus profonde）」──この対比が語り手と旧友の関係の核心を示す。「より激しい絆よりも深い（plus profonde que des liens plus violents）」：liens violents（激しい絆）はエロス的・情念的な関係への婉曲言及──「かつて愛した（que j'avais jadis aimée）」という過去の愛を穏やかに距離化する。§1の「孤独（solitude）」から§2の「女たちへの愛（j'aime encore les femmes）」への転換：孤独から結びつきへの動きが、しかし「穏やかな友情」というテンペラメントで示されることで、詩人の現在的な感情の模様が描かれる。"
+      "anchor": "depuis que la blanche créature n'est plus, étrangement et singulièrement j'ai aimé tout ce qui se résumait en ce mot : chute",
+      "body": "テクストの美学的中枢：「白い生き物（la blanche créature）」──マリアの婉曲表現（白という純粋性・死との連絡）。「ひとつの言葉に集約されるすべてのもの：墜落（chute）」──単独のひとつの語が美学的プログラムとして立てられる。この「一語への還元」はマラルメ詩学の本質的な動作──「Toute l'âme résumée（mallarme_toute_lame）」の「すべての魂を要約する」という命題の散文的先取り。「chute」が意味するもの：夏の終わり・夕暮れ・ローマ末期文学・落葉──すべてが「下降・消滅への接近」という同一の運動の変奏として一語に収められる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "des rayons de cuivre jaune sur les murs gris et de cuivre rouge sur les carreaux",
+      "body": "「灰色の壁に黄銅色の光線、敷石に赤銅色の光線（rayons de cuivre jaune sur les murs gris et de cuivre rouge sur les carreaux）」──cuivre（銅）という金属の語彙で光を描く。cuivre jaune（黄銅・真鍮）とcuivre rouge（赤銅）という銅の二色変化：夕陽が高い位置の壁を黄金に、低い敷石を赤く染める、という光の下降の視覚的記録。「下降する光」がそのまま「chute（墜落）」の空間的実例として機能する。ゴーティエ「La Rose-Thé」が白からオパールへのグラデーションを工芸的に記述したのに類似した、色彩の精密な連続的変化の描写──ただしマラルメでは金属語彙が光を「固体化」する。"
     },
     {
       "paragraphId": 3,
       "type": "commentary",
-      "anchor": "à la place d'un visage habituel, il y avait un masque de plâtre couleur de chair, étrangement sculpté par la souffrance et étincelant de beauté",
-      "body": "「石膏の仮面（masque de plâtre）」──テクストの中心的なイメージ。「見慣れた顔（visage habituel）」が「石膏の仮面（masque de plâtre couleur de chair）」に置き換えられる：死と苦しみが生の顔を「彫刻（sculpté）」する。「苦しみによって奇妙に彫刻された（étrangement sculpté par la souffrance）」：彫刻という語がゴーティエ「L'Art」の「堅固な素材への彫刻」を想起させる──苦しみが顔を芸術作品に変容させるという逆説。「美しさで輝く（étincelant de beauté）」：étinceler（閃く・輝く）は貴石・金属の光沢語彙──死に近い顔に「宝石的な輝き」を見出す唯美主義的眼差し。ゴーティエ「Coquetterie posthume」の「死後の美」とも連絡する。"
+      "anchor": "la poésie agonisante des derniers moments de Rome, tant, cependant, qu'elle ne respire aucunement l'approche rajeunissante des Barbares et ne bégaie point le latin enfantin des premières proses chrétiennes",
+      "body": "「ローマの最後の時の瀕死の詩（poésie agonisante des derniers moments de Rome）」──ここで美的嗜好の詩学的宣言が完成する。「瀕死の（agonisante）」：agonie（臨終の苦しみ）の形容詞形──死の過程にある詩への偏愛。しかし重要な二重の留保が付く：「野蛮人たちの若返らせる接近（l'approche rajeunissante des Barbares）」を含まないこと、「幼稚なラテン語（le latin enfantin des premières proses chrétiennes）」を舌足らずに語らないこと。「野蛮人の若返り」＝活力・民族的再生への拒否、「キリスト教の幼稚さ」＝素朴な信仰・民衆的宗教への拒否──両端を切り捨てた「純粋な衰退の美学」のみを肯定する。これはマラルメ的な「純粋さ（pureté）」の否定的定義：何かを加えることでなく、両側の夾雑物を取り除くことで純粋に達する。"
     },
     {
       "paragraphId": 3,
       "type": "intertextual",
-      "anchor": "masque de plâtre couleur de chair, étrangement sculpté par la souffrance",
-      "body": "ゴーティエ「Coquetterie posthume」（gautier_coquetterie_posthume）との対照：ゴーティエの詩では死んだ女が「美しく見えるよう化粧してほしい」と命令し、最後に「仮面（masque）をかぶせて」と指示する。マラルメのここでは死にゆく女の顔が「苦しみによって彫刻された石膏の仮面」として自然に現れる──「化粧」という意志的な美化でなく、苦しみという過程が顔を仮面に変える。両テクストで「仮面」は死と美の接点として機能するが、ゴーティエが意志的・工芸的であるのに対し、マラルメは過程的・変容的。",
-      "targetId": "gautier_coquetterie_posthume",
-      "targetParagraphId": null
-    },
-    {
-      "paragraphId": 4,
-      "type": "commentary",
-      "anchor": "Puis voilà que dernièrement, souvenir de cet automne-ci venu",
-      "body": "「それからついこのあいだのこと（Puis voilà que dernièrement）」──テクストの時制が「過去（マリアの死・旧友の死）」から「最近の出来事（cet automne-ci）」へと転換する。「souvenir de cet automne-ci venu（この秋の記憶が戻ってきて）」：venu という形容詞（「来た」）が souvenir（記憶）に付いている──記憶が自発的に「やってくる」という能動的な記憶の提示。§1〜§3の「失われた者への追悼」が、§4以降では「今この秋」という現在的な時間に接続される：「この秋」が「あの秋（§6：cet hiver-là）」への橋渡しとなる。"
-    },
-    {
-      "paragraphId": 4,
-      "type": "commentary",
-      "anchor": "un ami que j'ai peu fréquenté pourtant et qui souffrait de l'instabilité des nerfs, un monsieur pourtant aisé",
-      "body": "この友人の描写は特徴的にフラットで距離を置いた筆致：「あまり親しくはないが（que j'ai peu fréquenté pourtant）」「神経の不安定に悩んでいた（souffrait de l'instabilité des nerfs）」「裕福な紳士だったが（un monsieur pourtant aisé）」──三つの「pourtant（だが）」による留保・限定が重なる。この匿名的な友人は詩人を場所（冬の庭）へと連れていくための「機能的な人物」であり、それ以上の深みを与えられない。マラルメ散文における人物の「道具的使用」──詩的体験の空間を開くための触媒として人物が存在する構造。"
-    },
-    {
-      "paragraphId": 5,
-      "type": "commentary",
-      "anchor": "un jardin d'hiver, dont les hautes vitres laissaient entrer le crépuscule de novembre",
-      "body": "「冬の庭（jardin d'hiver）」──温室・冬季庭園（Jardin d'hiver）は19世紀パリの鉄骨ガラス建築の代表的な施設（1846年シャンゼリゼ通りのジャルダン・ディヴェール等）。「高いガラス窓（hautes vitres）」：ガラスという媒介素材──外部の十一月を「入れる（laisser entrer）」が、直接ではなく「透過・濾過」された光として。「ステンドグラスを通した光」（ゴーティエ「La Rose-Thé」の vitraux）と類比的：光は素材によって変容される。「十一月の薄暮（crépuscule de novembre）」：crépuscule は「黄昏・薄明」──日と夜の境界の光。§1の「別の星（étoile）」と§6の「遠い祭りの騒めき（bruit de fêtes lointaines）」の中間に、この「距離のある光」が置かれる。"
-    },
-    {
-      "paragraphId": 5,
-      "type": "commentary",
-      "anchor": "cette horreur limpide d'une lumière plus que celle de novembre",
-      "body": "「十一月の光を超えるその澄んだ恐怖（cette horreur limpide d'une lumière plus que celle de novembre）」──horreur limpide（澄んだ恐怖）という矛盾語法（oxymore）：limpide（澄んだ・透明な）と horreur（恐怖・恐ろしさ）の組み合わせ。「十一月の光を超える」：温室の異常な光量──自然な十一月の暗さを「超える」人工的な光が「恐怖」として体験される。マラルメが温室の光を「恐怖（horreur）」として記述することは、ボードレール的な感覚の転倒──通常「美しい・心地よい」とされる温室の光が不快・不気味として提示される。「異国の植物が育つ」：exotiques（異国の）──マラルメにとって「異国（exotique）」は「ボードレール「Parfum exotique」（baudelaire_parfum_exotique）」の楽園的異国でなく、「本来の場所でない場所に移植された」という違和感を含む。"
-    },
-    {
-      "paragraphId": 5,
-      "type": "commentary",
-      "anchor": "une feuille flétrie qui tombait par terre me sembla ressembler à cela que j'avais vu sur le visage de cette femme",
-      "body": "テクストの中心的な「照応（correspondance）」：枯れ葉（feuille flétrie）と死にゆく女の顔（§3の「石膏の仮面」）の視覚的類似。「に似ているように思われた（me sembla ressembler）」：semble（〜に見える）という認識論的留保──§5で石膏の仮面について「étrangement sculpté（奇妙に彫刻された）」と言ったのと同様、類似は断言されず知覚的・主観的なものとして提示される。この枯れ葉による「記憶の召喚」は、ボードレール「照応（Correspondances）」の「諸感覚が互いに照応する（Les parfums, les couleurs et les sons se répondent）」の実践として読める──視覚対象が別の視覚記憶と「照応」する。"
-    },
-    {
-      "paragraphId": 6,
-      "type": "commentary",
-      "anchor": "Je pensai alors à la musique que l'orchestre jouait dans le café voisin, et ce fut là le bruit de fêtes lointaines.",
-      "body": "「思考の転換」：冬の庭の視覚（枯れ葉・石膏の仮面）から隣のカフェの音楽（聴覚）へ──「照応（correspondance）」の連鎖の次の環。「遠い祭りの騒めき（bruit de fêtes lointaines）」：bruit（騒め き・音）という非音楽的な語で音楽が描かれる──カフェの音楽は「音楽（musique）」として始まり「騒めき（bruit）」として体験される。この格下げが§6〜§7の「通俗性」の主題を準備する。また「遠い（lointaines）」という距離感：音楽は聞こえているが「遠い」──ガラス窓を越えてきた十一月の薄暮の光と同様、媒介・距離を通した知覚。"
-    },
-    {
-      "paragraphId": 6,
-      "type": "intertextual",
-      "anchor": "Il y avait un air qui ressemblait à cet hiver-là, à ce deuil-là, à ce sentiment de résignation",
-      "body": "ボードレール「秋の歌（Chant d'automne）」（baudelaire_spleen_et_ideal）との連絡：ボードレールが「秋の歌」で「冬の憂愁（mélancolie hivernale）」と「諦念（résignation）」を詩の主題とするのに対し、マラルメはここで「あの冬・あの喪・あの諦念の感情に似た旋律（un air qui ressemblait à cet hiver-là, à ce deuil-là, à ce sentiment de résignation）」を通俗的な歌の中に見出す。ボードレールへの「影響と逸脱」：ボードレールが諦念を荘重な詩語で表現するのに対し、マラルメは最も「低俗な（populaire）」歌の中にそれを発見する──この逆転が§7の美学的命題へと向かう。",
+      "anchor": "la poésie agonisante des derniers moments de Rome",
+      "body": "ボードレール「秋の歌（Chant d'automne）」（baudelaire_spleen）との連絡：ボードレールが秋を「冬の到来」として劇的・感傷的に詠む（「J'entends déjà tomber avec des chocs funèbres / Le bois retentissant sur le pavé des cours」）のに対し、マラルメはここで「ローマの衰退期」という歴史的・文学的な下降への偏愛として秋を定義する──感傷を排した「美学的プログラム」としての秋。また、ヴェルレーヌ「秋の歌（Chanson d'automne）」（verlaine_chanson_automne）の「秋のヴィオロンの長い抜き抜き声（Les sanglots longs des violons de l'automne）」との対比：ヴェルレーヌが音楽と秋の感傷を直結させるのに対し、マラルメは§3で文学的嗜好として秋を定義し、音楽（手風琴）は§4以降に別の文脈で登場する。",
       "targetId": "baudelaire_spleen",
       "targetParagraphId": null
     },
     {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Je lisais donc un de ces chers poèmes (dont les plaques de fard ont plus de charme sur moi que l'incarnat de la jeunesse)",
+      "body": "「愛しい詩篇のひとつを読んでいた（Je lisais donc un de ces chers poèmes）」──donc（だから・したがって）が§3の宣言と§4の行為をつなぐ論理的接続詞：「ローマ頽廃詩を好む、だから（donc）それを読んでいた」。括弧内の「その白粉の斑は私には若さの赤みよりも魅力的だ（dont les plaques de fard ont plus de charme sur moi que l'incarnat de la jeunesse）」──plaques de fard（白粉の斑）：化粧が剥げて浮き上がった斑点──老いた化粧品の痕跡。incarnat（生き生きとした赤み・顔色の赤み）：若さの生命力。老いた化粧の痕跡が若さの生命力より魅力的だという嗜好は、§2の「chute（墜落）」の美学の具体的実践──完成・頂点でなく衰退・痕跡への偏愛。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "un orgue de Barbarie chanta languissamment et mélancoliquement sous ma fenêtre",
+      "body": "「手風琴（orgue de Barbarie）」：街頭で演奏される旋回式の機械オルガン。「Barbarie（バルバリ）」の語源は諸説あるが、手回し式という機械的・無個性な演奏を特徴とする。19世紀パリの街頭楽器の代表──物乞い・流しの楽師が使用。「ものうげに（languissamment）」と「憂愁をたたえて（mélancoliquement）」という二重の副詞：手風琴の音色を既に感情的に着色して描写する。この先回りした感情付与が、§7でその「通俗性にもかかわらず感動する」という逆説の準備となる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Il jouait dans la grande allée des peupliers dont les feuilles me paraissent mornes même au printemps, depuis que Maria a passé là avec des cierges, une dernière fois.",
+      "body": "テクストで最も詩的な密度を持つ文。「ポプラの並木道（grande allée des peupliers）」──ポプラは直立・細身・高さで知られる樹木。「その葉は春でさえ私には陰鬱に見える（dont les feuilles me paraissent mornes même au printemps）」：me paraissent（私には〜に見える）という知覚の主観性の強調──客観的には春の緑の葉が主観的には「陰鬱」。「depuis que（〜してから）」：§1冒頭「Depuis que Maria m'a quitté…j'ai toujours chéri la solitude」と同じ構文の反復──「マリアが去ってから」という時間的断絶が同じ統語構造で再帰する。「蝋燭を手に、最後の一度（avec des cierges, une dernière fois）」：cierges（キャンドル・典礼用蝋燭）──葬列の明確な描写。「最後の一度（une dernière fois）」：une dernière fois という語句の孤立した置き方が、その瞬間の重さを際立たせる。マリアが「最後の一度」ポプラの下を通ったことで、ポプラが永遠に「喪のポプラ」となったという記憶の定着の論理。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "L'instrument des tristes, oui, vraiment : le piano scintille, le violon donne aux fibres déchirées la lumière, mais l'orgue de Barbarie, dans le crépuscule du souvenir, m'a fait désespérément rêver.",
+      "body": "楽器論の核心：三楽器の対比。「ピアノはきらめく（le piano scintille）」──scintille（きらめき・明滅）：視覚的・即物的な光の語彙で音楽を記述する共感覚。「ヴァイオリンは引き裂かれた繊維に光を与える（le violon donne aux fibres déchirées la lumière）」──fibres déchirées（引き裂かれた繊維）という身体的・官能的語彙：弦の振動が身体の繊維的な緊張として体験される。ピアノとヴァイオリンが「きらめき・光」として提示されるのに対し、手風琴は「記憶の黄昏（crépuscule du souvenir）」において「絶望的に夢想させる（désespérément rêver）」──光でなく薄暮、明晰でなく夢想。désespérément（絶望的に）：「絶望的に夢想する」という形容は強度の逆説──「夢想する」という内向きの認知行為が「絶望的な」という極限形容詞を帯びる。"
+    },
+    {
       "paragraphId": 7,
       "type": "commentary",
-      "anchor": "Mais comme son élévation était médiocre et son raffinement nul, je la trouvai touchante, attendrissante : elle était de circonstance.",
-      "body": "テクストの最終文にして美学的命題の逆転的定式化：「その高さは凡庸（élévation médiocre）で洗練はゼロ（raffinement nul）だったがゆえに（comme…）、胸を打ち、心を溶かすものとして感じた（touchante, attendrissante）」──因果関係の逆転。通常の美学では「洗練・高さ → 感動」だが、ここでは「低俗さ・無洗練 → 感動」という逆説。「時と場所にふさわしかった（elle était de circonstance）」：de circonstance という慣用句──「場合に応じた・状況にふさわしい」の意。状況（冬の庭・枯れ葉・石膏の仮面の記憶）との「照応」として歌が機能したことで、その質的な低さが逆説的な感動を生む。この逆説がテクスト全体の美学的帰結：「Mimique」で「最も原理に近いジャンル」がパントマイムであったように、「Plainte d'automne」では「最も低俗な歌」が最も感動的なものとして提示される──高みへの到達でなく、低みへの降下の中に詩的真実を見出す逆説的詩学。"
+      "anchor": "un air joyeusement vulgaire et qui mit la gaîté au cœur des faubourgs, un air suranné, banal",
+      "body": "「喜びをもって俗なる旋律（air joyeusement vulgaire）」──joyeusement（喜びをもって）という副詞と vulgaire（低俗な）という形容詞の組み合わせ：低俗さが「喜び」として提示される──つまり「低俗であることを承知の上で喜びに満ちている旋律」という二重性。「郊外の人々の心に陽気さを灯した（qui mit la gaîté au cœur des faubourgs）」：faubourgs（郊外・下町）──パリの工人・労働者街。「古びた、陳腐な（suranné, banal）」：suranné（時代遅れの・時代錯誤な）と banal（陳腐な）という二重の格下げ。この三重の格下げ（vulgaire・suranné・banal）が§6の「L'instrument des tristes」という位置づけと合わせて、手風琴の美的価値の低さを徹底的に確立する──その上で続く問いが機能するために。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "d'où vient que sa ritournelle m'allait à l'âme et me faisait pleurer comme une ballade romantique ?",
+      "body": "テクストの美学的命題の逆転：「どうして、そのリトルネルが私の魂に響いてきて、ロマン主義の歌謡のように私を泣かせるのか（d'où vient que sa ritournelle m'allait à l'âme et me faisait pleurer comme une ballade romantique）」──修辞疑問。回答は与えられない──問い自体が結論。ritournelle（リトルネル）：反復する折り返しのメロディ。「魂に響く（allait à l'âme）」：aller à の「〜に行き着く・届く」──魂への直接的な到達。「ロマン主義の歌謡のように（comme une ballade romantique）」：比較の対象として「ロマン主義の歌謡」が置かれることで、低俗な手風琴の旋律とロマン主義の高尚なジャンルが感動の質において同一視される。これが「Mimique」で「パントマイムがいかなるジャンルよりも原理に近い」という命題と同型の美学的逆転。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "je ne lançai pas un sou par la fenêtre de peur de me déranger et de m'apercevoir que l'instrument ne chantait pas seul.",
+      "body": "テクストの最終文。「一銭も投げなかった（je ne lançai pas un sou par la fenêtre）」──一銭投げることが「夢想を乱すことになる（de peur de me déranger）」という理由。そして第二の理由：「楽器がひとりで歌っているのではないことに気づいてしまうことを恐れて（m'apercevoir que l'instrument ne chantait pas seul）」──ここに全体の逆説的な結論が収められる。「楽器がひとりで歌っている」＝奏者の存在を認識せずに音楽のみを体験する夢想状態。その幻想を破ることへの恐怖から、現実の奏者という「物質的存在」に気づかないよう一銭も投げない。§1の「猫は物質的な存在なしの仲間（compagnon sans être matériel）」という主題が最終文で回帰する：詩人は「物質的な存在（奏者）」の不在の中でのみ感動を保持できる──物質の排除によって成立する純粋な感動という逆説的詩学の完結。",
+      "targetId": "mallarme_mimique",
+      "targetParagraphId": null
     },
     {
       "paragraphId": 7,
       "type": "intertextual",
-      "anchor": "son élévation était médiocre et son raffinement nul",
-      "body": "マラルメ「Toute l'âme résumée（mallarme_toute_lame）」（1895）との逆方向の連絡：「Toute l'âme résumée」でマラルメは「過度に精確な意味は詩を消し去る（sens trop précis rature ta vague littérature）」と定式化し、「漠然とさ（vague）」を詩の条件として肯定する。「Plainte d'automne」では同じ「低俗さ・無精確さ」が、しかし「感動の条件」として体験される──30年後の詩学的命題（Toute l'âme）が1864年の散文詩においてすでに感情的・経験的に先取りされていたことが見える。",
-      "targetId": "mallarme_toute_lame",
+      "anchor": "l'instrument ne chantait pas seul",
+      "body": "マラルメ「Mimique（mallarme_mimique）」との深い連絡：「Mimique」でマラルメはパントマイムの演技が「鏡を割ることなく永続的な示唆に留まる（allusion perpétuelle sans briser la glace）」と定義し、「純粋な虚構の環境（milieu pur de fiction）」を成立条件とした。「Plainte d'automne」の最終文では同じ論理が日常的体験として現れる：手風琴の旋律が感動を生むのは「奏者という物質的実在」が意識されない間だけ──虚構の条件としての物質的不在。「楽器がひとりで歌っている（l'instrument chantait seul）」という幻想こそが「純粋な虚構の環境」に相当する。この1864年の散文詩に「Mimique」（1897年同時収録）の思想的核心が先取りされているという意味で、『ディヴァガシオン』における両テクストの配置は計算された構造をなす。",
+      "targetId": "mallarme_mimique",
       "targetParagraphId": null
     }
   ]

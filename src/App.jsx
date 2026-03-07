@@ -168,8 +168,8 @@ export default function App() {
 
   useEffect(() => {
     const allTexts = {
-      ...baudelaireData,
       ...mallarmeData,
+      ...baudelaireData,
       ...valeryData,
       ...verlaineData,
       ...gautierData,

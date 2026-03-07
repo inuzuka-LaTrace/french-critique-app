@@ -7,8 +7,9 @@
   "firstPublication": "Émaux et Camées, édition de 1858 (Charpentier)",
   "difficulty": "中級",
   "category": "gautier",
+  "originalLang": "fr-FR",
   "modernRelevance": "★★★★★",
-  "context": "1852年刊行の詩集『七宝螺鈿集』に1858年版から追加された詩論詩。「芸術のための芸術」の最も凝縮された宣言として、高踏派の綱領詩となった。6音節と2音節を組み合わせた独特の四行連句（ヘクサシラブとディシラブ）の形式そのものが、詩の主張——形式の抵抗こそが美を生む——を体現している。ボードレールは『悪の華』をゴーティエに捧げた献辞で「不完全な詩人への、完全な詩人へ（au poète impeccable）」と称え、マラルメはこの詩の彫刻的理想をソネットの硬質な形式と純粋語への追求へと引き継いだ。",
+  "context": "1852年刊行の詩集『七宝螺鈿集』に1858年版から追加された詩論詩。「芸術のための芸術」の最も凝縮された宣言として、高踏派の綱領詩となった。6音節と2音節を組み合わせた独特の四行連句（ヘクサシラブとディシラブ）の形式そのものが、詩の主張──形式の抵抗こそが美を生む──を体現している。ボードレールは『悪の華』をゴーティエに捧げた献辞で「不完全な詩人への、完全な詩人へ（au poète impeccable）」と称え、マラルメはこの詩の彫刻的理想をソネットの硬質な形式と純粋語への追求へと引き継いだ。",
   "keywords": ["芸術のための芸術", "形式", "彫刻", "永遠性", "工芸", "高踏派", "抵抗"],
   "relatedTexts": [
     "baudelaire_gautier",
@@ -20,7 +21,7 @@
     {
       "id": 1,
       "french": "Oui, l'œuvre sort plus belle\nD'une forme au travail\nRebelle,\nVers, marbre, onyx, émail.",
-      "provisionalTranslation": "そう、作品はより美しく生まれる\n素材の抵抗に\n抗う形式から——\n詩句よ、大理石よ、瑪瑙よ、エナメルよ。"
+      "provisionalTranslation": "そう、作品はより美しく生まれる\n素材の抵抗に\n抗う形式から──\n詩句よ、大理石よ、瑪瑙よ、エナメルよ。"
     },
     {
       "id": 2,
@@ -70,7 +71,7 @@
     {
       "id": 11,
       "french": "Tout passe. - L'art robuste\nSeul a l'éternité.\nLe buste\nSurvit à la cité.",
-      "provisionalTranslation": "すべては過ぎ去る。——頑強な芸術だけが\n永遠を持つ。\n胸像は\n都市よりも長く生き残る。"
+      "provisionalTranslation": "すべては過ぎ去る。──頑強な芸術だけが\n永遠を持つ。\n胸像は\n都市よりも長く生き残る。"
     },
     {
       "id": 12,
@@ -86,6 +87,146 @@
       "id": 14,
       "french": "Sculpte, lime, cisèle ;\nQue ton rêve flottant\nSe scelle\nDans le bloc résistant !",
       "provisionalTranslation": "彫れ、磨け、刻め；\nそなたの漂う夢が\n封じられるよう\n抵抗する塊の中に！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "「L'Art」全体の形式：ヘクサシラブ（6音節）とディシラブ（2音節）を交互に組み合わせた四行連句（quatrain）14連56行。押韻は ABAB 交差韻。3行目（2音節）は1行目（6音節）の韻と対応し、極端に短い行が「詰め込まれた形式」の視覚的強調として機能する。この圧縮形式そのものが詩の主題──「抵抗する形式こそが美を生む」──を実演している。ラマルティーヌやミュッセのロマン主義的な滑らかな詩行とは対照的に、ゴーティエは意図的に難しい韻律を選ぶ。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "l'œuvre sort plus belle\nD'une forme au travail\nRebelle",
+      "body": "詩の中心命題の提示：美は制約への抵抗から生まれる。「Rebelle（反抗的な）」が3行目の2音節短行に単独で置かれ、その位置自体が「抵抗」を体現する。rebelle は forme にかかる形容詞──「素材に反抗する形式」。形式が素材の抵抗を克服するのではなく、その抵抗こそが「より美しい」作品を産む逆説。工芸（craft）の理念：手仕事における困難こそが熟練の証。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Vers, marbre, onyx, émail",
+      "body": "詩の三大芸術領域の列挙：vers（詩）＝言語芸術、marbre（大理石）＝彫刻、onyx（瑪瑙）＝宝石細工・工芸、émail（エナメル）＝装飾工芸。oNyx とémail はゴーティエが特に愛した七宝・宝飾の素材で、詩集名『七宝螺鈿集（Émaux et Camées）』そのものがエナメルとカメオの二工芸を指す。詩集名と詩の末尾が呼応する自己言及的構造。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "un cothurne étroit",
+      "body": "cothurne（コトゥルヌ）：古代ギリシア・ローマの悲劇俳優が用いた厚底ブーツ。「悲劇」の象徴として転用される（モリエール「悲劇の靴底を履く」）。「狭い（étroit）」という形容が重要──ゴーティエが求めるのは拘束の強い形式。緩い靴は歩きやすいが詩的ではなく、きつい靴は歩くのに技術を要するが、その緊張が姿勢を正す。直前連の「偽りの制約（contraintes fausses）」との対比：外から押しつけられた制約でなく、内側から選んだ形式の制約。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Fi du rhythme commode,\nComme un soulier trop grand",
+      "body": "「安易な韻律／大きすぎる靴」のアナロジー。ロマン主義的な自由詩・散文詩への暗黙の批判。特にラマルティーヌやミュッセの「流れるような」詩行──誰でも踏めるリズム──を「大きすぎる靴」に喩える。「Fi（くそくらえ）」という粗野な感嘆詞の使用はゴーティエの文体的特徴：高尚な芸術論を口語的・身体的メタファーで語る。詩の形式が詩の内容と一致する：詩行自体が「窮屈」で、読者の口も「抵抗」する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "L'argile que pétrit\nLe pouce\nQuand flotte ailleurs l'esprit",
+      "body": "「魂が別の場所をさまよいながら親指でこねる粘土」──無意識的・即興的な制作への批判。粘土（argile）は可塑的で抵抗しない素材の典型。彫刻家の親指が「機械的に」形を作るとき、精神（esprit）は不在──そこには芸術意志がない。ゴーティエにとって真の制作は素材との格闘（lutte、§5）であり、精神が完全に没入した状態でのみ成立する。インスピレーションの「流れに任せる」ロマン主義的詩学の否定。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "le carrare",
+      "body": "カッラーラ（Carrare）：イタリア、トスカーナ州の都市。ミケランジェロが「ダヴィデ」「ピエタ」に用いた白大理石の産地として知名度が高い。カッラーラ大理石は密度が高く、細部の彫刻に耐える硬度を持つ。ゴーティエはカッラーラとパロスを並列することで、フランスの芸術的想像力がギリシア彫刻（パロス）とルネサンス彫刻（カッラーラ）という二つの頂点に向かうことを示唆する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "le paros dur\nEt rare,\nGardiens du contour pur",
+      "body": "パロス（Paros）：エーゲ海キクラデス諸島の島。古代ギリシア彫刻（プラクシテレス、スコパス）が用いた半透明の白大理石の産地。「硬く（dur）」「希少な（rare）」は素材の物理的特質であると同時に、良い詩の条件──難しく、ありふれていない──の隠喩。「純粋な輪郭の守護者（Gardiens du contour pur）」：輪郭（contour）への強調はゴーティエの造形的美学の核心。線の明確さ・鮮明さが美の基準。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "Emprunte à Syracuse\nSon bronze",
+      "body": "シュラクサイ（Syracuse）：シチリア島の古代ギリシア植民都市。古代世界で最も繁栄した都市の一つで、紀元前5〜4世紀のブロンズ鋳造技術で名高い。特に貨幣鋳造（テトラドラクマ銀貨のアレトゥーサ像）が後世の工芸の規範となった。「借りよ（Emprunte）」──過去の芸術的遺産を学習・継承すべきだという古典主義的立場。ゴーティエにとって「現在」の芸術は過去の遺産との対話によって成立する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "dans un filon\nD'agate\nLe profil d'Apollon",
+      "body": "agate（メノウ）：石英の変種で、縞模様の半透明鉱石。古代から印章・カメオ彫刻の素材として珍重された。filon（一筋の脈）は鉱石の自然な層──メノウの縞の一本に沿ってアポロンの横顔を刻む繊細な作業。詩集名 Camées（カメオ）との直接的な呼応。アポロン：ギリシア神話で詩・音楽・弓・太陽の神。工芸の守護神でもある。詩人が「アポロンの顔」を素材の中に見出す行為は、詩的インスピレーションと技術的精密さの融合の象徴。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "fuis l'aquarelle,\nEt fixe la couleur\nTrop frêle\nAu four de l'émailleur",
+      "body": "水彩（aquarelle）対エナメル（émail）の対立は、詩全体の中心的対立構造の具体的展開：流動性・脆さ対固定性・耐久性。水彩は水に溶ける──時間・気候・光で変化する。エナメルは高温の窯で焼き固められ、千年以上変色しない（ビザンティン・中世のエナメル工芸）。「frêle（脆い）」は水彩の弱点でもあり、ロマン主義的な感情の不安定さの隠喩でもある。窯（four）は変容の場：脆いものを永続するものへ変える。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "glossary",
+      "anchor": "Les monstres des blasons",
+      "body": "blason（紋章）：中世ヨーロッパの貴族・騎士団の家紋。人魚（sirène）・グリフィン・ドラゴン・ユニコーンなどの怪物的・混成的生き物が紋章の典型的モチーフ。「百の形に尾をくねらせた（Tordant de cent façons / Leurs queues）」──紋章学の規則的・様式化された表現の中での無限の変形。ゴーティエは中世工芸の主題群（紋章・宗教図像）を等価に扱う：高踏派の「テーマの平等」の思想。聖なるものと怪物的なものが同一の工芸的価値を持つ。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "glossary",
+      "anchor": "nimbe trilobe",
+      "body": "nimbe trilobe（三葉の光輪）：中世キリスト教美術における特定の図像的形式。三葉形（三つ葉クローバー型）の光輪は三位一体（父・子・聖霊）を象徴し、キリストと聖母マリアの特権的な図像として使用された。ゴーティエの記述は宗教的内容への帰依ではなく、中世エナメル工芸（クロワゾネ技法・リモージュ工芸）の精密な図像プログラムへの関心を示す。「glob（地球儀）e avec la croix dessus」は十字架を戴いた宝珠（Globus Cruciger）──皇帝の権威の象徴。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Tout passe. - L'art robuste\nSeul a l'éternité.\nLe buste\nSurvit à la cité.",
+      "body": "詩の転換点：具体的な工芸的勧告（§1〜10）から、その勧告を支える哲学的根拠（§11〜13）へ。「Tout passe（すべては過ぎ去る）」は箴言的簡潔さ──エピクロス・ストア哲学、ホラティウスの carpe diem 詩学の響き。「L'art robuste / Seul a l'éternité」：robuste（頑強な）はこの詩で最も重要な形容詞の一つ。頑強さ＝素材の硬さ・制作の労苦の結果。buste（胸像）と cité（都市）の対比は具体的：ローマ帝国の都市群は廃墟となったが、その市民の胸像は美術館に残る。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "la médaille austère\nQue trouve un laboureur\nSous terre\nRévèle un empereur",
+      "body": "メダル（médaille）は古代ローマのコイン・記念メダルを指す。農夫（laboureur）が畑を耕す際に偶然発見する出土品という設定は、18世紀後半の考古学ブーム（ポンペイ発掘1748年〜）の余韻。「皇帝を明かす（Révèle un empereur）」：すでに名前も系譜も忘却された権力者の顔が、金属の円盤として完全な形で蘇る──芸術の記憶機能。ゴーティエが愛した numismatique（貨幣収集学）の詩的形象化。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Les dieux eux-mêmes meurent,\nMais les vers souverains\nDemeurent\nPlus forts que les airains.",
+      "body": "詩の哲学的クライマックス。「神々でさえ死ぬ」──古代ギリシア・ローマの神々はキリスト教の到来とともに「死んだ」（神話的死。参照：ハイネ「神々の死」）。しかし彼らを歌った詩はホメロスとともに生き続ける。「vers souverains（至高の詩句）」は至高性・主権（souverain）を持つ──これはまさにゴーティエが§1〜3で論じた「抵抗する形式」から生まれた詩のみが持てる性質。airains（青銅）複数形：古代の戦勝記念の青銅像・青銅の剣──強力と思われたものでさえ、詩より脆い。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "prosody",
+      "anchor": "les vers souverains\nDemeurent\nPlus forts que les airains",
+      "body": "「vers（詩句／詩行）」の多義性：vers は「詩行」でもあり「詩」でもある──まさにこの詩の詩行（vers）自体が「souverains（至高）」であることを自己言及する。demeurent（留まる）という動詞が2音節の短行に単独で置かれ、その「留まること」の強調が形式的に体現される──最も孤立した位置に置かれた単語が最も持続する。「airains（青銅）」はラテン語 aes（銅・青銅・お金）に由来する詩的古語。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "Sculpte, lime, cisèle ;\nQue ton rêve flottant\nSe scelle\nDans le bloc résistant !",
+      "body": "詩の結末：三つの命令形動詞「Sculpte（彫れ）、lime（磨け）、cisèle（刻め）」による直接的呼びかけ。この三動詞は§5〜7の三つの彫刻素材（カッラーラ・パロス・メノウ）に対応し、詩全体の彫刻的語彙の集約点。「rêve flottant（漂う夢）」対「bloc résistant（抵抗する塊）」──詩の最初の対立（rebelle と belle）が最終連で「夢と石の塊」の対立として完結する。Se scelle（封じられる）：sceller は印章で封印する行為──夢が石の塊に「封印」されることで永続する。詩集名 Camées（刻印・浮彫）との呼応。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "prosody",
+      "anchor": "Sculpte, lime, cisèle",
+      "body": "最終連の3動詞列挙（polysyndeton の逆：virgule のみで接続する asyndeton）のリズム：Sculpte（2）/ lime（2）/ cisèle（3）──計7音節で詩行の6音節を微妙に超える。cisèle はフランス語 ciseler（小刀で細工する）の命令形。彫刻（sculpter）→ 仕上げ（limer, やすりがけ）→ 細部彫刻（ciseler）という工程の順序が暗示され、大から小へ・粗から細へという制作プロセスが圧縮される。3動詞の語頭子音（s, l, s/c）の音響が硬質な作業音を模倣する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "ボードレールは『悪の華』（1857）をゴーティエに献辞した際、「不完全な詩人への──完璧な詩人（au poète impeccable）」と書いた。「impeccable（欠点なき）」はゴーティエの工芸的完成主義への賛辞であり、「L'Art」の形式的厳格さへの直接的な応答。ボードレールの批評「テオフィル・ゴーティエ論」（baudelaire_gautier）はこの詩の彫刻的美学を詳論し、「形式の完璧さが詩人の誠実さの証明」という命題を展開している。",
+      "targetId": "baudelaire_gautier",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 11,
+      "type": "intertextual",
+      "anchor": "Tout passe. - L'art robuste\nSeul a l'éternité.",
+      "body": "マラルメ「乾杯の詩（Toast funèbre）」（1873）はゴーティエへの追悼詩であり、「L'Art」の永続性命題への直接的応答。「L'Art」の「芸術だけが永遠を持つ」という命題は、マラルメの詩学における「不在（absence）」の美学──消えゆくものを不在の形式で永続させる──へと転化される。マラルメはゴーティエの彫刻的確実性を引き受けながら、その確実性の基盤を問い直す。",
+      "targetId": "mallarme_toast_funebre",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 13,
+      "type": "intertextual",
+      "anchor": "Les dieux eux-mêmes meurent,\nMais les vers souverains\nDemeurent",
+      "body": "ヴァレリー「詩と抽象的思考（Poésie et pensée abstraite）」（1939）はこの命題を逆説的に引き継ぐ：詩が永続するのは意味ではなく形式──音と意味の不可分な結合──によってであり、その結合こそがゴーティエの「抵抗する形式」の深層にある。「至高の詩句（vers souverains）」という概念はヴァレリーの「詩的状態（état poétique）」論──日常言語と詩的言語の質的差異──に接続する。",
+      "targetId": "valery_premiere_lecon_cours_de_poetique",
+      "targetParagraphId": null
     }
   ]
 }

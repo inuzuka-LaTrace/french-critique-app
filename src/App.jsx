@@ -74,6 +74,7 @@ export default function App() {
   const [darkMode, setDarkMode] = useState(false);
   const [fontSize, setFontSize] = useState('medium');
   const [fontFamily, setFontFamily] = useState('garamond');
+  const [interlinear, setInterlinear] = useState(false); // 逐行対訳モード
 
   // 新機能
   const [searchQuery, setSearchQuery] = useState('');
@@ -1805,7 +1806,11 @@ export default function App() {
       <header className={`sticky top-0 z-30 ${darkMode ? 'bg-zinc-950/95 border-zinc-800' : 'bg-stone-50/95 border-stone-200'} border-b backdrop-blur-md`}>
         <div className="max-w-6xl mx-auto px-4 py-3 flex items-center gap-3">
           <div className="flex-1 min-w-0">
-            <h1 className={`text-base font-serif font-semibold ${textClass} truncate leading-tight`}>
+            <h1
+              className={`text-base font-serif font-semibold ${textClass} truncate leading-tight cursor-pointer select-none hover:opacity-70 transition-opacity`}
+              onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+              title="最上部へ戻る"
+            >
               Versillage
             </h1>
             {currentText && (
@@ -2323,6 +2328,21 @@ export default function App() {
             >
               {speakingId === 'all' ? <><IconSquare size={10} strokeWidth={2} fill='currentColor' className='inline mr-1' />停止</> : <><Volume2 size={13} strokeWidth={1.6} className='inline mr-1' />全文</>}
             </button>
+            {/* 逐行対訳トグル（原文＋仮訳が両方オンの時のみ） */}
+            {showFrench && showOfficial && (
+              <button
+                onClick={() => setInterlinear(v => !v)}
+                title={interlinear ? '通常表示（原文ブロック→仮訳ブロック）に戻す' : '逐行対訳（1行ごとに原文と訳を交互表示）'}
+                className={`px-3 py-1.5 text-xs rounded-lg transition-colors flex items-center gap-1 font-sans ${
+                  interlinear
+                    ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
+                    : darkMode ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700' : 'bg-stone-100 text-stone-600 hover:bg-stone-200'
+                }`}
+              >
+                <List size={11} strokeWidth={1.8} />
+                {interlinear ? '逐行表示中' : '逐行対訳'}
+              </button>
+            )}
           </div>
           <button
             onClick={clearAllTranslations}
@@ -2479,6 +2499,48 @@ export default function App() {
                 {!isCollapsed && (
                   <div className={`px-6 pb-6 border-t ${borderClass}`}>
 
+                    {/* ── 逐行対訳モード ── */}
+                    {interlinear && showFrench && showOfficial && translation ? (
+                      <div className="pt-5 mb-4">
+                        {hasSpeaker && (
+                          <span className={`text-xs font-bold tracking-wider px-2 py-0.5 rounded border mb-3 inline-block ${darkMode ? speakerColor.dark : speakerColor.light}`}>
+                            {para.speaker.toUpperCase()}
+                          </span>
+                        )}
+                        <div className={`border-l-2 pl-4 ${darkMode ? 'border-stone-700' : 'border-stone-300'}`}>
+                          {(() => {
+                            const origLines = getOriginalText(para).split('\n');
+                            const transLines = translation.split('\n');
+                            const maxLen = Math.max(origLines.length, transLines.length);
+                            return Array.from({ length: maxLen }, (_, i) => (
+                              <div key={i} className={`py-1.5 ${i < maxLen - 1 ? `border-b ${darkMode ? 'border-zinc-800' : 'border-stone-100'}` : ''}`}>
+                                {origLines[i] != null && (
+                                  <p className={`leading-snug ${textClass} ${
+                                    fontSize === 'xlarge' ? 'text-2xl' :
+                                    fontSize === 'large'  ? 'text-xl' :
+                                    fontSize === 'medium' ? 'text-lg' : 'text-base'
+                                  }`}>
+                                    {showAnnotations && hasAnnotations
+                                      ? renderTextWithAnchors(origLines[i], paraAnnotations, para.id)
+                                      : origLines[i]}
+                                  </p>
+                                )}
+                                {transLines[i] != null && (
+                                  <p className={`leading-snug mt-0.5 ${darkMode ? 'text-zinc-400' : 'text-stone-500'} ${
+                                    fontSize === 'xlarge' ? 'text-xl' :
+                                    fontSize === 'large'  ? 'text-lg' :
+                                    fontSize === 'medium' ? 'text-base' : 'text-sm'
+                                  }`}>
+                                    {transLines[i]}
+                                  </p>
+                                )}
+                              </div>
+                            ));
+                          })()}
+                        </div>
+                      </div>
+                    ) : (
+                      <>
                     {/* 原文 */}
                     {showFrench && (
                       <div className="pt-5 mb-4">
@@ -2507,6 +2569,24 @@ export default function App() {
                           }
                         </p>
                       </div>
+                    )}
+
+                    {/* 仮訳 */}
+                    {showOfficial && translation && (
+                      <div className={`mb-4 border-l-2 border-amber-400/70 pl-4 ${showFrench ? '' : 'pt-4'}`}>
+                        <span className={`text-xs font-sans tracking-widest uppercase ${darkMode ? 'text-zinc-500' : 'text-stone-400'}`}>
+                          仮訳
+                        </span>
+                        <p className={`mt-2 leading-loose whitespace-pre-line ${darkMode ? 'text-zinc-300' : 'text-stone-700'} ${
+                          fontSize === 'xlarge' ? 'text-xl' :
+                          fontSize === 'large'  ? 'text-lg' :
+                          fontSize === 'medium' ? 'text-base' : 'text-sm'
+                        }`}>
+                          {translation}
+                        </p>
+                      </div>
+                    )}
+                      </>
                     )}
 
                     {/* 注釈パネル */}
@@ -2541,22 +2621,6 @@ export default function App() {
                             ))}
                           </div>
                         )}
-                      </div>
-                    )}
-
-                    {/* 仮訳 */}
-                    {showOfficial && translation && (
-                      <div className={`mb-4 border-l-2 border-amber-400/70 pl-4 ${showFrench ? '' : 'pt-4'}`}>
-                        <span className={`text-xs font-sans tracking-widest uppercase ${darkMode ? 'text-zinc-500' : 'text-stone-400'}`}>
-                          仮訳
-                        </span>
-                        <p className={`mt-2 leading-loose whitespace-pre-line ${darkMode ? 'text-zinc-300' : 'text-stone-700'} ${
-                          fontSize === 'xlarge' ? 'text-xl' :
-                          fontSize === 'large'  ? 'text-lg' :
-                          fontSize === 'medium' ? 'text-base' : 'text-sm'
-                        }`}>
-                          {translation}
-                        </p>
                       </div>
                     )}
 

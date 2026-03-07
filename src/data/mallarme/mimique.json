@@ -2,42 +2,163 @@
   "id": "mallarme_mimique",
   "title": "Mimique",
   "author": "Stéphane Mallarmé",
-  "source": "Divagations, Eugène Fasquelle, éditeur, 1897 (p. 186-187)",
+  "source": "Divagations, Eugène Fasquelle éditeur, Paris, 1897 (p. 186–187). 照合出典: Œuvres complètes, Bibliothèque de la Pléiade, t. II, éd. Bertrand Marchal, Gallimard, 2003; wikisource.org.",
   "year": "1897",
+  "firstPublication": "Divagations, Eugène Fasquelle éditeur, Paris, 1897",
   "difficulty": "最上級",
   "category": "mallarme_critique",
+  "originalLang": "fr-FR",
   "modernRelevance": "★★★★★",
-  "context": "ポール・マルグリットの無言劇への序文。模倣なき模倣。沈黙と虚構の純粋な空間。",
-  "keywords": [
-    "silence",
-    "mime",
-    "Pierrot",
-    "hymen",
-    "fiction",
-    "idée",
-    "allusion"
-  ],
+  "context": "ポール・マルグリットによる無言劇パントマイム『妻殺しのピエロ（Pierrot Assassin de sa Femme）』（1882年初演）を機縁として書かれた散文詩・批評テクスト。1897年『ディヴァガシオン（Divagations）』所収。全3段落・800字余りの短文だが、デリダが『散種（La Dissémination）』（1972）でその「hymen（ヒュメン）」概念を脱構築の中心概念として論じ、以後フランス文学批評の最も参照されるテクストのひとつとなった。マラルメ独特の難解な統語法——括弧・ダッシュ・倒置——が最も凝縮して現れる。詩と演劇・音楽・舞踊の境界を「沈黙」と「虚構」という概念で横断し、「模倣なき模倣（mime sans imitation）」という逆説的な表象論を展開する。",
+  "keywords": ["沈黙", "パントマイム", "ピエロ", "hymen（ヒュメン）", "虚構", "理念", "示唆", "模倣なき模倣", "ディヴァガシオン", "デリダ"],
   "relatedTexts": [
     "mallarme_ballets",
     "mallarme_fonds",
     "mallarme_hamlet",
-    "mallarme_crayonne"
+    "mallarme_crayonne",
+    "mallarme_crise_de_vers",
+    "mallarme_toute_lame",
+    "mallarme_mystere"
   ],
   "paragraphs": [
     {
       "id": 1,
-      "french": "Le silence, seul luxe après les rimes, un orchestre ne faisant avec son or, ses frôlements de pensée et de soir, qu'en détailler la signification à l'égal d'une ode tue et que c'est au poëte, suscité par un défi, de traduire ! le silence aux après-midi de musique ; je le trouve, avec contentement, aussi, devant la réapparition toujours inédite de Pierrot ou du poignant et élégant mime Paul Margueritte.",
-      "officialTranslation": "沈黙、韻文のあとの唯一の贅沢、一つの管弦楽団がその黄金、その思惟と夕べの掠りとともになすことといえば、消えたオードに等しいその意味を詳述するのみで、それを翻訳するのは、挑戦によって呼び起こされた詩人の役割であることよ！音楽の午後たちの沈黙を。私はその沈黙を、満足とともに、また、ピエロの、あるいは痛切にして優雅な模倣者ポール・マルグリットの、つねに未知のままの再出現の前にも見出す。"
+      "french": "Le silence, seul luxe après les rimes, un orchestre ne faisant avec son or, ses frôlements de pensée et de soir, qu'en détailler la signification à l'égal d'une ode tue et que c'est au poëte, suscité par un défi, de traduire !",
+      "officialTranslation": "沈黙、韻文のあとの唯一の贅沢——一つの管弦楽団がその黄金、その思惟と夕べの掠りとともになすことといえば、消えたオードに等しいその意味を詳述するのみで、それを翻訳するのは、挑戦によって呼び起こされた詩人の役割であることよ！"
     },
     {
       "id": 2,
-      "french": "Ainsi ce Pierrot Assassin de sa Femme composé et rédigé par lui-même, soliloque muet que, tout du long à son âme tient et du visage et des gestes le fantôme blanc comme une page pas encore écrite. Un tourbillon de raisons naïves ou neuves émane, qu'il plairait de saisir avec sûreté : l'esthétique du genre situé plus près de principes qu'aucun ! rien en cette région du caprice ne contrariant l'instinct simplificateur direct.",
-      "officialTranslation": "かくして、この、彼自身によって構成され書き記されたる『妻殺しのピエロ』、無言の独白、終始その魂が顔と身振りとによって保つところの、いまだ書かれざる頁のごとく白き幻影。素朴あるいは新鮮な諸理由の渦巻きが溢れ出て、それを確実に捉えられたらと思わずにいられない。いかなるジャンルよりも原理に近く位置するこのジャンルの美学よ！この気まぐれの領域において、直接的な単純化の本能に反するものは何もない。"
+      "french": "le silence aux après-midi de musique ; je le trouve, avec contentement, aussi, devant la réapparition toujours inédite de Pierrot ou du poignant et élégant mime Paul Margueritte.",
+      "officialTranslation": "音楽の午後たちの沈黙を。私はその沈黙を、満足とともに、また、ピエロの、あるいは痛切にして優雅な模倣者ポール・マルグリットの、つねに未知のままの再出現の前にも見出す。"
     },
     {
       "id": 3,
-      "french": "Voici — « La scène n'illustre que l'idée, pas une action effective, dans un hymen (d'où procède le Rêve), vicieux mais sacré, entre le désir et l'accomplissement, la perpétration et son souvenir : ici devançant, là remémorant, au futur, au passé, sous une apparence fausse de présent. Tel opère le Mime, dont le jeu se borne à une allusion perpétuelle sans briser la glace : il installe, ainsi, un milieu, pur, de fiction. » Moins qu'un millier de lignes, le rôle, qui le lit, tout de suite comprend les règles comme placé devant un tréteau, leur dépositaire humble. Surprise, accompagnant l'artifice d'une notation de sentiments par phrases point proférées — que, dans le seul cas, peut-être, avec authenticité, entre les feuillets et le regard règne un silence encore, condition et délice de la lecture.",
-      "officialTranslation": "すなわち——「場面が示すのは理念だけであり、現実の行為ではない。夢が発するところの、欲望と成就との、犯行とその記憶との間の、背徳的ではあるが神聖な婚礼において——ここでは先取りし、かしこでは回想しながら、未来に向けて、過去に向けて、現在の偽りの外見のもとに。かく働くのがマイムであり、その演技は鏡を割ることなく永続的な示唆に留まる。彼はかくして、純粋な、虚構の環境を据え置く。」千行に満たないその役を、読む者はたちまち規則を理解する、その謙虚な守護者として舞台の板の前に立つかのように。驚き——一度も発せられることのない句によって感情を記譜するという技巧に伴う驚き——、おそらく唯一の場合として、まことに、ページと視線との間になお支配する沈黙、読書の条件にして悦楽。"
+      "french": "Ainsi ce Pierrot Assassin de sa Femme composé et rédigé par lui-même, soliloque muet que, tout du long à son âme tient et du visage et des gestes le fantôme blanc comme une page pas encore écrite.",
+      "officialTranslation": "かくして、この、彼自身によって構成され書き記されたる『妻殺しのピエロ』、無言の独白——終始その魂が顔と身振りとによって保つところの、いまだ書かれざる頁のごとく白き幻影。"
+    },
+    {
+      "id": 4,
+      "french": "Un tourbillon de raisons naïves ou neuves émane, qu'il plairait de saisir avec sûreté : l'esthétique du genre situé plus près de principes qu'aucun ! rien en cette région du caprice ne contrariant l'instinct simplificateur direct.",
+      "officialTranslation": "素朴あるいは新鮮な諸理由の渦巻きが溢れ出て、それを確実に捉えられたらと思わずにいられない——いかなるジャンルよりも原理に近く位置するこのジャンルの美学よ！この気まぐれの領域において、直接的な単純化の本能に反するものは何もない。"
+    },
+    {
+      "id": 5,
+      "french": "Voici — « La scène n'illustre que l'idée, pas une action effective, dans un hymen (d'où procède le Rêve), vicieux mais sacré, entre le désir et l'accomplissement, la perpétration et son souvenir : ici devançant, là remémorant, au futur, au passé, sous une apparence fausse de présent. Tel opère le Mime, dont le jeu se borne à une allusion perpétuelle sans briser la glace : il installe, ainsi, un milieu, pur, de fiction. »",
+      "officialTranslation": "すなわち——「場面が示すのは理念だけであり、現実の行為ではない。夢が発するところの、欲望と成就との、犯行とその記憶との間の、背徳的ではあるが神聖な婚礼において——ここでは先取りし、かしこでは回想しながら、未来に向けて、過去に向けて、現在の偽りの外見のもとに。かく働くのがマイムであり、その演技は鏡を割ることなく永続的な示唆に留まる。彼はかくして、純粋な、虚構の環境を据え置く。」"
+    },
+    {
+      "id": 6,
+      "french": "Moins qu'un millier de lignes, le rôle, qui le lit, tout de suite comprend les règles comme placé devant un tréteau, leur dépositaire humble.",
+      "officialTranslation": "千行に満たないその役を、読む者はたちまち規則を理解する、その謙虚な守護者として舞台の板の前に立つかのように。"
+    },
+    {
+      "id": 7,
+      "french": "Surprise, accompagnant l'artifice d'une notation de sentiments par phrases point proférées — que, dans le seul cas, peut-être, avec authenticité, entre les feuillets et le regard règne un silence encore, condition et délice de la lecture.",
+      "officialTranslation": "驚き——一度も発せられることのない句によって感情を記譜するという技巧に伴う驚き——、おそらく唯一の場合として、まことに、ページと視線との間になお支配する沈黙、読書の条件にして悦楽。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "テクスト全体の構造：7段落はアーチ構造をなす。§1で「沈黙（Le silence）」を宣言し、§7の最終語「沈黙（un silence encore）」でそれを回収する。§1〜§2が「沈黙の定義と体験」、§3〜§4が「ピエロという事例の記述と美学的一般化」、§5が「引用ブロック（理論の核心）」、§6〜§7が「読者論への転換と帰結」。文体上の特徴：§1は述語動詞を持たない名詞句＋関係節の連鎖で始まり感嘆符で爆発する。§2は小文字（le silence aux après-midi…）で静かに再開し「je」が登場する。§5は引用符《》内で命題が自律する。§7は孤立名詞「Surprise」で始まるという文法的破格で締まる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Le silence, seul luxe après les rimes",
+      "body": "テクストの開幕語「沈黙（Le silence）」——定冠詞付きの特定の沈黙、「韻文（les rimes）の後に来る」ものとして定義される。「贅沢（luxe）」という評価語：沈黙は欠如でなく過剰（luxe）として提示される。これが第一の逆説——詩がその終わりに余白として生む沈黙こそが詩の最高の産物だという宣言。この冒頭の命題が全テクストの論理を圧縮する：パントマイムは「詩の彼方にある沈黙」を体現する芸術である。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "un orchestre ne faisant avec son or, ses frôlements de pensée et de soir, qu'en détailler la signification à l'égal d'une ode tue",
+      "body": "管弦楽（orchestre）との対比が設定される。「黄金・思惟と夕べの掠り（or, frôlements de pensée et de soir）」という豊かな素材を持ちながら、管弦楽がなしうることは「消えたオード（ode tue）の意味を詳述するのみ」——沈黙の「注釈・説明」にとどまるという限界の提示。frôlements（掠り・軽い接触）：管弦楽の音が「思惟と夕べに掠れる」——届きそうで届かない距離感。ode tue（消えたオード）：tue は「殺された・抑圧された」の義——書かれることなく消えた詩という不在の形式が管弦楽の参照原型として置かれる。「詳述（détailler）」と「翻訳（traduire）」の対比：管弦楽は詳述するだけで、真に「翻訳」できるのは詩人だという序列。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "je le trouve, avec contentement, aussi, devant la réapparition toujours inédite de Pierrot",
+      "body": "語り手「je（私）」の初登場：§1が抽象的・普遍的命題だったのに対し、§2で個人的な体験者が現れる。§2が小文字（le silence aux après-midi…）で始まることに注意——§1末の感嘆符で爆発した後、静かに降下して日常の体験へと着地する。「つねに未知のままの再出現（réapparition toujours inédite）」：réapparition（再出現）はすでに知られた存在の帰還だが、toujours inédite（常に初出の）という形容が矛盾する——繰り返されるが毎回「初めて」として体験されるパントマイムの時間性。inédite は「未出版の」が本義：ピエロの各上演が「まだ書物として固定されていない」流動的テクストであることを暗示する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "poignant et élégant mime Paul Margueritte",
+      "body": "ポール・マルグリット（Paul Margueritte, 1860–1918）：フランスの作家・パントマイム俳優。1880年代に「ピエロ」を新しいパントマイム形式として革新した。『妻殺しのピエロ（Pierrot Assassin de sa Femme）』（1882年初演）はピエロが妻を羽根で擽り殺す場面を無言で演じる作品。poignant（痛切な・胸を刺す）と élégant（優雅な）の並置：相反する二語がマルグリットの芸の両面を示す——grotesque と優美の共存。マラルメはこの作品のパンフレット（1886年）にも短文を寄せており、「Mimique」はその批評の深化として位置づけられる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "soliloque muet que, tout du long à son âme tient et du visage et des gestes le fantôme blanc comme une page pas encore écrite",
+      "body": "テクスト中で最も難解な統語のひとつ。構造の解読：「soliloque muet [que … le fantôme blanc … tient]」——「白い幻影が、顔と身振りによって、魂に保ち続ける無言の独白」。「無言の独白（soliloque muet）」：独白でありながら無言という矛盾——独白は通常「声に出す自己との対話」だが、ここでは「声なき」独白。fantôme blanc（白い幻影）：ピエロの白塗りの顔・白いコスチューム——その白が「まだ書かれていないページ（page pas encore écrite）」の比喩として機能する。この比喩がテクストの中心：パントマイムは「書かれるべきで書かれなかった詩のページ」を白い身体として舞台上で体現する。マラルメ「骰子一擲」の紙面の白（空白）との連絡：紙の白が意味の不在の場所であり同時に可能性の場所であるように、ピエロの白い体も「発語されない意味の場所」として機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "l'esthétique du genre situé plus près de principes qu'aucun",
+      "body": "「いかなるジャンルよりも原理に近く位置するこのジャンルの美学（l'esthétique du genre situé plus près de principes qu'aucun）」——パントマイムを「最も原理的なジャンル」とする逆説的定義。通常は言語芸術（詩）が最も「原理」に近いとされるが、マラルメは無言の身体芸術を最上位に置く。論理：言語は意味を固定しすぎるが、身体の動きは「永続的な示唆（allusion perpétuelle）」にとどまり意味を固定しない——固定しないことこそが「原理」に近い状態。§5で「純粋な虚構の環境（milieu, pur, de fiction）」として展開される命題の先取り。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "l'instinct simplificateur direct",
+      "body": "マラルメ「危機・詩（mallarme_crise_de_vers）」との連絡：「危機・詩」がフランス語詩における詩的言語の純化を論じるのに対し、ここでは「直接的な単純化の本能（instinct simplificateur direct）」がパントマイムの美学として提示される。両テクストで「単純化（simplification）」は「貧困化」でなく「原理への還元」として肯定的に評価される——言語の余剰要素を剥ぎ落とした純粋表現への指向。「危機・詩」の「詩人の主導権を言葉に譲る（laisser l'initiative aux mots）」命題との連絡：パントマイムでは身体の動きが詩人の言語的意図を超え、直接的な本能として機能する。",
+      "targetId": "mallarme_crise_de_vers",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "La scène n'illustre que l'idée, pas une action effective",
+      "body": "テクストの中心命題：「場面が示すのは理念（l'idée）だけであり、現実の行為（action effective）ではない」——「模倣なき模倣（mime sans imitation）」の定式。illustre（示す・図解する）：本来「挿絵・図解」の語——理念を可視化する行為だが、可視化される内容が「現実の行為でなく理念」という転倒。action effective の effective は「現実に効力を持つ・有効な」——舞台上の行為は「現実には何も起こさない」という宣言。ピエロが妻を「殺す」演技を見せても実際の死は起きない：この「無効性（non-effectivité）」こそが演劇の本質であり、その本質を最も純粋に体現するのがパントマイムだというマラルメの論理。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "dans un hymen (d'où procède le Rêve), vicieux mais sacré, entre le désir et l'accomplissement, la perpétration et son souvenir",
+      "body": "「ヒュメン（hymen）」——このテクストで最も論争的な語。hymen は：(1) 処女膜（身体的・医学的意味）、(2) 婚礼・婚姻（ギリシャ語 Hymen、婚礼の神）の両義を持つ。マラルメはこの語を「欲望と成就の間（entre le désir et l'accomplissement）」という「二項の境界・膜」として使用する——到達する前と後の「あいだ（entre-deux）」。デリダ『散種（La Dissémination）』（1972）はこの hymen を「決定不可能性（indécidabilité）」の概念として脱構築的に読む：「融合と分離を同時に意味する語」であり、この決定不可能性がパントマイムの意味論的構造を体現するという読解。vicieux mais sacré（背徳的ではあるが神聖な）：道徳的矛盾の同居——「犯行の模倣」（背徳的）かつ「虚構における浄化」（神聖）であることの宣言。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "ici devançant, là remémorant, au futur, au passé, sous une apparence fausse de présent",
+      "body": "パントマイムの時間構造の記述：「ここでは先取りし（devançant）、かしこでは回想しながら（remémorant）、未来に向けて（au futur）、過去に向けて（au passé）、現在の偽りの外見のもとに（sous une apparence fausse de présent）」——現在・過去・未来が同時に存在する時間的折り畳み。「現在の偽りの外見（apparence fausse de présent）」：舞台の「現在」は偽りの現在——役者の身体は「今ここ」にあるが、演じられる出来事は虚構の時間に属する。この「三重の時間の折り畳み」はマラルメの詩的時間論の実践：「骰子一擲（mallarme_coup_de_des）」が過去形・現在形・条件法を同一ページに混在させることで同様の時間的多層性を版面上に作り出す。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "le jeu se borne à une allusion perpétuelle sans briser la glace : il installe, ainsi, un milieu, pur, de fiction",
+      "body": "「演技は鏡を割ることなく永続的な示唆に留まる（le jeu se borne à une allusion perpétuelle sans briser la glace）」——glace（鏡）を「割る」こと＝「虚構の表面を破って現実に侵入すること」——パントマイムの演技は現実を侵犯しない。allusion perpétuelle（永続的な示唆）：allusion（仄めかし）は「直接言わず間接的に指し示す」——この「永続する仄めかし」がパントマイムの言語的相当物。「純粋な、虚構の環境（milieu, pur, de fiction）」：コンマによる三分割——「環境」「純粋な」「虚構の」の三語が独立した重みで並置され、呼吸を挟まれる。マラルメ「Toute l'âme résumée（mallarme_toute_lame）」の「vague littérature（漠然とした文学）」との連絡：「純粋（pur）」は「固定されない・漠然とした状態」として詩的文学の条件を示す語。",
+      "targetId": "mallarme_toute_lame",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Moins qu'un millier de lignes, le rôle, qui le lit, tout de suite comprend les règles comme placé devant un tréteau",
+      "body": "§5の引用ブロックから外へ出た最初の文：読者・鑑賞者論への転換。「千行に満たない（Moins qu'un millier de lignes）」：マルグリットのテクストの物理的な薄さを数量として示す——短さが「原理への近さ」（§4）の具体的な証拠として機能する。「読む者はたちまち規則を理解する（qui le lit, tout de suite comprend les règles）」：tout de suite（たちまち）という即時性——「千行に満たない」テクストが「即座に」規則を伝える。これは§5の「純粋な虚構の環境」の効果：純粋であるから即座に伝達する。tréteau（舞台板・大道芸の台）：正規劇場でなく野外の素朴な台——「謙虚な守護者（dépositaire humble）」という最後の語と呼応して、読者の受動的・服従的な立場が示される。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Surprise, accompagnant l'artifice d'une notation de sentiments par phrases point proférées",
+      "body": "テクストの最終段落は「驚き（Surprise）」という孤立した名詞で開始される——主語として立つ抽象名詞という文法的破格。「一度も発せられることのない句によって感情を記譜するという技巧（notation de sentiments par phrases point proférées）に伴う驚き」：notation（記譜）という音楽的語彙——感情が「楽譜に記される」ように書かれるが、その句は「発せられない（point proférées）」。point は古語的否定（ne…point）：書かれているが声に出されない句——これがテクスト全体の構造と同型。マラルメの散文そのものが「発せられない句によって感情を記譜する」ものとして自己言及している。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "entre les feuillets et le regard règne un silence encore, condition et délice de la lecture",
+      "body": "テクストの最終文：「ページ（feuillets）と視線（regard）との間になお支配する沈黙（un silence encore）、読書の条件にして悦楽（condition et délice de la lecture）」——テクストは§1の「Le silence」で始まり「un silence encore」で閉じる。このアーチ構造が全体の統一をなす。condition et délice の並置：沈黙が「条件（必要条件）」であり同時に「悦楽（快楽）」——義務と快楽の同一化。feuillets（ページ・紙葉）と regard（視線・眼差し）の「間（entre）」：§5の hymen の概念の読書論への転換——欲望と成就の「間」にあった hymen が「ページと視線の間の沈黙」として実現される。読書行為そのものが「ヒュメン」であるという最終的な定義。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "intertextual",
+      "anchor": "condition et délice de la lecture",
+      "body": "ブランショ（『文学空間 L'Espace littéraire』1955）がマラルメの「沈黙」を「書くことの不可能性の現前（présence de l'impossible）」として読んだ理論的文脈がこの最終文に集約される：書かれた語と読む者の視線の「間」に生じる沈黙こそが、文学を文学たらしめる不可能な空白。また「Toute l'âme résumée（mallarme_toute_lame）」の「vague littérature（漠然とした文学）」という概念との連絡：読書の「沈黙（silence）」は「漠然とした文学」の媒体——言語が沈黙の中で「漠然と」機能するとき詩的経験が生じる。マラルメ「謎の中に（mallarme_mystere）」との補完：あちらが「詩を読む者がページの前に立つ体験」を論じるのに対し、こちらはその体験を「ページと視線の間の沈黙」として定式化する。",
+      "targetId": "mallarme_toute_lame",
+      "targetParagraphId": null
     }
   ]
 }

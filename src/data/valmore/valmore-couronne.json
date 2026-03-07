@@ -2,74 +2,109 @@
   "id": "valmore_couronne",
   "title": "La Couronne effeuillée",
   "author": "Marceline Desbordes-Valmore",
-  "source": "Poésies inédites",
+  "source": "Poésies inédites, Genève, 1860 (éd. posthume, publiée par Gustave Revilliod). 照合出典: Œuvres poétiques, Gallimard / Bibliothèque de la Pléiade, 1983; wikisource.org; poetes.com.",
   "year": "1860",
+  "firstPublication": "Poésies inédites, Genève, 1860 (遺稿集、没後出版)",
   "difficulty": "中級",
   "category": "valmore",
+  "originalLang": "fr-FR",
   "modernRelevance": "★★★★☆",
-  "context": "「散らされた花冠」＝失われた栄光・愛・若さの象徴。ヴェルレーヌが高く評価した晩年の傑作のひとつ。花冠の解体というイメージが詩人の老いと忘却への恐れと重なる。",
-  "keywords": ["couronne", "oubli", "gloire", "vieillesse", "effeuiller"],
-  "relatedTexts": ["valmore_roses", "valmore_fleurs", "valmore_qu_en_avez"],
+  "context": "1860年刊行の遺稿集『未刊詩篇』に収録。晩年（70代）の作と推定される。「散らされた花冠（couronne effeuillée）」──effeuiller は「花びらを散らす・葉をむしり取る」を意味し、タイトルが「解体される花冠」という運動そのものを指す。全12行・四行連句×3連。第1連が内なる対話（私と心）、第2連が花冠の崩壊（落下・棺・風）、第3連が香りの天への昇天という三段構造。韻に注目すると、第2連で「deuil（喪）」が行5と行8の両端に置かれ、崩壊の全体を「喪」が括弧のように囲む。ヴェルレーヌが「呪われた詩人たち」で「魂の純粋な声」として高く評価した。",
+  "keywords": ["花冠", "effeuiller", "喪", "香り", "忘却", "昇天", "心との対話"],
+  "relatedTexts": [
+    "valmore_les_roses_de_saadi",
+    "valmore_fleurs",
+    "valmore_qu_en_avez",
+    "verlaine_poetes_maudits_valmore",
+    "mallarme_toast_funebre"
+  ],
   "paragraphs": [
     {
       "id": 1,
-      "french": "J'ai dit à mon cœur, à mon faible cœur :",
-      "officialTranslation": "私は言った、私の心に、弱い私の心に："
+      "french": "J'ai dit à mon cœur, à mon faible cœur :\nN'est-ce pas assez d'aimer une ombre ?\nElle dit : Non pas ! Il en faut un nombre\nInfini, toujours, pour combler mes vœux.",
+      "provisionalTranslation": "私は言った、私の心に、弱い私の心に：\n影をひとつ愛するだけで十分ではないか？\n心は言った：そうではない！ 数多く必要だ\n無限に、いつまでも、私の望みを満たすためには。"
     },
     {
       "id": 2,
-      "french": "N'est-ce pas assez d'aimer une ombre ?",
-      "officialTranslation": "影をひとつ愛するだけで十分ではないか？"
+      "french": "Ses vœux sont en fleurs sur ma tête en deuil ;\nComme ils sont vivants, comme ils sont fragiles !\nIls tombent ! — voici leur cercueil agile,\nLe vent qui les prend sur mon front en deuil.",
+      "provisionalTranslation": "心の望みは、喪に服した私の頭の上で花開いている；\nなんと生き生きと、なんと壊れやすいことか！\n花たちは落ちる！ — これが軽やかな棺、\n喪に服した私の額から花たちを連れ去る風が。"
     },
     {
       "id": 3,
-      "french": "Elle dit : Non pas ! Il en faut un nombre",
-      "officialTranslation": "心は言った：そうではない！ 数多く必要だ"
+      "french": "Ô mes yeux ! cherchez-les dans l'infini bleu !\nLes fleurs que j'aimais, la couronne est nue.\nDu moins dans les cieux, dans la froide nue,\nMon parfum perdu s'en est allé vers Dieu.",
+      "provisionalTranslation": "おお私の目よ！ 青い無限の中に花たちを探してくれ！\n私が愛した花たちは、花冠は裸になった。\nせめて天の中に、冷たい雲の中に、\n失われた私の香りは神のもとへ去っていった。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "四行連句（quatrain）×3連、12行。韻配置：\n• §1：cœur / vœux（A）／ ombre / nombre（B）──ABBA 抱擁韻\n• §2：deuil / fragiles（C）／ agile / deuil（C′）──CDDC 抱擁韻（deuil が連の両端を括弧状に囲む）\n• §3：bleu / Dieu（E）／ nue / nue（F）──EFFE 抱擁韻（nue の同語反復）\n3連すべてが ABBA / CDDC / EFFE という抱擁韻（rimes embrassées）で統一される。この「包まれる」韻型が詩の主題──「心（cœur）が願い（vœux）を包む」「喪（deuil）が崩壊を包む」「神（Dieu）が昇天を包む」──と構造的に一致する。"
     },
     {
-      "id": 4,
-      "french": "Infini, toujours, pour combler mes vœux.",
-      "officialTranslation": "無限に、いつまでも、私の望みを満たすためには。"
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "J'ai dit à mon cœur, à mon faible cœur :\nN'est-ce pas assez d'aimer une ombre ?",
+      "body": "冒頭行の反復構造：「à mon cœur, à mon faible cœur（私の心に、弱い私の心に）」──同格反復が二つの cœur を置く。最初の「心」は呼びかけの対象として提示され、二番目に「弱い（faible）」という形容詞が加わる──反復によって対象の性質が明かされる技法。「影をひとつ愛するだけで十分ではないか（N'est-ce pas assez d'aimer une ombre）」：ombre（影）──愛の対象が「影」として描かれる。実体のない幻、すでに失われた人の残影。「一つの影で十分ではないか」という問いは、老いの声・自制の声──しかし心（cœur）はこれを即座に拒否する。"
     },
     {
-      "id": 5,
-      "french": "Ses vœux sont en fleurs sur ma tête en deuil ;",
-      "officialTranslation": "心の望みは、喪に服した私の頭の上で花開いている；"
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Elle dit : Non pas ! Il en faut un nombre\nInfini, toujours, pour combler mes vœux.",
+      "body": "心の返答：「Non pas !（そうではない！）」──即座の、強い否定。「Il en faut un nombre / Infini, toujours（数多く、無限に、いつまでも）」──心の欲望の無限性・制御不可能性の宣言。nombre Infini（無限の数）という過剰さ：「L'Adieu」の「あまりに多く摘み取っていた」、「Les Roses de Saadi」の「あまりに多く（tant）」と同様の「過剰な愛」のモチーフ。「combler mes vœux（私の望みを満たす）」：combler は「満たし尽くす・埋め尽くす」──完全な充填を求める心の渇望。しかし次連でその「望みの花」は落下する──満たされることなく。"
     },
     {
-      "id": 6,
-      "french": "Comme ils sont vivants, comme ils sont fragiles !",
-      "officialTranslation": "なんと生き生きと、なんと壊れやすいことか！"
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Ses vœux sont en fleurs sur ma tête en deuil ;\nComme ils sont vivants, comme ils sont fragiles !",
+      "body": "第2連冒頭：詩の主題語「deuil（喪）」の初出。「喪に服した私の頭の上で花開く望みの花（vœux en fleurs sur ma tête en deuil）」──喪と花の共存という逆説。頭上に花冠を戴きながら喪に服している──花冠は喜びの象徴であり、喪は悲しみの状態；この矛盾した共存が詩人の存在状態として提示される。「Comme ils sont vivants, comme ils sont fragiles !（なんと生き生きと、なんと壊れやすいことか！）」──vivants / fragiles の対比を感嘆句として並列する。comme の反復が対称的な詠嘆を作り、「生きていること」と「壊れやすいこと」が同等の強度で驚きとして提示される。"
     },
     {
-      "id": 7,
-      "french": "Ils tombent ! — voici leur cercueil agile,",
-      "officialTranslation": "花たちは落ちる！ — これが軽やかな棺、"
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Ils tombent ! — voici leur cercueil agile,\nLe vent qui les prend sur mon front en deuil.",
+      "body": "「花たちは落ちる！（Ils tombent !）」──感嘆符付きの突然の転落。ダッシュ（—）による急な方向転換。「leur cercueil agile（軽やかな棺）」──cercueil（棺）という死の語と agile（軽やか・素早い）という生の語の矛盾した組み合わせ。棺が「軽やかに」動く──花びらが風に散る瞬間的な動きを棺の比喩で描く：落下が同時に埋葬として表される。「Le vent qui les prend sur mon front en deuil（喪に服した私の額から花たちを連れ去る風）」：行8が行5の「tête en deuil」を「front en deuil」として言い換え、deuil が第2連の両端（行5・行8）を括弧状に囲む──喪の中での生成と喪失が同一の「喪」によって包まれる。"
     },
     {
-      "id": 8,
-      "french": "Le vent qui les prend sur mon front en deuil.",
-      "officialTranslation": "喪に服した私の額から花たちを連れ去る風が。"
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ô mes yeux ! cherchez-les dans l'infini bleu !\nLes fleurs que j'aimais, la couronne est nue.",
+      "body": "第3連は天への転換。「Ô mes yeux !（おお私の目よ！）」──身体部位への直接呼びかけ（apostrophe）。目に「探せ（cherchez-les）」と命じる：行為主体が「私」でなく「目」──自分の意志でなく感覚器官が自律的に動く状態。「dans l'infini bleu（青い無限の中に）」：infini が§1の「nombre infini（無限の数）」と呼応する──心が求めた「無限」が今度は「青い空の無限」として現れる。「la couronne est nue（花冠は裸になった）」──タイトル語の effeuillée（散らされた）が「nue（裸）」として結実する：effeuiller という動作の完了状態としての裸の花冠。"
     },
     {
-      "id": 9,
-      "french": "Ô mes yeux ! cherchez-les dans l'infini bleu !",
-      "officialTranslation": "おお私の目よ！ 青い無限の中に花たちを探してくれ！"
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Du moins dans les cieux, dans la froide nue,\nMon parfum perdu s'en est allé vers Dieu.",
+      "body": "詩の結末：「Du moins（せめて）」という諦念の接続詞──花冠は失われたが、「せめて」香りは残った、という最後の慰め。「dans la froide nue（冷たい雲の中に）」：nue（雲）は§3行9の「nue（裸）」と同形異義語──花冠の「裸」と天の「雲」が同じ語で重なる音響的な暗示。「mon parfum perdu（失われた私の香り）」──perdu（失われた）という形容詞が香りに付される：香りは「失われながら」神へ向かう。「s'en est allé vers Dieu（神のもとへ去っていった）」：「Les Fleurs」の「parfum montait comme des prières（香りは祈りのように昇っていった）」と完全に呼応──花の集合的な香りが詩人個人の香りとして、同じく神へと向かう。"
     },
     {
-      "id": 10,
-      "french": "Les fleurs que j'aimais, la couronne est nue.",
-      "officialTranslation": "私が愛した花たちは、花冠は裸になった。"
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "la froide nue",
+      "body": "nue（ニュ）：古フランス語・詩語で「雲」を意味する（現代語では nuage）。また形容詞「裸の（nu/nue）」と同形。直前行の「la couronne est nue（花冠は裸になった）」との音響的重合：「裸の花冠」と「冷たい雲」が同じ語で連続して現れ、花冠の「脱皮・解体」と天の「雲」が音韻的に溶け合う。詩語としての nue の使用はヴィクトル・ユゴーやラマルティーヌの詩的語彙を引き継ぎながら、ヴァルモールはそれを「冷たい（froide）」という形容詞で感情的に特化する──天の冷たさが慰めでも脅威でもなく、香りの向かう場所として中立的に提示される。"
     },
     {
-      "id": 11,
-      "french": "Du moins dans les cieux, dans la froide nue,",
-      "officialTranslation": "せめて天の中に、冷たい雲の中に、"
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Ses vœux sont en fleurs sur ma tête en deuil",
+      "body": "「deuil（喪）」の抱擁韻的配置：第2連の行5（tête en deuil）と行8（front en deuil）が連の両端を deuil で対称的に閉じる。この「喪」による括弧構造は詩全体の感情的枠組みでもある──詩人は§1の対話から§3の昇天まで、一貫して「喪の状態」の中にいる。tête（頭）とfront（額）の置き換え：行5では花冠を戴く「頭全体」、行8では花が散り去る「額（上半分）」──視点が全体から部位へと焦点化される運動が、花冠の「散らされていく」過程と平行する。"
     },
     {
-      "id": 12,
-      "french": "Mon parfum perdu s'en est allé vers Dieu.",
-      "officialTranslation": "失われた私の香りは神のもとへ去っていった。"
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "à mon faible cœur",
+      "body": "「L'Adieu」（valmore_adieu）の「les âmes ont tenu（魂はつながっていた）」との対照：「L'Adieu」では身体（腕）が離れても魂が繋がるという「魂の強さ」が最終行で確定されるのに対し、「La Couronne effeuillée」では「faible cœur（弱い心）」という形容詞が詩の冒頭で心の弱さを正直に認める。両詩とも「心・魂」を中心主題とするが、「強い魂の持続」（L'Adieu）と「弱い心の過剰な欲望と喪失」（La Couronne）という対照的な様態として描かれる──ヴァルモールの内的世界の両極。",
+      "targetId": "valmore_adieu",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Mon parfum perdu s'en est allé vers Dieu.",
+      "body": "「Les Fleurs」（valmore_fleurs）の「leur parfum montait comme des prières（香りは祈りのように昇っていった）」との直接的対応：両詩とも「香りが神へ向かう昇天」で閉じる。「Les Fleurs」では花たちの集合的な香りが「祈りのように」という明示的比喩で昇るのに対し、「La Couronne」では詩人自身の「失われた香り（parfum perdu）」が比喩なしに「神のもとへ去った」と断言される──より個人的・直接的。また「Les Roses de Saadi」の「odorant souvenir（芳しい記憶）」と合わせた三詩の香りの行方：人間的な記憶に留まる（薔薇）→消耗して神へ集合的に昇る（花）→個人の失われた香りとして神へ個別に去る（花冠）。",
+      "targetId": "valmore_fleurs",
+      "targetParagraphId": null
     }
   ]
 }

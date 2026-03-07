@@ -1,60 +1,118 @@
 {
-  "id": "valmore_roses",
+  "id": "valmore_les_roses_de_saadi",
   "title": "Les Roses de Saadi",
   "author": "Marceline Desbordes-Valmore",
-  "source": "Poésies inédites",
+  "source": "Poésies inédites, Genève, 1860 (éd. posthume, publiée par Gustave Revilliod). 照合出典: Œuvres poétiques, Gallimard / Bibliothèque de la Pléiade, 1983; wikisource.org; poetes.com.",
   "year": "1860",
-  "difficulty": "初級〜中級",
+  "firstPublication": "Poésies inédites, Genève, 1860 (遺稿集、没後出版)",
+  "difficulty": "初級",
   "category": "valmore",
+  "originalLang": "fr-FR",
   "modernRelevance": "★★★★☆",
-  "context": "ヴァルモール夫人の代表作。サアディ（13世紀ペルシャの詩人）への言及は、愛の贈り物が溢れ出る様子の隠喩。ヴェルレーヌが「呪われた詩人たち」で称賛した。シンプルな語彙の中に深い感情的強度を持つ。",
-  "keywords": ["roses", "amour", "don", "débordement", "parfum"],
-  "relatedTexts": ["valmore_adieu", "valmore_chambre"],
+  "context": "ヴァルモール（1786〜1859）没後に刊行された遺稿集『未刊詩篇』に収録。サアディー（Sa'dī、1210頃〜1291頃）はイランのシラーズ出身の詩人で、薔薇園を舞台にした恋愛・道徳詩集『薔薇園（ゴレスターン Golestān）』（1258）で名高い。フランスでは18世紀以来サアディーの名が「東洋的な愛と薔薇の詩」の象徴として用いられており、ゴーティエ・ユゴーらも参照している。3行連句（tercet）3連・全9行のアレクサンドラン（12音節詩行）。韻配置は AAB / CCB / DDB──各連の第3行が同一韻（-enir）で連結され、詩全体が「溢れ出し・拡散・残留」という運動として構成される。ヴェルレーヌが「呪われた詩人たち」（1884）でヴァルモールを取り上げ、その「音楽的な感情の自然さ」を称賛した。",
+  "keywords": ["薔薇", "サアディー", "溢れ出し", "香り", "記憶", "愛の贈り物", "喪失と残留"],
+  "relatedTexts": [
+    "valmore_adieu",
+    "gautier_la_rose_the",
+    "gautier_a_une_robe_rose",
+    "verlaine_poetes_maudits_valmore",
+    "baudelaire_la_chevelure"
+  ],
   "paragraphs": [
     {
       "id": 1,
-      "french": "J'ai voulu ce matin te rapporter des roses ;",
-      "officialTranslation": "今朝、あなたに薔薇を持ち帰ろうとした；"
+      "french": "J'ai voulu ce matin te rapporter des roses ;\nMais j'en avais tant pris dans mes ceintures closes\nQue les nœuds trop serrés n'ont pu les contenir.",
+      "provisionalTranslation": "今朝、あなたに薔薇を持ち帰ろうとした；\nしかし帯の奥にあまりに多く摘み取っていたので\nきつく結んだ結び目もそれを留めておけなかった。"
     },
     {
       "id": 2,
-      "french": "Mais j'en avais tant pris dans mes ceintures closes",
-      "officialTranslation": "だが私は帯の奥にあまりに多く摘み取っていたので"
+      "french": "Les nœuds ont éclaté. Les roses envolées\nDans le vent, à la mer s'en sont toutes allées ;\nElles ont suivi l'eau pour ne plus revenir ;",
+      "provisionalTranslation": "結び目は弾けた。薔薇たちは飛び散り\n風に乗って、すべて海へと去ってしまった；\n薔薇たちは水に従って、もう戻らぬままに；"
     },
     {
       "id": 3,
-      "french": "Que les nœuds trop serrés n'ont pu les contenir.",
-      "officialTranslation": "きつく結んだ結び目もそれを留めておけなかった。"
+      "french": "La vague en a paru rouge et comme enflammée.\nCe soir, ma robe encore en est tout embaumée…\nRespires-en sur moi l'odorant souvenir.",
+      "provisionalTranslation": "波はそのために赤く、燃えているように見えた。\n今夜も、私の衣はまだすっかりその香りに満ちている……\n私の上にその芳しい記憶を、息づいてほしい。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "3行連句（tercet）3連・全9行のアレクサンドラン（12音節詩行）。韻配置 AAB / CCB / DDB：\n• 第1連：roses / closes（A）— contenir（B）\n• 第2連：envolées / allées（C）— revenir（B）\n• 第3連：enflammée / embaumée（D）— souvenir（B）\n各連の第3行が同じ韻（-enir）で結ばれ、詩全体が一本の糸で繋がれる。この -enir の韻は「継続・到来・帰還」を意味する動詞群（contenir / revenir / souvenir）から成り、「留める→戻らない→記憶として残る」という詩の意味的運動と完全に一致している。ソネット（14行）でも四行連句詩でもない9行という変則的な形式は、詩の内容──「溢れ出して形に収まりきれない愛」──を形式そのものとして体現する。"
     },
     {
-      "id": 4,
-      "french": "Les nœuds ont éclaté. Les roses envolées",
-      "officialTranslation": "結び目は弾けた。薔薇たちは飛び散り"
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "J'ai voulu ce matin te rapporter des roses",
+      "body": "冒頭行の時制・人称・動詞の選択が詩の主題を即座に確定する。「J'ai voulu（〜しようとした）」──複合過去は完了した意図を示すが、「voulu（望んだ）」という意志動詞の使用が「実現できなかった意図」を含意する。「ce matin（今朝）」という具体的な時間指定：過去のある朝という限定された時間から詩は出発する。「te（あなたに）」──tu 形の親密な呼びかけ。詩全体で「あなた」の正体は明かされず、性別も関係の性質も不明なまま──この不特定性がヴァルモール詩の普遍性の源泉の一つ。"
     },
     {
-      "id": 5,
-      "french": "Dans le vent, à la mer s'en sont toutes allées ;",
-      "officialTranslation": "風に乗って、すべて海へと去ってしまった；"
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "j'en avais tant pris dans mes ceintures closes\nQue les nœuds trop serrés n'ont pu les contenir",
+      "body": "「帯の奥に（dans mes ceintures closes）」──ceinture は腰帯・帯であり、「閉じた（closes）」という形容詞が体の内側・秘密の場所を示唆する。薔薇を「帯の内側に」隠して持ち帰ろうとするという行為：贈り物を体に密着させて運ぶという身体的な親密さ。「あまりに多く（tant）」──過剰さが問題の根源。愛の贈り物は「多すぎる」──制御・抑制を超える量。「nœuds trop serrés（きつく結びすぎた結び目）」：強く縛ろうとするほど内圧が高まり、最終的に爆発する──抑圧が溢出を招くという逆説。"
     },
     {
-      "id": 6,
-      "french": "Elles ont suivi l'eau pour ne plus revenir ;",
-      "officialTranslation": "薔薇たちは水に従って、もう戻らぬままに；"
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Les nœuds ont éclaté. Les roses envolées\nDans le vent, à la mer s'en sont toutes allées",
+      "body": "「結び目は弾けた（Les nœuds ont éclaté）」──詩の最大の動作的転換点。éclater は爆発・炸裂・突然の開放を指す激しい動詞：制御の失敗が劇的な解放として描かれる。二つの短文「Les nœuds ont éclaté. Les roses envolées」の句点による切断：爆発の瞬間が文の断絶として体験される。「envolées（飛び散った）」──過去分詞の形容詞用法で、薔薇が飛翔する存在として提示される。「dans le vent, à la mer（風に乗って、海へ）」：地から空（風）へ、そして海へという三次元的な拡散の運動。薔薇＝愛の贈り物の不可制御な拡大。"
     },
     {
-      "id": 7,
-      "french": "La vague en a paru rouge et comme enflammée.",
-      "officialTranslation": "波はそのために赤く、燃えているように見えた。"
+      "paragraphId": 2,
+      "type": "prosody",
+      "anchor": "Elles ont suivi l'eau pour ne plus revenir",
+      "body": "第2連の韻脚 B「revenir」──第1連 B「contenir」との響き合い。「もう戻らない（ne plus revenir）」という否定の永続性：revenir（戻る）の不定詞を ne plus で否定することで「永遠の不帰還」が示される。詩の時間構造：第1連「今朝（ce matin）」→第2連「飛散・海へ」→第3連「今夜（Ce soir）」という一日の経過が、贈り物の「失われていく過程」として三連で刻まれる。revenir と第3連の souvenir の語形的近似（re-venir vs sou-venir）：「戻ること」と「覚えていること」の語根的連結──souvenirは文字通り「下から（sous）来る（venir）もの」。"
     },
     {
-      "id": 8,
-      "french": "Ce soir, ma robe encore en est tout embaumée…",
-      "officialTranslation": "今夜も、私の衣はまだすっかりその香りに満ちている……"
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "La vague en a paru rouge et comme enflammée",
+      "body": "「波はそのために赤く、燃えているように見えた（La vague en a paru rouge et comme enflammée）」──詩の視覚的クライマックス。散らばった薔薇の花びらが海面を赤く染める光景：愛の贈り物が自然の風景として壮大化される。「comme（〜のように）」という比喩の留保：断定でなく視覚的印象の提示。rouge et enflammée（赤く・燃えているような）──薔薇の赤みが炎のイメージへと転化する。炎と海の共存：消えるはずのものが燃えながら流れる逆説的なイメージ。ヴァルモールの感情的強度が自然の光景の中に「外化」される瞬間。"
     },
     {
-      "id": 9,
-      "french": "Respires-en sur moi l'odorant souvenir.",
-      "officialTranslation": "私の上にその芳しい記憶を、息づいてほしい。"
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ce soir, ma robe encore en est tout embaumée…\nRespires-en sur moi l'odorant souvenir.",
+      "body": "詩の結末：三点リーダー（…）に続く命令形「Respires-en（息づいてほしい）」。「Ce soir（今夜）」──「ce matin（今朝）」から「ce soir（今夜）」へ：一日の終わりに薔薇は失われたが、香りは衣に残っている。「ma robe encore en est tout embaumée（私の衣はまだすっかりその香りに満ちている）」──encore（まだ）とtout（すっかり）という強調の副詞：喪失した後も香りだけは完全に残存する。三点リーダーは沈黙・余韻・言葉にならない感情を示す──ヴァルモールの句読点使用の特徴。「Respires-en sur moi（私の上でそれを息づいてほしい）」：命令形の使用が詩全体で唯一の「あなたへの直接要求」──詩は告白から始まり、要求で終わる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "l'odorant souvenir",
+      "body": "souvenir（記憶・想い出）──語源はラテン語 subvenire「下から来る」。古フランス語では「記憶が浮かび上がってくること」を指す。詩の韻脚 B（contenir / revenir / souvenir）の最終語としてこの語が置かれる構造的意図：「含む→戻る→記憶」という意味的連鎖が韻の連結として体現される。「odorant（芳しい）」という形容詞：記憶が嗅覚と結びつく──ボードレール「照応（Correspondances）」や「髪（La Chevelure）」の香りの記憶論と同様の認識。ただしヴァルモールでは香りの記憶は形而上学的体系でなく、具体的な衣の香りとして現れる──より日常的・身体的な次元での同様の洞察。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Saadi",
+      "body": "サアディー（Sa'dī al-Shīrāzī, 1210頃〜1291頃）：イラン、シラーズ出身のペルシア詩人。代表作『薔薇園（ゴレスターン Golestān）』（1258）は散文と詩を交えた恋愛・道徳・政治の寓話集で、ヨーロッパでは17世紀以降翻訳が相次いだ。フランスではアンドレ・デュ・ライエル訳（1634）以来、サアディーの名は「薔薇と愛の東洋的詩学」の象徴として定着。ヴァルモールが「サアディーの薔薇」と題することで、詩の薔薇が単なる花でなく「東洋的な愛の詩の伝統全体」の象徴となる──実際の詩の内容はきわめて個人的・日常的でありながら、タイトルが宇宙的・文学的な広がりを与える。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "ma robe encore en est tout embaumée",
+      "body": "ゴーティエ「薔薇色のドレスへ（À une robe rose）」（gautier_a_une_robe_rose）との比較：両詩とも「衣服に残る感覚的痕跡」を中心主題とするが、ゴーティエでは衣服への羨望（詩人が衣服の「近さ」を羨む）として構造化されるのに対し、ヴァルモールでは衣服の香りが「失われた贈り物の記憶」として語り手自身の身体に宿る──衣服は媒介でなく記憶の器。ゴーティエの「effleure（かすり触れる）」という軽さに対し、ヴァルモールの「tout embaumée（すっかり香りに満ちた）」という充満：同じ衣服の香りが、距離の詩学（ゴーティエ）と充溢の詩学（ヴァルモール）として対照される。",
+      "targetId": "gautier_a_une_robe_rose",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Respires-en sur moi l'odorant souvenir",
+      "body": "ボードレール「髪（La Chevelure）」（baudelaire_la_chevelure）との連絡：両詩とも身体に宿った香りが「記憶の乗り物（véhicule）」として機能する詩学を展開する。ボードレールは「La Chevelure」でヴァルモールを念頭に置いた詩的対話を行ったとされ（ヴァレリー「ボードレール論」参照）、「odorant souvenir」という語結合はボードレールの「parfum chargé de souvenir」的な感覚記憶論の先駆として位置づけられる。ただしヴァルモールでは「息づく（respirer）」という呼吸動詞が記憶の受容を身体的・相互的行為として定義する──受け取る側の能動性。",
+      "targetId": "baudelaire_la_chevelure",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "ヴェルレーヌ「呪われた詩人たち──マルスリーヌ・デボルド＝ヴァルモール（Poètes maudits: Marceline Desbordes-Valmore）」（verlaine_poetes_maudits_valmore）：ヴェルレーヌはヴァルモールを「天賦の詩人（poète de génie）」と称し、この詩を「完全な自然さの中に深みを持つ」詩として取り上げた。ヴェルレーヌが評価した「音楽性」は、この詩の韻の連結構造（-enir の連鎖）と三連の波状的リズムに具体化されている。ヴェルレーヌ自身の詩学（「音楽をまず何より先に」）が先取りされているという視点で、両詩人の接点を本文から読み取ることができる。",
+      "targetId": "verlaine_poetes_maudits_valmore",
+      "targetParagraphId": null
     }
   ]
 }

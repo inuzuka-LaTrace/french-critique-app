@@ -1,0 +1,159 @@
+{
+  "id": "gautier_la_rose_the",
+  "title": "La Rose-Thé",
+  "author": "Théophile Gautier",
+  "source": "Émaux et Camées, Charpentier, Paris, 1856 (3e éd., augmentée). 照合出典: Émaux et Camées, édition de Madeleine Cottin, Minard, 1968; wikisource.org; poetes.com.",
+  "year": "1856",
+  "firstPublication": "Émaux et Camées, 3e édition, Charpentier, Paris, 1856",
+  "difficulty": "初級",
+  "category": "gautier",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★☆☆",
+  "context": "1856年の『七宝螺鈿集』第三版に初収録。ティー・ローズ（Rose-Thé）は中国原産のロサ・インディカ（Rosa indica）系の薔薇で、1810年代にヨーロッパへ移入された。茶の香りに似た淡い香気と、白・クリーム・淡黄・桃色の繊細な淡色が特徴。ゴーティエはこの薔薇の「未完成の」「仕上がりかけた」色彩──決して鮮烈でも深紅でもない──に、完成された美とは異なる種類の美を見出す。全8連32行のオクトシラブ（8音節詩行）。詩集名『エマール・エ・カメ（七宝螺鈿集）』の美学──工芸的精密さと色彩の繊細な観察──の最も純粋な結晶のひとつ。",
+  "keywords": ["ティー・ローズ", "色彩", "繊細さ", "工芸的観察", "淡色美", "七宝螺鈿集", "花の擬人化"],
+  "relatedTexts": [
+    "gautier_l_art",
+    "gautier_symphonie_en_blanc_majeur",
+    "gautier_contralto",
+    "baudelaire_correspondances",
+    "valmore_les_roses_de_saadi"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Dans le fatras d'une boutique\nD'antiquaire ou de bric-à-brac,\nElle luisait, cette relique,\nComme dans un vieux almanach",
+      "provisionalTranslation": "骨董屋かガラクタ屋の\n雑然とした品々の中で、\nこの聖遺物は輝いていた、\n古い暦の中のように"
+    },
+    {
+      "id": 2,
+      "french": "Une aquarelle un peu jaunie\nMontrant sous un ciel sans couleur,\nComme une note d'harmonie,\nUne sensitive ou une fleur.",
+      "provisionalTranslation": "わずかに黄ばんだ水彩画が\n色のない空の下に示すように、\n和音の一音のように、\nオジギソウや花を。"
+    },
+    {
+      "id": 3,
+      "french": "Ainsi, dans ces monceaux de choses\nDéfraîchies, usées, passées,\nParmi ces colifichets moroses,\nCes vieilleries entassées,",
+      "provisionalTranslation": "そのように、色褪せ、擦り切れ、\n時が過ぎ去ったこれら積み重なった品々の中で、\nこれら陰鬱な安物の飾り物の中で、\n積み上げられたこれらガラクタの中で、"
+    },
+    {
+      "id": 4,
+      "french": "Une rose thé, frêle et pâle,\nS'épanouissait, tiède encor,\nD'une blancheur presque d'opale,\nJaunissant vers le cœur en or.",
+      "provisionalTranslation": "薔薇茶が、か弱く青白く、\nまだ温かみを帯びながら、開いていた、\nほとんどオパール色の白さで、\n黄金色の芯に向かって黄みを帯びながら。"
+    },
+    {
+      "id": 5,
+      "french": "On eût dit un teint de jeune fille\nQui de pudeur se décolore,\nOu quelque aurore qui scintille\nAvant le lever du soleil d'or :",
+      "provisionalTranslation": "まるで若い娘の顔色が\n恥じらいで色を失っていくようだ、\nあるいは黄金の太陽が昇る前に\nきらめく曙のようだ："
+    },
+    {
+      "id": 6,
+      "french": "Ou le reflet d'une joue blonde\nMiré dans l'eau d'un lac glacé ;\nOu, lorsque l'aube rose inonde\nLe col nacré d'un cygne qui se baisse,",
+      "provisionalTranslation": "あるいは金髪の頬の映り込みが\n凍った湖の水に映っているようだ；\nあるいは薔薇色の夜明けが\n身を屈めた白鳥の真珠色の首を濡らすとき。"
+    },
+    {
+      "id": 7,
+      "french": "Sous les rais de lumière glauque\nFiltrant à travers les vitraux,\nComme un teint de fille maraîche\nDont le sang fait chanter les veaux.",
+      "provisionalTranslation": "ステンドグラスを通して\n濾過される青緑色の光の光線の下で、\nまるで野菜畑の娘の顔色のように\nその血が子牛たちを歌わせる。"
+    },
+    {
+      "id": 8,
+      "french": "Ô rose thé, fleur de la Chine,\nEn toi rien que de délicat ;\nPour le poète qui t'examine,\nTu n'es qu'un rêve délicat.",
+      "provisionalTranslation": "おお薔薇茶よ、中国の花よ、\nおまえの中には繊細なものしかない；\nおまえを観察する詩人にとって、\nおまえは繊細な夢にすぎない。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "オクトシラブ（8音節）による8連32行詩。押韻は ABAB 交差韻。「L'Art」の6音節＋2音節という変則的形式とは異なり、「La Rose-Thé」は古典的な8音節を用いる──内容の「繊細さ・未完成さ」が、より滑らかで流動的な詩形と対応している。各連が完結した意味単位をなすが、第1〜3連が「骨董屋の情景」、第4連が「薔薇の描写」、第5〜7連が「比喩の連鎖」、第8連が「直接の呼びかけと定義」という四部構造。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Dans le fatras d'une boutique\nD'antiquaire ou de bric-à-brac",
+      "body": "詩の出発点は骨董屋・ガラクタ屋（bric-à-brac）という都市的空間。ゴーティエが描く美は常に文脈の中にあり、周囲との対比によって輝く──廃墟・廃物・過去の堆積の中にこそ真の美が潜む。bric-à-brac は19世紀フランスの古物商文化を指す語で、パリのサン＝ルイ島周辺・クリニャンクールの市場がそのモデル。「古いもの・使い古されたもの」への関心はゴーティエ的美学の一貫した要素：高踏派の「永続性」への希求が、ここでは骨董の堆積として空間化される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "cette relique",
+      "body": "relique（聖遺物）：本来は聖人の遺骨・遺品を指す宗教的語彙。骨董屋の品物に「聖遺物」という語を当てることで、世俗的な商品が宗教的・神聖な対象へと格上げされる──ゴーティエの「美の聖化」の姿勢。詩の文脈では「骨董の品物一般」から「一本の薔薇」へと焦点が絞られていく過程の中間点として機能する：薔薇はまだ名指されず「聖遺物」という匿名性を保っている。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Une aquarelle un peu jaunie\nMontrant sous un ciel sans couleur",
+      "body": "骨董屋の品物から「水彩画（aquarelle）」への連想は意図的：「L'Art」でゴーティエは「画家よ、水彩を避けよ（Peintre, fuis l'aquarelle）」と書いた──水彩は脆く、黄ばみ、退色する。ここでの「わずかに黄ばんだ水彩（aquarelle un peu jaunie）」はその「退色」という弱点がそのまま提示され、オジギソウや花の絵が「色のない空の下」に描かれている──完全でない美の空間。しかしこの未完成の水彩こそが薔薇の比喩として機能する逆説。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "une sensitive",
+      "body": "sensitive（センシティブ、オジギソウ）：Mimosa pudica（含羞草）の別名。触れると葉を閉じる「恥じらいの植物」として知られ、19世紀フランス詩では繊細さ・傷つきやすさ・内向性の象徴として多用された（ミュッセ「ミモザ La Sensitiveや」参照）。「オジギソウか花」という並列は「未完成の植物描写の水彩」という印象──どちらか判別できないほどの淡さ。この「ぼんやりした輪郭」が次連以降の薔薇の「淡色美」の先取り。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Une rose thé, frêle et pâle,\nS'épanouissait, tiède encor,\nD'une blancheur presque d'opale,\nJaunissant vers le cœur en or.",
+      "body": "詩の中心連：薔薇の色彩分析が工芸的精密さで行われる。「frêle et pâle（か弱く青白い）」→「tiède（温かみ）」→「blancheur presque d'opale（ほぼオパール色の白）」→「Jaunissant vers le cœur en or（黄金の芯に向かって黄みを帯びる）」という色彩のグラデーション記述。特に「presque（ほとんど）」という限定語：完全にはオパールでない──この「完全でない近似」こそがティー・ローズの本質。中心部の「黄金（or）」へ向かう色調変化は花びらの視覚的体験の忠実な再現。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "blancheur presque d'opale",
+      "body": "opale（オパール）：遊色効果（play of color）を持つ非晶質シリカ鉱物。光の角度によって白・乳白・虹色・青・橙に変化する。「ほぼオパール色（presque d'opale）」という表現は決定的な色名を避け、変容性・不確定性・光の条件依存性を色彩の核心に据える。ゴーティエの色彩語彙における opale の位置：「白磁の交響曲（Symphonie en Blanc Majeur）」でも白の多様なヴァリエーションが追求される──「純白」でなく「白に近いもの」の複層的描写がゴーティエ的美学の特徴。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "On eût dit un teint de jeune fille\nQui de pudeur se décolore",
+      "body": "薔薇から「若い娘の顔色（teint de jeune fille）」への比喩転換。「恥じらいで色を失う（se décolore de pudeur）」──赤面の逆、つまり恥じらいによって「白くなる」という身体的反応。これは通常の赤面（血が上る）と逆：極度の羞恥で血の気が引く状態。pudeur（恥じらい・慎み）はゴーティエ詩で繰り返す価値語──激しい感情表現でなく、内に秘めた繊細さへの称賛。この比喩で薔薇は「恥じらう娘」として擬人化され、「冷たい美」から「生きた美」へと移行する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "quelque aurore qui scintille\nAvant le lever du soleil d'or",
+      "body": "「黄金の太陽が昇る前に輝く曙（aurore）」──薔薇が「完全な太陽（noon＝全開）」ではなく「夜明け前（aurora）」の状態として定義される。「avant（前に）」という時間的位置づけが重要：ティー・ローズは「完成途上・未発の状態」──これがその美質。ゴーティエのボードレール論（baudelaire_gautier）でも「完成した美」と「発展途上の美」の対比が議論される。「soleil d'or（黄金の太陽）」は§4の「黄金の芯（cœur en or）」と呼応：薔薇の中心と宇宙の中心が同一化される。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "le reflet d'une joue blonde\nMiré dans l'eau d'un lac glacé",
+      "body": "「凍った湖に映った金髪の頬の反射（reflet）」──薔薇の色彩が今や「反射・映像」として定義される。直接の実体でなく間接的な映像：冷たい水面に映る温かみのある顔色。lac glacé（凍った湖）は冷たさ・透明性・距離を含意し、「頬の温かみ」との対比が薔薇の「温かくも冷たい」二重性を表す。reflet という語はゴーティエ詩の鍵語：直接的な実体でなく、光学的・表面的な現象としての美──ロマン主義的「内面」への探求と対照的な「表面の美学」。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "le col nacré d'un cygne",
+      "body": "col nacré（真珠色の首）：白鳥の首の「真珠色（nacré）」という形容は「L'Art」のエナメル・工芸語彙と連結する──nacre（真珠層・マザーオブパール）は貝殻の内側の光沢素材。白鳥のモチーフはゴーティエ作品群で繰り返す（「白磁の交響曲」でも白鳥が登場）。「身を屈めた白鳥（cygne qui se baisse）」という動作：白鳥が水面に首を下げるとき薔薇色の朝日が首を照らす──動態の中の一瞬の色彩捕捉。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "les rais de lumière glauque\nFiltrant à travers les vitraux",
+      "body": "vitraux（ステンドグラス）：中世ゴシック大聖堂の彩色ガラス窓。光を「濾過（filtrant）」することで、直接光ではなく媒介された・変容した光を生み出す装置。glauque（青緑色・灰青色）：海の色・青みがかった緑を指す語で、ゴーティエ詩では異質な・幻想的な光の形容に用いられる。ステンドグラス→フィルター→青緑光という連鎖は「L'Art」の「エナメル師の窯」と類比的：素材を通過する過程で色彩が変容する──工芸的変容の光版。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Ô rose thé, fleur de la Chine,\nEn toi rien que de délicat",
+      "body": "詩の結末：「Ô（おお）」という詠嘆的直接呼びかけ──それまで比喩・描写の対象だった薔薇が突然の呼びかけの相手となる。「中国の花（fleur de la Chine）」：ティー・ローズの植物的来歴──中国原産であることが名指される。「おまえの中には繊細なものしかない（En toi rien que de délicat）」という包括的肯定：否定文の形をとりながら（rien que）全肯定を行う──「繊細さ以外のなにものも」持たないこと自体が絶対的な美質。最終行「おまえは繊細な夢にすぎない（Tu n'es qu'un rêve délicat）」の反復：délicat が連の中で二度使われ、薔薇の本質として確定される。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "intertextual",
+      "anchor": "fleur de la Chine",
+      "body": "ボードレール「照応（Correspondances）」（baudelaire_correspondances）との対比：ボードレールが感覚の「照応」──香り・色・音の深層的な連結──を詩の原理とするのに対し、ゴーティエの「La Rose-Thé」は同様の感覚的連鎖（色→顔色→水彩→光→ステンドグラス）を展開しながら、それを「照応の形而上学」としてでなく「表面の精密描写」として提示する。「中国の花」という出自の明示：ゴーティエの異国趣味（chinoiserie）は神秘化せず、植物的事実として花を地に着かせる。",
+      "targetId": "baudelaire_correspondances",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "blancheur presque d'opale",
+      "body": "「白磁の交響曲（Symphonie en Blanc Majeur）」（gautier_symphonie_en_blanc_majeur）との連作的関係：両詩とも「白」の多様なヴァリエーションを工芸的精密さで追跡する。「Symphonie」が純白・絶対的白を理念型として追求するのに対し、「La Rose-Thé」は「ほぼ白（presque d'opale）」「白から黄みへ」という「白の変容・不完全さ」を主題とする──同一テーマの対極的な表現として相互補完的。",
+      "targetId": "gautier_symphonie_en_blanc_majeur",
+      "targetParagraphId": null
+    }
+  ]
+}

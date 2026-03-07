@@ -52,7 +52,7 @@
     {
       "id": 7,
       "french": "Je trouvai un débris d'ossements, grinçant, frileux,\nComme une girouette ou comme une enseigne,\nAu bout d'une vergue agitée par les vents,\nQui tourne et se retourne ainsi qu'une méduse en deuil.",
-      "provisionalTranslation": "私は骨の残骸を見つけた、きしみながら、寒気に震え、\n風見鶏のように、あるいは看板のように、\n風に揺れるヤードの端で、\n喪に服したクラゲのように回転し揺れ動いていた。"
+      "provisionalTranslation": "私は骨の残骸を見つけた、きしみながら、寒気に震え、\n風見鶏のように、あるいは看板のように、\n風に揺れるヤードの端で、\n喪に服した海月のように回転し揺れ動いていた。"
     }
   ],
   "annotations": [
@@ -120,7 +120,7 @@
       "paragraphId": 7,
       "type": "commentary",
       "anchor": "un débris d'ossements, grinçant, frileux,\nComme une girouette ou comme une enseigne",
-      "body": "「骨の残骸、きしみながら、寒気に震え、風見鶏のように」──詩の最終イメージの複層性。girouette（風見鶏）：風向きに従って回る──無意志的・無主体的。enseigne（看板）：商業的標識──かつて宇宙を「置き換える」と言った女体が今や店の看板に格下げされる。「喪に服したクラゲ（méduse en deuil）」：méduse はギリシア神話のメドゥーサ（見た者を石に変える怪物）でもあり、クラゲ（medusa）でもある──両義性。「喪（deuil）」という語が詩を閉じる：官能の死の喪。"
+      "body": "「骨の残骸、きしみながら、寒気に震え、風見鶏のように」──詩の最終イメージの複層性。girouette（風見鶏）：風向きに従って回る──無意志的・無主体的。enseigne（看板）：商業的標識──かつて宇宙を「置き換える」と言った女体が今や店の看板に格下げされる。「喪に服した海月（méduse en deuil）」：méduse はギリシア神話のメドゥーサ（見た者を石に変える怪物）でもあり、海月（medusa）でもある──両義性。「喪（deuil）」という語が詩を閉じる：官能の死の喪。"
     },
     {
       "paragraphId": 5,
@@ -142,7 +142,7 @@
       "paragraphId": 7,
       "type": "prosody",
       "anchor": "méduse en deuil",
-      "body": "詩の最終語「méduse en deuil（喪に服したクラゲ）」の音響：「méduse」はラテン語 medusa から、「deuil」は古フランス語 doel（dolor）から──ラテン的硬さとフランス語的柔らかさの衝突。アレクサンドランの12音節をギリギリまで使い切る最終行：「Qui tourne et se retourne ainsi qu'une méduse en deuil」（12音節）。骨の残骸が「回転し揺れる（tourne et se retourne）」という不断の運動の動詞が、死後も止まらない腐敗の動性を示す。"
+      "body": "詩の最終語「méduse en deuil（喪に服した海月）」の音響：「méduse」はラテン語 medusa から、「deuil」は古フランス語 doel（dolor）から──ラテン的硬さとフランス語的柔らかさの衝突。アレクサンドランの12音節をギリギリまで使い切る最終行：「Qui tourne et se retourne ainsi qu'une méduse en deuil」（12音節）。骨の残骸が「回転し揺れる（tourne et se retourne）」という不断の運動の動詞が、死後も止まらない腐敗の動性を示す。"
     }
   ]
 }

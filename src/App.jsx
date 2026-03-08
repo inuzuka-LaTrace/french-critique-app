@@ -1658,7 +1658,7 @@ export default function App() {
     );
   }
 
-  if (!currentText) {
+  if (selectedText && !currentText) {
     return (
       <div className="min-h-screen bg-stone-50 flex items-center justify-center">
         <div className="text-center">
@@ -2144,6 +2144,7 @@ export default function App() {
           )}
         </div>
 
+        {selectedText && (<>
         {/* ─── 現在のテキスト情報 ───────────────────── */}
         <div ref={textInfoRef} className={`rounded-xl border p-5 mb-4 ${cardBgClass}`}>
           <div>
@@ -2760,6 +2761,7 @@ export default function App() {
             );
           })}
         </div>}
+        </>)}
 
         {/* フッター */}
         <div className={`text-center text-xs font-sans ${textSecondary} pb-8 space-y-1`}>

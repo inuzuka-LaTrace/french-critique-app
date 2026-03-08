@@ -1,0 +1,132 @@
+{
+  "id": "verlaine_a_arthur_rimbaud",
+  "title": "À Arthur Rimbaud (I & II)",
+  "author": "Paul Verlaine",
+  "source": "Dédicaces, in Œuvres complètes, Tome III, Vanier, Paris, 1901, volume III (p. 161–162). 照合出典: wikisource.org (Dédicaces/À Arthur Rimbaud I; Dédicaces/À Arthur Rimbaud II).",
+  "year": "1894",
+  "firstPublication": "Dédicaces, in Œuvres complètes, Tome III, Vanier, Paris, 1901 (p. 161–162). 執筆年代: 1890年代前半推定.",
+  "difficulty": "中級",
+  "category": "verlaine",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ヴェルレーヌの詩集『献辞（Dédicaces）』（全作品集第三巻所収）中の第LXII番・第LXIII番詩。アルチュール・ランボー（Arthur Rimbaud, 1854–1891）への二連作ソネット。ランボーは1891年11月10日、マルセイユで37歳で死去。I はランボーへの讃歌・英雄化のソネット（4-4-3-3行のシャクスピア型変形）、II は「彼の妹によるスケッチ」（副題：Sur un croquis de lui par sa sœur）を媒介として死者ランボーに語りかけるペトラルカ型ソネット。ヴェルレーヌとランボーは1871年から1873年まで同伴の詩的生活を送り、1873年7月のブリュッセルでのピストル事件（ヴェルレーヌがランボーを銃撃）で決裂した。この二詩はその後20年を経て書かれた──英雄化・聖化・詩的別れとしてのソネットとして。",
+  "keywords": ["ランボー", "ソネット", "献辞", "英雄化", "スケッチ", "死", "炎", "ラテン語", "ペトラルカ型"],
+  "relatedTexts": [
+    "mallarme_verlaine",
+    "verlaine_marceline_desbordes_valmore"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Mortel, ange ET démon, autant dire Rimbaud,\nTu mérites la prime place en ce mien livre\nBien que tel sot grimaud t'ait traité de ribaud\nImberbe et de monstre en herbe et de potache ivre.",
+      "provisionalTranslation": "死すべき者、天使そして悪魔、つまりランボーと言うも同じ、\nおまえはこの私の書物で最初の場所に値する\nある愚かな書生がおまえをひげも生えぬ破廉恥者と\n未熟な怪物と酔いどれ書生と呼んだとはいえ。"
+    },
+    {
+      "id": 2,
+      "french": "Les spirales d'encens et les accords de luth\nSignalent ton entrée au temple de mémoire\nEt ton nom radieux chantera dans la gloire,\nParce que tu m'aimas ainsi qu'il le fallut.",
+      "provisionalTranslation": "香の螺旋とリュートの和音が\n記憶の神殿へのおまえの入場を告げる\nそしておまえの輝かしい名は栄光の中に歌われるだろう、\nおまえが必要なように私を愛してくれたから。"
+    },
+    {
+      "id": 3,
+      "french": "Les femmes te verront grand jeune homme très fort,\nTrès beau d'une beauté paysanne et rusée,\nTrès désirable d'une indolence qu'osée !",
+      "provisionalTranslation": "女たちはおまえを背の高い、とても力強い若者として見るだろう、\n農民的で狡知に満ちた美しさでとても美しく、\n大胆な倦怠の気でとても魅力的な！"
+    },
+    {
+      "id": 4,
+      "french": "L'histoire t'a sculpté triomphant de la mort\nEt jusqu'aux purs excès jouissant de la vie,\nTes pieds blancs posés sur la tête de l'Envie !",
+      "provisionalTranslation": "歴史はおまえを死に勝利しながら彫刻した\nそして純粋な過剰にいたるまで生を享楽しながら、\n嫉妬の頭の上においたおまえの白い足と！"
+    },
+    {
+      "id": 5,
+      "french": "Toi mort, mort, mort ! Mais mort du moins tel que tu veux,\nEn nègre blanc, en sauvage splendidement\nCivilisé, civilisant négligemment…\nAh, mort ! Vivant plutôt en moi de mille feux",
+      "provisionalTranslation": "おまえは死んだ、死んだ、死んだ！しかし少なくともおまえが望むように死んだ、\n白い黒人として、壮麗に文明化された\n野蛮人として、怠慢に文明化する……\nああ、死！むしろ千の炎として私の中で生きている"
+    },
+    {
+      "id": 6,
+      "french": "D'admiration sainte et de souvenirs feux\nMieux que tous les aspects vivants même comment\nGrandioses ! de mille feux brûlant vraiment\nDe bonne foi dans l'amour chaste aux fiers aveux.",
+      "provisionalTranslation": "聖なる賛仰の炎と、燃える思い出として\nいかに壮大であれすべての生きた様相より以上に！\n千の炎で真に燃えながら\n誇り高い告白の貞潔な愛の中で誠実に。"
+    },
+    {
+      "id": 7,
+      "french": "Poète qui mourus comme tu le voulais,\nEn dehors de ces Paris-Londres moins que laids,\nJe t'admire en ces traits naïfs de ce croquis,",
+      "provisionalTranslation": "おまえが望んだように死んだ詩人よ、\n醜さに劣らぬこれらのパリ＝ロンドンの外で、\n私はこのスケッチの素朴な線の中でおまえを賛美する、"
+    },
+    {
+      "id": 8,
+      "french": "Don précieux à l'ultime postérité\nPar une main dont l'art naïf nous est acquis,\nRimbaud ! pax tecum sit, Dominus sit cum te !",
+      "provisionalTranslation": "究極の後世への貴重な贈り物を\nその素朴な芸術が私たちのものとなった手による、\nランボー！おまえとともに平和があらんことを、主よおまえとともにあらんことを！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "二連作ソネットの形式と構成。ソネット I（LXII）：シャクスピア型変形（4-4-3-3行）。韻律：第1クワトラン ABAB（Rimbaud/ribaud; livre/ivre）、第2クワトラン ABBA変形（luth/fallut; mémoire/gloire）、第1テルセット EFF（fort/mort; rusée/osée）、第2テルセット ECE（mort/fort; vie/Envie）──mort が v.9末（fort と対韻）と v.12末（テルセット冒頭）で繰り返されるソネット内部の韻の「回帰」。ソネット II（LXIII）：ペトラルカ型（4-4-3-3行）。韻律：第1クワトラン ABBA（veux/feux; splendidement/négligemment）、第2クワトラン ABBA（feux/aveux; comment/vraiment）──feux がv.4末とv.5末で連続するため「rime équivoquée（同語韻）」とも読める意図的な反復。第1テルセット CCD（voulais/laids; croquis）、第2テルセット EDE（postérité/acquis/te）──最終行のラテン語で閉じる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Mortel, ange ET démon, autant dire Rimbaud,",
+      "body": "ソネット I 開幕行：三項列挙による定義「死すべき者（Mortel）、天使（ange）、悪魔（démon）──つまりランボー」。ET の大文字化（通常は et）：原文のまま大文字──「そして（ET）」という接続詞を強調することで、天使と悪魔の並立（矛盾の共存）を視覚的に強調する。「autant dire Rimbaud（ランボーと言うも同じ）」：三項の要約として固有名詞「Rimbaud」が置かれる──定義する行為とランボーという存在の同一視。「ce mien livre（この私の書物）」：mien は古風な所有形容詞──詩人の「書物」という場への献辞という形式を明示。「sot grimaud（愚かな書生）」：grimaud は侮辱語（下劣な書き手・書生）──ランボーを批判した当時の批評家・道徳家への軽蔑。「ribaud（破廉恥者）」：中世語的な侮辱語──ribaud は「放蕩者・好色漢」の意。「potache ivre（酔いどれ書生）」：potache は「中学生・書生」の俗語──ランボーが詩壇に登場した時の「年齢（17歳）」への言及。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Les spirales d'encens et les accords de luth\nSignalent ton entrée au temple de mémoire",
+      "body": "「記憶の神殿（le temple de mémoire）」──temple（神殿）：文学的記念碑・「詩の殿堂」の比喩的表現。「香の螺旋（spirales d'encens）」と「リュートの和音（accords de luth）」：嗅覚（香）と聴覚（音楽）による神殿入場の儀礼的演出──教会典礼の様式を文学的神殿の讃歌に転用する。「記憶の神殿へのおまえの入場を告げる（Signalent ton entrée）」：signaler（告げる・知らせる）──神殿への「入場（entrée）」がまるで儀礼的行進のように提示される。マラルメ「Verlaine（mallarme_verlaine）」§7「son génie enfui au temps futur, reste héros」と同型の「死後の栄光への投企」──しかしヴェルレーヌはより具体的な典礼的イメージで表現する。",
+      "targetId": "mallarme_verlaine",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Parce que tu m'aimas ainsi qu'il le fallut.",
+      "body": "ソネット I 第2クワトラン末行──詩全体の中で最も個人的な告白。「おまえが必要なように私を愛してくれたから（tu m'aimas ainsi qu'il le fallut）」：fallut は falloir（必要とする）の単純過去──「必要なように」という限定的な愛の告白。この行がランボーの栄光（神殿・香・リュート）の「理由（Parce que）」として置かれる──ランボーが詩的英雄として讃えられる理由は「彼がヴェルレーヌを愛したから」という大胆な自己中心的論理。「あるいは必然的なやり方で（ainsi qu'il le fallut）」という別解：「それが必然だったように愛してくれた」──二人の関係を歴史的必然として提示する。1873年のブリュッセルでのピストル事件から約20年後の、詩的和解・美化としての宣言。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Les femmes te verront grand jeune homme très fort,\nTrès beau d'une beauté paysanne et rusée,\nTrès désirable d'une indolence qu'osée !",
+      "body": "第1テルセットは全行「Très（とても）」で始まる反復構造（anaphore）──fort（力強い）/ beau（美しい）/ désirable（魅力的な）という三つの形容詞的判断。「農民的で狡知に満ちた美しさ（beauté paysanne et rusée）」：paysanne（農民的）はランボーのアルデンヌ地方（シャルルヴィル）出身という事実への言及。rusée（狡知・狡猾）：ランボーの知性の「荒削りな鋭さ」への言及──洗練でなく野性的な美。「女たちはおまえを見るだろう（Les femmes te verront）」：女性の視線──ヴェルレーヌ自身でなく「女たち」を視線の主体に置くことで、ランボーの肉体的魅力を「普遍的な」もの（男の視線でなく一般的欲望対象）として客観化する身振り。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "L'histoire t'a sculpté triomphant de la mort\nEt jusqu'aux purs excès jouissant de la vie,\nTes pieds blancs posés sur la tête de l'Envie !",
+      "body": "第2テルセット（最終連）：彫刻の比喩による英雄像の確立。「歴史はおまえを彫刻した（L'histoire t'a sculpté）」：sculpter（彫刻する）──抽象的な「歴史」が彫刻家として、ランボーを記念碑的な像として刻む。「純粋な過剰にいたるまで（jusqu'aux purs excès）」：purs excès（純粋な過剰）──excès（過剰・過度）という語に purs（純粋）を付すことで、ランボーの生の「超過」を道徳的逸脱でなく純粋な原理として提示する。「おまえの白い足（Tes pieds blancs）」：pieds blancs（白い足）──古代ギリシャの大理石彫刻像を想起させる白さ。「嫉妬の頭の上においた（posés sur la tête de l'Envie）」：Envie（嫉妬）の大文字化──擬人化された嫉妬の上にランボーの足が置かれる凱旋図像。古代ローマの凱旋図像（敵の頸を踏む英雄）の転用。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Toi mort, mort, mort ! Mais mort du moins tel que tu veux,",
+      "body": "ソネット II 開幕行──「おまえは死んだ、死んだ、死んだ！（Toi mort, mort, mort !）」：mort の三重反復。「Toi（おまえ）」という強調人称代名詞で開始──ランボーへの直接呼びかけの形式。mort の三連打と感嘆符：ランボーの死という事実の重量を三重に押しつけながら「Mais（しかし）」で即座に転換する。「しかし少なくともおまえが望むように死んだ（Mais mort du moins tel que tu veux）」：tel que tu veux（おまえが望むように）──ランボーが「自分の望む形で」死んだという評価。ランボーは詩を捨てアフリカ（アビシニア）に渡り、商人として生きた後、右脚切断・マルセイユで孤独死した──これが「望んだ死に方」という逆説的な肯定として提示される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "En nègre blanc, en sauvage splendidement\nCivilisé, civilisant négligemment…",
+      "body": "「白い黒人（nègre blanc）」──ランボーの「人種と詩」をめぐる自己規定への言及。ランボー「地獄の季節（Une saison en enfer）」（1873）の「もし白人（blanc）として生まれていなければ」という一節、および晩年のアフリカでの生活への言及。「白い黒人」：文明人でありながら野蛮人として生きることを選んだランボーの矛盾的存在様式の比喩。「壮麗に文明化された野蛮人（sauvage splendidement Civilisé）」：civilisé（文明化された）と sauvage（野蛮人）の逆説──文明の知を内面化しながら文明の外に出た存在。「怠慢に文明化する（civilisant négligemment）」：négligemment（怠慢に・無頓着に）──ランボーが他者を「文明化する」という身振りを「無頓着」に行うという皮肉な力。この語は現在では植民地主義的な語彙として批判的に読まれる必要がある。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "D'admiration sainte et de souvenirs feux\nMieux que tous les aspects vivants même comment\nGrandioses ! de mille feux brûlant vraiment\nDe bonne foi dans l'amour chaste aux fiers aveux.",
+      "body": "第2クワトラン：「千の炎（mille feux）」がv.4末（連1末）とv.5末（連2冒頭）で繰り返される──連を跨いだ「同語韻（rime équivoquée）」。この反復は意図的：v.4の「千の炎として私の中で生きている（Vivant en moi de mille feux）」とv.5の「聖なる賛仰の炎として（D'admiration sainte…feux）」──死せるランボーが「炎」として詩人ヴェルレーヌの内部に「生きる」という矛盾（mort/vivant）が炎のイメージで統一される。「誇り高い告白の貞潔な愛（l'amour chaste aux fiers aveux）」：chaste（貞潔な）と fiers aveux（誇り高い告白）──ランボーへの愛を「貞潔」と定義することで、ブリュッセルの銃撃事件・投獄という「恥の歴史」を精神的・詩的愛として昇華する。「生きた様相よりも以上に（Mieux que tous les aspects vivants）」：死後のランボー像の方が「生きた」姿より豊かに語りかけてくるという逆説。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Poète qui mourus comme tu le voulais,\nEn dehors de ces Paris-Londres moins que laids,\nJe t'admire en ces traits naïfs de ce croquis,",
+      "body": "副題「Sur un croquis de lui par sa sœur（彼の妹によるスケッチ）」──ランボーの妹イザベル・ランボー（Isabelle Rimbaud）によるデッサンを前にしながら書かれた詩という設定。「このスケッチの素朴な線の中で（en ces traits naïfs de ce croquis）」：traits naïfs（素朴な線）と croquis（スケッチ）──妹の「素朴な」素描技術が却って「真実のランボー」を捉えているという評価。「おまえが望んだように死んだ（mourus comme tu le voulais）」：§5の「mort du moins tel que tu veux」の反復変奏──死の自発性・選択性という命題が第1テルセットでも繰り返される。「パリ＝ロンドンの外で（En dehors de ces Paris-Londres moins que laids）」：Paris-Londres という合成語──両都市を「醜さに劣らない（moins que laids）」場所として否定的に提示。ランボーのアフリカ選択＝都市文明拒否の肯定。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Rimbaud ! pax tecum sit, Dominus sit cum te !",
+      "body": "ソネット最終行：ラテン語による詩的祝福。「pax tecum sit（おまえとともに平和があらんことを）」：カトリックのミサの平和の挨拶「Pax vobiscum（あなた方とともに平和を）」の二人称単数形（vobiscum→tecum）──会衆への挨拶を個人への祈りに変換する。「Dominus sit cum te（主よ、おまえとともにあらんことを）」：「Dominus vobiscum（主はあなた方とともに）」の変形──ミサの司祭の発声の二人称単数化。ヴェルレーヌの詩集『叡知（Sagesse）』（1880）以降の回心したカトリック詩人としての言語──ランボーへの別れをラテン語典礼文で閉じることで、「詩的別れ」と「宗教的別れ」を重ねる。「Rimbaud !」という固有名の呼格が最後の感嘆符の前に来る──マラルメ「Verlaine（mallarme_verlaine）」最終行「Verlaine, dignement, votre dépouille」と同型の呼格による閉幕。",
+      "targetId": "mallarme_verlaine",
+      "targetParagraphId": 10
+    }
+  ]
+}

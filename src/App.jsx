@@ -57,7 +57,7 @@ export default function App() {
   const [texts, setTexts] = useState({});
   const [loading, setLoading] = useState(true);
   const [selectedText, setSelectedText] = useState(
-    () => getTextIdFromHash() || 'mallarme_musique_lettres'
+    () => getTextIdFromHash() || null
   );
   const [userTranslations, setUserTranslations] = useState({});
   const [editingParagraph, setEditingParagraph] = useState(null);
@@ -1940,7 +1940,7 @@ export default function App() {
                 onClick={() => { setSelectedCategory(key); setSearchQuery(''); }}
                 className={`px-3 py-1.5 rounded-full text-xs font-medium transition-all ${
                   selectedCategory === key
-                    ? 'bg-stone-800 text-white shadow-sm font-sans'
+                    ? darkMode ? 'bg-zinc-100 text-zinc-900 shadow-sm font-sans' : 'bg-stone-800 text-white shadow-sm font-sans'
                     : darkMode
                       ? 'bg-zinc-800 text-zinc-300 hover:bg-zinc-700 font-sans'
                       : 'bg-stone-100 text-stone-600 hover:bg-stone-200 font-sans'

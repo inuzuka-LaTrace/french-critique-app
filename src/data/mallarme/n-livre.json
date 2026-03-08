@@ -1,0 +1,264 @@
+{
+  "id": "mallarme_livre_instrument",
+  "title": "Le livre, instrument spirituel",
+  "author": "Stéphane Mallarmé",
+  "source": "Divagations, Eugène Fasquelle éditeur, Paris, 1897 (p. 273–280). 初出: La Revue blanche, 1895. 照合出典: Œuvres complètes, Bibliothèque de la Pléiade, t. II, éd. Bertrand Marchal, Gallimard, 2003; wikisource.org (Divagations 1897版).",
+  "year": "1895",
+  "firstPublication": "La Revue blanche, 1895; Divagations, Eugène Fasquelle éditeur, Paris, 1897 (改訂収録)",
+  "difficulty": "上級",
+  "category": "mallarme_critique",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "1895年『ラ・ルヴュ・ブランシュ（La Revue blanche）』初出、1897年『ディヴァガシオン』所収。マラルメの書物論の集大成テクスト。「すべては、この世において、書物へと帰結するために存在する（tout, au monde, existe pour aboutir à un livre）」という命題から出発し、新聞（journal）と書物（livre）の対比、折りたたみ（pliage）という物質的行為の形而上学的意味、活字と二十の文字、コンサートとしての読書、コープペーパーによる「所有の儀式」、そして理想の書物における大文字・版面配置の構想へと展開する。未完の「書物（Le Livre）」プロジェクト——宇宙を一冊に集約する総体的書物——の詩学的宣言として位置づけられる。「危機・詩（Crise de vers）」「神秘（Le Mystère dans les lettres）」と並ぶ、マラルメ批評散文の中核テクスト。",
+  "keywords": ["書物", "折りたたみ", "新聞", "活字", "読書", "コンサート", "コープペーパー", "大文字", "版面", "書物への帰結", "Le Livre"],
+  "relatedTexts": [
+    "mallarme_crise_de_vers",
+    "mallarme_mystere",
+    "mallarme_mimique",
+    "mallarme_coup_de_des",
+    "mallarme_toute_lame",
+    "mallarme_hamlet"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Une proposition qui émane de moi — si, diversement, citée à mon éloge ou par blâme — je la revendique avec celles qui se presseront ici — sommaire veut, que tout, au monde, existe pour aboutir à un livre.",
+      "provisionalTranslation": "私から発したある命題——もし、さまざまな形で、私への賛辞として、あるいは非難として引用されるなら——私はここに続く命題たちとともにそれを主張する——要するに、この世において、すべては書物へと帰結するために存在する、ということだ。"
+    },
+    {
+      "id": 2,
+      "french": "Les qualités, requises en cet ouvrage, à coup sûr le génie, m'épouvantent un parmi les dénués : ne s'y arrêter et, admis le volume ne comporter aucun signataire, quel est-il : l'hymne, harmonie et joie, comme pur ensemble groupé dans quelque circonstance fulgurante, des relations entre tout. L'homme chargé de voir divinement, en raison que le lien, à volonté, limpide, n'a d'expression qu'au parallélisme, devant son regard, de feuillets.",
+      "provisionalTranslation": "この作品に求められる資質、確かにその才能は、才能を欠いた者のひとりとして私を恐れさせる——そこに立ち止まらず、その書物が署名者を一切持たないと認めれば、それは何か——讃歌、調和と喜び、あらゆるものの間の関係の、何らかの閃光的な状況の中に集められた純粋な総体として。その絆が、意のままに、澄んで、見開きの並列の中においてのみ表現を持つがゆえに、神的に見ることを任された人間。"
+    },
+    {
+      "id": 3,
+      "french": "Sur un banc de jardin, où telle publication neuve, je me réjouis si l'air, en passant, entr'ouvre et, au hasard, anime, d'aspects, l'extérieur du livre : plusieurs — à quoi, tant l'aperçu jaillit, personne depuis qu'on lut, peut-être n'a pensé. Occasion de le faire, quand, libéré, le journal domine, le mien, même, que j'écartai, s'envole près de roses, jaloux de couvrir leur ardent et orgueilleux conciliabule : développé parmi le massif, je le laisserai, aussi les paroles fleurs à leur mutisme et, techniquement, propose, de noter comment ce lambeau diffère du livre, lui suprême. Un journal reste le point de départ ; la littérature s'y décharge à souhait.",
+      "provisionalTranslation": "庭のベンチの上に、そこに新しい刊行物を置いて、風が通りすがりに書物の外側を偶然に開いて、さまざまな様相でそれを生き生きとさせるとき私は喜ぶ——いくつかのことが——そこから閃きが湧き出るほどに、読んで以来誰も、おそらく考えなかったことが。それをする機会、解放されて新聞が支配するとき、私自身の新聞さえも、私が脇に退けたものが、バラの近くへと舞い飛んで、その熱烈で誇らしい内緒話を覆おうとして妬んでいる——茂みの中に広がって、私はそれをそのままにしておこう、言葉の花々もその沈黙のままに、そして技術的に、このくずがいかに書物と——至高の書物と——異なるかを書き留めることを提案する。新聞は出発点にすぎない；文学はそこで思いきりに荷を降ろす。"
+    },
+    {
+      "id": 4,
+      "french": "Or —",
+      "provisionalTranslation": "さて——"
+    },
+    {
+      "id": 5,
+      "french": "Le pliage est, vis-à-vis de la feuille imprimée grande, un indice, quasi religieux ; qui ne frappe pas autant que son tassement, en épaisseur, offrant le minuscule tombeau, certes, de l'âme.",
+      "provisionalTranslation": "折りたたみとは、大きな印刷された紙に対して、ひとつの徴（しるし）である、ほとんど宗教的な；その重なりほどには印象を与えないが、厚みの中に、確かに魂の小さな墓を差し出している。"
+    },
+    {
+      "id": 6,
+      "french": "Tout ce que trouva l'imprimerie se résume, sous le nom de Presse, jusqu'ici, élémentairement dans le journal : la feuille à même, comme elle a reçu empreinte, montrant, au premier degré, brut, la coulée d'un texte. Cet emploi, immédiat ou antérieur à la production close, certes, apporte des commodités à l'écrivain, placards joints bout à bout, épreuves, qui rendent l'improvisation. Ainsi, strictement, un « quotidien » avant qu'à la vision, peu à peu, mais de qui ? paraisse un sens, dans l'ordonnance, voire un charme, je dirai de féerie populaire.",
+      "provisionalTranslation": "印刷術が見出したものはすべて、プレスという名のもとに、これまでのところ、新聞の中に初歩的に要約される——印刷を受けたままの紙が、第一次的に、生のままに、テキストの流れを見せている。この使い方は、確かに、完結した制作物の直前あるいは以前の段階として、書き手に便宜をもたらす、端から端まで繋げたゲラ、校正刷り、即興を可能にするものが。こうして厳密には、ひとつの「日刊紙」が——視覚に、少しずつ、しかし誰の目に？ 見えるようになる前に——秩序の中に意味を、さらには魅力を、私は大衆的な妖精話と言おう。"
+    },
+    {
+      "id": 7,
+      "french": "Suivez — le faîte ou premier-Paris, dégagement, supérieur, à travers mille obstacles, atteint au désintéressement et, de la situation, précipite et refoule, comme par un feu électrique, loin, après les articles émergés à sa suite, la servitude originelle, l'annonce, en quatrième page, entre une incohérence de cris inarticulés. Spectacle, certainement, moral — que manque-t-il, avec l'exploit, au journal, pour effacer le livre : quoique, visiblement encore, d'en bas ou, plutôt, à la base, l'y rattache une pagination, par le feuilleton, commandant la généralité des colonnes : rien, ou presque — si le livre tarde tel qu'il est, un déversoir, indifférent, où se vide l'autre.. Jusqu'au format, oiseux : et vainement, concourt cette extraordinaire, comme un vol recueilli mais prêt à s'élargir, intervention du pliage ou le rythme, initiale cause qu'une feuille fermée, contienne un secret, le silence y demeure, précieux et des signes évocatoires succèdent, pour l'esprit, à tout littérairement aboli.",
+      "provisionalTranslation": "見ていくと——頂点、あるいは一面記事、上位の解放が、千の障害を通り抜けて、無私に達し、その状況から、電気の火のように、遠くに、後に続く記事たちが浮上するとともに、元来の隷属を——四頁の、不明瞭な叫びの混沌の間の広告を——追い払い押しのける。光景、確かに、道徳的な——どうすれば新聞はその偉業をもって書物を消し去れるか——ただし、明らかに依然として、下方から、あるいはむしろ基盤において、フィユトンによるページネーションがそれを書物に繋ぎとめていて、コラム全体を支配している——何も、ほとんど何も——書物が今のように遅れているなら、新聞が中身を流し込む無関心な排水溝として。形式にいたるまで、不要なもの：そして虚しくも、折りたたみのあの非凡な——集められつつも広がろうとする飛翔のような——介入に、あるいはリズムに、出番が来る。その初期的な原因とは、閉じた一枚の紙が秘密を含み、そこに沈黙がとどまり、貴重なものとして、そして喚起的な徴が精神のために、文学的に廃棄されたすべてに続いて現れるということ。"
+    },
+    {
+      "id": 8,
+      "french": "Oui, sans le reploiement du papier et les dessous qu'il installe, l'ombre éparse en noirs caractères, ne présenterait une raison de se répandre comme un bris de mystère, à la surface, dans l'écartement levé par le doigt.",
+      "provisionalTranslation": "そう、紙の折り重なりと、それが設置する下層なしには、黒い活字に散らばる影は、謎の亀裂のように表面に広がる理由を持たないだろう——指によって持ち上げられた間隙の中で。"
+    },
+    {
+      "id": 9,
+      "french": "Journal, la feuille étalée, pleine, emprunte à l'impression un résultat indu, de simple maculature : nul doute que l'éclatant et vulgaire avantage soit, au vu de tous, la multiplication de l'exemplaire et, gise dans le tirage. Un miracle prime ce bienfait, au sens haut ou les mots, originellement, se réduisent à l'emploi, doué d'infinité jusqu'à sacrer une langue, des quelque vingt lettres — leur devenir, tout y rentre pour tantôt sourdre, principe — approchant d'un rite la composition typographique.",
+      "provisionalTranslation": "新聞、広げられた完全な紙は、単なる汚損としての不当な結果を印刷から借り受けている——明らかで卑俗な利点が、すべての人の目に見える形で、部数の増大にあり、刷り数の中に潜んでいることは疑いない。一つの奇跡がこの恩恵を凌ぐ——高い意味において言葉が元来、言語を聖化するまで無限を賦与された、二十の文字ほどの使用へと還元されるという意味で——それらの生成、すべてがそこに入ってやがて湧き出る、原理として——活字組版を一つの儀式に近づける。"
+    },
+    {
+      "id": 10,
+      "french": "Le livre, expansion totale de la lettre, doit d'elle tirer, directement, une mobilité et spacieux, par correspondances, instituer un jeu, on ne sait, qui confirme la fiction.",
+      "provisionalTranslation": "書物は、文字の全き展開として、そこから直接、一つの可動性を引き出し、広大に、照応によって、ひとつの遊びを——何とも言えないが——虚構を確かなものにする遊びを——打ち立てなければならない。"
+    },
+    {
+      "id": 11,
+      "french": "Rien de fortuit, là, où semble un hasard capter l'idée, l'appareil est l'égal : ne juger, en conséquence, ces propos — industriels ou ayant trait à une matérialité : la fabrication du livre, en l'ensemble qui s'épanouira, commence, dès une phrase. Immémorialement le poëte sut la place de ce vers, dans le sonnet qui s'inscrit pour l'esprit ou sur espace pur.",
+      "provisionalTranslation": "偶然が理念を捉えるように見えるその場に偶然はなく、装置は等価である——したがって、これらの言葉を——産業的あるいは物質性にかかわるものとして——判断しないでほしい。書物の製造は、それが開花する全体において、ひとつの文から始まる。太古の昔から詩人はこの詩行の位置を知っていた——精神のために、あるいは純粋な空間に書き込まれるソネットの中での。"
+    },
+    {
+      "id": 12,
+      "french": "À mon tour, je méconnais le volume et une merveille qu'intime sa structure, si je ne puis, sciemment, imaginer tel motif en vue d'un endroit spécial, page et la hauteur, à l'orientation de jour la sienne ou quant à l'œuvre. Plus le va-et-vient successif incessant du regard, une ligne finie, à la suivante, pour recommencer : pareille pratique ne représente le délice, ayant immortellement, rompu, une heure, avec tout, de traduire sa chimère. Autrement ou sauf exécution, comme de morceaux sur un clavier, active, mesurée par les feuillets — que ne ferme-t-on les yeux à rêver ? Cette présomption ni asservissement fastidieux : mais l'initiative, dont l'éclair est chez quiconque, raccorde la notation fragmentée.",
+      "provisionalTranslation": "私の番に、私は書物をその構造が内示する驚異とともに見損なっている——もし私が、意識的に、特定の目的のために、特定の場所、ページとその高さ、その日の向き、あるいは作品に関して、特定のモチーフを想像できないなら。さらに視線の絶え間ない継続的な往復、一行終えたら次へ、また始めるために——そのような実践は悦楽を表さない、自らの夢想を翻訳することとともに、一時間、すべてと不死的に決別して。あるいは実行なしには、鍵盤の上の断片のように、活動的に、見開きによって測られながら——夢想するために目を閉じればよいのではないか？この思い上がりも面倒な隷属でもなく——稲妻のようなイニシアティブが誰の中にもあり、断片化された記譜を繋ぎ合わせる。"
+    },
+    {
+      "id": 13,
+      "french": "Un solitaire tacite concert se donne, par la lecture, à l'esprit qui regagne, sur une sonorité moindre, la signification : aucun moyen mental exaltant la symphonie, ne manquera, raréfié et c'est tout — du fait de la pensée. La Poésie, proche l'idée, est Musique, par excellence — ne consent pas d'infériorité.",
+      "provisionalTranslation": "孤独な黙せるコンサートが、読書によって、より低い響きの上で意味を取り戻す精神に与えられる——交響曲を高揚させる精神的手段は何も欠けないだろう、稀薄化されて、それだけのこと——思考という事実によって。詩は、理念に近く、卓越した意味において音楽である——劣位に甘んじない。"
+    },
+    {
+      "id": 14,
+      "french": "Voici, dans le cas réel, que pour ma part, cependant, au sujet de brochures à lire d'après l'usage courant, je brandis un couteau, comme le cuisinier égorgeur de volailles.",
+      "provisionalTranslation": "さて実際の問題として、しかし私としては、通常の習慣に従って読まれるパンフレットについては、家禽を屠る料理人のように、ナイフを振るう。"
+    },
+    {
+      "id": 15,
+      "french": "Le reploiement vierge du livre, encore, prête à un sacrifice dont saigna la tranche rouge des anciens tomes ; l'introduction d'une arme, ou coupe-papier, pour établir la prise de possession. Combien personnelle plus avant, la conscience, sans ce simulacre barbare : quand elle se fera participation, au livre pris d'ici, de là, varié en airs, deviné comme une énigme — presque refait par soi.",
+      "provisionalTranslation": "書物の折りたたまれたままの処女状態は、古い書物の赤い小口が血を流したあの犠牲に向けて準備する——一つの武器、あるいはコープペーパーの導入、所有の確立のために。どれほど個人的なものになるか、意識は、この野蛮な模擬なしに——それが参加となるとき、そこから、ここから取り上げられた書物、様々な旋律で変奏され、謎として推し量られた——ほとんど自分自身によって作り直された書物への。"
+    },
+    {
+      "id": 16,
+      "french": "Les plis perpétueront une marque, intacte, conviant à ouvrir, fermer la feuille, selon le maître. Si aveugle et peu un procédé, l'attentat qui se consomme, dans la destruction d'une frêle inviolabilité. La sympathie irait au journal placé à l'abri de ce traitement : son influence, néanmoins, est fâcheuse, imposant à l'organisme, complexe, requis par la littérature, au divin bouquin, une monotonie — toujours l'insupportable colonne qu'on s'y contente de distribuer, en dimensions de page, cent et cent fois.",
+      "provisionalTranslation": "折り目は跡を——無傷のまま——永続させ、主人の流儀に従って、ページを開き閉じることへ招く。なんと盲目的で些細な手続き、か弱い不可侵性の破壊の中で遂行される乱暴が。好意はこの扱いから保護された新聞に向かうだろう——しかしその影響は有害で、文学が要請する複雑な有機体に、神聖な書物に、単調さを押しつける——いつも耐えがたいコラムを、ページの寸法に分配するだけで満足して、百回も百回も。"
+    },
+    {
+      "id": 17,
+      "french": "Mais..",
+      "provisionalTranslation": "しかし．．"
+    },
+    {
+      "id": 18,
+      "french": "— J'entends, peut-il cesser d'en être ainsi ; et vais, dans une échappée, car l'œuvre, seule ou préférablement, doit exemple, satisfaire au détail de la curiosité. Pourquoi — un jet de grandeur, de pensée ou d'émoi, considérable, phrase poursuivie, en gros caractère, une ligne par page à emplacement gradué, ne maintiendrait-il le lecteur en haleine, la durée du livre, avec appel à sa puissance d'enthousiasme : autour, menus, des groupes, secondairement d'après leur importance, explicatifs ou dérivés — un semis de fioritures.",
+      "provisionalTranslation": "——わかっている、それが今後でなくなれるのか；そして一段落として進む、なぜなら作品が、単独で、あるいは望ましくは、模範を示し、好奇心の細部に応じなければならないから。なぜ——壮大さ、思考あるいは感動の、相当な噴出、大文字で追われた文章、段階的な配置で一ページに一行、書物の持続の間読者を息をのませておかないのか、その熱狂の力に訴えながら——周りに、小さく、重要性に応じて二次的に、説明的あるいは派生的な、グループが——フィヨリトゥーラ（装飾音）の蒔き散らし。"
+    },
+    {
+      "id": 19,
+      "french": "Affectation, de surprendre par énoncé, lointain, la badauderie ; j'acquiesce, si plusieurs, que je cultive, ne remarquent, en l'instinct venu d'autre part qui les fit disposer leurs écrits de façon inusitée, décorativement, entre la phrase et le vers, certains traits pareils à ceci, or, le veuton isolé, soit, pour le renom de clairvoyance réclamé de l'époque, où tout paraît. Un divulgue son intuition, théoriquement et, peut-être bien, à vide, comme date : il saut, de telles suggestions, qui atteignent l'art littéraire, ont à se livrer ferme. L'hésitation, pourtant, de tout découvrir brusquement ce qui n'est pas encore, tisse, par pudeur, avec la surprise générale, un voile.",
+      "provisionalTranslation": "通人を遠回りな言明で驚かせようとする気取り；私は同意する、もし私が大切にしているいくつかの人々が、他のところから来た本能の中に、散文と詩の間で、飾り立てて彼らの書き物をこれに似た特定の特徴とともに通例でない形で配置させた本能の中に、それと気づかなければ、さて、それを単独で望むなら、すべてが現れる時代に求められる透視力の名声のために。ある人は自分の直感を理論的に、おそらくは空振りとして、ひとつの日付として公表する——彼は知っている、文学に達するそのような示唆が、確固として引き渡されなければならないことを。しかし、まだないものをすべて突然に明かすことへの躊躇が、慎みによって、一般的な驚きとともに、ひとつのヴェールを織る。"
+    },
+    {
+      "id": 20,
+      "french": "Attribuons à des songes, avant la lecture, dans un parterre, l'attention que sollicite quelque papillon blanc, celui-ci à la fois partout, nulle part, il s'évanouit ; pas sans qu'un rien d'aigu et d'ingénu, où je réduisis le sujet, tout à l'heure ait passé et repassé, avec insistance, devant l'étonnement.",
+      "provisionalTranslation": "読書の前の、花壇の中での夢想に帰しよう、ある白い蝶が求める注意を——これがいたるところに、どこにもなく、消えてしまう；あの鋭く天真爛漫な何も——そこに私はさきほど主題を還元したが——驚きの前をしつこく行ったり来たりしなかったわけではなく。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "テクスト全体の構造（20段落）：四部構成。第一部（§1〜§3）：命題の宣言と書物・新聞の対比の予告。第二部（§4〜§9）：「Or —」以降の折りたたみ（pliage）論——折りたたみの「ほとんど宗教的な徴」から出発し、新聞・書物の対比を折りたたみという物質的行為の形而上学として展開。第三部（§10〜§16）：書物の詩学——文字の展開・ソネットの空間意識・コンサートとしての読書・コープペーパーの儀式。第四部（§17〜§20）：「Mais..」以降の理想の書物構想——大文字・版面配置の提案・公開の躊躇・白い蝶。§4「Or —」と§17「Mais..」という一語・二語の転換節が構造上の蝶番として機能する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "que tout, au monde, existe pour aboutir à un livre",
+      "body": "テクストの開幕命題：「この世において、すべては書物へと帰結するために存在する（tout, au monde, existe pour aboutir à un livre）」——マラルメが最も多く引用される命題のひとつ。aboutir à（〜へと帰結する・〜を最終目的とする）という動詞：世界の目的論的な終着点としての書物。「提案が私から発した（Une proposition qui émane de moi）」：命題の起源を語り手個人に帰しながら、「賛辞としても非難としても引用される（citée à mon éloge ou par blâme）」という括弧的言及で、命題が既に流通していることを示す。つまり§1は「以前から言ってきた命題を再びここで主張する」という構造——主張の繰り返し・更新としての書物論。マラルメの「書物（Le Livre）」プロジェクト——宇宙を一冊の書物に集約する総体的書物——の理念的宣言。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "admis le volume ne comporter aucun signataire, quel est-il : l'hymne, harmonie et joie",
+      "body": "書物の本質的定義：「その書物が署名者を一切持たないと認めれば（admis le volume ne comporter aucun signataire）」——無署名の書物というラジカルな命題。「それは何か——讃歌、調和と喜び（l'hymne, harmonie et joie）」：hymne（讃歌）・harmonie（調和）・joie（喜び）の三語による定義。署名＝個人的所有の放棄が書物を「純粋な総体（pur ensemble）」にする。「閃光的な状況（circonstance fulgurante）」の中に集められた「あらゆるものの間の関係（des relations entre tout）」——書物は個々の内容でなく「関係性」の集成として定義される。これはマラルメの詩学の核心——語の「意味（sens）」でなく語と語の「関係（relations）」が詩を構成するという構造主義的直観。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "je me réjouis si l'air, en passant, entr'ouvre et, au hasard, anime, d'aspects, l'extérieur du livre",
+      "body": "§3は全テクスト中で最も日常的・感覚的な場面：庭のベンチ、風に舞う書物のページ。「風が偶然に書物の外側を開いて（l'air, en passant, entr'ouvre…l'extérieur du livre）」：entr'ouvrir（少し開く）——完全に開かれるのでなく「少し」開かれる書物。偶然（au hasard）という語の肯定的な登場：「骰子一擲（mallarme_coup_de_des）」では廃棄できない「偶然（le hasard）」が、ここでは書物の生き生きとした体験の条件として現れる。新聞がバラの「内緒話（conciliabule）」を妬んで覆おうとするイメージ——新聞と自然（花々）の対比によって、書物（沈黙）が自然の側に置かれる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Or —",
+      "body": "「Or —」——接続詞 or は「さて・ところが」の意。ダッシュが後続し、文が途切れた形で独立段落をなす——「さて——」という宙吊り。§3までの「書物 vs 新聞」という二項の設定から、§5以降の「折りたたみ（pliage）」という中心概念への転換を告げる転換節。マラルメ散文における一語・短句の独立段落（§17「Mais..」、「Hamlet」の§7「L'acteur mène ce discours.」）という構造的身振りの典型。「Or」の宙吊りは読者に「何が続くか」という緊張を作る——書物の「沈黙（silence）」を前に論理が一息ついく瞬間として機能する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Le pliage est, vis-à-vis de la feuille imprimée grande, un indice, quasi religieux ; qui ne frappe pas autant que son tassement, en épaisseur, offrant le minuscule tombeau, certes, de l'âme.",
+      "body": "「折りたたみ（pliage）」——このテクストの中心的な物質的・形而上学的概念。大きな印刷紙（feuille imprimée grande）に対して、折りたたみは「徴（indice）」として機能する——しかも「ほとんど宗教的な（quasi religieux）」徴。「魂の小さな墓（minuscule tombeau de l'âme）」：重ねられた紙の厚みが「墓」として比喩化される——書物は書かれた言葉の「墓」であり同時に言葉の「保存場所」。「tombeau（墓）」という語はマラルメ詩集の中で特権的な位置を占める——「ポーの墓（Le Tombeau d'Edgar Poe）」「ヴェルレーヌの墓（Tombeau de Verlaine）」——詩人への追悼詩というジャンル名が「墓（tombeau）」。書物の物質性（紙の重なり）と霊性（魂の墓）を一文で連結する圧縮的定義。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "un « quotidien » avant qu'à la vision, peu à peu, mais de qui ? paraisse un sens",
+      "body": "新聞（journal）の弁証法的評価：「ひとつの日刊紙が、視覚に、少しずつ、しかし誰の目に？ 意味が見えるようになる前に」という問い。「しかし誰の目に（mais de qui ?）」という疑問句の孤立——誰が新聞に「意味」を読み取るかという問いが宙吊りになる。「大衆的な妖精話（féerie populaire）」：féerie は妖精の世界・幻想的な見世物——新聞に潜む不思議な魅力を一種のポピュラーな魔術として認める。マラルメの新聞評価は単純な否定でなく——§6では新聞の「即興性」「便宜性」を認め、§7でその「頂点（faîte）」としての一面記事が書物に迫りながら届かない構造を分析する——書物との差異を内在的に展開する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "intervention du pliage ou le rythme, initiale cause qu'une feuille fermée, contienne un secret, le silence y demeure, précieux",
+      "body": "「折りたたみ（pliage）または リズム（rythme）」の介入：pliage と rythme が等置される——折りたたみは紙の物質的なリズムである。「閉じた一枚の紙が秘密を含む（une feuille fermée, contienne un secret）」：閉じていること＝開かれていないことが「秘密」の条件として設定される。「沈黙がそこにとどまる、貴重なものとして（le silence y demeure, précieux）」：「Mimique（mallarme_mimique）」の「ページと視線の間に支配する沈黙、読書の条件にして悦楽（silence…condition et délice de la lecture）」との直接連絡——折りたたまれた書物の「沈黙」が「Mimique」の読書の沈黙と同一の論理をなす。",
+      "targetId": "mallarme_mimique",
+      "targetParagraphId": 7
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "l'ombre éparse en noirs caractères, ne présenterait une raison de se répandre comme un bris de mystère, à la surface, dans l'écartement levé par le doigt",
+      "body": "「黒い活字に散らばる影（l'ombre éparse en noirs caractères）」——活字を「影（ombre）」として記述する：活字は光でなく影——白い紙の上の黒い影として言語が存在する。「謎の亀裂（un bris de mystère）」：bris は「破砕・割れ」——謎が割れて表面に現れるという比喩。「指によって持ち上げられた間隙（l'écartement levé par le doigt）」：ページをめくる指の動作——この物理的行為が「謎の亀裂」を生む。折りたたまれた書物のページが指によって開かれる瞬間を、謎の解体・露呈の瞬間として捉える——読書という身体的行為の形而上学。「骰子一擲（mallarme_coup_de_des）」の白い版面に黒い文字が配置されるという視覚的詩学の批評的対応。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "glossary",
+      "anchor": "les mots, originellement, se réduisent à l'emploi, doué d'infinité jusqu'à sacrer une langue, des quelque vingt lettres — leur devenir, tout y rentre pour tantôt sourdre, principe — approchant d'un rite la composition typographique",
+      "body": "「二十の文字ほど（quelque vingt lettres）」——フランス語のアルファベット26字（あるいは当時の25字）への言及。「無限を賦与されて言語を聖化するまで（doué d'infinité jusqu'à sacrer une langue）」：有限の文字（vingt lettres）が無限の言語使用（doué d'infinité）を可能にし、言語全体を「聖化（sacrer）」する——活字の形而上学。「活字組版を一つの儀式に近づける（approchant d'un rite la composition typographique）」：組版（typographie）が儀式（rite）として定義される——「折りたたみ（pliage）」の「ほとんど宗教的な（quasi religieux）」との対応。マラルメにとって書物の製造過程全体が宗教的儀礼として機能する。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Le livre, expansion totale de la lettre, doit d'elle tirer, directement, une mobilité et spacieux, par correspondances, instituer un jeu, on ne sait, qui confirme la fiction.",
+      "body": "書物の詩学的定義：「書物は文字の全き展開（expansion totale de la lettre）」——文字（la lettre）の複数の意味：(1) アルファベットの文字、(2) 手紙・書簡、(3) 文学（lettres）。「全き展開（expansion totale）」：書物は文字の可能性を完全に展開する媒体。「照応によって（par correspondances）」：correspondances はボードレール「照応（Correspondances）」を想起させる語——感覚の相互照応が書物の「遊び（jeu）」の原理として導入される。「ひとつの遊びを——何とも言えないが——虚構を確かなものにする遊びを（un jeu, on ne sait, qui confirme la fiction）」：on ne sait（何とも言えない・誰も知らない）という認識論的留保——書物の「遊び」の本質は言語化できない。「虚構を確かにする（confirme la fiction）」：「Mimique」の「純粋な虚構の環境（milieu pur de fiction）」との直接連絡。",
+      "targetId": "mallarme_mimique",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Immémorialement le poëte sut la place de ce vers, dans le sonnet qui s'inscrit pour l'esprit ou sur espace pur.",
+      "body": "「太古の昔から詩人はこの詩行の位置を知っていた（Immémorialement le poëte sut la place de ce vers）」——immémorialement という稀な副詞：記憶の及ばない太古から——詩人の空間意識を「本能的・先験的知」として提示する。「精神のために、あるいは純粋な空間に書き込まれるソネットの中での（dans le sonnet qui s'inscrit pour l'esprit ou sur espace pur）」：espace pur（純粋な空間）——紙面の白い余白を「純粋な空間」として捉える視点。詩行は「精神的空間」と「物理的紙面空間」の二重の空間に同時に書き込まれる。「骰子一擲（mallarme_coup_de_des）」の版面設計——白い余白を積極的な意味の担体として使う——の批評的理論化。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "le va-et-vient successif incessant du regard, une ligne finie, à la suivante, pour recommencer : pareille pratique ne représente le délice",
+      "body": "読書の視線の往復運動の批判的分析：「視線の絶え間ない継続的な往復（le va-et-vient successif incessant du regard）、一行終えたら次へ、また始めるために」——この機械的な線的読書を「悦楽を表さない（ne représente le délice）」として退ける。対案：「鍵盤の上の断片のように（comme de morceaux sur un clavier）」——ページを鍵盤として、断片的・飛躍的に読む読書。「夢想するために目を閉じればよいのではないか（que ne ferme-t-on les yeux à rêver）」：読書は「目を閉じること」と連続する——視覚的解読でなく内的夢想として書物を体験すること。「稲妻のようなイニシアティブ（l'initiative, dont l'éclair est chez quiconque）」：eclair（稲妻）——読者の主体的な参加を稲妻的閃きとして描写する。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Un solitaire tacite concert se donne, par la lecture, à l'esprit qui regagne, sur une sonorité moindre, la signification",
+      "body": "「孤独な黙せるコンサート（Un solitaire tacite concert）」——読書の音楽的比喩。solitaire（孤独な）・tacite（黙せる・無言の）：読書は孤独で無言のコンサートとして定義される。「より低い響きの上で（sur une sonorité moindre）」：書物の読書は「より低い」音響的強度で交響曲の全体を精神に与える——コンサートホールの大音響でなく、精神の内的な響きとして音楽が体験される。「詩は、理念に近く、卓越した意味において音楽である（La Poésie, proche l'idée, est Musique, par excellence）」：マラルメ詩学の核心命題のひとつ——詩と音楽の同一性の宣言。「危機・詩（mallarme_crise_de_vers）」の「詩は音楽から自分の財産を取り戻す（reprendre…son bien）」命題の補完的定式化。",
+      "targetId": "mallarme_crise_de_vers",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "je brandis un couteau, comme le cuisinier égorgeur de volailles",
+      "body": "テクスト中で最も唐突で具体的なイメージ：「料理人のようにナイフを振るう（je brandis un couteau, comme le cuisinier égorgeur de volailles）」。égorger（喉を切る）という暴力的動詞が「パンフレットを読む」行為に適用される——コープペーパーを切るナイフが「家禽を屠る」行為と等置される。この唐突なユーモアはマラルメ批評散文の特徴：「Plainte d'automne」（mallarme_plainte_automne）の語り手が手風琴に一銭も投げないユーモラスな自己観察と類比的。§15での「真紅の切り口（tranche rouge des anciens tomes）」——古い書物の小口（縁）の赤い塗り——という具体的イメージへの移行を準備する。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Le reploiement vierge du livre, encore, prête à un sacrifice dont saigna la tranche rouge des anciens tomes",
+      "body": "「書物の折りたたまれたままの処女状態（reploiement vierge du livre）」が「犠牲（sacrifice）」に向けて準備する——「真紅の小口が血を流した（saigna la tranche rouge des anciens tomes）」という過去形。tranche rouge（真紅の切り口）：19世紀の豪華本では書物の小口（側面）を赤く塗るのが一般的——この「赤い小口」が「犠牲の血」として比喩化される。「所有の確立（prise de possession）」：書物を所有するとは、コープペーパーを切る行為によって物理的に開封することである——この「開封」が書物との関係を個人化する。「ほとんど自分自身によって作り直された書物（presque refait par soi）」：読者が書物を読む過程でそれを「作り直す」という能動的・共同的な書物論——著者と読者の共同制作としての書物。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "commentary",
+      "anchor": "Les plis perpétueront une marque, intacte, conviant à ouvrir, fermer la feuille, selon le maître",
+      "body": "「折り目は跡を永続させる（Les plis perpétueront une marque, intacte）」——折り目（plis）が読者の読書の痕跡として書物に永続的に刻まれる。「主人の流儀に従って（selon le maître）」：maître（主人・師匠）——誰が書物の「主人」か、作者か読者か。§15の「ほとんど自分自身によって作り直された（presque refait par soi）」という命題と連動：読者が書物を「作り直す」主体として、折り目によって書物に自己の痕跡を残す。「新聞の有害な影響（son influence est fâcheuse）」：§6〜§7で新聞を「書物に迫るが届かない」として分析したのに続き、ここでは新聞が書物に及ぼす否定的影響が「単調さ（monotonie）」として明示される——「いつも耐えがたいコラムを……百回も百回も（cent et cent fois）」という反復の強調が新聞形式への嫌悪を集約する。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Mais..",
+      "body": "「Mais..」——§4「Or —」に続く二番目の転換節。「しかし（Mais）」のあとに点々（..）が続くことで、文が途切れ宙吊りになる——「Mais..」は「しかし、それとは別のことを言えば」という思考の転換を示す。§4「Or —」が「折りたたみ論」への転換を告げたように、§17「Mais..」は「理想の書物の構想（§18）」への転換を告げる。三語・一語の独立段落という構造：テクスト全体が§1命題→§4転換→本論→§17転換→展望という二段階の転換構造をとる。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "un jet de grandeur, de pensée ou d'émoi, considérable, phrase poursuivie, en gros caractère, une ligne par page à emplacement gradué",
+      "body": "マラルメの理想の書物の視覚的構想：「大文字で追われた文章、段階的な配置で一ページに一行（phrase poursuivie, en gros caractère, une ligne par page à emplacement gradué）」。これは「骰子一擲（mallarme_coup_de_des）」の版面設計の批評的記述そのもの——「JAMAIS」「N'ABOLIRA」「LE HASARD」という大文字の主幹文が各ページに一行ずつ配置される構造。「フィヨリトゥーラ（fioritures）の蒔き散らし（un semis de fioritures）」：semis（蒔き散らし）という農業語彙——大文字の主幹文の周囲に小さい補助的テキストが散らばるという版面構成。「骰子一擲」の「版面設計の詩学」がここで言語化されている。",
+      "targetId": "mallarme_coup_de_des",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "L'hésitation, pourtant, de tout découvrir brusquement ce qui n'est pas encore, tisse, par pudeur, avec la surprise générale, un voile.",
+      "body": "「まだないものをすべて突然に明かすことへの躊躇（l'hésitation de tout découvrir brusquement ce qui n'est pas encore）」——マラルメの詩学的開示の原則：未完成のもの・まだ実現していないものを完全に明かすことへの抵抗。「慎みによって（par pudeur）」：pudeur（羞恥・慎み）——詩学的開示の倫理として慎みが置かれる。「一般的な驚きとともに、ひとつのヴェールを織る（tisse, par pudeur, avec la surprise générale, un voile）」：ヴェール（voile）を織るという比喩——完全な開示の代わりに半透明のヴェールを置くことで、「示唆（allusion）」として詩学が機能する。「Mimique」の「永続的な示唆（allusion perpétuelle）」との連絡——詩的言語はヴェールを「織る」ことで機能する。",
+      "targetId": "mallarme_mimique",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 20,
+      "type": "commentary",
+      "anchor": "quelque papillon blanc, celui-ci à la fois partout, nulle part, il s'évanouit",
+      "body": "テクストの最終イメージ：「白い蝶（papillon blanc）——いたるところに、どこにもなく、消えてしまう（à la fois partout, nulle part, il s'évanouit）」。§1の「書物へと帰結する」という宏大な命題が、「白い蝶」という軽やかな消失のイメージで閉じる——意図的な縮小・偏向。「いたるところに、どこにもなく（à la fois partout, nulle part）」：遍在と不在の同時性——「Mimique」のパントマイム俳優が「場所に異邦人（étranger à tous lieux）」であるのと同型の論理。白い蝶＝書物の「主題（sujet）」の比喩：「そこに私はさきほど主題を還元した（où je réduisis le sujet）」という語り手の自己言及。書物の主題が蝶のように捕捉されず消えていく——書物論の主題が「沈黙」や「虚構」と同じく、直接言語化できないものとして示唆される最終的な逆説。マラルメ「Toute l'âme résumée（mallarme_toute_lame）」の「煙が上昇し消える」という終結イメージとも対応する。",
+      "targetId": "mallarme_toute_lame",
+      "targetParagraphId": null
+    }
+  ]
+}

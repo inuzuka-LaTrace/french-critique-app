@@ -17,6 +17,7 @@ import valmoreData from './data/valmore';
 import rimbaudData from './data/rimbaud';
 import verlaineData from './data/verlaine';
 import lecontelisleData from './data/lecontelisle';
+import banvilleData from './data/banville';
 import rodenbachData from './data/rodenbach';
 import vanlerbergheData from './data/vanlerberghe';
 import gautierData from './data/gautier';
@@ -184,6 +185,7 @@ export default function App() {
       ...gautierData,
       ...valmoreData,
       ...lecontelisleData,
+      ...banvilleData,
       ...rodenbachData,
       ...vanlerbergheData,
       ...racineData,
@@ -1686,11 +1688,12 @@ export default function App() {
 
   const authorColor = (cat) => {
     if (cat?.startsWith('racine'))       return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
-    if (cat?.startsWith('baudelaire'))   return darkMode ? 'bg-amber-900/40 text-amber-300'   : 'bg-amber-100 text-amber-800';
+    if (cat?.startsWith('baudelaire'))   return darkMode ? 'bg-yellow-900/40 text-yellow-300'   : 'bg-yellow-100 text-yellow-800';
     if (cat?.startsWith('mallarme'))     return darkMode ? 'bg-sky-900/40 text-sky-300'       : 'bg-sky-100 text-sky-800';
     if (cat?.startsWith('valery'))       return darkMode ? 'bg-rose-900/40 text-rose-300'     : 'bg-rose-100 text-rose-800';
     if (cat?.startsWith('valmore'))      return darkMode ? 'bg-pink-900/40 text-pink-300'     : 'bg-pink-100 text-pink-800';
     if (cat?.startsWith('leconte_de_lisle')) return darkMode ? 'bg-stone-900/40 text-stone-300': 'bg-stone-100 text-stone-800';
+    if (cat?.startsWith('banville'))     return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
     if (cat?.startsWith('rodenbach'))    return darkMode ? 'bg-sky-1000/40 text-sky-400'       : 'bg-sky-200 text-sky-900';
     if (cat?.startsWith('vanlerberghe')) return darkMode ? 'bg-emerald-900/40 text-emerald-300' : 'bg-emerald-100 text-emerald-800';
     if (cat?.startsWith('rimbaud'))      return darkMode ? 'bg-amber-900/40 text-amber-300'   : 'bg-amber-100 text-amber-800';

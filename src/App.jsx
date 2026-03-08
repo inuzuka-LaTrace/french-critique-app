@@ -675,6 +675,18 @@ export default function App() {
     );
   };
 
+  // ─── テキストボリューム計算ヘルパー ───────────────────────────
+  // フランス語・英語等の原文単語数（空白区切り、句読点除去）
+  const countWords = (text) => {
+    if (!text) return 0;
+    return text.replace(/[\n\r]+/g, ' ').trim().split(/\s+/).filter(w => w.replace(/[«»—.,;:!?()\[\]"']/g, '').length > 0).length;
+  };
+  // テキストオブジェクト全体の原文単語数合計
+  const textWordCount = (textObj) => {
+    if (!textObj?.paragraphs) return 0;
+    return textObj.paragraphs.reduce((sum, p) => sum + countWords(getOriginalText(p)), 0);
+  };
+
   // ─── ブックマーク一覧パネル ──────────────────────────────────
   const BookmarkPanel = () => {
     const allBookmarks = Object.entries(bookmarks).flatMap(([tid, pids]) =>
@@ -1841,17 +1853,7 @@ export default function App() {
           >
             <Bookmark size={15} strokeWidth={1.6} />
           </button>
-          <button
-            onClick={() => { setFcCards([]); setFcFinished(false); setShowFlashcard(true); }}
-            title="フラッシュカード"
-            className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors ${
-              showFlashcard
-                ? darkMode ? 'bg-amber-700 text-amber-100' : 'bg-stone-800 text-white'
-                : darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-zinc-300' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'
-            }`}
-          >
-            <GraduationCap size={15} strokeWidth={1.6} />
-          </button>
+
           <button
             onClick={() => setDarkMode(!darkMode)}
             className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors ${darkMode ? 'bg-zinc-800 hover:bg-zinc-700 text-amber-300' : 'bg-stone-100 hover:bg-stone-200 text-stone-600'}`}
@@ -2093,6 +2095,12 @@ export default function App() {
                         <span className={`text-xs font-sans px-1.5 py-0.5 rounded ${authorColor(text.category)}`}>
                           {catShort[text.category] || text.category}
                         </span>
+                        <span className={`text-xs font-sans px-1.5 py-0.5 rounded ${darkMode ? 'bg-zinc-700/60 text-zinc-400' : 'bg-stone-100 text-stone-500'}`}>
+                          {text.paragraphs?.length || 0}段落
+                        </span>
+                        <span className={`text-xs font-sans px-1.5 py-0.5 rounded ${darkMode ? 'bg-zinc-700/60 text-zinc-400' : 'bg-stone-100 text-stone-500'}`}>
+                          {textWordCount(text).toLocaleString()}語
+                        </span>
                         {text.annotations?.length > 0 && (
                           <span className={`text-xs font-sans px-1.5 py-0.5 rounded ${darkMode ? 'bg-amber-900/40 text-amber-400' : 'bg-amber-100 text-amber-700'}`}>
                             注釈{text.annotations.length}
@@ -2123,8 +2131,21 @@ export default function App() {
               <h2 className={`text-xl font-serif ${textClass} mb-1`}>{currentText.title}</h2>
               <p className={`text-sm font-sans ${textSecondary}`}>{currentText.author}　{currentText.source}（{currentText.year}年）</p>
             </div>
-            <div className={`text-right text-xs ${textSecondary} shrink-0`}>
-              <span className="font-semibold">{currentText.paragraphs.length}</span>段落
+            <div className={`flex gap-3 shrink-0`}>
+              <div className={`text-center text-xs ${textSecondary}`}>
+                <div className={`text-lg font-semibold font-sans ${textClass} leading-none`}>{currentText.paragraphs.length}</div>
+                <div className="opacity-60 mt-0.5">段落</div>
+              </div>
+              <div className={`text-center text-xs ${textSecondary}`}>
+                <div className={`text-lg font-semibold font-sans ${textClass} leading-none`}>{textWordCount(currentText).toLocaleString()}</div>
+                <div className="opacity-60 mt-0.5">語</div>
+              </div>
+              {currentText.annotations?.length > 0 && (
+                <div className={`text-center text-xs ${textSecondary}`}>
+                  <div className={`text-lg font-semibold font-sans ${textClass} leading-none`}>{currentText.annotations.length}</div>
+                  <div className="opacity-60 mt-0.5">注釈</div>
+                </div>
+              )}
             </div>
           </div>
           {currentText.context && (
@@ -2153,6 +2174,32 @@ export default function App() {
               })}
             </div>
           )}
+
+          {/* このテキストで学習ボタン */}
+          <div className={`mt-4 pt-4 border-t ${borderClass} flex items-center justify-between gap-3`}>
+            <div className={`text-xs font-sans ${textSecondary}`}>
+              <span className="opacity-60">フラッシュカード</span>
+            </div>
+            <button
+              onClick={() => {
+                setFcSource('text');
+                setFcSourceId(currentText.id);
+                const cards = buildFcCards('text', currentText.id, fcMode, fcSrsData);
+                setFcCards(cards);
+                setFcIndex(0);
+                setFcFlipped(false);
+                setFcSessionResult({});
+                setFcFinished(false);
+                setShowFlashcard(true);
+              }}
+              className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold font-sans transition-colors ${
+                darkMode ? 'bg-amber-800/60 hover:bg-amber-700 text-amber-200' : 'bg-amber-50 hover:bg-amber-100 text-amber-800 border border-amber-200'
+              }`}
+            >
+              <GraduationCap size={13} strokeWidth={1.8} />
+              このテキストで学習
+            </button>
+          </div>
 
           {/* 横断読解ボタン＋テキスト選択 */}
           {(currentText.relatedTexts?.length > 0 || crossMode) && (

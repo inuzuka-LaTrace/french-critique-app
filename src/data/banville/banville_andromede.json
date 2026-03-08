@@ -1,0 +1,76 @@
+{
+  "id": "banville_andromede",
+  "title": "Andromède",
+  "author": "Théodore de Banville",
+  "source": "Les Princesses, Alphonse Lemerre, Paris, 1890 (p. 233–234). 照合出典: wikisource.org (Les Princesses (recueil)/Andromède).",
+  "year": "1890",
+  "firstPublication": "Les Princesses, Alphonse Lemerre, Paris, 1890 (p. 233–234).",
+  "difficulty": "中級",
+  "category": "banville",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "テオドール・ド・バンヴィル（Théodore de Banville, 1823–1891）の詩集『王女たち（Les Princesses）』（1890）第8篇（p. 233–234）。全14行のソネット（4-4-3-3行）。エピグラフはオウィディウス『変身譚』第4巻のラテン語4行──ペルセウスが無数の民族の上を飛びながらエチオピアに降り、アンドロメダが母の舌（自慢話）の罰として捧げられているのを見た場面。詩の場面：岩に縛られ砂漠で苦悶するアンドロメダ──裸で青ざめ、砂も海も空も何もない状況に太陽が容赦なく照りつけ、怪物が近づいてくる。後半でペルセウスが黄金の剣を持ち天馬ペガサスに乗って空を裂いて飛来し、陶酔して動けないアンドロメダがその雄大な飛翔を空に見つめる場面で閉じる。「Antiope」が死の静止で終わるのに対し、こちらは「救済の到来」への凝視で終わる──詩集内の対比構造。",
+  "keywords": ["アンドロメダ", "Persée", "Pégase", "monstre", "azur", "extase", "ギリシャ神話", "ソネット", "オウィディウス"],
+  "relatedTexts": [
+    "banville_antiope",
+    "banville_les_princesses",
+    "banville_pasiphae",
+    "van_lerberghe_ange_etoile_matin"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Andromède gémit dans le désert sans voile,\nNue et pâle, tordant ses bras sur le rocher.\nRien sur le sable ardent que la mer vient lécher,\nRien ! pas même un chasseur dans un abri de toile.",
+      "provisionalTranslation": "アンドロメダはヴェールもなく砂漠の中で呻く、\n裸で青ざめて、岩の上で腕をよじりながら。\n海が舐めてくる熱い砂の上には何もない、\n何もない！布の小屋の中の猟師一人さえも。"
+    },
+    {
+      "id": 2,
+      "french": "Rien sur le sable, et sur la mer pas une voile !\nLe soleil la déchire, impitoyable archer,\nEt le monstre bondit comme pour s'approcher\nDe la vierge qui meurt, plus blanche qu'une étoile.",
+      "provisionalTranslation": "砂の上には何もなく、海の上には帆一枚もない！\n太陽が彼女を切り裂く、情け容赦ない射手よ、\nそして怪物が星よりも白く死にゆく乙女に\n近づこうとするように跳びかかってくる。"
+    },
+    {
+      "id": 3,
+      "french": "Ame enfantine et douce, elle agonise, hélas !\nMais Persée aux beaux yeux, le meurtrier d'Atlas,\nVient et fend l'air, monté sur le divin Pégase.",
+      "provisionalTranslation": "子どものような優しい魂の持ち主よ、彼女は今わの際にある、ああ！\nしかしペルセウスが──美しい目を持つ、アトラスを倒した者が──\n来て空を裂く、神の馬ペガサスに乗って。"
+    },
+    {
+      "id": 4,
+      "french": "Il vient, échevelé, tenant son glaive d'or,\nEt la jeune princesse, immobile d'extase,\nSuit des yeux dans l'azur son formidable essor.",
+      "provisionalTranslation": "彼は来る、髪を乱し、黄金の剣を持って、\nそして若い王女は、陶酔で動けないまま、\n紺碧の空の中でその雄大な飛翔を目で追う。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全14行のソネット（4-4-3-3行）。韻律：Q1 voile/toile（A）・rocher/lécher（B）→ ABBA。Q2 voile/étoile（A）・archer/approcher（B）→ ABBA──Q1の voile が Q2冒頭に反復し「rien…pas une voile」と否定を強化する。T1 hélas/Atlas（C）・Pégase（D）→ CCD。T2 d'or（E）・d'extase（D）・essor（E）→ EDE（d'or/essor 包み韻）。アレクサンドラン（12音節）基調。エピグラフ：オウィディウス『変身譚』第4巻ラテン語4行──「無数の民族を下にも周囲にも残しながら、アイティオピアの民とケペウスの野を眺めた。かしこで残酷なアンモンは、母の舌の罰として無実のアンドロメダを苦しめよと命じていた」。詩の構造：Q1〜Q2「アンドロメダの苦境（8行・何もない砂漠・太陽・怪物）」→ T1「転換──しかしペルセウスが来る」→ T2「救済の到来をアンドロメダが陶酔で見つめる」。「Antiope」の「動き続ける一人」と対照的に、こちらは「陶酔で凝視する」という受動的な結語。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Andromède gémit dans le désert sans voile",
+      "body": "アンドロメダ（Andromède）：ギリシャ神話──エチオピア王ケペウスと王妃カシオペアの娘。母カシオペアが「自分の美しさは海のニンフより優れる」と自慢したため、神の怒りを買い、娘アンドロメダが海の怪物（ケートス）への生贄として岩に縛られた。英雄ペルセウスが飛来して怪物を倒し、アンドロメダを救出して妻とした。「sans voile（ヴェールなし）」：voile（ヴェール・帆）──Q2冒頭の「pas une voile（帆一枚もない）」と同語の二義性──①ヴェールなし＝裸・無防備 ②帆なし＝助けの船もない。「Nuit d'étoiles」§5の「azur sans voiles（ヴェールなき紺碧）」との連絡──本詩では「sans voile」が美でなく「無防備な苦悩」として機能する。「Rien…Rien（何もない…何もない）」：否定語の反復──Q1末とQ2冒頭で「Rien」が3回──絶対的な孤立の強調。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Le soleil la déchire, impitoyable archer,\nEt le monstre bondit comme pour s'approcher\nDe la vierge qui meurt, plus blanche qu'une étoile.",
+      "body": "Q2：太陽と怪物という二つの脅威による二重の攻撃。「情け容赦ない射手（impitoyable archer）」：soleil（太陽）を「射手（archer）」として擬人化──太陽が「矢」で照りつける比喩。impitoyable（容赦ない）：「Nuit d'étoiles」§2の「implacable azur（冷酷な紺碧）」と同系の容赦ない自然の語彙。déchire（切り裂く）：「Nuit d'étoiles」§4の「J'ai l'âme encor déchirée（魂がいまも引き裂かれた）」と同一動詞──太陽が身体を「引き裂く」。「星よりも白く（plus blanche qu'une étoile）」：白──アンドロメダの肌が星より白い。「La Mort」§1の「petite et blanche（小さく白い）」手、「Les Princesses」§4の「seins de neige（雪の胸）」と連絡する白の語彙。「Pasiphaé」§4の「monstre effrayant（恐ろしい怪物）」との同語──ただしこちらの怪物は「魂の欲望の対象」でなく「倒されるべき外的脅威」。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ame enfantine et douce, elle agonise, hélas !\nMais Persée aux beaux yeux, le meurtrier d'Atlas,\nVient et fend l'air, monté sur le divin Pégase.",
+      "body": "T1（連3）：詩の転換──「しかし（Mais）」によるペルセウスの登場。「子どものような優しい魂（Ame enfantine et douce）」：enfantine（子供のような）・douce（優しい）──「Andromède」§3の冒頭が「Ame（魂）」という語で始まる──「Solitude」§1の「Mon âme（私の魂）」・「Nuit d'étoiles」§4の「J'ai l'âme encor déchirée」と連絡する詩集横断的な「魂」語彙。「Van Lerberghe」の「L'Ange de l'étoile du matin」で天使がイヴを連れ去るイメージとの連絡。「美しい目を持つペルセウス（Persée aux beaux yeux）」：beaux yeux（美しい目）──「Nuit d'étoiles」§2の「tes yeux, ô magicienne（おまえの目、おお魔法使いよ）」・「Apothéose」§16の「Tes yeux…comme des cieux（おまえの目は天のよう）」と連絡する詩集横断的な「目」語彙。「アトラスを倒した者（le meurtrier d'Atlas）」：meurtrier（殺害者）──ペルセウスはメデューサ退治の帰途、海の怪物に変えられたアトラスをメデューサの首で石に変えた神話に基づく。divin Pégase（神の馬ペガサス）：ペガサスはペルセウスが乗ったと言われる（正確にはベレロフォンの天馬だが詩的混同）──「Apothéose」§8の「lyre（リラ）」・§7の「Parnasse（パルナッソス）」と同系の高踏派的ギリシャ神話語彙。",
+      "targetId": "van_lerberghe_ange_etoile_matin",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Il vient, échevelé, tenant son glaive d'or,\nEt la jeune princesse, immobile d'extase,\nSuit des yeux dans l'azur son formidable essor.",
+      "body": "詩の結語──ペルセウスの飛来をアンドロメダが陶酔で凝視する場面。「髪を乱し、黄金の剣を持って（échevelé, tenant son glaive d'or）」：échevelé（髪を乱した）──速度・風圧による乱れ。glaive d'or（黄金の剣）──「Apothéose」§5の「Le laurier verdissant（緑の月桂樹）」・「Les Baisers」§2の「cheveux d'or（黄金の髪）」と連絡する黄金語彙。「陶酔で動けないまま（immobile d'extase）」：extase（陶酔・恍惚）──「Apothéose」§2の「Dans mon extase（忘我の中で）」との同語。Antiope が「動き（agite）続ける」のに対し、Andromède は「動けない（immobile）」──対照的な結語の動詞。「紺碧の空の中でその雄大な飛翔を目で追う（Suit des yeux dans l'azur son formidable essor）」：azur（紺碧）──「Nuit d'étoiles」§2の「implacable azur」・「Apothéose」§7の「ciel azuré」と連絡する詩集横断的色彩語彙。essor（飛翔・上昇）：最後の語として詩は「上昇」で閉じる──「Antiope」が「épée（剣）」で閉じるのとの対比。「L'Ange de l'étoile du matin」§3の「Elle regarde…le soir tomber（夕べの落下を見る）」という下降への凝視に対し、こちらは上昇するペルセウスへの凝視。"
+    }
+  ]
+}

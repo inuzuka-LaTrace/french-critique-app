@@ -1,0 +1,100 @@
+{
+  "id": "banville_nuit_d_etoiles",
+  "title": "Nuit d'étoiles",
+  "author": "Théodore de Banville",
+  "source": "Améthystes, Alphonse Lemerre, Paris, 1889 (p. 201–202). 照合出典: wikisource.org (Améthystes/Nuit d'étoiles).",
+  "year": "1889",
+  "firstPublication": "執筆: Février 1861. 詩集収録: Améthystes, Alphonse Lemerre, Paris, 1889 (p. 201–202).",
+  "difficulty": "初級〜中級",
+  "category": "banville",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "テオドール・ド・バンヴィル（Théodore de Banville, 1823–1891）の晩年の詩集『紫水晶（Améthystes）』（1889）所収。執筆は1861年2月。全6連・各4行・計24行。韻律：ABBA 抱韻（クワトラン）。夜の海辺──月光・砂丘・地中海（ティレニア海）を背景に、「おまえ（tu）」という女性を夜・月・海と同格に讃える愛の詩。連1〜5：夜と女性の並置（夜が白い＝おまえが白い、海が星に輝く）。連6：その夜の中で女性が接吻して「傷は癒えた」と言う──「Caprice」と同一の接吻の場面で閉じる。ドビュッシーが1876〜82年頃に歌曲として作曲（カタログ番号 L 8、旧番号）──ドビュッシー歌曲の中で最もよく知られる初期作品のひとつ。",
+  "keywords": ["nuit", "étoiles", "mer", "lune", "baisers", "歌曲", "ドビュッシー", "ティレニア海", "高踏派"],
+  "relatedTexts": [
+    "banville_caprice",
+    "van_lerberghe_tombee_du_soir",
+    "van_lerberghe_solitude",
+    "valmore_les_roses_de_saadi"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "La nuit jette sur la dune\nSes diamants comme un roi.\nElle est blanche comme toi,\nSous les doux rayons de lune.",
+      "provisionalTranslation": "夜は砂丘の上に\nダイヤモンドを王のように投げかける。\n夜は白い、おまえのように、\n月の柔らかな光の下で。"
+    },
+    {
+      "id": 2,
+      "french": "Tes yeux, ô magicienne,\nConfondent leur ciel obscur\nAvec l'implacable azur\nDe la mer Tyrrhénienne.",
+      "provisionalTranslation": "おまえの目は、おお魔法使いよ、\nその暗い空を混ぜ合わせる\n冷酷な紺碧と\nティレニア海の。"
+    },
+    {
+      "id": 3,
+      "french": "Mille fleurs s'épanouissent\nPrès de son riant bassin,\nDe même que sur ton sein\nDe folles roses fleurissent.",
+      "provisionalTranslation": "千の花が咲き開く\n海の笑う水盤のほとりで、\nちょうどおまえの胸の上に\n狂い咲きの薔薇が花ひらくように。"
+    },
+    {
+      "id": 4,
+      "french": "Elle sait, la Nuit sacrée,\nMère des enchantements,\nDe quels épouvantements\nJ'ai l'âme encor déchirée.",
+      "provisionalTranslation": "知っている、聖なる夜は、\n魔法の母は、\nいかなる恐怖によって\n私の魂がいまも引き裂かれているかを。"
+    },
+    {
+      "id": 5,
+      "french": "Ô saphir ! azur sans voiles !\nÔ calme délicieux !\nLa mer est comme les cieux\nResplendissante d'étoiles.",
+      "provisionalTranslation": "おお、サファイア！ヴェールなき紺碧！\nおお、この上ない静けさ！\n海は天のように\n星々に輝いている。"
+    },
+    {
+      "id": 6,
+      "french": "Mais de ta bouche fleurie,\nPour calmer ce mal cuisant\nTu me baises en disant\nQue ma blessure est guérie.",
+      "provisionalTranslation": "しかしおまえの花ひらく口から、\nこの灼けるような痛みを鎮めるために\nおまえは私に接吻しながら言う\n私の傷は癒えたと。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "全6連・各4行（quatrain）・計24行。韻律：全連 ABBA 抱韻──連1 dune/lune（A）・roi/toi（B）。連2 magicienne/Tyrrhénienne（A）・obscur/azur（B）。連3 s'épanouissent/fleurissent（A）・bassin/sein（B）。連4 sacrée/déchirée（A）・enchantements/épouvantements（B）。連5 voiles/étoiles（A）・délicieux/cieux（B）。連6 fleurie/guérie（A）・cuisant/disant（B）。行長：8音節詩行（octosyllabes）基調──「Caprice」と同一の音節数で、同一の執筆月（1861年2月）に書かれた対詩的関係。詩全体の構成：連1〜2「夜・月・海＝おまえ」という並置。連3「花＝おまえの胸の薔薇」という比喩。連4「聖なる夜が私の傷を知る」という転換。連5「感嘆──海が星に輝く」という叙景クライマックス。連6「しかし（Mais）おまえの接吻が傷を癒す」という結語──「Caprice」の接吻場面と呼応して閉じる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "La nuit jette sur la dune\nSes diamants comme un roi.\nElle est blanche comme toi,\nSous les doux rayons de lune.",
+      "body": "連1：夜と「おまえ」の最初の等置。「ダイヤモンドを王のように投げかける（jette ses diamants comme un roi）」：diamants（ダイヤモンド）──星を「ダイヤモンド」として比喩する高踏派的な宝石語彙（詩集タイトル「Améthystes（アメジスト）」との連絡）。jette（投げかける）：王が臣民にダイヤを撒くような気前よさ──夜の豊穣性。「白い、おまえのように（Elle est blanche comme toi）」：夜が白いという逆説──月光の下で砂浜が白く輝く視覚描写。「comme toi（おまえのように）」：詩の受け手（tu・おまえ）への最初の接続──自然描写が突然人物比喩に転換する瞬間。「月の柔らかな光（doux rayons de lune）」：「Tombée du soir」§1の「柔らかな手（douces mains）」・「Van Lerberghe」詩集の反復語 doux との音韻的連絡。",
+      "targetId": "van_lerberghe_tombee_du_soir",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Tes yeux, ô magicienne,\nConfondent leur ciel obscur\nAvec l'implacable azur\nDe la mer Tyrrhénienne.",
+      "body": "「おお魔法使いよ（ô magicienne）」：呼格──「Caprice」の「ô Seigneur」と対称的に、こちらは愛する女性への呼格。「その暗い空を混ぜ合わせる（Confondent leur ciel obscur）」：confondre（混同する・溶け合わせる）──「Rosier Mystique」§4の「すべてをその懐に溶け込ませる（Les confond toutes dans son sein）」と同一動詞。目の「暗い空（ciel obscur）」と海の「冷酷な紺碧（implacable azur）」が confondre（融合）する──視覚的には瞳の色と海の色の同化。「冷酷な（implacable）」：azur（紺碧）に「冷酷・容赦ない」という形容詞を付す──美しいが容赦のない海の青。「ティレニア海（mer Tyrrhénienne）」：地中海のティレニア海（イタリア西岸）──地名の固有名詞が詩に地理的現実感を与える（コルシカ島やイタリア海岸での体験を示唆）。",
+      "targetId": "van_lerberghe_rosier_mystique",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Mille fleurs s'épanouissent\nPrès de son riant bassin,\nDe même que sur ton sein\nDe folles roses fleurissent.",
+      "body": "連3：「海辺の花＝女性の胸の薔薇」という比喩。「海の笑う水盤（son riant bassin）」：riant（笑う・明るい）──海が「笑う」という擬人化。bassin（水盤・海盆）：海を庭の池・噴水のように縮小化する比喩──「Sous les arches de roses」§1の「日時計の泉（fontaine）」との連絡。「狂い咲きの薔薇（folles roses）」：folles（狂った・無分別な）という形容詞──「Rosier Mystique」の「誇り高い薔薇（roses altières）」と対照的な薔薇の語彙。folles は「野生的・無制御」のニュアンス──文明の庭でなく自然の胸に咲く薔薇。s'épanouissent/fleurissent（v.1/v.4）：同義語の ABBA 包み韻──「花開く」という動作が連の外側を囲む。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Elle sait, la Nuit sacrée,\nMère des enchantements,\nDe quels épouvantements\nJ'ai l'âme encor déchirée.",
+      "body": "詩の感情的転換点──連1〜3の叙景・比喩から「私（je）」の魂の傷の告白へ。「聖なる夜（la Nuit sacrée）」：Nuit の大文字化・sacrée（聖なる）──夜が固有名詞的な神聖な存在として提示される（「Rosier Mystique」の「ô Seigneur」的な宗教的語彙）。「魔法の母（Mère des enchantements）」：Mère（大文字なし）──夜を「魔法の母」として呼格でなく叙述的に定義する。「いかなる恐怖（De quels épouvantements）」：épouvantements（恐怖・慄き）──具体的な恐怖の内容は語られず、その「大きさ」のみが間接疑問で示される。「いまも引き裂かれた魂（J'ai l'âme encor déchirée）」：encor（まだ・いまも）──過去の傷がいまも継続していることの告白。「Solitude」§3の「茫然とした惨めさの中で（dans sa misère éperdue）」と連絡する魂の傷の語彙。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Ô saphir ! azur sans voiles !\nÔ calme délicieux !\nLa mer est comme les cieux\nResplendissante d'étoiles.",
+      "body": "詩の叙景的クライマックス──感嘆詞の連続による高揚。「おお、サファイア！（Ô saphir !）」：宝石比喩──詩集タイトル「Améthystes（アメジスト）」と同系の宝石語彙。海を「サファイア」と呼ぶ高踏派的な彫琢の比喩。「ヴェールなき紺碧（azur sans voiles）」：voiles（ヴェール）──「Rosier Mystique」§4の「夜がヴェールを広げる（Étendant ses voiles）」・「Sous les arches de roses」の voile と連絡する詩集横断的語彙。sans voiles（ヴェールなし）：隠されないむき出しの青──「Solitude」の「眠りがちな魂」が夢のヴェールで覆われているのと対照的な透明性。「海は天のように星に輝く（La mer est comme les cieux / Resplendissante d'étoiles）」：タイトル「Nuit d'étoiles（星の夜）」の主題語 étoiles が詩末近くで初めて現れる──タイトルの予告が連5で解放される構造。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Mais de ta bouche fleurie,\nPour calmer ce mal cuisant\nTu me baises en disant\nQue ma blessure est guérie.",
+      "body": "詩の結語：「しかし（Mais）」による転換──叙景・感嘆から現在の接吻の場面へ。「Caprice」連2と対称的な結語──「Caprice」では女が「死ぬまで崇拝するのが運命」と言い、「Nuit d'étoiles」では女が「傷は癒えた」と言う。「花ひらく口（ta bouche fleurie）」：fleurie（花ひらいた）──「La Mort」§6の「Sa bouche pose, entr'ouverte et paisible（半開きの静かな口）」と対照的な生命的な口。「灼けるような痛み（ce mal cuisant）」：mal（苦しみ・痛み）──連4の「いかなる恐怖で魂が引き裂かれた」の具体化。cuisant（灼けるような）：cire（ろうそく・焼く）の派生──熱・灼熱の感覚。「傷は癒えた（ma blessure est guérie）」：blessure（傷）──接吻（baiser）が「癒し（guérie）」として機能する。「Caprice」では冷たい唇が拒絶し、「Nuit d'étoiles」では花ひらく口が癒す──同一の接吻の場面が両詩で対照的に描かれる。"
+    }
+  ]
+}

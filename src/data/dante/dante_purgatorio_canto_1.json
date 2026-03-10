@@ -1,0 +1,137 @@
+{
+  "id": "dante_purgatorio_canto_1",
+  "title": "Purgatorio — Canto I",
+  "author": "Dante Alighieri",
+  "source": "La Commedia (Divina Commedia), 1304–1321頃成立。底本: Petrocchi版 (La Commedia secondo l'antica vulgata, 1966–1967)。照合: danteonline.it (Società Dantesca Italiana公式テキスト); Princeton Dante Project; Singleton, C.S., Dante Alighieri: The Divine Comedy, Purgatorio (Princeton UP, 1973)",
+  "year": "1304–1321",
+  "firstPublication": "写本による流布。印刷初版: Foligno, 1472。",
+  "difficulty": "上級",
+  "category": "dante",
+  "canticle": "Purgatorio",
+  "canto": "I",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★★",
+  "context": "煉獄篇第1歌は地獄篇からの根本的な転換を宣言する。地獄篇の最終行「e quindi uscimmo a riveder le stelle（そして、そこから私たちは出た、星を再び見るために）」の直後、詩人は「詩の刷新（ritorni viva / morta poesì la morta）」を宣言して煉獄の海岸に立つ。\n\n見張り番として登場するマルクス・ポルキウス・カト（大カトー、BC95–46）は歴史的にはカエサルへの抵抗において自殺した共和制ローマの守護者。自殺者は地獄に落ちるはずだが、ダンテは彼を自由への献身という価値から煉獄の番人に置く──これは神学的な例外であり、ダンテの政治哲学（皇帝制・自由）の核心を示す配置。\n\n夜明けの空に輝く四つの星（南十字星とされる）は徳の星座──エデンの園でアダムとイヴだけが見た光として描かれ、堕罪以後の北半球には現れない。煉獄山は南極に位置し、地獄の反対側の世界。暁に輝く金星・海面・葦の摘み取り──地獄の暗闇・石・氷と対照的な、開かれた空間・光・生命の植物という意象の転換が第1歌の主題。",
+  "keywords": [
+    "カトー", "自由", "poesia", "南十字星", "葦", "自由への献身",
+    "煉獄", "夜明け", "金星", "maraviglia", "ritorni viva"
+  ],
+  "relatedTexts": [
+    "dante_inferno_canto_34",
+    "dante_purgatorio_canto_2",
+    "dante_purgatorio_canto_27"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–12",
+      "speaker": "Dante-narratore",
+      "original": "Per correr miglior acque alza le vele\normai la navicella del mio ingegno,\nche lascia dietro a sé mar sì crudele;\n\ne canterò di quel secondo regno\ndove l'umano spirito si purga\ne di salire al ciel diventa degno.\n\nMa qui la morta poesì resurga,\no sante Muse, poi che vostro sono;\ne Calïopè alquanto surga,\n\nseguitando il mio canto con quel suono\ndi cui le Piche misere sentiro\nlo colpo tal, che disperar perdono.",
+      "provisionalTranslation": "より良い水を走るために今や帆を上げる\n私の才知の小舟が、\nその後ろにこれほど残酷な海を残して；\n\nそして私はあの第二の王国を歌うだろう\nそこで人の魂は清められ\n天に昇るに値するようになる。\n\nしかしここで、死んだ詩よ復活せよ、\n聖なるムーサたちよ、私はあなたたちのものだから；\nカリオペよ少し立ち上がれ、\n\n私の歌をあの音で伴奏しながら、\nその音によって哀れなカサリカたちは\n赦しを絶望するほどの打撃を感じた。"
+    },
+    {
+      "id": 2,
+      "verses": "v.13–27",
+      "speaker": "Dante-narratore",
+      "original": "Dolce color d'orïental zaffiro,\nche s'accoglieva nel sereno aspetto\ndel mezzo, puro infino al primo giro,\n\na li occhi miei ricominciò diletto,\ntosto ch'io usci' fuor de l'aura morta\nche m'avea contristati li occhi e 'l petto.\n\nLo bel pianeto che d'amar conforta\nfaceva tutto rider l'orïente,\nveland i Pesci ch'erano in sua scorta.\n\nI' mi volsi a man destra, e puosi mente\na l'altro polo, e vidi quattro stelle\nnon viste mai fuor ch'a la prima gente.\n\nGoder pareva 'l ciel di lor fiammelle:\no settentrional vedovo sito,\npo' che privato se' di veder quelle!",
+      "provisionalTranslation": "東方のサファイアの甘い色が、\n中空の晴れ渡った顔に集まっていた、\n最初の天球まで純粋に；\n\n私の目に再び喜びが始まった、\n死んだ大気の外に出るやいなや\nそれは私の目と胸を悲しませていた。\n\n愛を慰める美しい惑星（金星）が\n東全体を笑わせていた、\n供の魚座（うお座）を覆い隠しながら。\n\n私は右手に向き直り、心を注いだ\n別の極（南極）へと、そして四つの星を見た\n最初の人（アダムとイヴ）以外には決して見られなかった。\n\n天はそれらの炎に喜んでいるように見えた：\nああ、北の孀居の場所よ、\nそれらを見ることを奪われているために！"
+    },
+    {
+      "id": 3,
+      "verses": "v.28–48",
+      "speaker": "Catone",
+      "original": "Quand'io mi fui da quella gente queta\nalquanto allontanato, uno spirto solo,\npar che sonnecchiasse, in su l'erba seduta.\n\n«Voi chi siete che contro al cieco fiume\nfuggita avete la prigione etterna?»\ndiss'elli, movendo quelle oneste piume.\n\n«Chi v'ha guidati, o che vi fu lucerna,\nuscendo fuor de la profonda notte\nche sempre nera fa la valle inferna?\n\nSon le leggi d'abisso così rotte?\no è mutato in ciel novo consiglio,\nche, dannati, venite a le mie grotte?»",
+      "provisionalTranslation": "私があの静かな人々から\n少し離れた時、一人の霊だけが、\n眠っているように見えた、草の上に座って。\n\n「あなた方は誰か、盲目の川に逆らって\n永遠の牢獄から逃れた者は？」\n彼は言った、あの品格ある羽根（白髪）を動かしながら。\n\n「誰があなた方を導いたのか、何があなた方の灯台だったのか、\n深い夜から出るにあたって\nそれは常に地獄の谷を黒くする？\n\n深淵の法は こうも破られるのか？\nあるいは天では新しい決議が変わったのか、\n断罪された者が、私の岩窟に来るとは？」"
+    },
+    {
+      "id": 4,
+      "verses": "v.49–69",
+      "speaker": "Virgilio",
+      "original": "Lo mio maestro allor mi diè di piglio,\ne con parole e con mani e con cenni\nreverende mi fé le gambe e 'l ciglio.\n\nPoi rispuose a lui: «Da me non venni:\ndonna scese del ciel, per li cui preghi\nde la mia compagnia costui sovvenni.\n\nMa da ch'è tuo voler che più si spieghi\ndi nostra condizion com'ell'è vera,\nvoler mio non è che tu mi neghi.\n\nCostui non vide mai l'ultima sera;\nma per la sua follia le fu sì presso,\nche molto poco tempo a volger era.\n\nSì com'io dissi, fui mandato ad esso\nper lui campare; e non lì era altra via\nche questa per la quale io mi son messo.",
+      "provisionalTranslation": "私の師はその時私の腕をつかみ、\n言葉と手と合図で\n私に膝と目差しを敬うようにさせた。\n\nそれから彼は答えた：「私から来たのではない：\n天から一人の女性が降りてきた、その祈りによって\n私はこの者に私の同伴を与えた。\n\nしかし、私たちの状態がいかに真であるかを\nもっと詳しく説明するのがあなたの意志なら、\n私はあなたが私を拒むことを望まない。\n\nこの者は最後の夕べ（死）をまだ見ていない；\nしかし彼の愚かさによってそれにこれほど近づき、\n向かうまでに残された時間は非常に少なかった。\n\n私が言ったように、私は彼のもとへ遣わされた\n彼を救うために；そして他の道はなかった\nこの道以外には、私が踏み込んだ道の。"
+    },
+    {
+      "id": 5,
+      "verses": "v.70–93",
+      "speaker": "Virgilio",
+      "original": "Mostrat'ho lui tutta la gente ria;\nor ti mostro li spirti del purgatorio\nsotto la tua balia e de la mia.\n\nCom'ho condotto lui, saria lungo a dirti;\nde l'alto scende virtù che m'aiuta\ncondurlo a vederti e a udirti.\n\nOr ti piaccia gradir la sua venuta:\nLibertà va cercando, ch'è sì cara,\ncome sa chi per lei vita rifiuta.\n\nTu 'l sai, ché non ti fu amara\nla morte in Utica, dove lasciasti\nla vesta ch'al gran dì sarà sì chiara.\n\nNon son li editti etterni per noi guasti,\nché questi vive, e Minòs me non lega;\nma son del cerchio ove son li occhi casti\n\ndi Marzia tua, che 'n vista ancor ti priega,\no santo petto, che per tua la tegni:\nper lo suo amore adunque a noi ti piega.",
+      "provisionalTranslation": "私は彼に悪人全体を見せた；\n今あなたに、煉獄の霊たちを見せる\nあなたの管理と私の管理の下に。\n\nどのように私が彼を導いてきたか、あなたに話すのは長くなる；\n高いところから美徳が降ってくる私を助ける\n彼をあなたを見て聞くために導くために。\n\nどうか彼の到来を喜んで受け入れてほしい：\n自由を彼は求めている、それは非常に貴重だ、\nそのために命を拒む人が知っているように。\n\nあなたはそれを知っている、なぜならあなたにとって苦くなかった\nウティカでの死も、そこであなたは脱いだ\n偉大な日にこれほど輝かしいあの衣（肉体）を。\n\n永遠の法令は私たちによって破られていない、\nなぜならこの者は生きており、ミノスは私を縛らない；\nしかし私は円圏にいる、あなたのマルキアの貞潔な目がある\n\nそこで、彼女はまだその姿で懇願している\n聖なる胸よ、あなた自身のものとして彼女を保つように：\n彼女への愛のために、私たちに向いてほしい。"
+    },
+    {
+      "id": 6,
+      "verses": "v.94–111",
+      "speaker": "Catone",
+      "original": "Marzia piacque tanto a li occhi miei\nmentre ch'i' fu' di là, diss'elli allora,\nche quante grazie volle da me, diéi.\n\nOr che di là dal mal fiume dimora,\nnon mi può muovere, per quella legge\nche fatta fu quando me n'usci' fora.\n\nMa se donna del ciel ti move e regge,\ncome tu di', non c'è mestier lusinghe:\nbastisi ben che per lei mi richegge.\n\nVa dunque, e fa che tu costui ricinghe\nd'un giunco schietto e che li lavi 'l viso,\nsì ch'ogne sucidume quindi stinghe;\n\nché non si converrebbe, l'occhio sorpriso\nd'alcuna nebbia, andarsi a lui davante\nche li è ministro di quei di paradiso.\n\nQuest'isoletta intorno ad imo ad imo,\nlà dove 'l mar la batte, nasce giunco\nsovra 'l limo; null'altra pianta che fronda\n\nvive là sù perché non cede a l'onde.",
+      "provisionalTranslation": "マルキアは私の目にとてもよく見えた\n私があちら（生者の国）にいた間は、彼は言った、\n彼女が私に望んだどんな恩恵も、私は与えた。\n\n今は悪い川（アケロン川）の向こうに彼女が住んでいるから、\n私を動かすことができない、あの法によって\nそれは私がそこから出た時に作られた。\n\nしかし天の女性があなたを動かして導いているなら、\nあなたが言うように、奉承の必要はない：\n彼女のために私に求めるというだけで十分だ。\n\nだから行け、そしてこの者に\n真っ直ぐな葦を帯として巻きつけ、顔を洗わせよ、\nそれによってそこから一切の汚れを落とすために；\n\nなぜなら似つかわしくないから、何らかの霧に目が驚かされて、\n天国の者たちの侍従であるあの方（ベアトリーチェ）の前へ\n彼が行くことは。\n\nこの小島はあたり一帯に、最も低いところに、\n海が打ち寄せる場所に、葦が生まれる\n泥の上に；他の植物は葉さえも\n\n生きられない、なぜなら波に従わないから。"
+    },
+    {
+      "id": 7,
+      "verses": "v.112–136",
+      "speaker": "Dante-narratore",
+      "original": "Poi disparve; e io sù mi levai\nsanza parlare, e tutto mi ritrassi\na 'l duca mio, e li occhi a lui drizzai.\n\nEl cominciò: «Figliuol, segui i miei passi:\nvolgìan in dietro, ché di qua dichina\nesta pianura a' suoi termini bassi».\n\nL'alba vinceva l'ora mattutina\nche fuggia innanzi, sì che di lontano\nconobbi il tremolar de la marina.\n\nNoi andavam per lo solingo piano\ncom'om che torna a la perduta strada,\nche 'nfino ad essa li pare ire in vano.\n\nQuand'io fossi dove la rugiada\npugna col sole, per essere in parte\ndove, ad orezza, poco si dirada,\n\nambo le mani in su l'erba distese\nil mio maestro con amore; ond'io\nch'era accorto di sua mossa, tesi\n\nverse lui le guance lagrimose;\nivi mi fece tutto discoverto\nquel color che l'inferno mi nascose.\n\nVenimmo poi in sul lito diserto,\nche mai non vide navicar sue acque\nommo che di tornar sia poscia esperto.\n\nQuivi mi cinse sì com'altrui piacque:\noh maraviglia! ché qual elli scelse\nl'umile pianta, cotal si rinacque\n\nsubitamente là onde l'avelse.",
+      "provisionalTranslation": "それから彼は消えた；そして私は立ち上がった\n言葉なしに、そして師のところへ\n完全に引き戻り、彼に目を向けた。\n\n彼は始めた：「息子よ、私の歩みに従え：\n後ろに折り返そう、なぜならこちら側ではこの平原は\nその低い端へ傾いているから」。\n\n夜明けは朝の時間を打ち勝っていた\nそれは逃げていた前方へ、それほど遠くから\n私は海の揺らめきを知った。\n\n私たちは孤独な平原を歩いた\n失った道に戻る人のように、\nそこに着くまで空しく歩いているように思われる者の。\n\n私が露の場所に来た時\n日差しと戦う、その部分にいるために\nそこでは微風の中でもほとんど薄まらない、\n\n両手を草の上に広げた\n私の師は愛をもって；そこで私は\n彼の動きに気づいて、差し伸べた\n\n彼の方へ涙に濡れた頬を；\nそこで彼は私を完全に露わにした\n地獄が私から隠していた色を。\n\nそれから私たちは人けのない岸辺に来た、\nその水の上を船で航行したことがなく\nその後生還した経験を持つ者はいない。\n\nそこで彼は私に帯を巻いてくれた、他の方が望まれたように：\nああ、不思議！なぜなら彼が選んだ\n謙虚な植物は、そのように再び生まれた\n即座に、それが引き抜かれた場所に。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "la navicella del mio ingegno",
+      "body": "「私の才知の小舟（la navicella del mio ingegno）」──詩の航海の比喩。地獄篇の「残酷な海」を渡り終えた詩人の才知が今度は「より良い水（miglior acque）」へ帆を上げる。この比喩はCanto XXVIのユリシーズの「folle volo（狂気の飛翔）」と対照的──ユリシーズは未知の海に向けて航海して「神が望まなかった知識」に達したが、ダンテの才知の舟は神の恵みによって導かれる。ダンテはユリシーズの「狂気の越境」ではなく、謙虚な「導かれた旅」として煉獄篇を始める。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Ma qui la morta poesì resurga",
+      "body": "「しかしここで、死んだ詩よ復活せよ（Ma qui la morta poesì resurga）」──煉獄篇最初の明示的な詩学宣言。「死んだ詩（morta poesì）」は地獄篇の暗闇の詩を指し、それが「復活する（resurga）」──キリストの復活と同じ動詞。カリオペはムーサたちの長女で叙事詩のムーサ。「カサリカ（Piche）」との争い（カサリカが変身させられた九羽の鳥）──才知が傲慢によって滅びる警告として詩篇冒頭に置かれる。地獄篇→煉獄篇の転換を一連のソネットの転換のように詩学的に宣言する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "quattro stelle\nnon viste mai fuor ch'a la prima gente",
+      "body": "「四つの星、最初の人（アダムとイヴ）以外には決して見られなかった（quattro stelle / non viste mai fuor ch'a la prima gente）」──南半球にのみ輝く四つの星は南十字星の象徴的解釈として広く受け入れられている。しかしダンテの主要な意図は天文学的正確さよりも「堕罪以前の徳」の象徴──四元徳（知恵・正義・勇気・節制）。北極星が見える北半球（堕罪後の世界）では見えず、煉獄（浄化の場所）の南半球でのみ輝く。Canto VIIで七つの星（神学的徳）が加わる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Voi chi siete che contro al cieco fiume\nfuggita avete la prigione etterna?",
+      "body": "「あなた方は誰か、盲目の川に逆らって永遠の牢獄から逃れた者は（Voi chi siete che contro al cieco fiume / fuggita avete la prigione etterna）」──カトーの驚きは神学的・構造的な問いを内包する。地獄は「永遠の牢獄」であり、そこから逃れることは原則として不可能──ダンテが唯一の例外。「盲目の川（cieco fiume）」はアケロン川（地獄の川）。カトーがこの問いを発するのは、彼自身が地獄を経ずに（カエサルへの抵抗として自殺し、煉獄の番人になった）特殊な存在だから──「私はどこから来た旅人か」という問いは彼自身の存在への反問でもある。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "allusion",
+      "anchor": "donna scese del ciel, per li cui preghi\nde la mia compagnia costui sovvenni",
+      "body": "「天から一人の女性が降りてきた、その祈りによって私はこの者に私の同伴を与えた（donna scese del ciel, per li cui preghi / de la mia compagnia costui sovvenni）」──Inferno Canto II でベアトリーチェがウェルギリウスを遣わす場面の要約。ウェルギリウスはここで初めて自分の「使命」を外から説明する──自発的な案内ではなく、天の意志による派遣。「天の女性」はベアトリーチェであり、さらにその背後に聖母マリア・ルチアが連鎖する（Canto II参照）。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Libertà va cercando, ch'è sì cara,\ncome sa chi per lei vita rifiuta.",
+      "body": "「自由を彼は求めている、それは非常に貴重だ、そのために命を拒む人が知っているように（Libertà va cercando, ch'è sì cara, / come sa chi per lei vita rifiuta）」──煉獄篇で最も頻繁に引用される行の一つ。ウェルギリウスがカトーを説得するために使う言葉──カトー自身がまさに「自由のために命を捨てた」人物だから。ダンテの旅の目的は「霊的自由の回復」として提示される。プリーモ・レーヴィは『これが人間か』の中でこの行を引用し、アウシュヴィッツでの生存の意味として用いた。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "allusion",
+      "anchor": "Marzia tua, che 'n vista ancor ti priega",
+      "body": "「あなたのマルキア、彼女はまだその姿で懇願している（Marzia tua, che 'n vista ancor ti priega）」──マルキア・ポルキアはカトーの妻。ウェルギリウスは彼女への愛を根拠にカトーへの協力を求めるが、カトーはこれを拒否する（次段落）。煉獄では地上の絆（夫婦愛）より高次の愛（天の意志）が優先される──この拒否はダンテの「愛の段階論」（より高い愛が低い愛を超える）の具体例。マルキアは地獄の辺獄（Limbo）にいる。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Va dunque, e fa che tu costui ricinghe\nd'un giunco schietto",
+      "body": "「だから行け、そしてこの者に真っ直ぐな葦を帯として巻きつけよ（Va dunque, e fa che tu costui ricinghe / d'un giunco schietto）」──葦（giunco）の象徴性。葦は「謙虚（umile）」な植物──波に押されても折れずに曲がる。地獄では剛の岩・氷・石という「抵抗する」素材が支配したが、煉獄では柔軟な謙虚さが清めの象徴。§7の「humile pianta（謙虚な植物）」という呼称が確認する。ダンテが地獄で汚れた顔を洗い、葦を帯とすることは洗礼の清めのシンボリズムと対応する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "prosody",
+      "anchor": "L'alba vinceva l'ora mattutina\nche fuggia innanzi",
+      "body": "「夜明けは朝の時間を打ち勝っていた、それは逃げていた前方へ（L'alba vinceva l'ora mattutina / che fuggia innanzi）」──ダンテの夜明けの直喩の美しさ。「夜明けが朝の時間に勝つ」──光と闇の競争として夜明けを擬人化。地獄篇の「太陽は沈んでいた」という暗闇の始まりとの対照。煉獄篇は光の増大・時間の流れの回復として始まる──地獄には「時間の流れ」がなかったが、煉獄には夜明けがあり、太陽が動き、死と再生のサイクルがある。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "oh maraviglia! ché qual elli scelse\nl'umile pianta, cotal si rinacque\nsubitamente là onde l'avelse.",
+      "body": "「ああ、不思議！なぜなら彼が選んだ謙虚な植物は、そのように再び生まれた即座に、それが引き抜かれた場所に（oh maraviglia! ché qual elli scelse / l'umile pianta, cotal si rinacque / subitamente là onde l'avelse）」──煉獄篇の最初の奇跡。引き抜かれた葦が即座に再生する──これは煉獄の「再生の法則」の象徴的な予告。地獄では何も生長しなかった（Malebolgeの不毛な地）が、煉獄では謙虚さによって何でも再生する。「maraviglia（不思議）」は煉獄篇全体のキーワード──地獄の恐怖に代わり、煉獄の驚嘆・不思議が支配する。"
+    }
+  ]
+}

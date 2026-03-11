@@ -1,0 +1,88 @@
+{
+  "id": "rossetti_days_of_vanity",
+  "title": "Days of Vanity",
+  "author": "Christina Rossetti",
+  "source": "Poems (Rossetti, 1901). London: Macmillan, 1901. 底本: Wikisource en.wikisource.org/wiki/Poems_(Rossetti,_1901)/Days_of_Vanity（2024年6月版）照合済み。",
+  "year": "1862",
+  "firstPublication": "Poems, London: Macmillan, 1862.",
+  "difficulty": "初級",
+  "category": "rossetti_c",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★",
+  "context": "5連 × 6行、リフレイン形式の瞑想詩。各連末に「Such is life that dieth.（これが死にゆく命というもの）」というリフレインが繰り返され、連祷（litany）的な瞑想の構造を作る。韻型は AAB CCB（各連で変わる A・C 韻に対し B 韻のみリフレインで固定）。第1連が「夢・泡・煙」などの無形的比喩、第2–3連が自然、第4連が人間の経済的活動、第5連が時間の連鎖へと移行する哲学的順序を持つ。直前の「Vanity of Vanities」（ソネット・黙示録的・宇宙的スケール）と同じ伝道の書的 vanitas 主題を、より穏やかな日常的比喩と瞑想的リフレインで変奏する姉妹篇。",
+  "keywords": [
+    "vanitas", "リフレイン", "連祷", "伝道の書", "瞑想詩","虚無","虚栄",
+    "自然比喩", "AAB CCB", "Such is life", "ephemeral", "1862年"
+  ],
+  "relatedTexts": [
+    "rossetti_vanity_of_vanities",
+    "rossetti_monna_innominata"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "第1連（v.1–6）",
+      "speaker": null,
+      "original": "A dream that waketh,\nBubble that breaketh,\nSong whose burden sigheth,\nA passing breath,\nSmoke that vanisheth,—\nSuch is life that dieth.",
+      "provisionalTranslation": "目が覚める夢、\n割れる泡、\n溜め息のような歌の荷重、\n過ぎゆく息吹、\n消えてゆく煙──\nこれが死にゆく命というもの。"
+    },
+    {
+      "id": 2,
+      "verses": "第2連（v.7–12）",
+      "speaker": null,
+      "original": "A flower that fadeth,\nFruit the tree sheddeth,\nTrackless bird that flieth,\nSummer time brief,\nFalling of the leaf,—\nSuch is life that dieth.",
+      "provisionalTranslation": "萎れていく花、\n木の落とす果実、\n跡を残さず飛ぶ鳥、\n短い夏の時節、\n落葉──\nこれが死にゆく命というもの。"
+    },
+    {
+      "id": 3,
+      "verses": "第3連（v.13–18）",
+      "speaker": null,
+      "original": "A scent exhaling,\nSnow waters failing,\nMorning dew that drieth,\nA windy blast,\nLengthening shadows cast,—\nSuch is life that dieth.",
+      "provisionalTranslation": "立ちのぼる香り、\n消えゆく雪解け水、\n乾いてゆく朝露、\n風の一吹き、\n伸びていく影──\nこれが死にゆく命というもの。"
+    },
+    {
+      "id": 4,
+      "verses": "第4連（v.19–24）",
+      "speaker": null,
+      "original": "A scanty measure,\nRust-eaten treasure,\nSpending that nought buyeth,\nMoth on the wing,\nToil unprofiting,—\nSuch is life that dieth.",
+      "provisionalTranslation": "乏しい量、\n錆に食われた財産、\n何も買えない消費、\n飛ぶ蛾、\n実りのない労苦──\nこれが死にゆく命というもの。"
+    },
+    {
+      "id": 5,
+      "verses": "第5連（v.25–30）",
+      "speaker": null,
+      "original": "Morrow by morrow\nSorrow breeds sorrow,\nFor this my song sigheth;\nFrom day to night\nWe lapse out of sight.—\nSuch is life that dieth.",
+      "provisionalTranslation": "明日また明日と\n悲しみが悲しみを産む、\nそれゆえ私の歌は溜め息をつく。\n昼から夜へと\n私たちは見えなくなっていく──\nこれが死にゆく命というもの。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Such is life that dieth.",
+      "body": "韻型 AAB CCB、リフレイン「Such is life that dieth.」が B 韻に固定されて全5連を締める──連祷（litany）の詩的形式。キリスト教典礼の連祷は「主よ、憐れみたまえ（Kyrie eleison）」のような応答句が繰り返されるが、この詩ではそれが「Such is life that dieth.」に置き換えられ、世俗的瞑想を宗教的リズムに載せる。A韻は各連ごとに変わり（waketh/breaketh、fadeth/sheddeth…）、その変化が次々と新しい比喩を招き入れ、しかし常に同じリフレインに収束するという構造が「多様な表れ方をするが本質は一つ（虚しさ）」という主題を形式で体現する。Vanity of Vanities との対比：あちらは感嘆詞「Ah」の反復で情動的に始まるのに対し、Days of Vanity は不定冠詞「A」の反復（A dream, A flower, A scent, A scanty measure）で物を淡々と列挙する──感嘆から観照へ。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "A dream that waketh,\nBubble that breaketh,\nSong whose burden sigheth,\nA passing breath,\nSmoke that vanisheth,—",
+      "body": "第1連の5つの比喩はすべて伝道の書の vanitas イメージ系列に属する。「A dream that waketh」──ヨブ記 20:8「彼は夢のように飛び去り、見つからない。夜の幻のように消え去る」。「Bubble that breaketh」──伝道の書的無常の常套表現。「A passing breath」──伝道の書 1:14「すべては空（hebel）」──hebel は原語でまさに「息・蒸気・無形のもの」。「Smoke that vanisheth」──ヤコブ書 4:14「あなたがたの命とは何か。あなたがたは、しばらく現れてその後消えてしまう霧（煙）にすぎない」。5つの比喩が聖書の複数箇所から収集され、リフレインの前に収束する構造はロセッティの聖書的教養の密度を示す。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "A scanty measure,\nRust-eaten treasure,\nSpending that nought buyeth,\nMoth on the wing,\nToil unprofiting,—",
+      "body": "第4連は他の連と異なり「自然」ではなく「人間の経済的活動」を vanitas の比喩とする──貯蓄・財産・消費・労働というヴィクトリア朝的テーマが突然現れる。「Rust-eaten treasure（錆に食われた財産）」──マタイ 6:19「自分のために、虫が食い錆が侵す地上に宝を積んではならない」。「Moth on the wing（飛ぶ蛾）」──同じくマタイ 6:19 の「虫（moth）」との連絡。「Toil unprofiting（実りのない労苦）」──伝道の書 1:3「太陽の下での労苦すべてに、人に何の益があるか」。資本主義的蓄積（treasure / spending）を聖書の vanitas 批判の文脈に置くことで、産業化するヴィクトリア朝社会への間接的批評として機能する。Monna Innominata にはこの経済的 vanitas は明示されないが、Sonnet XIV「Youth gone, and beauty gone」の「残るものは何か」という問いの背後に同じ批判が潜む。",
+      "targetId": "rossetti_monna_innominata",
+      "targetParagraphId": 14
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Morrow by morrow\nSorrow breeds sorrow,",
+      "body": "第5連はそれまでの名詞列挙（「A dream / A flower / A scent / A scanty measure」）から突然「Morrow by morrow / Sorrow breeds sorrow」という時間の連鎖・感情の繁殖へと転換する──詩の唯一の「動的プロセス」の描写。「Sorrow breeds sorrow（悲しみが悲しみを産む）」──単純な無常ではなく、悲しみが次の悲しみの原因になるという累積的苦悩。「For this my song sigheth（それゆえ私の歌は溜め息をつく）」──唯一の一人称登場。詩全体で観察者として沈黙していた詩人が「私の歌」という言葉でここに現れる──5連を通じて溜まってきた vanitas の観察が、この一行で詩人の溜め息として結晶する。「We lapse out of sight（私たちは見えなくなっていく）」──一人称複数形「We」で詩人は読者とともに「消えてゆく命」の側に入る。Vanity of Vanities の「men shall go fearfully」という三人称と対比して、ここでは詩人自身が虚無の中に包摂される。",
+      "targetId": "rossetti_vanity_of_vanities",
+      "targetParagraphId": 2
+    }
+  ]
+}

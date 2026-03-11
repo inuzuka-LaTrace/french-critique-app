@@ -30,6 +30,7 @@ import dannunzioData from './data/dannunzio';
 import poeData from './data/poe';
 import wildeData from './data/wilde';
 import swinburneData from './data/swinburne';
+import rossetti_cData from './data/rossetti_c';
 import yeatsData from './data/yeats';
 import { CATEGORIES, CAT_SHORT, ANNOTATION_TYPE_DEF, SPEECH_RATES, PREFERRED_VOICES } from './constants';
 import { getTranslation, getOriginalText, getSpeechLang, getBestVoice, extractSnippet, fcParaKey, fcFontSizeClass } from './utils';
@@ -202,6 +203,7 @@ export default function App() {
       ...wildeData,
       ...swinburneData,
       ...yeatsData,
+      ...rossetti_cData,
       ...georgeData,
 　　　　...hofmannsthalData,
       ...traklData,
@@ -1739,6 +1741,7 @@ export default function App() {
     if (cat?.startsWith('poe'))        return darkMode ? 'bg-red-1000/40 text-red-400' : 'bg-red-200 text-red-900';
     if (cat?.startsWith('wilde'))        return darkMode ? 'bg-teal-900/40 text-teal-300' : 'bg-teal-100 text-teal-800';
     if (cat?.startsWith('swinburne'))    return darkMode ? 'bg-indigo-900/40 text-indigo-300' : 'bg-indigo-100 text-indigo-800';
+    if (cat?.startsWith('rossetti_c'))       return darkMode ? 'bg-rose-900/40 text-rose-300'     : 'bg-rose-100 text-rose-800';
     if (cat?.startsWith('yeats'))        return darkMode ? 'bg-slate-900/40 text-slate-300' : 'bg-slate-100 text-slate-800';
     if (cat?.startsWith('george'))       return darkMode ? 'bg-teal-900/40 text-teal-300' : 'bg-teal-100 text-teal-800';
     if (cat?.startsWith('hofmannsthal')) return darkMode ? 'bg-yellow-900/40 text-yellow-400' : 'bg-yellow-200 text-yellow-900';

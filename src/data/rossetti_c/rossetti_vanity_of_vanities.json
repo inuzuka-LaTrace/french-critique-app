@@ -1,0 +1,58 @@
+{
+  "id": "rossetti_vanity_of_vanities",
+  "title": "Vanity of Vanities",
+  "author": "Christina Rossetti",
+  "source": "Poems (Rossetti, 1901). London: Macmillan, 1901. 底本: Wikisource en.wikisource.org/wiki/Poems_(Rossetti,_1901)/Vanity_of_Vanities（2024年8月版）照合済み。",
+  "year": "1847",
+  "firstPublication": "Poems, London: Macmillan, 1862（初出版）。",
+  "difficulty": "中級",
+  "category": "rossetti_c",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★",
+  "context": "19歳で書かれたソネット。タイトルは旧約聖書「伝道の書」1:2「空の空、すべては空（Vanity of vanities, all is vanity）」から取られ、「快楽の虚しさ・過去の栄光の消滅」という詩の前半が、終末的な黙示録イメージ（天使のラッパ・落ちる星）を経て、「三世代すべての疲弊」という普遍的無力感へと展開する。オクターヴ（ABBA ABBA）が個人の嘆きと宇宙的終末を重ね、セステット（CDCDCD）が古い人・強い人・若者という三世代の疲弊で締める構造。Monna Innominata Sonnet III「Though there be nothing new beneath the sun」・Sonnet XIV「Silence of love that cannot sing again」と同じ「vanitas」の世界観を共有し、ロセッティの詩学的基底として機能する。",
+  "keywords": [
+    "vanitas", "伝道の書", "黙示録", "三世代", "終末", "ソネット",
+    "Ecclesiastes", "angel-blast", "weariness", "Victorian", "1847年"
+  ],
+  "relatedTexts": [
+    "rossetti_monna_innominata"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–8（オクターヴ）",
+      "speaker": null,
+      "original": "Ah, woe is me for pleasure that is vain,\nAh, woe is me for glory that is past;\nPleasure that bringeth sorrow at the last,\nGlory that at the last bringeth no gain!\nSo saith the sinking heart; and so again\nIt shall say till the mighty angel-blast\nIs blown, making the sun and moon aghast,\nAnd showering down the stars like sudden rain.",
+      "provisionalTranslation": "ああ、嗚呼、虚しい快楽のために、\nああ、嗚呼、過ぎ去った栄光のために。\n終いには悲しみをもたらす快楽よ、\n終いには何の利得ももたらさない栄光よ！\nそう沈みゆく心は言う。そしてまた\n偉大な天使のラッパが吹かれて\n太陽と月を震え上がらせ、\n星々を突然の雨のように降り注がせるまで、その心は言い続けるだろう。"
+    },
+    {
+      "id": 2,
+      "verses": "v.9–14（セステット）",
+      "speaker": null,
+      "original": "And evermore men shall go fearfully\nBending beneath their weight of heaviness;\nAnd ancient men shall lie down wearily,\nAnd strong men shall rise up in weariness;\nYea, even the young shall answer sighingly,\nSaying one to another: How vain it is!",
+      "provisionalTranslation": "そして永遠に人々は恐ろしげに歩むだろう、\n重苦しさの重みの下に屈みながら。\n老いた人々は疲れ果てて横たわり、\n強い人々は疲労の中に立ち上がるだろう。\nそう、若者でさえも溜め息をついて答えるだろう、\n互いに言い合いながら──なんと虚しいことか！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Ah, woe is me for pleasure that is vain,\nAh, woe is me for glory that is past;",
+      "body": "韻型 ABBA ABBA / CDCDCD──ペトラルカ式ソネット正統型。オクターヴの A 韻（vain / again / rain）と B 韻（past / last / blast / aghast）が「個人の嘆き」から「宇宙的終末」へと意味を拡張しながら同一の韻で結ばれる。冒頭の二重感嘆「Ah, woe is me」の反復──Monna Innominata Sonnet IX「For woe is me who walk so apt to fall」の「woe is me」と同一表現。セステットの CDCDCD は C 韻（fearfully / wearily / sighingly）と D 韻（heaviness / weariness / vain it is）がそれぞれ三世代（古い人・強い人・若者）の疲弊に対応する──形式と内容の完全な一致。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "the mighty angel-blast\nIs blown, making the sun and moon aghast,\nAnd showering down the stars like sudden rain.",
+      "body": "三重の黙示録典拠が重なる。「angel-blast」──黙示録 8–9章の七つのラッパ、特に第六のラッパ（9:13）は世界の終末を告げる。「making the sun and moon aghast」──ヨエル書 2:31「太陽は闇に変わり、月は血に変わる、主の大いなる恐ろしい日が来る前に」・黙示録 6:12「太陽は黒くなり、月は血のようになった」。「showering down the stars like sudden rain」──黙示録 6:13「天の星が地に落ちた、いちじくの木が大風に揺さぶられて青い実を振り落とすように」。ロセッティは「快楽の虚しさ（伝道の書）」から「宇宙的終末（黙示録）」への急激な跳躍でオクターヴを完成させる──個人の心の沈みが宇宙的終末と同列に置かれる詩的等価性。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "allusion",
+      "anchor": "Yea, even the young shall answer sighingly,\nSaying one to another: How vain it is!",
+      "body": "「even the young（若者でさえも）」──逆接的クライマックス。古い人が疲れ、強い人が疲れるのは予想できる。しかし「若者でさえも」が溜め息で答えるという結末は、疲弊の普遍性・世代を超えた伝道の書的無常を完成させる。「Saying one to another（互いに言い合いながら）」──伝道の書 1:4–8の「一つの世代が去り、また一つの世代が来る。しかし地は永遠に変わらない」の語り口の反響。結末の「How vain it is!（なんと虚しいことか！）」はタイトル「Vanity of Vanities」への円環的回帰──詩が「虚しさ」の主題の中に自己を閉じる。Monna Innominata 最終行「Silence of love that cannot sing again」との比較：どちらも「何かが終わった後の虚しさ」を主題とするが、Vanity of Vanities は普遍的宗教的虚無、Monna Innominata XIV は個人的愛の沈黙として変奏される。",
+      "targetId": "rossetti_monna_innominata",
+      "targetParagraphId": 14
+    }
+  ]
+}

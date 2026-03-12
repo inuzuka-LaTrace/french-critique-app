@@ -1,0 +1,104 @@
+{
+  "id": "pascoli_i_sepolcri",
+  "title": "I sepolcri",
+  "author": "Giovanni Pascoli",
+  "source": "Poesie varie di Giovanni Pascoli, raccolte da Maria, seconda edizione riordinata ed aumentata, Bologna, Zanichelli, 1914. Via Wikisource: https://it.wikisource.org/wiki/Poesie_varie_(Pascoli)/1882-1895/I_sepolcri",
+  "year": "1885",
+  "firstPublication": "初出：Strenna（年刊アンソロジー）。後に Myricae 初版に収録。その後パスコリ自身が「異教的な風味が自分の気持ちに反する」として削除した。",
+  "difficulty": "中級",
+  "category": "pascoli",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★",
+  "context": "1885年聖木曜日、パスコリが姉妹たちとマッサのカプチン修道会の教会を訪れた際の体験をもとにした。教会内部の蠟燭と信者たちの物音から逃れるように外に出た詩人は、沈む太陽と夕暮れの海に向かって両手を広げ、「私たちの民の神（異教的・汎神論的な自然の神）」に祈る。ソネット形式（ABBA ABBA / CDC DCD）を厳格に守りつつ、キリスト教的礼拝への違和感と自然への汎神論的傾倒を鮮明に刻んだ。妹マリアの注釈によれば「異教的な風味（saporetto pagano）」のため後に削除されたが、パスコリの宗教観の核心を示す作品として後世に重視される。",
+  "keywords": ["ソネット", "夕暮れ", "海", "太陽", "異教", "汎神論", "キリスト教", "蠟燭", "星", "マッサ"],
+  "relatedTexts": ["pascoli_melanconia", "pascoli_fantasmagoria", "pascoli_al_dio_termine"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Ardono i ceri al piede dell'altare\nnelle tenebre gravi, umide, intente,\ndove pur s'ode continuamente\nfrusciare, sgonnellare, stacchettare.",
+      "provisionalTranslation": "祭壇の足元で蠟燭が燃えている、\n重く、湿っていて、緊張した闇の中で、\nそこではなお絶えず聞こえてくる、\nスカートの衣擦れ、裾のひらめき、踵の音が。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Il sol muore. Oh! non qui venni a pregare\nquel nuovo Dio tra i ceri sanguinente;\nio, salutando il Dio di nostra gente,\ntendo le braccia all'infinito mare:",
+      "provisionalTranslation": "太陽が死んでゆく。ああ！　私はここへ来たのではない、\n蠟燭の間で血のように赤い、あの新しい神に祈るために。\n私は、私たちの民の神に挨拶しながら、\n両手を限りない海へと差し伸べる。"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–11",
+      "original": "dove la vampa del suo rogo annera\nfumando, e il vento piange, e lo seconda\nl'ululo d'accorrenti onde marine.",
+      "provisionalTranslation": "そこでは彼の火葬の炎が、煙を上げながら、\n空を黒く染め、風が泣き、\n押し寄せる海波の呻き声がそれに和す。"
+    },
+    {
+      "id": 4,
+      "verses": "v.12–14",
+      "original": "Stelle tu versi ad una ad una, o Sera.\nLargo il pianto rampolla a la profonda\nSera, disfavillando senza fine.",
+      "provisionalTranslation": "星を一つまた一つと注いでいく、おお、夕暮れよ。\n深い夕暮れから、広く涙が湧き出る、\n火花を散らしながら、果てしなく。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "frusciare, sgonnellare, stacchettare",
+      "body": "動詞三連打（不定詞の列挙）によるオノマトペ的効果。frusciare（衣擦れの音）/ sgonnellare（スカートをひらひらさせる）/ stacchettare（踵をこつこつさせる）──三つとも女性信者の動作に関連した動詞で、教会内の物音をあたかも音響実況のように刻む。パスコリ特有の感覚的精密さの初期例。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "tenebre gravi, umide, intente",
+      "body": "形容詞三連「重い、湿っている、緊張した（gravi, umide, intente）」：物理的属性（重さ・湿度）と心理的属性（注意深さ・張り詰め）を並置する。「intente」は元来「ある方向に向いた、熱心な」の意で、闇そのものが何かに耳をそばだてているかのような擬人化効果を持つ。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "quel nuovo Dio",
+      "body": "「あの新しい神（quel nuovo Dio）」はキリスト教のイエスを指す。「nuovo（新しい）」という語は批判的含意を帯び、それ以前の「古い神（il Dio di nostra gente）」──ギリシャ・ローマ的汎神論、または太陽・自然への崇拝──に対する「後から来た神」として位置づける。妹マリアが「異教的な風味（saporetto pagano）」と言ったのはこの行の含意を指す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "il Dio di nostra gente",
+      "body": "「私たちの民の神（il Dio di nostra gente）」：曖昧な複数所有格「nostra gente（私たちの民）」は、ロマーニャ農民の土着信仰・古代イタリア（ローマ・エトルリア）の自然神・あるいはギリシャ的太陽崇拝など、特定しない広い「異教的」神観念を示す。具体的に同定せず曖昧にしておくことが詩の戦略。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "allusion",
+      "anchor": "I SEPOLCRI",
+      "body": "題名はウーゴ・フォスコロの長篇詩「Dei Sepolcri」（1807年）への明示的な参照。フォスコロも古代の自然的・英雄的精神（異教的記憶）とキリスト教的墓制との対比を主題とした。パスコリはフォスコロの構造を14行に凝縮しながら、英雄の墓から太陽の死（日没）へと焦点を移す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "la vampa del suo rogo",
+      "body": "「彼の火葬の炎（la vampa del suo rogo）」：沈む太陽を火葬の薪（rogo）の炎として描く。太陽の日没を神の死・英雄の荼毘に付すこととして語ることで、太陽崇拝の宗教的次元が強調される。「rogo」はまたジョルダーノ・ブルーノの火刑やサヴォナローラの焚刑を連想させ、異端の殉教者のイメージとも交差する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": "il vento piange, e lo seconda / l'ululo d'accorrenti onde marine",
+      "body": "セステット（第3・第4連）の韻律はCDC DCD。「annera / seconda / marina」「Sera / profonda / fine」の二組の三行脚韻がソネットのイタリア式結末部を形成する。「il vento piange（風が泣く）」と「l'ululo（呻き声）」は擬人化と擬音語（ululare）を重ねて、自然が喪に服す場面を音響的に構成する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Stelle tu versi ad una ad una, o Sera",
+      "body": "夕暮れ（Sera）が星を「一つ一つ注ぎ込む（versi）」：動詞 versare（注ぐ・こぼす）は液体の動作語で、星を液体のように空に流し込む夕暮れの擬人化。最終三行では「Sera（夕暮れ）」が大文字で二度現れ、事実上の女神として呼びかけられる──キリスト教の神に代わる汎神論的神格化の完成。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "disfavillando senza fine",
+      "body": "「火花を散らしながら、果てしなく（disfavillando senza fine）」：詩の最終語「senza fine（終わりなく）」は、教会内の「絶え間ない（continuamente）」物音と対応し、異教的自然の時間──終わりのない星の煌めき──をキリスト教的礼拝の時間に対置して詩を閉じる。「disfavillare」（火花を散らして消えていく）は動作の消滅と永続を同時に含む複合語。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Largo il pianto rampolla a la profonda / Sera",
+      "body": "「深い夕暮れから広く涙が湧き出る」：夕暮れを哀悼する汎神論的感性はヴェルレーヌ「Chanson d'automne」の「sanglots longs（長い嗚咽）」や、ボードレール「Harmonie du soir」の「le soleil s'est noyé（太陽は溺れた）」と並走する。日没を神の死として嘆くフランス象徴主義の感性とパスコリが共有する地点。",
+      "targetId": "baudelaire_harmonie_du_soir"
+    }
+  ]
+}

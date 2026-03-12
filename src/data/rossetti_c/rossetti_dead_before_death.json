@@ -1,0 +1,92 @@
+{
+  "id": "rossetti_dead_before_death",
+  "title": "Dead before Death",
+  "author": "Christina Rossetti",
+  "source": "Poems (Rossetti, 1901). London: Macmillan, 1901. 底本: Wikisource en.wikisource.org/wiki/Poems_(Rossetti,_1901)/Dead_before_Death（2024年版）照合済み。初出: Goblin Market and Other Poems, London: Macmillan, 1862.",
+  "year": "1862",
+  "firstPublication": "Goblin Market and Other Poems, London: Macmillan, 1862.",
+  "difficulty": "中級",
+  "category": "rossetti_c",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "副題「SONNET」を持つ14行詩。「死の前の死」とは肉体的な死ではなく、感情・希望・誠実さが生きたまま枯れ果てた状態を指す。語り手は「変わってしまった」人物──かつて共に未来を夢見た誰か（愛人か友人か）──を、今や「冷たく硬直し、生涯の嘘の型に固まった」存在として描く。オクターヴ（8行）で変容と失望を積み上げ、セステット（6行）では「lost」の三連反復と「chime to everlasting chime」の永続性で、その喪失が死よりも長く続くことを宣言する。ヴィクトリア朝的な死の詩学でありながら、対象を死者ではなく「精神的に死んだ生者」とする逆転が鋭い。",
+  "keywords": [
+    "ソネット", "精神的死", "変容", "喪失", "Victorian poetry", "冷たさ", "嘘", "lost"
+  ],
+  "relatedTexts": [
+    "rossetti_monna_innominata",
+    "rossetti_golden_silences"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "l.1-8",
+      "speaker": null,
+      "original": "Ah! changed and cold, how changed and very cold!\nWith stiffened smiling lips and cold calm eyes:\nChanged, yet the same; much knowing, little wise;\nThis was the promise of the days of old!\nGrown hard and stubborn in the ancient mould,\nGrown rigid in the sham of lifelong lies:\nWe hoped for better things as years would rise,\nBut it is over as a tale once told.",
+      "provisionalTranslation": "ああ！変わり果てて冷たく、なんと変わり、なんと冷たいことか！\n硬直した微笑む唇と、冷たく落ち着いた目で。\n変わって、しかし同じ。多くを知り、知恵は少ない。\nこれが昔の日々の約束だったのか！\n古い型の中で硬く頑固になり、\n生涯の嘘という偽りの中で硬直し、\n年月が重なるにつれより良いものを私たちは望んでいた、\nしかし一度語られた話のように、もう終わってしまった。"
+    },
+    {
+      "id": 2,
+      "verses": "l.9-14",
+      "speaker": null,
+      "original": "All fallen the blossom that no fruitage bore,\nAll lost the present and the future time,\nAll lost, all lost, the lapse that went before:\nSo lost till death shut to the opened door,\nSo lost from chime to everlasting chime,\nSo cold and lost for ever evermore.",
+      "provisionalTranslation": "実を結ばなかった花はすべて散り、\n現在も未来の時もすべて失われ、\nすべて失われ、すべて失われ、過ぎ去った時間も。\n死が開いた扉を閉じるまで、そのように失われ続け、\n鐘の音から永遠の鐘の音まで、そのように失われ続け、\nそのように冷たく失われて、永遠にいつまでも。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "イタリア式ソネット（ペトラルカ形式）。韻律構造：オクターヴ ABBAABBA、セステット CDCDCD。弱強五歩格（iambic pentameter）。「cold」が1行目に2回登場し、冷たさを強調する反復開始。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "changed and cold",
+      "body": "詩全体のライトモティーフ。「cold」は物理的な冷たさではなく感情的・道徳的な冷却を指す。1行目の感嘆符（Ah!）は追悼ではなく幻滅の嘆き。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "much knowing, little wise",
+      "body": "知識（knowing）と知恵（wise）の分離。情報や経験を積みながらも真の洞察を欠く状態──「死の前の死」の知的側面。聖書的な知恵（Proverbs）の反響もある。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "sham of lifelong lies",
+      "body": "「sham（偽り・見せかけ）」と「lies（嘘）」の重複。外見上は生きているが内実は虚偽で構成されている状態。「changed, yet the same」（変わって、しかし同じ）という矛盾とここで呼応する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "a tale once told",
+      "body": "「once told（一度語られた）」は完結・終了を意味する。マクベス「Tomorrow, and tomorrow…（人生は歩き回る影、哀れな役者）」の「told by an idiot」への暗示とも読める。希望の物語が過去形に封じられた瞬間。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "All fallen the blossom that no fruitage bore",
+      "body": "「fruitage（実）を結ばなかった花」は無駄に終わった可能性・約束のメタファー。聖書のいちじくの木（Matthew 21:19）の反響──実を結ばない木は枯れる運命。Golden Silencesの農耕メタファーと対照的に、ここでは実らない花が落ちる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "All lost, all lost",
+      "body": "三連の「All lost」はアナフォラ（反復による強調）。現在・未来・過去のすべてが「失われた」と宣言することで、時間軸全体が喪失に覆われる。ミルトン『失楽園』の「All is lost」との響き合い。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "chime to everlasting chime",
+      "body": "「chime（鐘の音）」は時間の刻みと教会の鐘を二重に指す。「everlasting chime」は永遠まで続く時間の響き──この喪失が死後も続くという恐ろしい含意。肉体的な死（"death shut to the opened door"）でさえ、この「cold and lost」の状態を終わらせない。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "for ever evermore",
+      "body": "ポー「The Raven」の有名な反復句「Nevermore」との響き合い。ポーが「もはや二度と」と否定で閉じるのに対し、ロセッティは「永遠にいつまでも」と肯定形で喪失の永続を刻む。両者ともに死よりも深い喪失感を扱う。",
+      "targetId": "poe_the_raven"
+    }
+  ]
+}

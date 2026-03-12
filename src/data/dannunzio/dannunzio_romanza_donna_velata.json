@@ -1,0 +1,120 @@
+{
+  "id": "dannunzio_romanza_donna_velata",
+  "title": "Romanza della donna velata",
+  "author": "Gabriele D'Annunzio",
+  "source": "Poema paradisiaco, sezione Hortus Larvarum. 初版: Gabriele D'Annunzio, L'orto e la prora, Milano, Fratelli Treves Editori, 1896. 底本: Wikisource it.wikisource.org/wiki/Poema_paradisiaco/Hortus_Larvarum/Romanza_della_donna_velata（2025年版）照合済み。",
+  "year": "1893",
+  "firstPublication": "Poema paradisiaco, Milano, Fratelli Treves Editori, 1893.",
+  "difficulty": "上級",
+  "category": "dannunzio",
+  "originalLang": "it",
+  "modernRelevance": "★★★★★",
+  "context": "「Hortus Larvarum（幽霊たちの庭）」詩群所収。全6連各7行（42行）、各連末が「più（もはや〜ない／より）」という同一語で閉じるリフレイン形式。語り手はかつて体験した「音楽・夢・ヴェールをまとった女性」という三重の記憶を手繰り寄せようとするが、記憶は断片的にしか戻らない──秋の日・オパールの太陽・バルコニーへ届くかすかな音楽・薔薇の囁き・川と海の合流点・ヴェール越しの女性の姿と鍵盤楽器。第6連で音楽の甘さに「深い忘却（oblìo profondo）」へと引き込まれた記憶そのものが語られ、詩は「魂よ、なぜあの遠い世界をもう覚えていないのか」という問いで閉じる。La donna del sarcofagoの謎める女性の「沈黙」と対照的に、この詩の女性はヴェール・音楽・記憶の霧の中に溶け込む。ロデンバックの「L'Oubli」（忘却の外的目撃）とは逆に、ダヌンツィオは忘却を内側から、記憶の消えていく主体として語る。",
+  "keywords": [
+    "記憶", "忘却", "音楽", "ヴェール", "秋", "夢", "リフレイン", "oblìo", "ダヌンツィオ", "Hortus Larvarum"
+  ],
+  "relatedTexts": [
+    "dannunzio_donna_sarcofago",
+    "dannunzio_psiche_giacente",
+    "rodenbach_loubli",
+    "rossetti_remember",
+    "rossetti_monna_innominata"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "l.1-7",
+      "speaker": null,
+      "original": "Chi dunque ne la mia memoria oscura\nsusciterà quel duplice ricordo?\nUna musica e un sogno. (E una figura\ndi donna?) Oh, ch'io ritrovi il primo accordo\ne rivivrà la dolce creatura,\ned il sogno con lei, nel mio ricordo;\ne l'una e l'altro non morranno più.",
+      "provisionalTranslation": "いったい誰が私の暗い記憶の中に\nあの二重の記憶を呼び起こすだろうか？\nひとつの音楽とひとつの夢。（そして女性の\n姿も？）ああ、最初の和音を取り戻せたなら、\n甘い存在が蘇るだろう、\nそして夢も彼女とともに私の記憶の中に。\nそしてその二つはもはや死ぬことがないだろう。"
+    },
+    {
+      "id": 2,
+      "verses": "l.8-14",
+      "speaker": null,
+      "original": "Ma quale fu la musica? Ma quale\nfu il sogno? Ma qual era il vostro viso,\ndonna velata? Il giorno era autunnale\n(mi sovviene del giorno, all'improvviso!)\ned il sole era come un grande opale\nin un ciel così bianco che un sorriso\ndi piena luna non è forse più.",
+      "provisionalTranslation": "しかしどんな音楽だったのか？ どんな\n夢だったのか？ あなたの顔はどんなだったのか、\nヴェールをまとった女よ？ その日は秋の日だった\n（突然、その日のことを思い出した！）\nそして太陽は大きなオパールのようで、\n空は白く、満月の微笑みも\nそれほど白くはないかもしれないほどだった。"
+    },
+    {
+      "id": 3,
+      "verses": "l.15-21",
+      "speaker": null,
+      "original": "D'altro ancor mi sovviene. Giungea piano\na me il suono, fin là su la ringhiera;\ne pareami venisse di lontano.\nAi penduli rosai qualche leggera\naura facea, ne le pause, uno strano\nbisbiglio. Ed anche quella musica era\ndolce; ma non so quale fosse più.",
+      "provisionalTranslation": "他のことも思い出す。音がそっと\n私のもとに届いてきた、バルコニーのそこまで。\nそして遠くから来るように思われた。\n垂れ下がる薔薇の茂みに、休符の間、\n軽い風がひとつの奇妙な\n囁きを起こした。あの音楽もまた\n甘かった。しかしどちらがより甘かったかはわからない。"
+    },
+    {
+      "id": 4,
+      "verses": "l.22-28",
+      "speaker": null,
+      "original": "Profondavasi innanzi una contrada\nnobile e calma; e un fiume la partiva\nlento, che mettea foce in una rada\ncerula. E il fiume lungi m'appariva\nnel diffuso vapor come la spada\nappannato da l'alito; o spariva\nsubitamente, non luceva più.",
+      "provisionalTranslation": "前方に一つの高貴で静かな地区が\n深く広がっていた。一本の川がゆっくりと\nそれを分かち、青い湾に注いでいた。\nそして川は遠くに、広がる霞の中で、\n息で曇った剣のように\n私に見えた。あるいは突然消えて、\nもはや輝かなかった。"
+    },
+    {
+      "id": 5,
+      "verses": "l.29-35",
+      "speaker": null,
+      "original": "D'altro ancor mi sovviene. Se talora\nio mi volgeva, senza sollevare\nle tende ove languia l'onda sonora,\nio scorgeva a traverso quelle rare\ntrame confusamente la signora\nmisteriosa e vago luccicare\nil cembalo ne l'ombra, e nulla più.",
+      "provisionalTranslation": "他のことも思い出す。ときおり\n私が振り返っても、音の波がたゆたう\nカーテンを上げることなく、\nあの疎らな布地を透かして\n薄ぼんやりと見えた、謎めいた女主人と\n影の中にかすかに輝く\n鍵盤楽器が。それだけで、それ以上は何もない。"
+    },
+    {
+      "id": 6,
+      "verses": "l.36-42",
+      "speaker": null,
+      "original": "La musica fluiva, nel sovrano\nincanto di quel giorno moribondo,\ncon tal dolcezza che il mio cuore umano\nnon la sostenne. Ed un oblìo profondo\nde la vita mi trasse in un lontano\nmondo. Ah perchè di quel lontano mondo,\nanima mia, non ti sovviene più?",
+      "provisionalTranslation": "音楽は流れていた、あの死にゆく日の\n至高の魔法の中で、\n私の人間の心がそれに堪えられないほどの\n甘さで。そして生への深い忘却が\n私を遠い世界へと引き込んだ。\nああなぜ、あの遠い世界のことを、\n私の魂よ、もはや覚えていないのか？"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "全6連各7行（42行）、エンデカシッラボ（11音節）を基調とする。韻律パターンはABABABC（各連末の「più」がリフレインのように機能する）──「non morranno più / non è forse più / quale fosse più / non luceva più / e nulla più / non ti sovviene più」と6連を通じて「più」が連末に置かれる。最初の5連では「più」が「もはや〜ない（否定）」または「より〜（比較）」として使われ、最終連では「non ti sovviene più（もはや覚えていない）」として忘却の完成を告げる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Chi dunque ne la mia memoria oscura / susciterà quel duplice ricordo?",
+      "body": "「私の暗い記憶の中に二重の記憶を呼び起こす者は誰か」──詩は問いで始まる。La donna del sarcofagoのオクターヴが二つの問い（「エディプスを待つのか？死を待つのか？」）で構成されるのと対照的に、ここでは語り手自身の内的問いが出発点。「duplice ricordo（二重の記憶）」は「音楽と夢」として展開され、さらに「女性の姿？」という括弧内の自問が加わる──記憶が三重に不確かである。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "il sole era come un grande opale / in un ciel così bianco",
+      "body": "「大きなオパールのような太陽、真っ白な空」──オパールは複数の色を内部に含む宝石で、単一の色ではなく曖昧な輝きを持つ。秋の曇った白い空にかすむ太陽を「白さ」で形容する感覚がロデンバックの「L'Oubli」の「Tout était blanc（すべてが白かった）」と照応する──ロデンバックの白は万霊節の墓の上の花の白、ダヌンツィオの白は記憶の中の秋の空の白。両者とも白が記憶・喪失と結びつく。",
+      "targetId": "rodenbach_loubli"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ai penduli rosai qualche leggera / aura facea, ne le pause, uno strano / bisbiglio",
+      "body": "「休符の間に風が薔薇の囁きを起こした」──音楽の休止（pause）に自然の音（薔薇の囁き）が入り込む。Psiche giacenteの「Solo il vento a quando a quando languido sospira（ただ風だけがときおり物憂げに溜め息をつく）」と同型の、音楽と自然音の共鳴。ロデンバック「Lacrymæ rerum」の「竪琴と風」──世界の悲しみが風を通じて詩人に届く──という詩学と重なる。",
+      "targetId": "dannunzio_psiche_giacente"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "nel diffuso vapor come la spada / appannato da l'alito",
+      "body": "「霞の中の川、息で曇った剣のようだ」──記憶の映像が視覚的に不鮮明である様子を、剣に吹きかけた息で曇らせた比喩で表現する。La donna del sarcofagoの「bocca non dice（口は語らない）」という沈黙と対応して、ここでは視覚が「曇って」機能しない。記憶の三感覚（音楽・視覚・触覚）がすべて不確かで滲んでいるという詩全体の感覚的構造が明確になる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "io scorgeva a traverso quelle rare / trame confusamente la signora / misteriosa e vago luccicare / il cembalo ne l'ombra, e nulla più",
+      "body": "「ヴェール越しに薄ぼんやりと見えた、謎めいた女主人と影に輝く鍵盤楽器──それだけ」。詩のタイトル「velata（ヴェールをまとった）」の意味がここで完成する。ヴェール＝カーテン＝記憶の霞という三重の隔たりを通じてしか女性は見えない。しかも最後の「e nulla più（それだけで、それ以上は何もない）」が最も具体的な断言として詩群の中に立つ──他の連末が「より甘い」「輝かない」等の比較・否定であるのに対し、ここだけ「何もない」という語彙的な空白。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "un oblìo profondo / de la vita mi trasse in un lontano / mondo",
+      "body": "「生への深い忘却が私を遠い世界へと引き込んだ」──ロデンバック「L'Oubli」での忘却が「花のない墓」という外的事実として提示されるのに対し、ダヌンツィオの忘却は内的な恍惚体験として語られる。どちらも忘却を主題とするが、ロデンバックは「残されたもの（墓）」から忘却を目撃し、ダヌンツィオは「失われたもの（遠い世界）」を探す内側から語る。",
+      "targetId": "rodenbach_loubli"
+    },
+    {
+      "paragraphId": 6,
+      "type": "intertextual",
+      "anchor": "anima mia, non ti sovviene più?",
+      "body": "詩の結語。語り手が「私の魂（anima mia）」に呼びかけるという転換──詩全体が「誰かへの問い」で始まり（Chi dunque… susciterà？）「自分の魂への問い」で終わる。ロセッティ「Remember」では死者が生者に「覚えていなくても構わない（forget and smile）」と言うのに対し、ダヌンツィオは生者が自分自身の魂に「なぜ覚えていないのか」と問う──どちらも記憶と忘却の倫理を問うが、方向が逆。ロセッティが忘却を許す（外から内へ）、ダヌンツィオが忘却を嘆く（内から外へ）。",
+      "targetId": "rossetti_remember"
+    }
+  ]
+}

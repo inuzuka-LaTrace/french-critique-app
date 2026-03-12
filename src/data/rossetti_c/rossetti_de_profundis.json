@@ -1,0 +1,108 @@
+{
+  "id": "rossetti_de_profundis",
+  "title": "De Profundis",
+  "author": "Christina Rossetti",
+  "source": "Poems (Rossetti, 1901). London: Macmillan, 1901. 底本: Wikisource en.wikisource.org/wiki/Poems_(Rossetti,_1901)/De_Profundis（2024年版）照合済み。初出: A Pageant and Other Poems, London: Macmillan, 1881.",
+  "year": "1881",
+  "firstPublication": "A Pageant and Other Poems, London: Macmillan, 1881.",
+  "difficulty": "初級",
+  "category": "rossetti_c",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "全4連16行の詩。タイトルはラテン語で「深い淵の底から」──詩篇130番（De profundis clamavi ad te, Domine「主よ、深い淵の底から叫びます」）に由来し、超越への届かぬ叫びという主題を設定する。第1連：天と地の遠さへの問い。第2連：月の単調な往復運動を「自分の射程外」として退ける。第3連：星・太陽を眺めるたびに「すべて虚しい」と繰り返す。第4連：肉体という「fleshly bands（肉の束縛）」に縛られながら、それでも「hope（希望）」を掴もうと手を伸ばす──諦念と希求の同居で結ぶ。同名の作品として、ワイルドの獄中書簡『De Profundis』（1897執筆）があり、ロセッティの詩とワイルドの散文は同じ詩篇の水源を持ちながら、信仰と罪責という異なる文脈で「深淵からの叫び」を展開する。",
+  "keywords": [
+    "詩篇130", "De Profundis", "超越", "届かぬ希望", "肉体の束縛", "星", "Victorian poetry", "宗教詩"
+  ],
+  "relatedTexts": [
+    "rossetti_monna_innominata",
+    "rossetti_dead_before_death",
+    "rossetti_golden_silences",
+    "wilde_de_profundis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "l.1-4",
+      "speaker": null,
+      "original": "Oh why is heaven built so far,\nOh why is earth set so remote?\nI cannot reach the nearest star\nThat hangs afloat.",
+      "provisionalTranslation": "ああ、なぜ天はこんなにも遠く造られているのか、\nああ、なぜ大地はこんなにも遠くに置かれているのか。\n浮かんでいるあの最も近い星にさえ\n私は手が届かない。"
+    },
+    {
+      "id": 2,
+      "verses": "l.5-8",
+      "speaker": null,
+      "original": "I would not care to reach the moon,\nOne round monotonous of change;\nYet even she repeats her tune\nBeyond my range.",
+      "provisionalTranslation": "月に届こうとは思わない、\nあの変化の単調な繰り返しよ。\nしかしそれでさえ彼女は自らの旋律を繰り返す、\n私の射程の外で。"
+    },
+    {
+      "id": 3,
+      "verses": "l.9-12",
+      "speaker": null,
+      "original": "I never watch the scattered fire\nOf stars, or sun's far-trailing train,\nBut all my heart is one desire,\nAnd all in vain:",
+      "provisionalTranslation": "私は星々の散らばった炎を、\nあるいは太陽の遠く引く尾を、眺めるたびに、\n心がひとつの欲求で満たされるが、\nすべては虚しい。"
+    },
+    {
+      "id": 4,
+      "verses": "l.13-16",
+      "speaker": null,
+      "original": "For I am bound with fleshly bands,\nJoy, beauty, lie beyond my scope;\nI strain my heart, I stretch my hands,\nAnd catch at hope.",
+      "provisionalTranslation": "なぜなら私は肉の束縛に縛られ、\n喜びも、美も、私の届く範囲の外にある。\n私は心を張り詰め、両手を伸ばす、\nそして希望を掴もうとする。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "全4連、各連ABAB韻（交叉韻）。各連の第4行が短縮行（2歩格ないし3歩格）で、他の3行（弱強四歩格）に対して「落下」するリズムを作る。この短縮行が各連の結びに「届かなさ」を音的に体現する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "De Profundis",
+      "body": "タイトルはラテン語詩篇130篇冒頭句「De profundis clamavi ad te, Domine（主よ、深い淵の底から叫びます）」に由来。神への嘆願詩であるが、ロセッティはその嘆きを宇宙的な「届かなさ」として世俗化・普遍化する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "heaven built so far",
+      "body": "「built（造られた）」という語は天を建築物として捉え、神の設計への疑問を暗示する。「Oh why」の二連反復は嘆きというより問責に近く、詩篇の「叫び」を引き継ぐ。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "One round monotonous of change",
+      "body": "月の満ち欠けを「変化の単調な円環」と逆説的に表現。変化しているのに単調──ロセッティにとって月は生の繰り返しを象徴し、Monna Innominataの「月のように欠け満ちる希望」とも呼応する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "sun's far-trailing train",
+      "body": "「train」は衣の裾・彗星の尾の両義。太陽が天を横切る軌跡を長い衣の裾として詩的に形象化。「far-trailing（遠く引く）」が遠さと時間の経過を同時に示す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "all in vain",
+      "body": "コロン（:）で次の連に続く──欲求が「すべて虚しい」理由が第4連で明かされる構造。「in vain」はラテン語 vanitas（虚無）の系譜、コヘレトの書（Ecclesiastes）「空の空、すべては空」への暗示。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "fleshly bands",
+      "body": "「bands（束縛・帯）」は肉体という制約を指す。パウロ的な「肉と霊の対立」（Romans 7:24「この死の体から誰が私を救うのか」）の反響。霊は超越を望むが、肉体がそれを阻む。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "catch at hope",
+      "body": "詩の結末。「catch at（掴もうとする）」は完全に捕まえることを意味しない──希望に手を触れようとする身振りで詩は閉じる。Dead before DeathやMonna Innominataの諦念とは異なり、ここには届かぬ希求への意志が残る。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "De Profundis",
+      "body": "ワイルドの獄中書簡『De Profundis』（1897執筆、1905刊）も同じ詩篇130番を水源とし、苦難の中での魂の問いを展開する。ロセッティが宇宙的距離を媒介に霊的渇望を語るのに対し、ワイルドは社会的・道徳的転落から神への回帰を語る──同一の「深淵」から出発する二つの声。",
+      "targetId": "wilde_de_profundis"
+    }
+  ]
+}

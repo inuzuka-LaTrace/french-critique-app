@@ -1,0 +1,104 @@
+{
+  "id": "pascoli_l_anima",
+  "title": "L'anima",
+  "author": "Giovanni Pascoli",
+  "source": "Giovanni Pascoli. Odi e inni. Bologna, Zanichelli, 1906. Via Wikisource: https://it.wikisource.org/wiki/Odi_e_inni/Odi/L%27anima",
+  "year": "1906",
+  "firstPublication": "Odi e inni, Zanichelli, Bologna, 1906",
+  "difficulty": "上級",
+  "category": "pascoli",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★★",
+  "context": "成熟期パスコリの死生観・霊魂観が凝縮した24行詩。Odi e inni（1906）所収の「Odi」部門に収められた。死んだ親しい人（おそらく父あるいは亡き姉妹）が「私が思うことで生きている（sei tra i vivi / solo perchè ti penso）」という逆説から出発し、思考（Pensiero）こそが魂の不滅の基盤であるという命題へと展開する。最終連では「散り散りになった思考（Pensiero sperso）」が宇宙の中に亡き人の身体的存在（腕・口・眼）を求めて泣くという、形而上学的探求が肉体的渇望として露出するパスコリ独自の哀悼詩。各連8行・第4行インデントという視覚的非対称が、詩の構造的緊張を形式上でも体現している。",
+  "keywords": ["魂", "思考", "不滅", "死", "哀悼", "宇宙", "肉体", "涙", "記憶", "Odi e inni"],
+  "relatedTexts": ["pascoli_melanconia", "pascoli_i_sepolcri", "pascoli_al_dio_termine"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–8",
+      "original": "O tu che sei tra i vivi\nsolo perchè ti penso;\ncome se odor d'incenso\n                    fosse il pino che fu...\nMa, quando anch'io?... morivi\npure anche tu... Tremando\nl'attimo io vedo, quando\n                    non ti penserò più!",
+      "provisionalTranslation": "おお、あなた、生きている者たちの中にいるのは\nただ私があなたを思うからだけ。\nまるで松の木だったものが\n                    乳香の香りであるかのように……\nでも、私も、いつか？……あなたは\n死んでいった……あなたも。震えながら\nその瞬間を私は見る、いつか\n                    私がもうあなたを思わなくなる時を！"
+    },
+    {
+      "id": 2,
+      "verses": "v.9–16",
+      "original": "Resta di me, Pensiero!\nCh'io creda, o Dio! Tuoi servi,\nMorte, sian vene e nervi;\n                    pensiero, anima, no!\nCh'io resti sol Pensiero,\nche non si estingua mai!\nE sempre in me sarai,\n                    in te sempre sarò...",
+      "provisionalTranslation": "私の中に留まれ、思考よ！\n信じさせてくれ、神よ！あなたの僕は、\n死よ、血管と神経であれ。\n                    思考は、魂は、否！\n私が思考だけとして残れますように、\n決して消えることのない！\nそしてあなたは常に私の中にあり、\n                    私は常にあなたの中にあり続けよう……"
+    },
+    {
+      "id": 3,
+      "verses": "v.17–24",
+      "original": "Ma... oh! l'eterna doglia\ndel mio Pensiero sperso,\nquando nell'Universo\n                    cerchi ciò che non è!\nquando le braccia voglia\nper ricondurti al seno!\nla bocca! gli occhi! almeno\n                    perch'io pianga su te!",
+      "provisionalTranslation": "でも……ああ！宇宙に散り散りになった\n私の思考の、永遠の苦しみ、\n宇宙の中に\n                    存在しないものを求めて彷徨う時！\nあなたを胸へ連れ戻すために\n腕を望む時！\n口を！眼を！せめて\n                    あなたの上で泣けるように！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "sei tra i vivi / solo perchè ti penso",
+      "body": "詩の根本命題：死者が「生きている者たちの中にいる」のは「私が思うから（perchè ti penso）」だけである。思考する主体が消えれば死者の存在も消える──この逆説は、死者の実在を思惟者の意識に完全に依存させる唯心論的立場。パスコリの父ルッジェーロは1867年（詩人12歳時）に暗殺されており、以来「死者を思い続けること」は詩人の実存的責務でもあった。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "come se odor d'incenso / fosse il pino che fu",
+      "body": "比喩の構造：かつて松の木（pino）だったものが、今は乳香の香り（odor d'incenso）として存在する──物質から非物質への変容の喩え。死者の肉体（松の木）が記憶・香気（思考の中の存在）へと昇華されたことを示す。インデントされた第4行「fosse il pino che fu」が宙吊りになることで、過去形「fu（であった）」の喪失感が視覚的にも強調される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "Ma, quando anch'io?... morivi",
+      "body": "各連の韻律は5音節（quinario）と7音節（settenario）の交替を基本とし、第4行・第8行がインデントされることで視覚的非対称が生じる。この行は文中断（「Ma, quando anch'io?...」）と「morivi / pure anche tu」の跨行（enjambement）が重なり、思考の途絶と自己の死への恐怖が形式上でも実現される。省略符号（...）の多用は詩全体を通じた特徴で、言語の限界を示す。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "l'attimo io vedo, quando / non ti penserò più",
+      "body": "「もう思わなくなる瞬間（l'attimo）を見る」：詩人は自分が死ぬことで死者の記憶も消滅するという二重の死を予見し、「震えながら（Tremando）」それを直視する。この恐怖は第2連での逆転──「思考（Pensiero）こそが不滅」という祈り──へと向かう推進力になる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Tuoi servi, / Morte, sian vene e nervi",
+      "body": "死（Morte）の支配下にあるのは「血管と神経（vene e nervi）」つまり身体だけであり、思考と魂はその支配外にあれ──という祈願。大文字の「Morte」は擬人化された死への直接呼びかけ。身体＝死すべきもの、思考＝不滅なものという二元論はプラトン的だが、パスコリはそれを神学的論証ではなく感情的な「信じさせてくれ（Ch'io creda）」という懇願の形で提示する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "E sempre in me sarai, / in te sempre sarò",
+      "body": "第2連の結末における相互内在（pericorese）の論理：「あなたは常に私の中に、私は常にあなたの中に」。キリスト教神学の「神と魂の相互内在」を人間同士の思考的紐帯に転用する。しかし続く省略符号「...」は、この確信が完全ではないことを示唆し、第3連の「でも（Ma）」へと繋げる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "allusion",
+      "anchor": "Resta di me, Pensiero!",
+      "body": "「私の中に留まれ、思考よ」：思考・魂・精神の不滅性をめぐる命題は、マルクス・アウレリウス『自省録』（「魂は思考である」）やデカルトの「cogito ergo sum」の系譜に連なる。しかしパスコリは哲学的証明を求めず、「o Dio!（神よ）」という感嘆詞で祈りへと移行する点で固有の立場を示す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "del mio Pensiero sperso",
+      "body": "「散り散りになった思考（Pensiero sperso）」：第2連で不滅の祈りを捧げた「思考（Pensiero）」が、第3連では「sperso（迷子になった、散り散りになった）」という形容詞を伴う。不滅であるはずの思考が宇宙に拡散し、亡き人を見つけられずに彷徨う──第2連の形而上学的確信が第3連で感情的に崩壊するという転換が詩の最大の力点。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "quando nell'Universo / cerchi ciò che non è",
+      "body": "「宇宙の中に存在しないものを求める」：死者の肉体的存在は「non è（存在しない）」──これが詩の最も冷徹な認識。「Universo」の大文字化は宇宙が思考の広がりの果て（あるいは思考の内部）であることを示す。第1連の「sei tra i vivi（生きている者の中にいる）」との対比：思考の中では「いる」が、宇宙の中では「いない」。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "le braccia voglia / per ricondurti al seno! / la bocca! gli occhi!",
+      "body": "詩の最終部での身体の三連列挙（腕・口・眼）：形而上学的な「思考と魂の不滅」を論じてきた詩が、最後に純粋に肉体的な渇望で爆発する。「腕（braccia）」で抱きしめたい、「口（bocca）」と「眼（occhi）」があれば泣けるのに──この転換はパスコリ固有の詩法：観念の最後に必ず具体的・感覚的な小さな事物が現れて詩を着地させる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "perch'io pianga su te",
+      "body": "「あなたの上で泣くために」という最終行の素朴な哀悼は、マラルメ「Toast funèbre」の「le sépulcre de désastre obscur」における不在の詩学とは対照的：マラルメが不在を肯定的に美学化するのに対し、パスコリは不在の前で泣くことの切実さに留まる。同じ哀悼詩でも「不在の昇華」vs「不在への肉体的渇望」という根本的対立を示す。",
+      "targetId": "mallarme_toast_funebre"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "pascoli_fantasmagoria",
+  "title": "Fantasmagoria",
+  "author": "Giovanni Pascoli",
+  "source": "Poesie varie di Giovanni Pascoli, raccolte da Maria, seconda edizione riordinata ed aumentata, Bologna, Zanichelli, 1914. Via Wikisource: https://it.wikisource.org/wiki/Poesie_varie_(Pascoli)/1872-1880/Fantasmagoria",
+  "year": "1876",
+  "firstPublication": "1876年5月6日、ボローニャ。新聞「Color del tempo」創刊の宣言文として掲載。",
+  "difficulty": "中級",
+  "category": "pascoli",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★",
+  "context": "パスコリ18歳（ボローニャ大学在学中）の作。1876年5月6日、友人たちと企てた学生新聞「Color del tempo（時代の色）」の創刊プログラムとして書かれた。詩は空の鉛色──「color del tempo」──を題名のままに描き、停滞するイタリア社会（統一後の失望期）に対して、新聞創刊という小さな行動で向き合う若者の姿勢を宣言する。ダンテの偽善者像・地震の予感・リソルジメント英雄の幻影など、若きパスコリ独特の暗示的語彙が凝縮した習作的傑作。",
+  "keywords": ["色彩", "時代", "幻影", "リソルジメント", "ダンテ", "ボローニャ", "新聞", "偽善", "地震", "騎兵"],
+  "relatedTexts": ["pascoli_al_dio_termine", "dante_inferno_canto_1"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–8",
+      "original": "Color del tempo! il mondo sta sotto il ciel pesante\nqual sotto il manto eterno gli ipocriti di Dante;\nvengono per incerte vie coi cappucci bassi,\nquasi ladri notturni, gli uomini a lenti passi.\nE là sui monti come su lugubri manieri\nsi disegnano in fosco cavalli e cavalieri.\nE noi ferisce in fronte la brezza dell'ignoto;\ne noi fascia di tedio l'afa del terremoto.",
+      "provisionalTranslation": "時代の色！　世界は重い空の下に立ちすくむ、\nまるでダンテの偽善者たちが永遠のマントの下にいるように。\n不確かな道を頭巾を深く被って、\n夜の盗人のように、人々がゆっくりとやってくる。\nそして向こうの山には、陰惨な城塞のように、\n暗がりの中に馬と騎手たちが影を描く。\nそして私たちの額を見知らぬ風が打ち、\n地震の熱気という倦怠感が私たちをくるんでいまう。"
+    },
+    {
+      "id": 2,
+      "verses": "v.9–16",
+      "original": "Tedio e non pace! Il bufalo ritto sul colle aprico\nfiuta, mugghiando, il soffio del turbine inimico;\ntali accasciati all'ombra d'antiche are e di troni\ni lunghi ozî tentiamo con memori canzoni.\nSon ventott'anni, e Italia dormia nel cimitero;\ne facea (ricordate lettori?) un tempo nero:\nnero inquieto: a un tratto squillaron le campane\ncome se interrogassero le nuvole lontane:",
+      "provisionalTranslation": "倦怠であって平和ではない！　日向の丘に立つ水牛が、\nうなり声をあげながら、敵意ある旋風の息吹を嗅ぎとる。\nそのように私たちも古代の祭壇と王座の陰に打ちひしがれて、\n記憶の歌で長い怠惰な時を紛らわせている。\n二十八年前のこと、イタリアは墓場に眠っていた。\n（読者よ、覚えているか？）そこでは暗い時代が続いていた。\n暗い、落ち着かない時代──突如として鐘が鳴り響いた、\nまるで遠い雲に問いかけるかのように。"
+    },
+    {
+      "id": 3,
+      "verses": "v.17–24",
+      "original": "allor, novello Cristo, scossa la greve mora,\nbella d'armi e di luce l'Italia saltò fuora.\nE pei campi fioriti della terra de' morti\nmille scheletri, come d'incanto, erano sorti;\npassavano, passavano colle bandiere in testa\ncantando: ― all'armi, all'armi chè l'Italia s'è desta! —\nIl sol ridea dall'alto: da' balconi addobbati\npiovean sorrisi e fiori sui funebri soldati.",
+      "provisionalTranslation": "その時、新たなるキリストのように、重い岩を振り落として、\n武器と光に輝くイタリアが跳び出した。\nそして死者の地の花咲く野原を通って、\n千の骸骨が、魔法のように、起き上がっていた。\n彼らは旗を先頭に立てて進んでいった、進んでいった──\n歌いながら。「武器を取れ、武器を取れ、イタリアは目覚めたぞ！」と。\n太陽が高みから微笑む。飾り立てたバルコニーから\n葬儀の兵士たちの上に微笑みと花が降り注ぐ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.25–32",
+      "original": "Or via, patria immortale, sorgi una... quarta volta,\ne togliti le bende in cui t'aveano involta.\nVedi: dal vasto grigio del ciel spunta affocato\nnell'estremo orizzonte gemmeo castel fatato\nqual tra le fredde tenebre l'aurora boreale!\nSalve, avvenir di luce!... Noi scriviamo un giornale.",
+      "provisionalTranslation": "さあ、不滅の祖国よ、立ち上がれ、三度ならぬ……四度目よ、\nそしてあなたをくるんでいた包帯を取り除け。\n見よ──広大な灰色の空から、燃えるように輝いて、\n地平の果てに宝石のような魔法の城が現れている、\n冷たい闇の中のオーロラのように！\n光の未来よ、万歳！……私たちは新聞を作る。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "gli ipocriti di Dante",
+      "body": "ダンテ『神曲』地獄篇第23歌を参照。偽善者たちは外側は金色に輝きながら内側には鉛が詰まった重いフードを永遠に着せられて歩かされる（Inf. XXIII, 58–66）。パスコリは現代イタリアの政治的虚飾と停滞をこの地獄的イメージに重ねる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Color del tempo",
+      "body": "「color del tempo」はイタリア語の慣用句で「変わりやすい灰色がかった空の色（曇天）」を意味する。同時に詩人たちが企てた新聞の題名でもある。詩はこの二重の意味──停滞した時代の色調と、その中で声を上げる試み──を一語で束ねることで始まる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "coi cappucci bassi",
+      "body": "詩の韻律は自由な対句構成（AABBCCDD…）。各行は基本的に11音節（エンデカシラボ）または14音節（アレッサンドリーノ）。この連では「bassi / passi」「manieri / cavalieri」「ignoto / terremoto」の脚韻が使われ、圧迫感のある響きを作る。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "cavalli e cavalieri",
+      "body": "山の稜線に影として浮かぶ「馬と騎手」は黙示録的なヴィジョン（黙示録6章）を喚起しつつ、同時にリソルジメント（イタリア統一運動）の軍騎兵のシルエットでもある。幻影（fantasmagoria）のモチーフが最初に現れる箇所。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Il bufalo ritto sul colle aprico",
+      "body": "丘に佇む水牛は、嵐の前に本能で危機を感じ取る動物として、政治的嵐を感じながらも行動できない知識人の姿に重ねられる。パスコリ特有の動物観察──客観的な自然描写が一転して人間の状況の比喩になる──の初期例。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Son ventott'anni",
+      "body": "詩が書かれた1876年から28年前は1848年──ヨーロッパ革命の年であり、イタリアでも「五日間の戦い（Cinque Giornate di Milano）」など民族運動が噴出した年。パスコリはこの年を「イタリアが墓場から目覚めた」最初の瞬間として召喚する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "allusion",
+      "anchor": "novello Cristo",
+      "body": "「新しいキリスト」＋「重い岩を振り落とす」は復活のキリスト（マタイ28:2「天使が下って来て、石をわきへ転がし」）のイメージ。リソルジメントをキリスト教的復活神話として語るレトリックは、マッツィーニの「イタリアの使命」論に典型的。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "mille scheletri",
+      "body": "花咲く野原から骸骨の兵士たちが起き上がる光景は、エゼキエル書37章「枯れた骨の幻視」を背景に持つ。生と死・歓喜と喪の重なり（太陽が笑い、花が降り、しかし兵士は「葬儀の funebri」）はリソルジメントの英雄たちへの複雑な敬意を示す。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "sorgi una... quarta volta",
+      "body": "「三度ならず四度目」：数えられていた「三度の蜂起」（1848年・1859年・1866年の独立戦争）に続く「第四の蜂起」を促す。省略符号（...）は挑発的な間であり、「これまで三度はできた、今度こそ四度目を」という若者の苛立ちを表す。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "aurora boreale",
+      "body": "「北極光（オーロラ・ボレアーレ）」：「冷たい闇の中で燃える」という逆説的なイメージで、不確かだが輝かしい未来のヴィジョンを表す。詩全体の暗い灰色（color del tempo）が、この一瞬だけ炎の色に変わる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Noi scriviamo un giornale",
+      "body": "詩の最後の一行。崇高なオーロラの幻影の直後に突然の散文的断言──「私たちは新聞を作る」。この落差こそが詩の眼目：宏大な幻影（fantasmagoria）への自嘲と、それでも行動に踏み出す若者の宣言が一行で同時に語られる。「Noi（私たち）」という複数形が孤独な抒情詩から集団の行動声明への転換を示す。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Salve, avvenir di luce",
+      "body": "「光の未来よ、万歳」：カルドゥッチの賛歌調修辞に近く、ダヌンツィオの後の黎明詩（「L'alba sepàra dalla luce l'ombra」）とも共鳴する。「avvenir di luce（光の未来）」← → 「il mondo sta sotto il ciel pesante（重い空の下に）」という詩全体の色彩的弧を閉じる。",
+      "targetId": "dannunzio_alba_separa"
+    }
+  ]
+}

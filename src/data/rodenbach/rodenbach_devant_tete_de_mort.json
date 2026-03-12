@@ -1,0 +1,102 @@
+{
+  "id": "rodenbach_devant_tete_de_mort",
+  "title": "Devant une tête de Mort",
+  "author": "Georges Rodenbach",
+  "source": "Le Foyer et les Champs, Société centrale de librairie catholique, 1877, p. 75–76. 底本: Wikisource fr.wikisource.org/wiki/Le_Foyer_et_les_Champs/Devant_une_tête_de_mort（2024年版）照合済み。初出: Le Foyer et les Champs, 1877。",
+  "year": "1877",
+  "firstPublication": "Le Foyer et les Champs, Société centrale de librairie catholique, 1877.",
+  "difficulty": "中級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ローデンバック（1855–1898）の第一詩集『炉辺と野』（1877年）所収。エピグラフはバイロン（ローデンバックが参照したフランス語訳）「Tu n'es plus maintenant qu'un vide pour moi, une chose odieuse（あなたは今や私にとって空虚、忌まわしいものにすぎない）」。バイロンの骸骨杯詩「Lines Inscribed Upon a Cup Formed from a Skull」（1808年）の精神を継承しつつ、ローデンバックはそれをヴァニタス（vanitas）的な瞑想へと転換する。memento mori（死を想え）の伝統的モティーフである髑髏を前に、詩の語り手はまず死の普遍性への恐怖を告白し（l.1-12）、次いでこの骸骨が誰であったかという問いを5つの人物類型で展開し（l.13-22）、最後に「死は無を開かない」という逆説的な信仰の宣言で締め括る（l.23-26）。アレクサンドランの連続詩（26行）として、ソネットのような起承転結を散文的な流れの中に埋め込む。初期作品ながら、後期の『死都ブリュージュ』（1892年）に至る白・沈黙・消滅の詩学の萌芽が随所に見える。",
+  "keywords": [
+    "髑髏", "memento mori", "ヴァニタス", "平等", "死後の生", "バイロン", "初期ローデンバック", "アレクサンドラン"
+  ],
+  "relatedTexts": [
+    "rodenbach_lange_envole",
+    "baudelaire_une_charogne",
+    "mallarme_coup_de_des"
+  ],
+  "paragraphs": [
+    {
+      "id": 0,
+      "verses": "epigraph",
+      "speaker": null,
+      "original": "Tu n'es plus maintenant qu'un vide pour moi, une chose odieuse.\n— Byron",
+      "provisionalTranslation": "あなたは今や私にとって空虚なもの、忌まわしいものにすぎない。\n──バイロン"
+    },
+    {
+      "id": 1,
+      "verses": "l.1-12",
+      "speaker": null,
+      "original": "Ô crâne ! face morne ! ô néant, ô mystère !\nJe voudrais te parler, et ne puis que me taire\nEn contemplant l'horreur de tes os vermoulus,\nÉpave que le temps brisa dans son reflux !\nTes yeux vides de pleurs sont comme des abîmes.\nTon front n'a plus un seul de ces éclairs sublimes\nQue la pensée humaine y jetait autrefois !\nTu n'as plus de regard et tu n'as plus de voix\nMais tu sembles pourtant me fixer et me dire,\nDe ta bouche rongée, ouverte pour maudire,\nQue l'implacable mort m'aura bientôt jeté\nDans ce moule où pour tous règne l'égalité !…",
+      "provisionalTranslation": "ああ頭蓋よ！暗い顔よ！ああ無よ、ああ謎よ！\nお前に語りかけたいのに、ただ沈黙するしかない、\n虫に食われたお前の骨の恐怖を見つめながら、\n時の引き潮が打ち砕いた難破物よ！\n涙の枯れたお前の眼窩は深淵のようだ。\nお前の額にはもはや一つも残っていない、あの崇高な閃きが、\nかつてそこに人間の思考が投げかけていた閃きが！\nお前にはもはや眼差しもなく声もない、\nそれでもお前は私をじっと見つめ、呪うために開かれた\n腐り落ちたその口でこう告げているようだ、\n容赦なき死がやがて私をも投げ込むだろうと、\n万人に平等が支配するこの型の中へ！……"
+    },
+    {
+      "id": 2,
+      "verses": "l.13-22",
+      "speaker": null,
+      "original": "Mais qui donc étais-tu ? — Joyeuse fille brune\nAux grands yeux noirs, chantant le soir au clair de lune ?\nFemme blonde, cachée à l'ombre d'un couvent ?\nGuerrier au teint bronzé que la mort prit vivant\nSous son drapeau, linceul qu'avaient coupé les glaives ?\nArtiste, poursuivant un fol essaim de rêves ?…\nTravailleur attaché, jusqu'aux sombres lueurs\nDu couchant, au sol dur qu'engraissaient ses sueurs ?\nQui le sait ? le sourire ou les larmes amères\nOnt passé, sans laisser leurs traces éphémères\nSur ce crâne blanchi !…",
+      "provisionalTranslation": "しかしお前はいったい誰だったのか？──大きな黒い目を持つ、\n月明かりの夜に歌う陽気な褐色の娘だったのか？\n修道院の陰に隠れた金髪の女だったのか？\n剣に切り刻まれた経帷子の旗のもとで\n死が生きたまま奪い去った、日焼けした戦士だったのか？\n狂気じみた夢の群れを追い求める芸術家だったのか？……\n日没の暗い輝きが訪れるまで、\n汗で肥やされた固い大地にへばりついていた労働者だったのか？\n誰が知ろう？微笑みも苦い涙も\n過ぎ去り、その儚い痕跡を残さなかった、\nこの白くなった頭蓋の上には！……"
+    },
+    {
+      "id": 3,
+      "verses": "l.22-26",
+      "speaker": null,
+      "original": "Voit-on dans le miroir\nQuand la main l'a brisé ? Distingue-t-on le soir,\nSur l'étang, le reflet des clartés de l'aurore ?\nQuand la fleur est flétrie embaume-t-elle encore ?\nN'importe ! en te scrutant, crâne vide et béant,\nJe sais bien que la mort n'ouvre pas le néant,\nEt j'ai foi dans la vie éternelle et dans l'âme ;\nLa lampe éteinte sert à me prouver la flamme !…",
+      "provisionalTranslation": "鏡の中に映るものが見えるか、\n手がそれを割ってしまった後でも？夜に、池の上に、\n夜明けの光明の反影が見分けられるか？\n花がしおれた後もまだ香りを放つか？\nかまわない！お前を凝視しながら、空虚に口を開けた頭蓋よ、\n私には確かにわかる、死は無を開くのではないと。\n私は永遠の生と魂を信じる。\n消えた灯明が炎を私に証明してくれる！……"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 0,
+      "type": "allusion",
+      "anchor": "Tu n'es plus maintenant qu'un vide pour moi, une chose odieuse",
+      "body": "バイロン（George Gordon Byron, 1788–1824）のフランス語訳からの引用。<br>英語の骸骨杯詩「Lines Inscribed Upon a Cup Formed from a Skull」（1808年）とは趣が異なり、<br>ローデンバックが参照したフランス語訳では忌悪感・空虚感が前景化されている。<br>バイロンの原詩は骸骨を酒杯に転用する黒いユーモアで満たされているのに対し、<br>ローデンバックはこの「vide（空虚）」と「odieuse（忌まわしい）」の二語を出発点に、恐怖から信仰への弁証法的な詩を構築する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "全26行のアレクサンドラン連続詩。韻律は隣接二行押韻（rimes plates）。明確な連分けはないが、内容の転換点で3段落に分割した：髑髏への呼びかけ（l.1-12）・誰だったかという問い（l.13-22）・逆説的な信仰の宣言（l.22-26）。問い符と感嘆符が頻出し、アレクサンドランに雄弁的・演説的なリズムを与える。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "néant, ô mystère",
+      "body": "「無（néant）」と「謎（mystère）」の並置──これはローデンバックが詩全体を通じて解決しようとする対立である。「無」は死が消滅だという立場（エピグラフのバイロン的懐疑）、「謎」は死の彼方に何かがあるという立場を指示する。詩の結末で「mort n'ouvre pas le néant」として「無」が否定され、「謎」の側が勝利する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "ce moule où pour tous règne l'égalité",
+      "body": "死が「万人に平等をもたらす型（moule）」だという観念──ボードレールの「La Mort des pauvres」における「poor les riches et les pauvres」との共鳴。死の平等主義は17世紀の「死の舞踏（danse macabre）」の伝統に遡る。ローデンバックはこれを怖れの表現として使いつつ、後の段落でその「moule」が魂の滅却を意味しないと反論する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Joyeuse fille brune … Femme blonde … Guerrier … Artiste … Travailleur",
+      "body": "5つの人物類型の羅列──これはローデンバック版の「死の舞踏」である。性別（女/男）・外見（褐色の娘/金髪の女/日焼けした戦士）・職業（芸術家/労働者）・境遇（世俗/修道院）の軸を横断する。いずれも疑問文形式で示され、髑髏がかつて誰であったか永遠にわからないことを強調する。L'ange envoléで問われた「誰だったのか（誰もその名を忘れた）」というテーマの哲学的展開。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Qui le sait ? le sourire ou les larmes amères / Ont passé, sans laisser leurs traces éphémères",
+      "body": "微笑みも涙も「痕跡を残さず過ぎ去る」──L'ange envoléで「石の十字架を除いて皆がその名を忘れた」と語られた幼児の匿名性の拡大版。いずれの詩も「固有名の消滅」「記憶の不可能性」を主題とするが、L'ange envoléが洗礼式という具体的な出来事から出発するのに対し、ここでは5つの類型を経由して普遍的な人間の匿名性へと抽象化する。",
+      "targetId": "rodenbach_lange_envole"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Voit-on dans le miroir / Quand la main l'a brisé ?",
+      "body": "鏡・池の反映・しおれた花の香り──3つの比喩が連続する。いずれも「担い手が失われても機能が残るか」という問いの形を取る。鏡は割れれば映らない、池の夜明けの反映は夜には見えない、しおれた花は香らない──これらは「死ねば魂も消える」ことの証拠に見えるが、詩人はこれを逆用する：「N'importe！（かまわない）」という転換で、証明の不可能性そのものを信仰の根拠とする。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "La lampe éteinte sert à me prouver la flamme",
+      "body": "詩全体の結語にして最も圧縮されたイメージ。「消えた灯明が炎を証明する」──これは逆説（paradoxe）の論法：消えたことそのものが、かつて燃えていたことの証拠だ。これはL'ange envoléの「空の揺り籠の木で棺が作られる」という具象的逆説の形而上学的対応物である。ローデンバック初期詩学における死と生の弁証法の核心。",
+      "targetId": "rodenbach_lange_envole"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "pascoli_melanconia",
+  "title": "Melanconia",
+  "author": "Giovanni Pascoli",
+  "source": "Poesie varie di Giovanni Pascoli, raccolte da Maria, seconda edizione riordinata ed aumentata, Bologna, Zanichelli, 1914. Via Wikisource: https://it.wikisource.org/wiki/Poesie_varie_(Pascoli)/1872-1880/Melanconia",
+  "year": "1872–1880",
+  "firstPublication": "Poesie varie, Zanichelli, 1914（妹マリアの編集による遺稿集）",
+  "difficulty": "初級",
+  "category": "pascoli",
+  "originalLang": "it-IT",
+  "modernRelevance": "★★★",
+  "context": "「Fantasmagoria」と同じ青年期詩集（1872–1880）に収められた16行詩。薄暮の野でひとり鳴くアカヒワ（cardellino）の声を聞きながら、未来への思い・過ぎ去る日々・忘れられた歌への郷愁を独白する。後期「Myricae」へと続くパスコリ固有の詩的世界──小鳥の声・薄暮・孤独な歩行・死への静かな傾き──がすでに胚芽として備わっている。",
+  "keywords": ["憂鬱", "アカヒワ", "薄暮", "未来", "孤独", "歌", "死", "慰め", "ポプラ", "田園"],
+  "relatedTexts": ["pascoli_fantasmagoria", "pascoli_al_dio_termine"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "verses": "v.1–4",
+      "original": "Al crepuscolo canta un cardellino\nmentre ch'io penso, amici, all'avvenire:\nsembrano i pioppi, mentre ch'io cammino,\nnell'infinita opacità fuggire.",
+      "provisionalTranslation": "薄暮の中でアカヒワが歌う、\n私が、友よ、未来のことを考えている間に。\nポプラの木々が、私が歩いている間に、\n限りない靄の中へ逃げ去っていくように見える。"
+    },
+    {
+      "id": 2,
+      "verses": "v.5–8",
+      "original": "Amici! un avvenir penso giocondo\nmentre fuggono e vanno i giorni miei,\nmentre, nel buio più e più profondo,\namici, esser beato io sognerei!",
+      "provisionalTranslation": "友よ！　明るい未来を思い描く、\n私の日々が逃げ去り去っていく間に、\nより深く、いっそう深い闇の中で、\n友よ、幸せでありたいと私は夢を見る！"
+    },
+    {
+      "id": 3,
+      "verses": "v.9–12",
+      "original": "Canta, o buon cardellino, e m'accompagna\nun poco in questa buia eterna via:\naddolcisci la pallida campagna\ne consola la mesta anima mia:",
+      "provisionalTranslation": "歌え、よきアカヒワよ、そして私に付き添っておくれ、\nこの暗い、永遠の道をしばらくの間。\nこの白ざめた野原を甘くしてくれ、\nそして私の悲しい魂を慰めてくれ。"
+    },
+    {
+      "id": 4,
+      "verses": "v.13–16",
+      "original": "cantami i canti miei dimenticati\ne ritornali al cuor riconoscente:\nridimmi i piacer miei belli e sfumati,\nfammi morire consolatamente.",
+      "provisionalTranslation": "私の忘れられた歌を私に歌ってくれ、\nそしてそれらを感謝する心へと連れ戻してくれ。\n美しく霞んだ私の喜びをもう一度語ってくれ、\n慰められながら死なせてくれ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "cardellino",
+      "body": "アカヒワ（Carduelis carduelis）。鮮やかな赤と黄の羽を持つスズメ目の小鳥で、イタリア田園詩の伝統的な歌鳥。薄暮に鳴くその声は、後年の「Myricae」でも繰り返し登場するパスコリ固有のモチーフとなる。人間の問いに無関心に歌い続ける鳥の存在が、詩人の孤独を際立たせる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Al crepuscolo",
+      "body": "「薄暮（クレプスコロ）」は詩全体の時間的・感情的舞台。昼でも夜でもない境界時間は、未来でも現在でもない詩人の宙吊り状態と呼応する。後のイタリア詩でも「crepuscolarismo（黄昏派）」と呼ばれる詩潮（コッラ、ゴッツァーノら）の先駆けとなる感性がここにある。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": "nell'infinita opacità fuggire",
+      "body": "韻律は弱強11音節（エンデカシラボ）。脚韻はABAB（cardellino/cammino、avvenire/fuggire）。連内で「while I think」「while I walk」という二重の「mentre ch'io」が平行句を作り、思考と歩行の同時進行──内面と外界の融合──を形式上でも実現している。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "nel buio più e più profondo",
+      "body": "「より深く、いっそう深い闇（buio più e più profondo）」：比較級の反復による漸層法（gradatio）。日が沈むにつれて物理的に暗くなる野原と、人生の時間が過ぎるにつれて深まる実存的暗闇とが一語で重なる。第1連の「infinita opacità（無限の靄）」の変奏でもある。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Amici",
+      "body": "呼びかけの「友よ（Amici）」は第1連・第2連それぞれに現れる。しかし詩の全体を通じて「友」への具体的な応答はなく、詩人は実質的に孤独に独白している。この空洞の呼びかけは、友情への渇望と孤立との緊張を作る。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "questa buia eterna via",
+      "body": "「この暗い永遠の道（buia eterna via）」：人生の比喩として典型的でありながら、「eterna（永遠の）」という形容が生に永遠を付与することで死との境界を曖昧にする。「この道を少しの間だけ付き添ってくれ（un poco）」という限定が、かえって道の果てしなさを強調する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "la pallida campagna",
+      "body": "「白ざめた野原（pallida campagna）」：薄暮の光の中で色を失う田園。「pallida」はイタリア語で死・病・憂鬱の色彩語でもある。アカヒワに「甘くしてくれ（addolcisci）」と頼む行為は、詩人が自らの力では田園の美しさを感じられないことを暗に告白している。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "i canti miei dimenticati",
+      "body": "「私の忘れられた歌（i canti miei dimenticati）」：かつて自分が歌ったか、またはかつて自分のものだった喜びの歌。それが「忘れられた」のは時間のせいか、喪失のせいか明示されない。パスコリは1867年に父を、続いて兄姉を相次いで失っており、こうした喪の体験が詩全体の底流をなす。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "fammi morire consolatamente",
+      "body": "詩の最終行「慰められながら死なせてくれ（fammi morire consolatamente）」：祈願形（imperativo）による死の願望は絶望ではなく、むしろ慰めを条件とした穏やかな受容である。「consolatamente」という副詞の柔らかさが、この死の要求から激しさを取り除いている。後年のパスコリの「死と小さな存在の和解」という詩的世界の最初の明確な定式化。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "ridimmi i piacer miei belli e sfumati",
+      "body": "「美しく霞んだ喜び（piacer belli e sfumati）」の「sfumati（霞んだ、ぼかされた）」は印象主義的な視覚語で、記憶の朧げさを描く。ヴェルレーヌ「Chanson d'automne」の「langueur」や失われた記憶への哀調と共鳴し、フランス象徴主義との並走関係を示す。",
+      "targetId": "verlaine_chanson_dautomne"
+    }
+  ]
+}
